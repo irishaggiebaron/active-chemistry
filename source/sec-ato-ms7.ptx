@@ -33,7 +33,7 @@
 
     <figure xml:id="fig-orbital-filling-order">
         <caption>Orbital Filling Order Using Diagonal Lines</caption>
-        <image source="assets/orbital-filling-order-diagram.svg">
+        <image source="orbital-filling-order-diagram.svg">
             <shortdescription>
                 A boxed three-step diagram listing orbitals by shell and drawing
                 diagonal arrows through them to show the filling order.
