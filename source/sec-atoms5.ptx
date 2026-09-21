@@ -42,8 +42,7 @@
 </term>
 		around the atom.
 		These shells are numbered 1, 2, 3, 4, and so on.
-		Higher-numbered shells are farther from the nucleus and contain electrons with
-		greater energies.
+		Higher-numbered shells are farther from the nucleus.
 	</p>
 
 	<figure xml:id="fig-electron-shell-ionization-energy">
@@ -106,7 +105,7 @@
 
 				<answer>
 					<p>
-						Inner.
+						Outer.
 					</p>
 				</answer>
 			</exercise>
