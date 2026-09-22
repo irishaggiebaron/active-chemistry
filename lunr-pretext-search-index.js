@@ -6171,17 +6171,53 @@ var ptx_lunr_docs = [
   "url": "sec-rxns1.html",
   "type": "Section",
   "number": "8.1",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Classes of chemical reactions",
+  "body": " Classes of chemical reactions  A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:  AX + BY → AB + XY  In this example, compounds AX and BY are the reactants. AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:  2H2 (g) + O2 (g) → 2H2 O (l)  In this example, the reactants H2 and O2 are reacting to form water (H2O). In front of the chemical formulas, there are sometimes additional numbers called coefficients. These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:  Type 1: Addition reaction (sometimes called a combination reaction): Two or more pure substances combine to make one. Example:  A + B → AB  Type 2: Decomposition reaction: One substance breaks apart into two or more substances. Example:  AX → A + X  An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:  H2 (g), N2 (g), O2 (g), F2 (g), Cl2 (g), Br2 (l ), I2 (s)   Exercise 1    Classify the following reactions as addition (combination) reactions or decomposition reactions:     H2 (g) + Cl2 (g ) → 2HCl (g)    Addition      H2 CO3 (s) → H2 O(g) + CO2 (g)    Decomposition       Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:     Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water    2Fe(OH)3 (s) → Fe2 O3 (s) + 3H2 O(l)      Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.    2AgBr(s) → 2Ag(s) + Br2 (l)      Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride    2N2 (g) + 3H2 → 2NH3 (g)      "
 },
 {
-  "id": "sec-rxns1-2",
+  "id": "sec-rxns1-15-2-2",
   "level": "2",
-  "url": "sec-rxns1.html#sec-rxns1-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns1.html#sec-rxns1-15-2-2",
+  "type": "Exercise",
+  "number": "8.1.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  H2 (g) + Cl2 (g ) → 2HCl (g)    Addition   "
+},
+{
+  "id": "sec-rxns1-15-2-3",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-15-2-3",
+  "type": "Exercise",
+  "number": "8.1.2",
+  "title": "",
+  "body": "  H2 CO3 (s) → H2 O(g) + CO2 (g)    Decomposition   "
+},
+{
+  "id": "sec-rxns1-15-3-2",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-15-3-2",
+  "type": "Exercise",
+  "number": "8.1.3",
+  "title": "",
+  "body": "  Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water    2Fe(OH)3 (s) → Fe2 O3 (s) + 3H2 O(l)   "
+},
+{
+  "id": "sec-rxns1-15-3-3",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-15-3-3",
+  "type": "Exercise",
+  "number": "8.1.4",
+  "title": "",
+  "body": "  Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.    2AgBr(s) → 2Ag(s) + Br2 (l)   "
+},
+{
+  "id": "sec-rxns1-15-3-4",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-15-3-4",
+  "type": "Exercise",
+  "number": "8.1.5",
+  "title": "",
+  "body": "  Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride    2N2 (g) + 3H2 → 2NH3 (g)   "
 },
 {
   "id": "sec-rxns2",
@@ -6189,17 +6225,44 @@ var ptx_lunr_docs = [
   "url": "sec-rxns2.html",
   "type": "Section",
   "number": "8.2",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Ionic equations and Net Ionic equations",
+  "body": " Ionic equations and Net Ionic equations  When the reactants in a reaction are aqueous, the standard way of writing a reaction works, but depending on what we’re trying to show, we can sometimes do better. For instance, writing NaCl (aq) in a reaction tells us that sodium chloride is dissolved in water. It doesn’t show us what has happened to the sodium chloride through. When ionic compounds dissolve in water, they dissociate into their ions, with both the cations and anions forming bonds with the dipole of water. A better way of depicting this in a chemical reaction would be to instead write NaCl (aq) as Na+ (aq ) + Cl − (aq ). This is what we do when we write an ionic equation; all of the reactants and products that are aqueous are instead written as their ions that are dissolved in water. Two important notes:  1. If there is more than one ion, then this is specified with a coefficient in front of the ion...NOT with a subscript after it. 2. Polyatomic ions will not break apart  Both of these rules are illustrated when we write Na2 SO4 (aq) as 2Na+ + SO42− .  A net ionic equation is an ionic equation that only lists the ions that actually react in the reaction. In order to write a net ionic equation we begin with an ionic equation and then delete any ions that are aqueous in both the reactants and products. These ions are called spectator ions because they don’t participate in the reaction themselves. See the example below:  Standard reaction equation: Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq)  Ionic equation: 3Na+ (aq) + PO43− (aq) + Fe 3+ (aq) + 3Cl− (aq) → FePO4 (s) + 3Na+ (aq) + 3Cl − (aq)  Net ionic equation: Fe 3+ (aq ) + PO43− (aq ) → FePO4 (s)   Exercise 3    Write ionic and net ionic equations for the following reactions     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Ionic equation: 3Na+ (aq ) + PO43− (aq ) + Fe 3+ (aq ) + 3Cl − (aq ) → FePO4 (s) + 3Na+ (aq ) + 3Cl − (aq ) Net ionic: PO43− (aq ) + Fe 3+ (aq ) → FePO4 (s)      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Ionic equation: 2K + (aq ) + CO32− (aq ) + Zn2+ (aq ) + 2Br − (aq ) → ZnCO3 (s) + 2K + (aq ) + 2Br − (aq ) Net ionic: CO32− (aq ) + Zn2+ (aq ) → ZnCO3 (s)      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Ionic equation: 2Cs(s) + Fe 2+ (aq ) + 2Cl − (aq ) → 2Cs + (aq ) + 2Cl − (aq) + Fe(s) Net ionic: 2Cs(s) + Fe 2+ (aq ) → 2Cs + (aq ) + Fe(s)      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Ionic equation: F2 (g) + 2Na+ (aq ) + 2Cl − (aq ) → Cl2 (g) + 2Na+ (aq ) + 2F − (aq) Net ionic: F2 (g) + 2Cl − (aq ) → Cl2 (g) + 2F − (aq)      "
 },
 {
-  "id": "sec-rxns2-2",
+  "id": "sec-rxns2-9-2-2",
   "level": "2",
-  "url": "sec-rxns2.html#sec-rxns2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns2.html#sec-rxns2-9-2-2",
+  "type": "Exercise",
+  "number": "8.2.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Ionic equation: 3Na+ (aq ) + PO43− (aq ) + Fe 3+ (aq ) + 3Cl − (aq ) → FePO4 (s) + 3Na+ (aq ) + 3Cl − (aq ) Net ionic: PO43− (aq ) + Fe 3+ (aq ) → FePO4 (s)   "
+},
+{
+  "id": "sec-rxns2-9-2-3",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-9-2-3",
+  "type": "Exercise",
+  "number": "8.2.2",
+  "title": "",
+  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Ionic equation: 2K + (aq ) + CO32− (aq ) + Zn2+ (aq ) + 2Br − (aq ) → ZnCO3 (s) + 2K + (aq ) + 2Br − (aq ) Net ionic: CO32− (aq ) + Zn2+ (aq ) → ZnCO3 (s)   "
+},
+{
+  "id": "sec-rxns2-9-2-4",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-9-2-4",
+  "type": "Exercise",
+  "number": "8.2.3",
+  "title": "",
+  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Ionic equation: 2Cs(s) + Fe 2+ (aq ) + 2Cl − (aq ) → 2Cs + (aq ) + 2Cl − (aq) + Fe(s) Net ionic: 2Cs(s) + Fe 2+ (aq ) → 2Cs + (aq ) + Fe(s)   "
+},
+{
+  "id": "sec-rxns2-9-2-5",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-9-2-5",
+  "type": "Exercise",
+  "number": "8.2.4",
+  "title": "",
+  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Ionic equation: F2 (g) + 2Na+ (aq ) + 2Cl − (aq ) → Cl2 (g) + 2Na+ (aq ) + 2F − (aq) Net ionic: F2 (g) + 2Cl − (aq ) → Cl2 (g) + 2F − (aq)   "
 },
 {
   "id": "sec-rxns3",
@@ -6207,17 +6270,134 @@ var ptx_lunr_docs = [
   "url": "sec-rxns3.html",
   "type": "Section",
   "number": "8.3",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Slightly more complex reactions",
+  "body": " Slightly more complex reactions  Type 3: Single-replacement reaction: One compound reacts with a pure element. The element swaps with an atom in the compound. Example:  A + BY → B + AY  Type 4: Double-replacement reaction: Two compounds react with one another. Atoms from both compounds swap with one another. Example:  AX + BY → AB + XY  One common type of double-replacement reaction is a precipitation reaction. In a precipitation reaction, both reactants are ionic compounds that are dissolved in water (ie. aqueous, aq). When the reactants are combined, one of the combinations of a cation and an anion results in a compound that is insoluble in water, meaning that it cannot be dissolved by water. As a result, crystals of that insoluble ionic compound form in the reaction. Why are some ionic compounds soluble and others aren’t? Basically, in order for an ionic compound to dissolve in water, its ions must separate from one another and form new interactions with the polar water molecules (through ion-dipole interactions or hydrogen bonding). If the interactions that the ions form with water are stronger than the interactions holding the ionic compound together, then water will “win” and the ionic compound will dissolve. If the bonds holding the ionic compound together are stronger than the interactions that the ions can form with water, then the ionic compound “wins” and the ionic compound will not dissolve in water.  There are some rules about solubility of ionic compounds that you’ll need to know. You need to apply these rules in this order!  1. Compounds containing ammonium, magnesium, or alkali metal cations (group I metals), and\/or nitrate, and acetate anions are soluble 2. Compounds containing the cation of silver, lead, or mercury are insoluble 3. Compounds containing the chloride, bromide, or iodide anions are soluble 4. Compounds containing the sulfate anion are soluble, except when paired with group 2 metals 5. Everything else is insoluble   Exercise 2    Predict whether the following compounds are soluble or insoluble in water.     Sodium phosphate    soluble      Potassium iodide    soluble      Silver bromide    insoluble      Iron (III) carbonate    insoluble      Magnesium sulfate    soluble      Copper (II) sulfate    soluble       Classify the following reactions are single replacement or double replacement:     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Double replacement      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Double replacement      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Single replacement      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Single replacement       Will the following reactions produce a precipitate? If so, what is its name and chemical formula?     Aqueous sodium chloride and aqueous copper (II) nitrate    No precipitate      Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate (NiHPO4 )      Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate, PbSO4      Strontium bromide and potassium sulfate    yes, strontium sulfate, SrSO4      "
 },
 {
-  "id": "sec-rxns3-2",
+  "id": "sec-rxns3-9-2-2",
   "level": "2",
-  "url": "sec-rxns3.html#sec-rxns3-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns3.html#sec-rxns3-9-2-2",
+  "type": "Exercise",
+  "number": "8.3.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Sodium phosphate    soluble   "
+},
+{
+  "id": "sec-rxns3-9-2-3",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-2-3",
+  "type": "Exercise",
+  "number": "8.3.2",
+  "title": "",
+  "body": "  Potassium iodide    soluble   "
+},
+{
+  "id": "sec-rxns3-9-2-4",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-2-4",
+  "type": "Exercise",
+  "number": "8.3.3",
+  "title": "",
+  "body": "  Silver bromide    insoluble   "
+},
+{
+  "id": "sec-rxns3-9-2-5",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-2-5",
+  "type": "Exercise",
+  "number": "8.3.4",
+  "title": "",
+  "body": "  Iron (III) carbonate    insoluble   "
+},
+{
+  "id": "sec-rxns3-9-2-6",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-2-6",
+  "type": "Exercise",
+  "number": "8.3.5",
+  "title": "",
+  "body": "  Magnesium sulfate    soluble   "
+},
+{
+  "id": "sec-rxns3-9-2-7",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-2-7",
+  "type": "Exercise",
+  "number": "8.3.6",
+  "title": "",
+  "body": "  Copper (II) sulfate    soluble   "
+},
+{
+  "id": "sec-rxns3-9-3-2",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-3-2",
+  "type": "Exercise",
+  "number": "8.3.7",
+  "title": "",
+  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Double replacement   "
+},
+{
+  "id": "sec-rxns3-9-3-3",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-3-3",
+  "type": "Exercise",
+  "number": "8.3.8",
+  "title": "",
+  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Double replacement   "
+},
+{
+  "id": "sec-rxns3-9-3-4",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-3-4",
+  "type": "Exercise",
+  "number": "8.3.9",
+  "title": "",
+  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Single replacement   "
+},
+{
+  "id": "sec-rxns3-9-3-5",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-3-5",
+  "type": "Exercise",
+  "number": "8.3.10",
+  "title": "",
+  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Single replacement   "
+},
+{
+  "id": "sec-rxns3-9-4-2",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-4-2",
+  "type": "Exercise",
+  "number": "8.3.11",
+  "title": "",
+  "body": "  Aqueous sodium chloride and aqueous copper (II) nitrate    No precipitate   "
+},
+{
+  "id": "sec-rxns3-9-4-3",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-4-3",
+  "type": "Exercise",
+  "number": "8.3.12",
+  "title": "",
+  "body": "  Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate (NiHPO4 )   "
+},
+{
+  "id": "sec-rxns3-9-4-4",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-4-4",
+  "type": "Exercise",
+  "number": "8.3.13",
+  "title": "",
+  "body": "  Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate, PbSO4   "
+},
+{
+  "id": "sec-rxns3-9-4-5",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-9-4-5",
+  "type": "Exercise",
+  "number": "8.3.14",
+  "title": "",
+  "body": "  Strontium bromide and potassium sulfate    yes, strontium sulfate, SrSO4   "
 },
 {
   "id": "sec-rxns4",
@@ -6225,17 +6405,71 @@ var ptx_lunr_docs = [
   "url": "sec-rxns4.html",
   "type": "Section",
   "number": "8.4",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Balancing chemical reactions",
+  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well. What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). We have to balance the reaction by adding in coefficients in front of the compounds. To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reaction in this class):  1. Write the reaction with the correct chemical formulas of the reactants and products 2. Determine the number of atoms of each element on the reactants and products sides a. If all of the elements are balanced, then you’re done 3. Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if the elements are balanced 4. Repeat step 3 with other elements that only appear in one compound in both the reactants and product. 5. Balance any remaining elements by changing\/adding coefficients 6. Check and recheck every element for balance 7. Simplify the coefficients a. If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators b. If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor  To see these steps in practice, see the example below:  Example: Balance the combustion reaction for C2 H4.  1. Since this is a combustion reaction, we know the other reactants (O2 ) and products (H2O and CO2 ) so the reaction is C2 H4 + O2 → H2 O + CO2 2. Check to see if the atoms are balanced on both sides of the reaction:  Element Number on left side Number on the right side C 2 1 H 4 2 O 2 3 They aren’t, so we have to go to step 3.  3. We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown: C2 H4 + O2 → H2 O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 2 O 2 5 Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms. 4. Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:  C2 H4 + O2 → 2H2O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 4 O 2 6  5. We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas. C2 H4 + 3O2 → 2H2O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 4 O 6 6 6. All of the elements are balanced and the coefficients are simplified. We are now done.   Exercise 2    Balance the following reactions by adding in the necessary coefficients:     Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)      FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)      C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2      Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)      MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)       Write an equation for the following reactions and balance it     Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)      Combustion of C7 H14    2C7 H14 + 21O2 → 14H2 O + 14CO2      "
 },
 {
-  "id": "sec-rxns4-2",
+  "id": "sec-rxns4-14-2-2",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns4.html#sec-rxns4-14-2-2",
+  "type": "Exercise",
+  "number": "8.4.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)   "
+},
+{
+  "id": "sec-rxns4-14-2-3",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14-2-3",
+  "type": "Exercise",
+  "number": "8.4.2",
+  "title": "",
+  "body": "  FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)   "
+},
+{
+  "id": "sec-rxns4-14-2-4",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14-2-4",
+  "type": "Exercise",
+  "number": "8.4.3",
+  "title": "",
+  "body": "  C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2   "
+},
+{
+  "id": "sec-rxns4-14-2-5",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14-2-5",
+  "type": "Exercise",
+  "number": "8.4.4",
+  "title": "",
+  "body": "  Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)   "
+},
+{
+  "id": "sec-rxns4-14-2-6",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14-2-6",
+  "type": "Exercise",
+  "number": "8.4.5",
+  "title": "",
+  "body": "  MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)   "
+},
+{
+  "id": "sec-rxns4-14-3-2",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14-3-2",
+  "type": "Exercise",
+  "number": "8.4.6",
+  "title": "",
+  "body": "  Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)   "
+},
+{
+  "id": "sec-rxns4-14-3-3",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-14-3-3",
+  "type": "Exercise",
+  "number": "8.4.7",
+  "title": "",
+  "body": "  Combustion of C7 H14    2C7 H14 + 21O2 → 14H2 O + 14CO2   "
 },
 {
   "id": "sec-rxns5",
@@ -6243,17 +6477,35 @@ var ptx_lunr_docs = [
   "url": "sec-rxns5.html",
   "type": "Section",
   "number": "8.5",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Moles",
+  "body": " Moles  In chemistry, we often have to deal with very large numbers of things (ex. atoms or molecules). For convenience, we can rely of scientific notation to help us out. We can also use the term mole to help us out. A mole is a word that represents a number of things (similar to how a dozen means 12 things). The number represented by a mole is Avogadro’s number and has a value of 6.022 × 1023 . Why this weird number? You’ll have to wait until the next section of this lesson to find out. We can use the definition of a mole as a conversion factor to convert between numbers of things (atoms\/molecules\/etc.) and moles:  1 mole 6.022 × 1023 or 6.022 × 1023 1 mole When carrying out calculations involving numbers of molecules and\/or atoms, it is VERY important to add labels to our units to specify what is being quantified. This can help us see if we need to use other conversion factors in our problems. See the example below.  How many molecules are in 3.0 moles of water? How many hydrogen atoms are in 3.0 moles of water?  1. We begin with 3.0 moles of water and want to determine the number of molecules of water. To do this we need to use Avogadro’s number as shown below: 6.022 × 1023 molecules 3.0 moles H2 O ( ) = 1.8 × 1024 molecules H2 O 1 mole 2. To convert from molecules of water to number of hydrogen atoms, we need to see that 1 water molecule contains 2 hydrogen atoms. This can be written as a conversion factor and used to solve the problem as shown: 2 hydrogen atoms 1.8 × 1024 molecules H2 O ( ) = 3.6 × 1024 hydrogen atoms 1 molecule H2 O  Hint to try and understand moles:  When faced with confusing concepts in chemistry, like a mole, it can sometimes be helpful to think of more familiar examples with simpler numbers. Recall that a mole is like a dozen; it is a word that represents a number.  If you have 2 dozen eggs, how many do you have? 24 of course. How did you get that? You took the 2 and multiplied it by the number represented by a dozen (12).  So if you have 2 moles of molecules, you’ll follow the same pattern: 2 times the number represented by a mole (6.022 x 1023).  Likewise if I have 48 eggs, how many dozen do I have? 4 dozen. You get this by taking the number of objects and dividing by the number represented by a dozen.  So...how would you determine how many moles of molecules you have if you have 432 molecules? Take that number and divide it by the number represented by a mole.   Exercise 3    How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons      If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules      If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen     "
 },
 {
-  "id": "sec-rxns5-2",
+  "id": "sec-rxns5-12-2",
   "level": "2",
-  "url": "sec-rxns5.html#sec-rxns5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns5.html#sec-rxns5-12-2",
+  "type": "Exercise",
+  "number": "8.5.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons   "
+},
+{
+  "id": "sec-rxns5-12-3",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-12-3",
+  "type": "Exercise",
+  "number": "8.5.2",
+  "title": "",
+  "body": "  If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules   "
+},
+{
+  "id": "sec-rxns5-12-4",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-12-4",
+  "type": "Exercise",
+  "number": "8.5.3",
+  "title": "",
+  "body": "  If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen   "
 },
 {
   "id": "sec-rxns6",
@@ -6261,17 +6513,89 @@ var ptx_lunr_docs = [
   "url": "sec-rxns6.html",
   "type": "Section",
   "number": "8.6",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Oxidation-Reduction reactions",
+  "body": " Oxidation-Reduction reactions  Another way of classifying reactions is by ones that result in a transfer of electrons from one substance to another, regardless of the number of reactants or products involved. These reactions that involve a transfer of electrons are known as oxidation-reduction reactions (also called redox reactions). In a redox reaction, one or more reactants will take electrons from one or more other reactants. If a reactant gained electrons then it got reduced. If a reactant loses electrons, then it gets oxidized. This can be remembered by the saying “LeO the lion says GeR”...Losing electrons is oxidation, gaining electrons is reduction. A slight amount of confusion enters in when we talk about oxidizing agents and reducing agents. These agents are causing the oxidation or reduction of some other substance, respectively. Therefore an oxidizing agent will cause the oxidation of something else (ie. cause something else to lose electrons). It can only do this by accepting the electrons itself. Therefore an oxidizing agent gets reduced in a chemical reaction. The opposite is true of reducing agents. A reducing agent causes the reduction of another substance (ie. causes something else to gain electrons) by providing the electrons itself. Therefore reducing agents get oxidized in chemical reactions.  When dealing with ionic compounds in a reaction, it is straightforward to determine if a redox reaction is occurring. All we need to do is look at the charge on the ion. A very important note: elements have a charge of zero when in their elemental form. So in ZnCl2 the zinc has a +2 charge and the chlorines each have a charge of zero. Let’s investigate the following reaction:  ZnCl2 (aq ) + 2Na (s) → Zn (s) + 2NaCl (aq)  In this case the zinc begins with a charge of +2. In the products, it is in its elemental form and thus has a charge of zero. How did the zinc change charge??? It gained two electrons! The negative charge of the two electrons cancels out the +2 charge, resulting in neutral zinc. Thus the zinc gained electrons and got reduced. In every redox reaction, something gets reduced and something gets oxidized. So in the example above, what is losing electrons? The chloride has a -1 charge in zinc chloride and still has a -1 charge in sodium chloride, so the chloride isn’t participating in the electron transfer. The sodium, on the other hand, begins in its elemental form with a charge of zero and then has a charge of +1 in the products. So the sodium is losing electrons. Each sodium loses one electron, but there are two sodium atoms present, so this adds up to 2 electrons being lost by the sodiums (which matches the two electrons being gained by the zinc; the number of electrons lost must always equal the number of electrons gained in the reaction).  Not every redox reaction involves ionic compounds. Redox reactions also happen with covalent compounds, but they aren’t as straightforward to understand, but there is a nice way to recognize them. If a covalent compound gets oxidized, then one of the atoms (usually a carbon) will lose a bond to hydrogen and gain a bond to something else (often an oxygen atom) instead. Reduction follows the exact opposite pattern, with one of the atoms losing a bond to something else and gaining a bond to hydrogen. The reason why these are redox reactions is that electrons are still being added or removed, but often in the form of another compound like hydrogen gas (hydrogen gas has 2 electrons that can be added to other molecules, often along with its hydrogen atoms). Because of this, there aren’t any changes in charge that we observe...instead we have to look for the patterns listed above. See the example below:  When CH3 OH gets turned into CH2 O, hydrogen gas (with its two electrons) is released. Therefore, the reactant CH3 OH got oxidized to CH2 O. We can recognize this because the carbon in the reactant lost a bond to hydrogen and gained a new bond to oxygen, indicating that it got oxidized. In this reaction the two hydrogen atoms that were lost from CH3 OH gained those two electrons and thus got reduced.  + H2  One special class of redox reaction involving covalent compounds is a combustion reaction. In a combustion reaction, a carbon containing compound reacts with oxygen gas (O2 ), producing carbon dioxide (CO2 ) and water (H2 O). Combustion reactions are carried out when we burn fossil fuels in our cars or in power plants. The reaction releases a lot of energy that can be harnessed for beneficial purposes. It is also very important to note that our bodies carry out combustion reactions when we break down sugars, fats, and proteins to get harvest energy. The chemical equation showing the breakdown of glucose is shown below:  C6 H12 O6 + 6O2 → 6CO2 + 6H2 O  It is a combustion reaction because a carbon compound reacts with oxygen gas to produce carbon dioxide and water. Also, the carbon atoms in the glucose compound end up losing bonds to hydrogen and gaining bonds to oxygen, indicating that they are getting oxidized. The oxygen atoms are losing a bond to the other oxygen and gaining new bonds to hydrogen and are thus getting reduced.   Exercise 1    For the following redox reactions, identify the substance being oxidized and the substance being reduced. Identify the oxidizing agent and the reducing agent. How many electrons are being transferred in each reaction?     Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)    Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)      2I − (aq ) + F2 (aq ) → 2F − (aq ) + I2 (aq)    Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas       For the following reactions (note: these are the reactions that you wrote ionic and net ionic equations for in exercise 3...looking at those equations may help you!) identify whether they are redox reactions or not. If they are redox reactions, identify what is being oxidized and what is being reduced.     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Not redox      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Not redox      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    redox, Cs gets oxidized, Fe(II) gets reduced      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    redox, Fluorine gas gets reduced, chloride ions get oxidized       In the following redox reactions, identify the species that is getting oxidized and the species that is getting reduced.                In the combustion of hexane (C6 H14 ), one of the reactants is hexane. What are the other reactants and what are the products? (don’t worry about how many of each should be in the reaction)     Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent      "
 },
 {
-  "id": "sec-rxns6-2",
+  "id": "sec-rxns6-12-2-2",
   "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns6.html#sec-rxns6-12-2-2",
+  "type": "Exercise",
+  "number": "8.6.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)    Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)   "
+},
+{
+  "id": "sec-rxns6-12-2-3",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-2-3",
+  "type": "Exercise",
+  "number": "8.6.2",
+  "title": "",
+  "body": "  2I − (aq ) + F2 (aq ) → 2F − (aq ) + I2 (aq)    Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas   "
+},
+{
+  "id": "sec-rxns6-12-3-2",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-3-2",
+  "type": "Exercise",
+  "number": "8.6.3",
+  "title": "",
+  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Not redox   "
+},
+{
+  "id": "sec-rxns6-12-3-3",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-3-3",
+  "type": "Exercise",
+  "number": "8.6.4",
+  "title": "",
+  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Not redox   "
+},
+{
+  "id": "sec-rxns6-12-3-4",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-3-4",
+  "type": "Exercise",
+  "number": "8.6.5",
+  "title": "",
+  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    redox, Cs gets oxidized, Fe(II) gets reduced   "
+},
+{
+  "id": "sec-rxns6-12-3-5",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-3-5",
+  "type": "Exercise",
+  "number": "8.6.6",
+  "title": "",
+  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    redox, Fluorine gas gets reduced, chloride ions get oxidized   "
+},
+{
+  "id": "sec-rxns6-12-4-2",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-4-2",
+  "type": "Exercise",
+  "number": "8.6.7",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "sec-rxns6-12-4-3",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-4-3",
+  "type": "Exercise",
+  "number": "8.6.8",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "sec-rxns6-12-5-2",
+  "level": "2",
+  "url": "sec-rxns6.html#sec-rxns6-12-5-2",
+  "type": "Exercise",
+  "number": "8.6.9",
+  "title": "",
+  "body": "  Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent   "
 },
 {
   "id": "sec-rxns7",
@@ -6279,17 +6603,44 @@ var ptx_lunr_docs = [
   "url": "sec-rxns7.html",
   "type": "Section",
   "number": "8.7",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Mass-mass relationships in chemical reactions",
+  "body": " Mass-mass relationships in chemical reactions  oxygen gas), we don’t get a mass of 2 grams of water; we get about 18 grams of water! Don’t the coefficients from the balanced reaction mean that for every 2 grams of hydrogen gas, we should get 2 grams of water?! No. The coefficients only apply when we’re counting things (numbers of molecules or moles of molecules); they do NOT apply to mass. Why not? The reason is that different molecules have different masses. We can illustrate this with a relatable example:  For the reaction, 4 tires + 1 car frame → 1 car, if each tire weighs 40 pounds, would you expect the car to weigh only 160 pounds? No. The reason is that the car frame adds mass. The car will have the mass of those tires, but also extra mass from the frame. Similarly, water has added mass from oxygen and thus the 2 grams of hydrogen gas end up producing a larger mass of water.  The previous section allows us to determine the number of moles of product that can be produced in a chemical reaction if we are given the number of moles of reactants. In a laboratory setting, we don’t have any tool that allows us to measure the number of moles of a reactant directly. Instead, we are able to determine the amount of reactants and products by measuring their mass. As we learned in the last lesson, we can easily convert between grams and moles using the molar mass of a substance. So if we are given a certain number of grams of reactant, we can determine the number of moles of that reactant. We can then convert that number of moles to moles of product using the balanced chemical reaction and the mole-mole conversion factor. Finally, we can convert between the number of moles of product and the number of grams of product by using the molar mass of that product. This procedure is summarized in the diagram below:   Exercise 3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide      For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams      For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams      For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?     "
 },
 {
-  "id": "sec-rxns7-2",
+  "id": "sec-rxns7-5-2",
   "level": "2",
-  "url": "sec-rxns7.html#sec-rxns7-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns7.html#sec-rxns7-5-2",
+  "type": "Exercise",
+  "number": "8.7.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide   "
+},
+{
+  "id": "sec-rxns7-5-3",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-3",
+  "type": "Exercise",
+  "number": "8.7.2",
+  "title": "",
+  "body": "  For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams   "
+},
+{
+  "id": "sec-rxns7-5-4",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-4",
+  "type": "Exercise",
+  "number": "8.7.3",
+  "title": "",
+  "body": "  For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams   "
+},
+{
+  "id": "sec-rxns7-5-5",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-5",
+  "type": "Exercise",
+  "number": "8.7.4",
+  "title": "",
+  "body": "  For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?   "
 },
 {
   "id": "sec-rxns8",
@@ -6297,17 +6648,89 @@ var ptx_lunr_docs = [
   "url": "sec-rxns8.html",
   "type": "Section",
   "number": "8.8",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Molar Mass and its use in chemistry",
+  "body": " Molar Mass and its use in chemistry  We’ve previously learned about atomic mass. Recall that it’s the average of the masses of the naturally occurring isotopes weighted according to their abundance. The value of the atomic mass can be found in the periodic table under the element symbol. By adding together the atomic masses of all of the elements in a compound, we can determine the molecular weight (for covalent compounds) or formula weight (for all compounds) of the compound in units of amu. Molecular weight and formula weight are calculated in the same way, but they apply to different compounds; molecular weight only applies to molecules (which only exist in covalent compounds) whereas formula weight applies to both ionic and covalent compounds. Molar mass is the mass of one mole of the compound. It has the same value as the formula weight and is calculated in the exact same way, but it has different units of grams per mole (g\/mol) instead of amu. Thus a single carbon atom has an atomic mass of 12.011 amu, and a mole of carbon atoms will weigh 12.011 g. This is the reason for the bizarre value of Avogadro’s number...it’s the number of atoms needed to give an atom the same weight in grams as its atomic mass in atomic mass units.  So we can find the molar mass of an element from the periodic table by taking the atomic mass and appending units of g\/mol to it. If we can do this, then we can also figure out the molar mass of entire compounds by simply adding together the molar masses of each of the component elements.  Molar mass is used as a conversion factor to convert between grams and moles and vice-versa. When coupled with Avogadro’s number, we can convert between grams and numbers of things (like molecules). This is summed up in the diagram shown below.   Exercise 1    What is the molar mass of the following compounds?     Chlorine gas    70.906 g\/mole      Magnesium chloride    95.211g\/mole      NaCl    58.433 g\/mole      CH4    16.043 g\/mole      Magnesium nitrate    148.315 g\/mole       If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?    0.597 moles chlorine gas      How much does 0.375 moles of NaCl weigh in grams?    21.9 g      How many chlorine atoms are in 5.73 mg of magnesium chloride?    7.25E19      What is the mass of 3.33 x 1017 hydrogen atoms in nanograms?    557 ng     "
 },
 {
-  "id": "sec-rxns8-2",
+  "id": "sec-rxns8-5-2-2",
   "level": "2",
-  "url": "sec-rxns8.html#sec-rxns8-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns8.html#sec-rxns8-5-2-2",
+  "type": "Exercise",
+  "number": "8.8.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Chlorine gas    70.906 g\/mole   "
+},
+{
+  "id": "sec-rxns8-5-2-3",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-2-3",
+  "type": "Exercise",
+  "number": "8.8.2",
+  "title": "",
+  "body": "  Magnesium chloride    95.211g\/mole   "
+},
+{
+  "id": "sec-rxns8-5-2-4",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-2-4",
+  "type": "Exercise",
+  "number": "8.8.3",
+  "title": "",
+  "body": "  NaCl    58.433 g\/mole   "
+},
+{
+  "id": "sec-rxns8-5-2-5",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-2-5",
+  "type": "Exercise",
+  "number": "8.8.4",
+  "title": "",
+  "body": "  CH4    16.043 g\/mole   "
+},
+{
+  "id": "sec-rxns8-5-2-6",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-2-6",
+  "type": "Exercise",
+  "number": "8.8.5",
+  "title": "",
+  "body": "  Magnesium nitrate    148.315 g\/mole   "
+},
+{
+  "id": "sec-rxns8-5-3",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-3",
+  "type": "Exercise",
+  "number": "8.8.6",
+  "title": "",
+  "body": "  If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?    0.597 moles chlorine gas   "
+},
+{
+  "id": "sec-rxns8-5-4",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-4",
+  "type": "Exercise",
+  "number": "8.8.7",
+  "title": "",
+  "body": "  How much does 0.375 moles of NaCl weigh in grams?    21.9 g   "
+},
+{
+  "id": "sec-rxns8-5-5",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-5",
+  "type": "Exercise",
+  "number": "8.8.8",
+  "title": "",
+  "body": "  How many chlorine atoms are in 5.73 mg of magnesium chloride?    7.25E19   "
+},
+{
+  "id": "sec-rxns8-5-6",
+  "level": "2",
+  "url": "sec-rxns8.html#sec-rxns8-5-6",
+  "type": "Exercise",
+  "number": "8.8.9",
+  "title": "",
+  "body": "  What is the mass of 3.33 x 1017 hydrogen atoms in nanograms?    557 ng   "
 },
 {
   "id": "sec-rxns9",
@@ -6315,17 +6738,44 @@ var ptx_lunr_docs = [
   "url": "sec-rxns9.html",
   "type": "Section",
   "number": "8.9",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Mole-mole relationships in chemical reactions",
+  "body": " Mole-mole relationships in chemical reactions  We just learned how to convert between moles and numbers of atoms\/molecules. When we’re talking about chemical reactions, it is often very useful to be able to convert between moles of one substance in the reaction and moles of another. This allows chemists to determine how much reactant is needed for a reaction to proceed or to determine how much product can be produced. To do these calculations, we NEED to have a balanced chemical reaction. If one is not provided as a part of a question, then you need to make sure to write one.  The balanced chemical reaction is key because the coefficients in front of the chemical formulas will be used to determine a conversion factor called a mole-mole ratio. For instance, the mock formula: 2A + B → 3C implies that for every 2 moles of A, the reaction would require one mole of B and then produce 3 moles of C. We can write these relationships as conversion factors: 2 moles A 2 moles of A 1 mole of B or or 1 mole B 3 moles of C 3 moles of C  Which one we choose is determined by which information we’re given and what information we’re trying to attain. See the example and helpful hint below:  For the reaction below: if we have 3.0 moles of aluminum chloride, then a) how many moles of sodium hydroxide would be needed to completely react with the aluminum chloride and b) assuming that we have an excess of sodium hydroxide, how many moles of aluminum hydroxide could be produced?  AlCl3 (aq ) + 3NaOH (aq ) → Al(OH)3 (s) + 3 NaCl (aq) 3 moles NaOH a) 3.0 moles of AlCl3 ( 1 mole AlCl ) = 9.0 moles of NaOH 3 1 mole Al(OH) 3 b) 3.0 moles of AlCl3 ( 1 mole AlCl ) = 3.0 moles Al(OH)3 3  Helpful hint:  It can be helpful to think of more obvious examples of ‘reactions’ that we are familiar with in our everyday lives. The problem solving strategies that you employ can be similarly used in chemistry problem solving. For instance, we all know that a tricycle has 3 wheels. If I have 6 wheels, how many tricycles can I make? The answer is hopefully easy for you to determine...we can make 2 tricycles with 6 wheels. How did you solve this and could you instead use dimensional analysis and a balanced reaction to solve it?  Balanced reaction: 1 tricycle frame + 3 wheels → 1 tricycle 1 tricycle Conversion factor: 3 wheels  1 tricycle Math with the conversion factor: 6 wheels ( 3 wheels ) = 2 tricycles   Exercise 2    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3 1 mole S8 1 mole S8 12 moles O2 or or 12 moles O2 8 moles SO3 8 moles SO3      If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? 204 moles of oxygen gas 136 moles of sulfur trioxide      You are carrying out the reaction of iron metal plus chlorine gas to produce iron (III) chloride. If you require 6 moles of iron (III) chloride, how many moles of iron and how many moles of chlorine gas would you need?     Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction 2Fe (s) + 3Cl2 (g) → 2FeCl3 (s)      Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction 2H2 (g) + O2 (g ) → 2H2 O if we start with 2 grams of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve 6 moles of iron and 9 moles of chlorine gas are required      "
 },
 {
-  "id": "sec-rxns9-2",
+  "id": "sec-rxns9-11-2",
   "level": "2",
-  "url": "sec-rxns9.html#sec-rxns9-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns9.html#sec-rxns9-11-2",
+  "type": "Exercise",
+  "number": "8.9.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3 1 mole S8 1 mole S8 12 moles O2 or or 12 moles O2 8 moles SO3 8 moles SO3   "
+},
+{
+  "id": "sec-rxns9-11-3",
+  "level": "2",
+  "url": "sec-rxns9.html#sec-rxns9-11-3",
+  "type": "Exercise",
+  "number": "8.9.2",
+  "title": "",
+  "body": "  If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? 204 moles of oxygen gas 136 moles of sulfur trioxide   "
+},
+{
+  "id": "sec-rxns9-11-4-2",
+  "level": "2",
+  "url": "sec-rxns9.html#sec-rxns9-11-4-2",
+  "type": "Exercise",
+  "number": "8.9.3",
+  "title": "",
+  "body": "  Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction 2Fe (s) + 3Cl2 (g) → 2FeCl3 (s)   "
+},
+{
+  "id": "sec-rxns9-11-4-3",
+  "level": "2",
+  "url": "sec-rxns9.html#sec-rxns9-11-4-3",
+  "type": "Exercise",
+  "number": "8.9.4",
+  "title": "",
+  "body": "  Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction 2H2 (g) + O2 (g ) → 2H2 O if we start with 2 grams of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve 6 moles of iron and 9 moles of chlorine gas are required   "
 },
 {
   "id": "sec-rxns10",
@@ -6333,17 +6783,53 @@ var ptx_lunr_docs = [
   "url": "sec-rxns10.html",
   "type": "Section",
   "number": "8.10",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Reaction energetics: kinetics and thermodynamics",
+  "body": " Reaction energetics: kinetics and thermodynamics  In chemistry, it is often very helpful to know how fast reactions occur. Within our bodies, chemical reactions drive a wide range of different processes ranging from DNA replication, to movement, to nerve firing. Each of these processes must be carefully controlled. For instance, a nerve firing too quickly could disrupt muscle contractions leading to seizures or cardiac arrest. So in chemistry, what controls the speed of a reaction? The answer is that both the speed and extent of a reaction are controlled by the energetics of that reaction. Some reactions that we regard as impossible (ex. helium, a noble gas, reacting with oxygen) aren’t actually impossible...they’d just require a LOT of energy in order to make them occur. Energy similarly controls the speed of a chemical reaction.  How are we to understand the energetics of chemical reactions? Reaction energy diagrams can be very useful in this. A reaction energy diagram displays the energy level of the reactants and products of a reaction as well as the energy of the transition state. The transition state is a point that is midway between reactants and products. In most chemical reactions, bonds have to be broken before new bonds can form. The transition state generally represents a point at which the old bonds have been broken and the atoms  are positioned so that new bonds can form (see the figure below that depicts the formation of water from hydrogen gas and oxygen gas).  Reaction energy diagrams, like the one shown below, depict the difference between the energy level of the reactants and the transition state, a quantity known as the activation energy of the reaction. Activation energy is directly proportional to the speed or kinetics of a reaction. The higher the activation energy, the slower the reaction; the lower the activation energy, the faster the reaction. This is because as the activation energy of a  reaction increases, it becomes less and less probable that a given reactant molecule will have enough energy to transform from reactants into products. The less likely this is, the slower the reaction proceeds. Reactions can be sped up by adding in more energy (ie. by increasing the temperature) or by adding in catalysts. A catalyst is a substance that is able to speed up a reaction by decreasing the energy of the transition state. Importantly, a catalyst does this without being consumed by the reaction. A catalyst also does not affect the energies of the reactants or products.  Reaction energy diagrams also depict the relative energies of the reactants and products. The relationship between the reactants and products will determine which one is favored in the reaction, with nature always favoring the one that has the lowest energy (ie. the one that is the most stable). Reactions where the products are lower in energy than the reactants are called exergonic reactions. These reactions will proceed in the forward direction and will release energy. Reactions where the reactants are lower in energy than the products are called endergonic reactions. In those reactions, the reaction would tend to proceed in the reverse direction, creating more reactants from the products. In order to get the reaction to proceed in the forward direction, energy would have to be put into the reaction, often by applying heat. This is similar to how you have to expend energy to push an object uphill. It is important to understand that whether a reaction is exergonic or endergonic predicts the directionality of a reaction and whether or not there will be more reactants or products when the reaction finishes. It does NOT determine how fast a reaction occurs; that is only determined by the activation energy.  Sample reaction energy diagrams:  Transition Transition state state  Activation Energy Activation Energy energy energy Products Reactants  Reactants Products  Endergonic reaction Exergonic reaction  Transition state without a catalyst  Transition state with a catalyst  Energy Reactants  Products   Exercise 1    Enzymes are proteins that speed up chemical reactions in our bodies. Enzymes are not used up in chemical reactions. Thus enzymes are acting as __________ in the chemical reactions that they carryout.    Catalysts      Draw a reaction energy diagram that is exergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.     Draw a second diagram on top of this one that has the same reactants and products but that would occur faster       Draw a reaction energy diagram that is neither exergonic or endergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.     What would you expect the relative amounts of reactants and products to be at the conclusion of this reaction?    The amounts of products and reactants should be the same at the end       Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.    Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.      If we add heat to a reaction, the speed of the reaction will _____________(increase\/decrease)    Increase     "
 },
 {
-  "id": "sec-rxns10-2",
+  "id": "sec-rxns10-17-2",
   "level": "2",
-  "url": "sec-rxns10.html#sec-rxns10-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns10.html#sec-rxns10-17-2",
+  "type": "Exercise",
+  "number": "8.10.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  Enzymes are proteins that speed up chemical reactions in our bodies. Enzymes are not used up in chemical reactions. Thus enzymes are acting as __________ in the chemical reactions that they carryout.    Catalysts   "
+},
+{
+  "id": "sec-rxns10-17-3-2",
+  "level": "2",
+  "url": "sec-rxns10.html#sec-rxns10-17-3-2",
+  "type": "Exercise",
+  "number": "8.10.2",
+  "title": "",
+  "body": "  Draw a second diagram on top of this one that has the same reactants and products but that would occur faster   "
+},
+{
+  "id": "sec-rxns10-17-4-2",
+  "level": "2",
+  "url": "sec-rxns10.html#sec-rxns10-17-4-2",
+  "type": "Exercise",
+  "number": "8.10.3",
+  "title": "",
+  "body": "  What would you expect the relative amounts of reactants and products to be at the conclusion of this reaction?    The amounts of products and reactants should be the same at the end   "
+},
+{
+  "id": "sec-rxns10-17-5",
+  "level": "2",
+  "url": "sec-rxns10.html#sec-rxns10-17-5",
+  "type": "Exercise",
+  "number": "8.10.4",
+  "title": "",
+  "body": "  Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.    Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.   "
+},
+{
+  "id": "sec-rxns10-17-6",
+  "level": "2",
+  "url": "sec-rxns10.html#sec-rxns10-17-6",
+  "type": "Exercise",
+  "number": "8.10.5",
+  "title": "",
+  "body": "  If we add heat to a reaction, the speed of the reaction will _____________(increase\/decrease)    Increase   "
 },
 {
   "id": "sec-rxns11",
@@ -6351,17 +6837,80 @@ var ptx_lunr_docs = [
   "url": "sec-rxns11.html",
   "type": "Section",
   "number": "8.11",
-  "title": "Reactions 1",
-  "body": " Reactions 1   Classes of chemical reactions   "
+  "title": "Reaction equilibrium and Le Chatelier’s principle",
+  "body": " Reaction equilibrium and Le Chatelier’s principle  Our discussion of reaction energy diagrams and energetics revealed that chemical reactions are reversible. Chemical reactions, once started proceed both in the forward and reverse directions, however it’s often the case that one direction is preferred over the other. For the purposes of this discussion, let’s assume that the forward direction is preferred over the reverse direction (ie. the reaction is exergonic). The net reaction initially proceeds in the forward direction because the forward reaction is occurring faster than the reverse reaction. However, as time goes on, the reactants begin to run out, slowing down the forward reaction, while the reverse reaction begins to speed up. The reaction finally stops once it reaches equilibrium. At this point, the amount of reactants and products is no longer changing because the speed of the forward reaction is equal to the speed of the reverse reaction. Once reactions reach equilibrium, the net reaction can once again proceed (either in the forward or reverse direction) if the equilibrium is disturbed. We can predict the outcome of this disturbance by applying Le Chatelier’s principle. Le Chatelier’s principle states that a reaction at equilibrium will respond to changes by trying to restore the equilibrium. This can be easily illustrated by viewing chemical reactions as a seesaw. A reaction at equilibrium can be thought of as a balanced seesaw; once a disturbance occurs, then the balance of the seesaw is broken. In order to restore the equilibrium, reactants must either convert to products or products must convert to reactants until the balance is once again restored.  Progress of a reaction towards equilibrium:  Reactants Products Reactants Products Reactants Products  To begin, there is a lot of As the reaction proceeds, the Eventually, the rate of the reactants and not a lot of amount of reactants forward reaction equals the products. Thus, the forward decreases and the amount of rate of the reverse reaction. reaction is more likely to products increases. The At this point, the reaction has occur and occurs faster forward reaction slows down reached equilibrium and the and the reverse reaction concentration of reactants speeds up. and products no longer changes.  A useful model for understanding Le Chatelier’s Principle:  Products  Reactants Products Reactants  We can depict a reaction at equilibrium as In this example, reactants were added to a balanced seesaw. the reaction. This weighs down the reactant side of the seesaw. In order to restore balance (equilibrium) reactants must convert to products. Thus, the net reaction will proceed in the forward direction.   Exercise 2    For a given chemical reaction, if the forward reaction has a rate of 4 and the reverse reaction has a rate of 6, then what is the direction and net rate of the reaction?     What will happen to the forward and reverse rates as the reaction approaches equilibrium?    The reverse rate will slow down as the products are used up. The forward rate will speed up as reactants are created       Consider the following reaction that has reached equilibrium: 2NaOH(aq) + CaCl2 (aq) → Ca(OH)2 (s) + 2NaCl(aq) + heat Which direction would you expect the net reaction to proceed in if:     Sodium chloride is added to the reaction    Toward reactants (reverse)      The precipitate is removed from the reaction    Towards products (forward)      The reaction is cooled    Towards products (forward)      The reaction is heated    Towards reactants (reverse)      Sodium hydroxide is added to the reaction    Towards products (forward)      Calcium chloride is added to the reaction    Towards products (forward)       In chemical manufacturing, in order to maximize the amount of product formed, the product is often removed from the reaction as the reaction proceeds. Why does this help?    Removing product causes the reaction to shift towards products by Le Chatelier’s principle     "
 },
 {
-  "id": "sec-rxns11-2",
+  "id": "sec-rxns11-10-2-2",
   "level": "2",
-  "url": "sec-rxns11.html#sec-rxns11-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-rxns11.html#sec-rxns11-10-2-2",
+  "type": "Exercise",
+  "number": "8.11.1",
   "title": "",
-  "body": "Classes of chemical reactions "
+  "body": "  What will happen to the forward and reverse rates as the reaction approaches equilibrium?    The reverse rate will slow down as the products are used up. The forward rate will speed up as reactants are created   "
+},
+{
+  "id": "sec-rxns11-10-3-2",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-3-2",
+  "type": "Exercise",
+  "number": "8.11.2",
+  "title": "",
+  "body": "  Sodium chloride is added to the reaction    Toward reactants (reverse)   "
+},
+{
+  "id": "sec-rxns11-10-3-3",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-3-3",
+  "type": "Exercise",
+  "number": "8.11.3",
+  "title": "",
+  "body": "  The precipitate is removed from the reaction    Towards products (forward)   "
+},
+{
+  "id": "sec-rxns11-10-3-4",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-3-4",
+  "type": "Exercise",
+  "number": "8.11.4",
+  "title": "",
+  "body": "  The reaction is cooled    Towards products (forward)   "
+},
+{
+  "id": "sec-rxns11-10-3-5",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-3-5",
+  "type": "Exercise",
+  "number": "8.11.5",
+  "title": "",
+  "body": "  The reaction is heated    Towards reactants (reverse)   "
+},
+{
+  "id": "sec-rxns11-10-3-6",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-3-6",
+  "type": "Exercise",
+  "number": "8.11.6",
+  "title": "",
+  "body": "  Sodium hydroxide is added to the reaction    Towards products (forward)   "
+},
+{
+  "id": "sec-rxns11-10-3-7",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-3-7",
+  "type": "Exercise",
+  "number": "8.11.7",
+  "title": "",
+  "body": "  Calcium chloride is added to the reaction    Towards products (forward)   "
+},
+{
+  "id": "sec-rxns11-10-4",
+  "level": "2",
+  "url": "sec-rxns11.html#sec-rxns11-10-4",
+  "type": "Exercise",
+  "number": "8.11.8",
+  "title": "",
+  "body": "  In chemical manufacturing, in order to maximize the amount of product formed, the product is often removed from the reaction as the reaction proceeds. Why does this help?    Removing product causes the reaction to shift towards products by Le Chatelier’s principle   "
 },
 {
   "id": "sec-gas1",
@@ -6369,17 +6918,395 @@ var ptx_lunr_docs = [
   "url": "sec-gas1.html",
   "type": "Section",
   "number": "9.1",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Basic gas laws",
+  "body": " Basic gas laws  The kinetic molecular theory of gases can give rise to our understanding of three basic gas laws: Boyle’s Law, Charles’s Law, and Gay-Lussac’s Law. These laws relate changes in pressure, temperature, and volume of a gas. Each law also has an associated equation that can be used to determine the effect of changing the pressure, volume, or temperature of a gas.  Boyle’s law states that pressure and volume are inversely proportional to one another if the temperature is kept constant. This means that as one goes up, the other must go down (ex. if the volume decreases then the pressure must increase). We can understand this quite easily if we reflect on the kinetic molecular theory of gases. If gas molecules are moving around with a certain speed, because the temperature is kept constant, and we shrink the container that the gas is trapped in, then the gas molecules will be impacting the walls of the container more frequently and thus the pressure exerted will increase. Most of us have probably experienced Boyle’s law if you’ve ever tried to squeeze a balloon. When you do that, you are attempting to reduce the volume of the gas, and as you do so, it gets harder and harder to squeeze. Since pressure and volume are inversely proportional, this can be described mathematically as P × V = c where c is a constant (the value of this constant isn’t important and actually varies depending on a number of factors). With that equation, if we increase pressure, then volume must decrease in order for the product to still equal c. This relationship hold true as long and the amount of gas and the temperature are kept constant...so under one set of conditions P1 × V1 = c and under a second set of pressure and volumes P2 × V2 = c. Since both of these equations equal c, we can set them equal to one another to get the equation for Boyle’s law:  P1 × V1 = P2 × V2  This equation can be used to determine the new pressure of a gas if the volume changes or to find the new volume if the pressure changes (again, assuming that the temperature and the amount of the gas are fixed).  Charles’s law relates the volume and temperature of a gas, stating that these two properties are directly proportional (assuming that the pressure and amount of gas are constant). This again agrees with kinetic molecular theory because if I increase the temperature of a gas, the molecules will move faster, this would cause them to impact the sides of the container with more force, thus increasing the pressure. If the pressure is being held constant, however, the only way to allow for this is to have the volume of the gas increase, causing the impacts of the gas on the sides of the container to become less frequent. Thus an increase in temperature causes an increase in volume and a decrease in temperature would cause a decrease in volume. Many of us have also seen Charles’s law in our lives. Charles’s law is used to inflate hot air balloons; the heat from the flame at the base of the balloon heats the gas inside causing the volume of the balloon to increase and V inflate. This relationship can be described mathematically by T = c where c is a constant. Like in Boyle’s law, this equation will hold under different conditions, so we can similarly derive the equation for Charle’s law:  V1 V2 = T1 T2 It is VERY important to note that this equation only works if the temperatures have units of Kelvin!!!! Using this equation we can predict the new volume of a gas if the temperature changes or the new temperature if the volume changes (assuming that the amount of gas and the pressure are constant)  The final law that we’ll cover in this section is Gay-Lussac’s Law. This law states that pressure and temperature are directly proportional if the volume and amount of gas are fixed. Gay-Lussac’s law can be understood if we realize that increasing the temperature causes the speed of molecules to increase. If the size of the container is kept the same, then those molecules will impact the sides with more force, thus increasing the pressure. Gay-Lussac’s law can be described with the formula: P1 P2 = T1 T2 This equation can be used to find the new pressure if the temperature of a gas changes or the new temperature if the pressure changes (again, assuming that the volume and amount of gas don’t change).   Exercise 2    Proportionality     For this exercise, we are going to examine an example of inverse proportionality using the equation a ∙ b = c, where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?      For this exercise, we are going to examine an example of direct a proportionality using the equation b = c, where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?       Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)     If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?       Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)     If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?      If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.      Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?       Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)     If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is the new pressure of the gas if the temperature doubles to 146.2 oC?      Did the pressure double when the temperature, measured in Celsius, doubled?      If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?      Did the pressure double when the temperature, measured in Kelvin, doubled?      If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?       Exercise 1        Faster      More force      Pressure would increase       5 psi     20 psi, higher pressure       Convert 1.72 atm of pressure to the following units using the conversion factors provided:     174,000 Pa      174 kPa      25.3 psi      1.74 bar       Exercise 2    Proportionality     1600      10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is 1⁄2 of the original starting value of 20) ii. a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)      4      40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20) ii. a decreases to 20. a decreases by the same factor as b       Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)     1.0 x 103 kPa      150 L      1.5 x 105 L       Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)     23.0 L      2550 K      2.55 K      62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.      You get a negative volume. Volume can’t be negative.       Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)     88.7 psi      No      146.4 psi      yes      If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?      7.2 K      "
 },
 {
-  "id": "sec-gas1-2",
+  "id": "sec-gas1-9-2-2",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas1.html#sec-gas1-9-2-2",
+  "type": "Exercise",
+  "number": "9.1.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  For this exercise, we are going to examine an example of inverse proportionality using the equation a ∙ b = c, where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?   "
+},
+{
+  "id": "sec-gas1-9-2-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-2-3",
+  "type": "Exercise",
+  "number": "9.1.2",
+  "title": "",
+  "body": "  If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?   "
+},
+{
+  "id": "sec-gas1-9-2-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-2-4",
+  "type": "Exercise",
+  "number": "9.1.3",
+  "title": "",
+  "body": "  For this exercise, we are going to examine an example of direct a proportionality using the equation b = c, where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?   "
+},
+{
+  "id": "sec-gas1-9-2-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-2-5",
+  "type": "Exercise",
+  "number": "9.1.4",
+  "title": "",
+  "body": "  If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?   "
+},
+{
+  "id": "sec-gas1-9-3-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-3-2",
+  "type": "Exercise",
+  "number": "9.1.5",
+  "title": "",
+  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?   "
+},
+{
+  "id": "sec-gas1-9-3-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-3-3",
+  "type": "Exercise",
+  "number": "9.1.6",
+  "title": "",
+  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?   "
+},
+{
+  "id": "sec-gas1-9-3-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-3-4",
+  "type": "Exercise",
+  "number": "9.1.7",
+  "title": "",
+  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?   "
+},
+{
+  "id": "sec-gas1-9-4-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-4-2",
+  "type": "Exercise",
+  "number": "9.1.8",
+  "title": "",
+  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?   "
+},
+{
+  "id": "sec-gas1-9-4-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-4-3",
+  "type": "Exercise",
+  "number": "9.1.9",
+  "title": "",
+  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L   "
+},
+{
+  "id": "sec-gas1-9-4-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-4-4",
+  "type": "Exercise",
+  "number": "9.1.10",
+  "title": "",
+  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?   "
+},
+{
+  "id": "sec-gas1-9-4-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-4-5",
+  "type": "Exercise",
+  "number": "9.1.11",
+  "title": "",
+  "body": "  If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.   "
+},
+{
+  "id": "sec-gas1-9-4-6",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-4-6",
+  "type": "Exercise",
+  "number": "9.1.12",
+  "title": "",
+  "body": "  Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?   "
+},
+{
+  "id": "sec-gas1-9-5-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-5-2",
+  "type": "Exercise",
+  "number": "9.1.13",
+  "title": "",
+  "body": "  If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is the new pressure of the gas if the temperature doubles to 146.2 oC?   "
+},
+{
+  "id": "sec-gas1-9-5-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-5-3",
+  "type": "Exercise",
+  "number": "9.1.14",
+  "title": "",
+  "body": "  Did the pressure double when the temperature, measured in Celsius, doubled?   "
+},
+{
+  "id": "sec-gas1-9-5-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-5-4",
+  "type": "Exercise",
+  "number": "9.1.15",
+  "title": "",
+  "body": "  If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?   "
+},
+{
+  "id": "sec-gas1-9-5-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-5-5",
+  "type": "Exercise",
+  "number": "9.1.16",
+  "title": "",
+  "body": "  Did the pressure double when the temperature, measured in Kelvin, doubled?   "
+},
+{
+  "id": "sec-gas1-9-5-6",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-9-5-6",
+  "type": "Exercise",
+  "number": "9.1.17",
+  "title": "",
+  "body": "  If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?   "
+},
+{
+  "id": "sec-gas1-10-2-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-2-2",
+  "type": "Exercise",
+  "number": "9.1.1",
+  "title": "",
+  "body": "  Faster   "
+},
+{
+  "id": "sec-gas1-10-2-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-2-3",
+  "type": "Exercise",
+  "number": "9.1.2",
+  "title": "",
+  "body": "  More force   "
+},
+{
+  "id": "sec-gas1-10-2-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-2-4",
+  "type": "Exercise",
+  "number": "9.1.3",
+  "title": "",
+  "body": "  Pressure would increase   "
+},
+{
+  "id": "sec-gas1-10-3-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-3-2",
+  "type": "Exercise",
+  "number": "9.1.4",
+  "title": "",
+  "body": "  20 psi, higher pressure   "
+},
+{
+  "id": "sec-gas1-10-4-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-4-2",
+  "type": "Exercise",
+  "number": "9.1.5",
+  "title": "",
+  "body": "  174,000 Pa   "
+},
+{
+  "id": "sec-gas1-10-4-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-4-3",
+  "type": "Exercise",
+  "number": "9.1.6",
+  "title": "",
+  "body": "  174 kPa   "
+},
+{
+  "id": "sec-gas1-10-4-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-4-4",
+  "type": "Exercise",
+  "number": "9.1.7",
+  "title": "",
+  "body": "  25.3 psi   "
+},
+{
+  "id": "sec-gas1-10-4-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-10-4-5",
+  "type": "Exercise",
+  "number": "9.1.8",
+  "title": "",
+  "body": "  1.74 bar   "
+},
+{
+  "id": "sec-gas1-11-2-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-2-2",
+  "type": "Exercise",
+  "number": "9.1.1",
+  "title": "",
+  "body": "  1600   "
+},
+{
+  "id": "sec-gas1-11-2-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-2-3",
+  "type": "Exercise",
+  "number": "9.1.2",
+  "title": "",
+  "body": "  10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is 1⁄2 of the original starting value of 20) ii. a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)   "
+},
+{
+  "id": "sec-gas1-11-2-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-2-4",
+  "type": "Exercise",
+  "number": "9.1.3",
+  "title": "",
+  "body": "  4   "
+},
+{
+  "id": "sec-gas1-11-2-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-2-5",
+  "type": "Exercise",
+  "number": "9.1.4",
+  "title": "",
+  "body": "  40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20) ii. a decreases to 20. a decreases by the same factor as b   "
+},
+{
+  "id": "sec-gas1-11-3-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-3-2",
+  "type": "Exercise",
+  "number": "9.1.5",
+  "title": "",
+  "body": "  1.0 x 103 kPa   "
+},
+{
+  "id": "sec-gas1-11-3-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-3-3",
+  "type": "Exercise",
+  "number": "9.1.6",
+  "title": "",
+  "body": "  150 L   "
+},
+{
+  "id": "sec-gas1-11-3-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-3-4",
+  "type": "Exercise",
+  "number": "9.1.7",
+  "title": "",
+  "body": "  1.5 x 105 L   "
+},
+{
+  "id": "sec-gas1-11-4-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-4-2",
+  "type": "Exercise",
+  "number": "9.1.8",
+  "title": "",
+  "body": "  23.0 L   "
+},
+{
+  "id": "sec-gas1-11-4-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-4-3",
+  "type": "Exercise",
+  "number": "9.1.9",
+  "title": "",
+  "body": "  2550 K   "
+},
+{
+  "id": "sec-gas1-11-4-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-4-4",
+  "type": "Exercise",
+  "number": "9.1.10",
+  "title": "",
+  "body": "  2.55 K   "
+},
+{
+  "id": "sec-gas1-11-4-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-4-5",
+  "type": "Exercise",
+  "number": "9.1.11",
+  "title": "",
+  "body": "  62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.   "
+},
+{
+  "id": "sec-gas1-11-4-6",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-4-6",
+  "type": "Exercise",
+  "number": "9.1.12",
+  "title": "",
+  "body": "  You get a negative volume. Volume can’t be negative.   "
+},
+{
+  "id": "sec-gas1-11-5-2",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-5-2",
+  "type": "Exercise",
+  "number": "9.1.13",
+  "title": "",
+  "body": "  88.7 psi   "
+},
+{
+  "id": "sec-gas1-11-5-3",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-5-3",
+  "type": "Exercise",
+  "number": "9.1.14",
+  "title": "",
+  "body": "  No   "
+},
+{
+  "id": "sec-gas1-11-5-4",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-5-4",
+  "type": "Exercise",
+  "number": "9.1.15",
+  "title": "",
+  "body": "  146.4 psi   "
+},
+{
+  "id": "sec-gas1-11-5-5",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-5-5",
+  "type": "Exercise",
+  "number": "9.1.16",
+  "title": "",
+  "body": "  yes   "
+},
+{
+  "id": "sec-gas1-11-5-6",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-5-6",
+  "type": "Exercise",
+  "number": "9.1.17",
+  "title": "",
+  "body": "  If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?   "
+},
+{
+  "id": "sec-gas1-11-5-7",
+  "level": "2",
+  "url": "sec-gas1.html#sec-gas1-11-5-7",
+  "type": "Exercise",
+  "number": "9.1.18",
+  "title": "",
+  "body": "  7.2 K   "
 },
 {
   "id": "sec-gas2",
@@ -6387,17 +7314,80 @@ var ptx_lunr_docs = [
   "url": "sec-gas2.html",
   "type": "Section",
   "number": "9.2",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Kinetic molecular theory of gases and pressure",
+  "body": " Kinetic molecular theory of gases and pressure  Gases are a state of matter. Gases are similar to liquids in that they adopt the shape of their containers, but are different in that they will spread out to occupy the entire volume of their container. Thus gases do NOT have a fixed volume or a fixed shape. To better understand these properties as well as other properties of gases that we’ll be learning abou in this chapter, scientists have developed the kinetic molecular theory of gases. This theory states that the properties of a gas can be understood by a model that assumes the following:  1. Gases consist of tiny particles that occupy only a small percentage of the total volume of the gas 2. The gas molecules are constantly moving with very high speeds 3. Gas molecules do not interact with one another at all due to their high speeds and the fact that they occupy such a small percentage of the volume of the gas 4. When gas molecules impact one another or the sides of their container, they bounce off, essentially losing none of their energy. 5. The average speed of the gas molecules is directly proportional to the temperature. So as temperature increases, the gas molecules move more quickly.  This information about gases will help us to understand other properties of gases as well as the gas laws that we’ll encounter later in the chapter. The first such property that we can begin to discuss is pressure. When a gas is near a surface (like air near our bodies) or trapped in a container, then the gas molecules will impact the surfaces that they’re exposed to with a certain amount of force. This force will push against that surface. When a force is being applied to a surface, we can measure the pressure being exerted. Pressure is simply the amount of force being applied divided by the area of the surface that it’s being applied to. This can be illustrated easily using everyday objects. If you place a large piece of wood on top of another piece of wood and hit it with a hammer, you’re unlikely to drive one piece of wood into the other. However if you place a nail on a piece of wood and hit it with a hammer, you can easily drive the nail into the wood. Why? The amount of force applied with the hammer was the exact same. However, in the first case, the amount of surface that the force was applied to was large, meaning that the pressure was small. In the case of the nail, that same amount of force is applied to the narrow point of a nail (a much smaller area) so the nail has a very high pressure and is able to easily penetrate the wood.  The idea of gas pressure is actually quite fascinating when you think about it. We know that we can inflate balloons by filling them with a gas and that this gas exerts a  certain amount of pressure (that we can easily feel if you try and squeeze the balloon). The bizarre thing about the balloon, though, is that the ballon is almost entirely empty. What keeps it inflated isn’t that it is ‘full of air’, it’s that the little bit of air inside is impacting the balloon surface with such force that it’s continually driving it outwards, keeping it inflated. In fact, each gas molecule inside of a helium balloon at room temperature is impacting the surface of the balloon with a speed of approximately 4000 miles per hour!!!  We can measure the pressure of a gas using various units. The SI unit for pressure is a Pascal (Pa), and like other SI units we can attach metric prefixes to it. Other units of pressure are commonly used also. These include atmospheres (atm), bars, inches (or millimeters) of mercury, and pounds per square inch. If you ever need to convert between these various units on an exam, a conversion factor will be provided.   Exercise 1    If you increase the temperature of a gas     Do the molecules move faster or slower?      Would the molecules impact the sides of the container with more force or less force?      If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?       Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 2 square inches (answer in units of pounds per square inch).     Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?       Convert 1.72 atm of pressure to the following units using the conversion factors provided:     Pa (1 atm=101,325 Pa)      kPa      pound per square inch (psi) (14.7 psi=1atm)      bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)      "
 },
 {
-  "id": "sec-gas2-2",
+  "id": "sec-gas2-8-2-2",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas2.html#sec-gas2-8-2-2",
+  "type": "Exercise",
+  "number": "9.2.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  Do the molecules move faster or slower?   "
+},
+{
+  "id": "sec-gas2-8-2-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-2-3",
+  "type": "Exercise",
+  "number": "9.2.2",
+  "title": "",
+  "body": "  Would the molecules impact the sides of the container with more force or less force?   "
+},
+{
+  "id": "sec-gas2-8-2-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-2-4",
+  "type": "Exercise",
+  "number": "9.2.3",
+  "title": "",
+  "body": "  If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?   "
+},
+{
+  "id": "sec-gas2-8-3-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-3-2",
+  "type": "Exercise",
+  "number": "9.2.4",
+  "title": "",
+  "body": "  Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?   "
+},
+{
+  "id": "sec-gas2-8-4-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-4-2",
+  "type": "Exercise",
+  "number": "9.2.5",
+  "title": "",
+  "body": "  Pa (1 atm=101,325 Pa)   "
+},
+{
+  "id": "sec-gas2-8-4-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-4-3",
+  "type": "Exercise",
+  "number": "9.2.6",
+  "title": "",
+  "body": "  kPa   "
+},
+{
+  "id": "sec-gas2-8-4-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-4-4",
+  "type": "Exercise",
+  "number": "9.2.7",
+  "title": "",
+  "body": "  pound per square inch (psi) (14.7 psi=1atm)   "
+},
+{
+  "id": "sec-gas2-8-4-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-8-4-5",
+  "type": "Exercise",
+  "number": "9.2.8",
+  "title": "",
+  "body": "  bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)   "
 },
 {
   "id": "sec-gas3",
@@ -6405,17 +7395,44 @@ var ptx_lunr_docs = [
   "url": "sec-gas3.html",
   "type": "Section",
   "number": "9.3",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Avogadro’s law and molar volume",
+  "body": " Avogadro’s law and molar volume  All of the gas laws that we learned about in the last lesson allowed for changes in the pressure, volume, and\/or temperature of the gas. All of those laws had the stated assumption that the amount of the gas was fixed. Avogadro’s law is the first law that allows us to predict the effect of changing the amount of gas. Avogadro’s law relates the volume of a gas to the number of moles of the gas. It states that the volume of the gas and the number of moles are directly proportional to one another if pressure and temperature are kept constant. This means that if the number of moles of a gas increase, then the volume would be expected to increase as well. A real-world example of this is what happens when you blow into a balloon. You are increasing the amount of gas in the balloon and, as a result, its volume increases. Like our other gas laws, this proportionality can be shown by V an equation: n = c where n is the number of moles of gas and c is a constant. If we want to  predict the effect of changing the amount of gas on the volume, then we can use the form of Avogadro’s law shown below: V1 V2 = n1 n2  One consequence of Avogadro’s law is that one mole of a gas will always have the same volume, regardless of which gas we’re talking about, if the pressure and temperature are kept constant. At a standard temperature and pressure (STP, defined as 1 atm of pressure and 273.15 K) one mole of gas has a volume of 22.4 L. This is called the molar volume of a 1 mole gas. Molar volume can be used as a conversion factor ( 22.4 L ) to convert between volume and number of moles if the gas is at STP conditions.   Exercise 2    If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L      If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles      What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L      A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L     "
 },
 {
-  "id": "sec-gas3-2",
+  "id": "sec-gas3-5-2",
   "level": "2",
-  "url": "sec-gas3.html#sec-gas3-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas3.html#sec-gas3-5-2",
+  "type": "Exercise",
+  "number": "9.3.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L   "
+},
+{
+  "id": "sec-gas3-5-3",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-5-3",
+  "type": "Exercise",
+  "number": "9.3.2",
+  "title": "",
+  "body": "  If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles   "
+},
+{
+  "id": "sec-gas3-5-4",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-5-4",
+  "type": "Exercise",
+  "number": "9.3.3",
+  "title": "",
+  "body": "  What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L   "
+},
+{
+  "id": "sec-gas3-5-5",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-5-5",
+  "type": "Exercise",
+  "number": "9.3.4",
+  "title": "",
+  "body": "  A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L   "
 },
 {
   "id": "sec-gas4",
@@ -6423,17 +7440,35 @@ var ptx_lunr_docs = [
   "url": "sec-gas4.html",
   "type": "Section",
   "number": "9.4",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Combined gas law",
+  "body": " Combined gas law  Since pressure and volume are inversely proportional, volume and temperature are directly proportional, and pressure and temperature are directly proportional, we can P×V describe these three relationships with the equation = c. Since this relationship T should hold under multiple conditions (assuming that the amount of gas doesn’t change), we can derive the combined gas law: P1 × V1 P2 × V2 = T1 T2   Exercise 1    Combined gas law (the following problems assume that the amount of gas doesn’t change)     If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...      the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K      If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K      "
 },
 {
-  "id": "sec-gas4-2",
+  "id": "sec-gas4-3-2-2",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas4.html#sec-gas4-3-2-2",
+  "type": "Exercise",
+  "number": "9.4.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...   "
+},
+{
+  "id": "sec-gas4-3-2-3",
+  "level": "2",
+  "url": "sec-gas4.html#sec-gas4-3-2-3",
+  "type": "Exercise",
+  "number": "9.4.2",
+  "title": "",
+  "body": "  the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K   "
+},
+{
+  "id": "sec-gas4-3-2-4",
+  "level": "2",
+  "url": "sec-gas4.html#sec-gas4-3-2-4",
+  "type": "Exercise",
+  "number": "9.4.3",
+  "title": "",
+  "body": "  If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K   "
 },
 {
   "id": "sec-gas5",
@@ -6441,17 +7476,35 @@ var ptx_lunr_docs = [
   "url": "sec-gas5.html",
   "type": "Section",
   "number": "9.5",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Ideal gas law",
+  "body": " Ideal gas law  Avogadro’s law and the other gas laws can all be combined together. Pressure and volume are inversely proportional. Temperature and moles of gas are directly proportional to volume. If we combine all of this information, we get the equation: PV =c nT where c is a constant. In chemistry, we substitute the symbol R for this constant to give: PV =R nT R is a special constant in chemistry called the ideal gas constant. There are several different values for R which are all actually equivalent...they have different values because  they have different units of pressure or volume. The value of R that uses SI units of Pa∙L pressure and volume is 8314 mol∙K . The equation shown above is called the Ideal Gas Law and is often shown in the rearranged form:  PV = nRT  The other laws that we learned about are useful for predicting the effect of changing the conditions of a gas, either the pressure, volume, temperature, or moles of gas. The Ideal Gas Law allows us to calculate one unknown property of a gas if we’re given the other 3 properties. For instance, if we know the pressure, volume, and temperature of a sample of gas, we can calculate the number of moles of gas.  Various values for R: Pa ∙ L 8314 mol ∙ K L ∙ atm 0.082057 moles ∙ K L ∙ bar 0.0831446 mol ∙ K L ∙ psi 1.21 mol ∙ K   Exercise 3    If a sample of gas contains 0.0300 moles of gas and has a pressure of 2300 Pa at a temperature of 273K, what would the volume of the gas be?    30. L      Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1atm=101325 Pa)    4.0 x 102 K      What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at 103 oC?    1.1 MPa     "
 },
 {
-  "id": "sec-gas5-2",
+  "id": "sec-gas5-7-2",
   "level": "2",
-  "url": "sec-gas5.html#sec-gas5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas5.html#sec-gas5-7-2",
+  "type": "Exercise",
+  "number": "9.5.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If a sample of gas contains 0.0300 moles of gas and has a pressure of 2300 Pa at a temperature of 273K, what would the volume of the gas be?    30. L   "
+},
+{
+  "id": "sec-gas5-7-3",
+  "level": "2",
+  "url": "sec-gas5.html#sec-gas5-7-3",
+  "type": "Exercise",
+  "number": "9.5.2",
+  "title": "",
+  "body": "  Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1atm=101325 Pa)    4.0 x 102 K   "
+},
+{
+  "id": "sec-gas5-7-4",
+  "level": "2",
+  "url": "sec-gas5.html#sec-gas5-7-4",
+  "type": "Exercise",
+  "number": "9.5.3",
+  "title": "",
+  "body": "  What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at 103 oC?    1.1 MPa   "
 },
 {
   "id": "sec-gas6",
@@ -6459,17 +7512,26 @@ var ptx_lunr_docs = [
   "url": "sec-gas6.html",
   "type": "Section",
   "number": "9.6",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Ideal Gas Law and Chemical Reactions",
+  "body": " Ideal Gas Law and Chemical Reactions  The Ideal Gas Law can also be used in calculations involving chemical reactions. The Ideal Gas Law can be used to determine the number of moles of reactants or to determine the pressure\/volume\/temperature of the products from the number of moles. This is displayed in the figure below. Also, please see the sample calculation shown below.  Sample calculations:  A vessel with a volume of 1200 L contains 17 kg of nitrogen gas and exactly the amount of hydrogen gas needed to react with it at a temperature of 500.0 oC. The nitrogen and hydrogen gas react according to the equation shown below:  N2 (g) + 3H2 (g) → 2NH3 (g)  a. How much hydrogen (in moles) is needed to react with the nitrogen gas? b. What is the starting pressure of the gases in the tank in units of psi? 0.082057(L∙atm) (R = and 1 atm = 14.7 psi) moles∙K c. What is the pressure in the tank at the conclusion of the reaction in units of psi?  Solutions:  a. We need to go from kg of nitrogen gas to moles of nitrogen gas using the molar mass, then to moles of hydrogen gas using the mole-mole conversion factor. 1000g 1mole 17kg N2 ( )( ) = 606.7 moles N2 (we ′ ll need this for part b) 1kg 28.02g 3H2 606.7 moles N2 ( ) = 1820 moles H2 → Round to 1800 moles H2 1N2 b. We are going to use the Ideal Gas Law and plug in the total number of moles of nitrogen gas and hydrogen gas. nRT PV = nRT → P = → V L ∙ atm (606.7 + 1820 moles) ∙ 0.082057 ∙ (500 + 273.15)K P= moles ∙K = 128.3 atm 1200 L 14.7psi 128.3 atm ( ) = 1886 psi → round to 1900 psi 1atm c. We can borrow information from part a. If we have moles of nitrogen gas, we can use a mole-mole conversion factor to get the number of moles of NH 3. We can then use the Ideal Gas Law to calculate the pressure. 2NH3 606.7 moles N2 ( ) = 1213.4 moles NH3 1N2 nRT PV = nRT → P = → V L ∙ atm (1213.4 moles ∙ 0.082057 ∙ (500 + 273.15)K) P= moles ∙K = 64.15 atm 1200L 14.7psi 64.15atm ( ) = 943.0psi → round to 940psi 1atm   Exercise 1    When our bodies ‘burn’ glucose (C6 H12 O6 ), they do so according to the following reaction: C6 H12 O6 (g) + 6O2 (g) → 6CO2 (g) + 6H2 O (l) If a person consumes a soda with 42 g of glucose, what volume of carbon dioxide will they emit at STP once they’ve burned all that glucose?    31 L      Water can undergo an electrolysis reaction shown below: 2H2 O (l) → O2 (g) + 2H2 (g) If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then what will the pressure be in the chamber at the end of the reaction in MPa?    3.4MPa     "
 },
 {
-  "id": "sec-gas6-2",
+  "id": "sec-gas6-9-2",
   "level": "2",
-  "url": "sec-gas6.html#sec-gas6-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas6.html#sec-gas6-9-2",
+  "type": "Exercise",
+  "number": "9.6.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  When our bodies ‘burn’ glucose (C6 H12 O6 ), they do so according to the following reaction: C6 H12 O6 (g) + 6O2 (g) → 6CO2 (g) + 6H2 O (l) If a person consumes a soda with 42 g of glucose, what volume of carbon dioxide will they emit at STP once they’ve burned all that glucose?    31 L   "
+},
+{
+  "id": "sec-gas6-9-3",
+  "level": "2",
+  "url": "sec-gas6.html#sec-gas6-9-3",
+  "type": "Exercise",
+  "number": "9.6.2",
+  "title": "",
+  "body": "  Water can undergo an electrolysis reaction shown below: 2H2 O (l) → O2 (g) + 2H2 (g) If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then what will the pressure be in the chamber at the end of the reaction in MPa?    3.4MPa   "
 },
 {
   "id": "sec-gas7",
@@ -6477,17 +7539,53 @@ var ptx_lunr_docs = [
   "url": "sec-gas7.html",
   "type": "Section",
   "number": "9.7",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Partial Pressures and Dalton’s Law",
+  "body": " Partial Pressures and Dalton’s Law  All of the gas laws that we’ve dealt with thus far assume that we are dealing with a pure sample of one gas. What is we’re dealing with a mixture of gases, like air? If we have a mixture of gases in a container, then we can measure the volume of the mixture and its temperature and those values will apply to each of the individual gases within the mixture as well, because each of the individual gases will occupy the entirety of the volume and have the same amount of kinetic energy as all of the other gases in the mixture. However, the gas particles of an individual gas in a mixture of gases will NOT have the same pressure as the mixture. This is because each individual gas is impacting the sides of the container with only a portion of the total pressure being exerted by the mixture itself. We have a term for the amount of pressure that an individual gas exerts within a mixture and it is called the partial pressure of that gas.  Dalton’s Law deals with the partial pressure of gases within a mixture, and it’s an intuitive law when you think about it. Daltons law says the pressure of a mixture of gases is equal to the sum of the partial pressures of the individual gases that make up the mixture. This is because each individual gas impacts the sides of the container with a certain force. The total force is simply the sum of the forces of each of the gases. Since they are all impacting the same surface area, the pressures should also be additive. Dalton’s Law is summarized by the following formula:  PT = P1 + P2 + P3 ...   Exercise 2    If the partial pressure of gas A is 34 psi and the partial pressure of gas B is 44 psi in the same container, what is the combined pressure of the gases?    78 psi      If a mixture of gases has a pressure of 4.0 atm, and it contains 3 gases. Gas A has a partial pressure of 2.7 atm, gas B has a partial pressure of 0.4 atm. What is the partial pressure of gas C?     If the chamber has a volume of 3.0 L and the temperature is 298K, then how L∙atm many moles of each gas are in the chamber? (R = 0.082057 mol∙K)    0.33 moles       Water can undergo an electrolysis reaction shown below: 2H2 O (l) → O2 (g) + 2H2 (g) If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then...     What will the partial pressure of hydrogen gas be in the chamber at the end of the reaction in MPa?    2.3 MPa      What will the partial pressure of oxygen gas be in the chamber at the end of the reaction in MPa?    1.1 MPa      What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer in Exercise 3 Question 2.    3.4 MPa      "
 },
 {
-  "id": "sec-gas7-2",
+  "id": "sec-gas7-5-2",
   "level": "2",
-  "url": "sec-gas7.html#sec-gas7-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas7.html#sec-gas7-5-2",
+  "type": "Exercise",
+  "number": "9.7.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If the partial pressure of gas A is 34 psi and the partial pressure of gas B is 44 psi in the same container, what is the combined pressure of the gases?    78 psi   "
+},
+{
+  "id": "sec-gas7-5-3-2",
+  "level": "2",
+  "url": "sec-gas7.html#sec-gas7-5-3-2",
+  "type": "Exercise",
+  "number": "9.7.2",
+  "title": "",
+  "body": "  If the chamber has a volume of 3.0 L and the temperature is 298K, then how L∙atm many moles of each gas are in the chamber? (R = 0.082057 mol∙K)    0.33 moles   "
+},
+{
+  "id": "sec-gas7-5-4-2",
+  "level": "2",
+  "url": "sec-gas7.html#sec-gas7-5-4-2",
+  "type": "Exercise",
+  "number": "9.7.3",
+  "title": "",
+  "body": "  What will the partial pressure of hydrogen gas be in the chamber at the end of the reaction in MPa?    2.3 MPa   "
+},
+{
+  "id": "sec-gas7-5-4-3",
+  "level": "2",
+  "url": "sec-gas7.html#sec-gas7-5-4-3",
+  "type": "Exercise",
+  "number": "9.7.4",
+  "title": "",
+  "body": "  What will the partial pressure of oxygen gas be in the chamber at the end of the reaction in MPa?    1.1 MPa   "
+},
+{
+  "id": "sec-gas7-5-4-4",
+  "level": "2",
+  "url": "sec-gas7.html#sec-gas7-5-4-4",
+  "type": "Exercise",
+  "number": "9.7.5",
+  "title": "",
+  "body": "  What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer in Exercise 3 Question 2.    3.4 MPa   "
 },
 {
   "id": "sec-gas8",
@@ -6495,17 +7593,62 @@ var ptx_lunr_docs = [
   "url": "sec-gas8.html",
   "type": "Section",
   "number": "9.8",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Henry’s Law and Breathing",
+  "body": " Henry’s Law and Breathing  Henry’s Law is our last gas law. It deals with solubility. Solubility is the amount of a material that can be dissolved into another; in this case, we’re talking about how much gas can dissolve in water. Henry’s law states that the solubility of a gas is directly proportional to its partial pressure. If the partial pressure of a gas is increased, it can press its way into the liquid more easily, and thus more of that gas dissolves.  Now we’re going to do some practice problems dealing with gas laws and breathing.   Exercise 1    The lungs inflate and deflate because of the action of a muscle called the diaphragm. This muscle causes the lung volume to expand and contract.     If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?    Pressure decreases, Boyle’s law      If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?    Pressure increases, Boyle’s law      Air will spontaneously move from areas of high pressure to areas of low pressure. For a and b above, which corresponds to inhaling, and which corresponds to exhaling?    A is inhaling, B is exhaling       In our lungs our cells are exposed to air that has a high partial pressure of oxygen gas. Would the solubility of oxygen in our blood in the lungs be high or low?    High solubility of oxygen      When blood travels through our peripheral tissues, the amount of oxygen gas decreases because it gets taken up by our tissues. This __________(decreases\/increases) the partial pressure of oxygen that the blood is exposed to and thus ___________(increases\/decreases) the solubility of oxygen in the blood. Explain how this makes it easier for muscles to obtain oxygen from the bloodstream.    Decreases, decreases. Since the blood has a lower solubility of oxygen due to Henry’s Law, this causes even more oxygen to leave the blood for the tissues to use, ultimately removing almost all of the oxygen from the blood for use by tissues in the body.      Carbon dioxide is made in our peripheral tissues and is only a small component of our atmosphere. As a result the partial pressure of carbon dioxide is __________(high\/low) in our peripheral tissues, meaning that its solubility in our blood is ______ (high\/low). When blood travels to the lungs, due to the low amount of carbon dioxide in the atmosphere, its partial pressure is ____(high\/low). This _______(increases\/decreases) the solubility of carbon dioxide in the blood, allowing it to be eliminated from the body.    High, high, low, decreases     "
 },
 {
-  "id": "sec-gas8-2",
+  "id": "sec-gas8-4-2-2",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas8.html#sec-gas8-4-2-2",
+  "type": "Exercise",
+  "number": "9.8.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?    Pressure decreases, Boyle’s law   "
+},
+{
+  "id": "sec-gas8-4-2-3",
+  "level": "2",
+  "url": "sec-gas8.html#sec-gas8-4-2-3",
+  "type": "Exercise",
+  "number": "9.8.2",
+  "title": "",
+  "body": "  If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?    Pressure increases, Boyle’s law   "
+},
+{
+  "id": "sec-gas8-4-2-4",
+  "level": "2",
+  "url": "sec-gas8.html#sec-gas8-4-2-4",
+  "type": "Exercise",
+  "number": "9.8.3",
+  "title": "",
+  "body": "  Air will spontaneously move from areas of high pressure to areas of low pressure. For a and b above, which corresponds to inhaling, and which corresponds to exhaling?    A is inhaling, B is exhaling   "
+},
+{
+  "id": "sec-gas8-4-3",
+  "level": "2",
+  "url": "sec-gas8.html#sec-gas8-4-3",
+  "type": "Exercise",
+  "number": "9.8.4",
+  "title": "",
+  "body": "  In our lungs our cells are exposed to air that has a high partial pressure of oxygen gas. Would the solubility of oxygen in our blood in the lungs be high or low?    High solubility of oxygen   "
+},
+{
+  "id": "sec-gas8-4-4",
+  "level": "2",
+  "url": "sec-gas8.html#sec-gas8-4-4",
+  "type": "Exercise",
+  "number": "9.8.5",
+  "title": "",
+  "body": "  When blood travels through our peripheral tissues, the amount of oxygen gas decreases because it gets taken up by our tissues. This __________(decreases\/increases) the partial pressure of oxygen that the blood is exposed to and thus ___________(increases\/decreases) the solubility of oxygen in the blood. Explain how this makes it easier for muscles to obtain oxygen from the bloodstream.    Decreases, decreases. Since the blood has a lower solubility of oxygen due to Henry’s Law, this causes even more oxygen to leave the blood for the tissues to use, ultimately removing almost all of the oxygen from the blood for use by tissues in the body.   "
+},
+{
+  "id": "sec-gas8-4-5",
+  "level": "2",
+  "url": "sec-gas8.html#sec-gas8-4-5",
+  "type": "Exercise",
+  "number": "9.8.6",
+  "title": "",
+  "body": "  Carbon dioxide is made in our peripheral tissues and is only a small component of our atmosphere. As a result the partial pressure of carbon dioxide is __________(high\/low) in our peripheral tissues, meaning that its solubility in our blood is ______ (high\/low). When blood travels to the lungs, due to the low amount of carbon dioxide in the atmosphere, its partial pressure is ____(high\/low). This _______(increases\/decreases) the solubility of carbon dioxide in the blood, allowing it to be eliminated from the body.    High, high, low, decreases   "
 },
 {
   "id": "sec-gas9",
@@ -6513,71 +7656,80 @@ var ptx_lunr_docs = [
   "url": "sec-gas9.html",
   "type": "Section",
   "number": "9.9",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
+  "title": "Which Equation do I Need??",
+  "body": " Which Equation do I Need??  Each of the problems that you’ve done thus far is within a single section of the chapter, making it relatively easy to figure out what equation to use. On an exam, the problems are not organized in such a straightforward manner, and it falls on you to figure out which one(s) you need to use. Here are some tips:  1. In the problem, is something about the gas changing (pressure, volume, moles, temperature)? If so, then you want to use an equation with the subscript 1’s and 2’s...Boyle’s, Charles’s, Gay-Lussac’s, Combined Gas Law, Avogadro’s Law. 2. Are you trying to find a missing parameter about the gas, but nothing is changing...probably need the Ideal Gas Law.  3. Is your problem dealing with a reaction or mass of the gas? If so, you probably need to change to moles (using either molar mass or the Ideal Gas Law) 4. Partial pressures or gas mixtures? Then think Dalton’s Law 5. Find an equation that has the parameters that are provided and the one that you want. (if you are given a starting pressure and temperature of a gas, and the pressure is changed and you’re being asked for temperature, then Gay-Lussac’s should be used because it has only pressure and temperature in the equation)   Exercise 2    If you have 2.0 grams of argon gas in a 25L balloon, what will the new volume be if    63 L      0 grams of argon gas is added. Assume that the temperature and pressure do NOT change.    12 atm      If a gas has a pressure of 2.1 atm and a volume of 3.3 L, what will the new pressure be if the volume is expanded to 5.7 L?    1.2 atm      A gas at 271 K, 3.3 atm of pressure, and with a volume of 5.4 L is heated to 299K at the same time that its volume is decrease to 1.7 L. What is the new pressure?    12 atm      3.5 grams of gaseous water vapor is at a temperature of 452K in a volume of 150mL. What is the pressure of this gas in MPa?    4.9 MPa      2.5 moles of gas A completely reacts to form gases B and C according to the reaction below. The reaction takes place in a 15L vessel at 522K. 2A(g) → B(g) + 3C(g)     What is the pressure in units of Pa at the beginning of the reaction in MPa?    0.72 MPa      What is the partial pressure of B in the vessel at the end of the reaction in MPa?    0.36 MPa      What is the total pressure in the vessel at the end of the reaction in MPa?    1.4 MPa      "
 },
 {
-  "id": "sec-gas9-2",
+  "id": "sec-gas9-5-2",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas9.html#sec-gas9-5-2",
+  "type": "Exercise",
+  "number": "9.9.1",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If you have 2.0 grams of argon gas in a 25L balloon, what will the new volume be if    63 L   "
 },
 {
-  "id": "sec-gas10",
-  "level": "1",
-  "url": "sec-gas10.html",
-  "type": "Section",
-  "number": "9.10",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
-},
-{
-  "id": "sec-gas10-2",
+  "id": "sec-gas9-5-3",
   "level": "2",
-  "url": "sec-gas10.html#sec-gas10-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas9.html#sec-gas9-5-3",
+  "type": "Exercise",
+  "number": "9.9.2",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  0 grams of argon gas is added. Assume that the temperature and pressure do NOT change.    12 atm   "
 },
 {
-  "id": "sec-gas11",
-  "level": "1",
-  "url": "sec-gas11.html",
-  "type": "Section",
-  "number": "9.11",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
-},
-{
-  "id": "sec-gas11-2",
+  "id": "sec-gas9-5-4",
   "level": "2",
-  "url": "sec-gas11.html#sec-gas11-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas9.html#sec-gas9-5-4",
+  "type": "Exercise",
+  "number": "9.9.3",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  If a gas has a pressure of 2.1 atm and a volume of 3.3 L, what will the new pressure be if the volume is expanded to 5.7 L?    1.2 atm   "
 },
 {
-  "id": "sec-gas12",
-  "level": "1",
-  "url": "sec-gas12.html",
-  "type": "Section",
-  "number": "9.12",
-  "title": "Gases 1",
-  "body": " Gases 1    Kinetic molecular theory of gases and pressure   "
-},
-{
-  "id": "sec-gas12-2",
+  "id": "sec-gas9-5-5",
   "level": "2",
-  "url": "sec-gas12.html#sec-gas12-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-gas9.html#sec-gas9-5-5",
+  "type": "Exercise",
+  "number": "9.9.4",
   "title": "",
-  "body": "Kinetic molecular theory of gases and pressure "
+  "body": "  A gas at 271 K, 3.3 atm of pressure, and with a volume of 5.4 L is heated to 299K at the same time that its volume is decrease to 1.7 L. What is the new pressure?    12 atm   "
+},
+{
+  "id": "sec-gas9-5-6",
+  "level": "2",
+  "url": "sec-gas9.html#sec-gas9-5-6",
+  "type": "Exercise",
+  "number": "9.9.5",
+  "title": "",
+  "body": "  3.5 grams of gaseous water vapor is at a temperature of 452K in a volume of 150mL. What is the pressure of this gas in MPa?    4.9 MPa   "
+},
+{
+  "id": "sec-gas9-5-7-2",
+  "level": "2",
+  "url": "sec-gas9.html#sec-gas9-5-7-2",
+  "type": "Exercise",
+  "number": "9.9.6",
+  "title": "",
+  "body": "  What is the pressure in units of Pa at the beginning of the reaction in MPa?    0.72 MPa   "
+},
+{
+  "id": "sec-gas9-5-7-3",
+  "level": "2",
+  "url": "sec-gas9.html#sec-gas9-5-7-3",
+  "type": "Exercise",
+  "number": "9.9.7",
+  "title": "",
+  "body": "  What is the partial pressure of B in the vessel at the end of the reaction in MPa?    0.36 MPa   "
+},
+{
+  "id": "sec-gas9-5-7-4",
+  "level": "2",
+  "url": "sec-gas9.html#sec-gas9-5-7-4",
+  "type": "Exercise",
+  "number": "9.9.8",
+  "title": "",
+  "body": "  What is the total pressure in the vessel at the end of the reaction in MPa?    1.4 MPa   "
 },
 {
   "id": "sec-solutions1",
@@ -6585,26 +7737,80 @@ var ptx_lunr_docs = [
   "url": "sec-solutions1.html",
   "type": "Section",
   "number": "10.1",
-  "title": "Solutions with covalent vs. ionic compounds",
-  "body": " Solutions with covalent vs. ionic compounds   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Solutions with covalent vs. ionic compounds   "
+  "title": "Solubility and temperature effects",
+  "body": " Solubility and temperature effects  Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated. A saturated solution is one where the maximum  possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn’t saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below: 17.5g NaCl x = 43 g water 100g water  x = 40.7 g NaCl  Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we’d end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas. For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution. These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercise 2    If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?     75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water--yes      57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water--yes      5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water--yes       The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.     How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g      "
 },
 {
-  "id": "sec-solutions1-2",
+  "id": "sec-solutions1-8-2-2",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-2",
+  "type": "Exercise",
+  "number": "10.1.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions1-4",
+  "id": "sec-solutions1-8-2-3",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-3",
+  "type": "Exercise",
+  "number": "10.1.2",
   "title": "",
-  "body": "Solutions with covalent vs. ionic compounds "
+  "body": "  95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no   "
+},
+{
+  "id": "sec-solutions1-8-2-4",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-4",
+  "type": "Exercise",
+  "number": "10.1.3",
+  "title": "",
+  "body": "  44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water--yes   "
+},
+{
+  "id": "sec-solutions1-8-2-5",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-5",
+  "type": "Exercise",
+  "number": "10.1.4",
+  "title": "",
+  "body": "  57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water--yes   "
+},
+{
+  "id": "sec-solutions1-8-2-6",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-6",
+  "type": "Exercise",
+  "number": "10.1.5",
+  "title": "",
+  "body": "  5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water--yes   "
+},
+{
+  "id": "sec-solutions1-8-3-2",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-3-2",
+  "type": "Exercise",
+  "number": "10.1.6",
+  "title": "",
+  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g   "
+},
+{
+  "id": "sec-solutions1-8-3-3",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-3-3",
+  "type": "Exercise",
+  "number": "10.1.7",
+  "title": "",
+  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g   "
+},
+{
+  "id": "sec-solutions1-8-3-4",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-3-4",
+  "type": "Exercise",
+  "number": "10.1.8",
+  "title": "",
+  "body": "  If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g   "
 },
 {
   "id": "sec-solutions2",
@@ -6612,26 +7818,143 @@ var ptx_lunr_docs = [
   "url": "sec-solutions2.html",
   "type": "Section",
   "number": "10.2",
-  "title": "Solubility",
-  "body": " Solubility   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Solubility   "
+  "title": "Solutions with covalent vs. ionic compounds",
+  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we’ve made a solution. The substance that there is less of is called the solute and the substance that there is more of is called the solvent. When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we’re going to be considering cases where water is the solvent.  Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their previous state.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we’ve learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (dipole- dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let’s draw some parallels to reaction energy diagrams that we’ve learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving ‘reaction’ (we usually don’t actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   Exercise 1    Will the following compounds break apart into ions or remain intact when dissolved in water?     CH4    No      CH2 O    No      KBr    Yes      NH4 Cl    Yes      CuSO4    Yes      CH3 NH2    No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?     CH4    London dispersion      H2 O    London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
 },
 {
-  "id": "sec-solutions2-2",
+  "id": "sec-solutions2-6-2-2",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions2.html#sec-solutions2-6-2-2",
+  "type": "Exercise",
+  "number": "10.2.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  CH4    No   "
 },
 {
-  "id": "sec-solutions2-4",
+  "id": "sec-solutions2-6-2-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions2.html#sec-solutions2-6-2-3",
+  "type": "Exercise",
+  "number": "10.2.2",
   "title": "",
-  "body": "Solubility "
+  "body": "  CH2 O    No   "
+},
+{
+  "id": "sec-solutions2-6-2-4",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-2-4",
+  "type": "Exercise",
+  "number": "10.2.3",
+  "title": "",
+  "body": "  KBr    Yes   "
+},
+{
+  "id": "sec-solutions2-6-2-5",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-2-5",
+  "type": "Exercise",
+  "number": "10.2.4",
+  "title": "",
+  "body": "  NH4 Cl    Yes   "
+},
+{
+  "id": "sec-solutions2-6-2-6",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-2-6",
+  "type": "Exercise",
+  "number": "10.2.5",
+  "title": "",
+  "body": "  CuSO4    Yes   "
+},
+{
+  "id": "sec-solutions2-6-2-7",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-2-7",
+  "type": "Exercise",
+  "number": "10.2.6",
+  "title": "",
+  "body": "  CH3 NH2    No   "
+},
+{
+  "id": "sec-solutions2-6-3-2",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-3-2",
+  "type": "Exercise",
+  "number": "10.2.7",
+  "title": "",
+  "body": "  A compound that will dissolve    A compound that will dissolve   "
+},
+{
+  "id": "sec-solutions2-6-3-3",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-3-3",
+  "type": "Exercise",
+  "number": "10.2.8",
+  "title": "",
+  "body": "  A compound that won’t dissolve    A compound that won’t dissolve   "
+},
+{
+  "id": "sec-solutions2-6-4-2",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-4-2",
+  "type": "Exercise",
+  "number": "10.2.9",
+  "title": "",
+  "body": "  CH4    London dispersion   "
+},
+{
+  "id": "sec-solutions2-6-4-3",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-4-3",
+  "type": "Exercise",
+  "number": "10.2.10",
+  "title": "",
+  "body": "  H2 O    London dispersion, dipole-dipole, hydrogen bonds   "
+},
+{
+  "id": "sec-solutions2-6-5-2",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-5-2",
+  "type": "Exercise",
+  "number": "10.2.11",
+  "title": "",
+  "body": "  What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces   "
+},
+{
+  "id": "sec-solutions2-6-5-3",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-5-3",
+  "type": "Exercise",
+  "number": "10.2.12",
+  "title": "",
+  "body": "  What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds   "
+},
+{
+  "id": "sec-solutions2-6-5-4",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-5-4",
+  "type": "Exercise",
+  "number": "10.2.13",
+  "title": "",
+  "body": "  Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).   "
+},
+{
+  "id": "sec-solutions2-6-5-5",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-5-5",
+  "type": "Exercise",
+  "number": "10.2.14",
+  "title": "",
+  "body": "  Based on this diagram, would this compound dissolve or not?    Will not dissolve   "
+},
+{
+  "id": "sec-solutions2-6-5-6",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-6-5-6",
+  "type": "Exercise",
+  "number": "10.2.15",
+  "title": "",
+  "body": "  Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more   "
 },
 {
   "id": "sec-solutions3",
@@ -6640,25 +7963,88 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Measuring concentration with percent composition",
-  "body": " Measuring concentration with percent composition   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Measuring concentration with percent composition   "
+  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below: g of solute 1. mass − mass percent = g of solution × 100 with units of % m\/m g of solute 2. mass − volume percent = mL of solution × 100 with units of % m\/v mL of solute 3. volume − volume percent = mL of solution × 100 with units of % v\/v  When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we’re using match the units in the formula...if they don’t we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution as shown below:  How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?  1. Create a conversion factor using the percent composition. Since the values are percents, the bottom will always have a value of 100: 65 mL ethanol 65% volume − volume = 100 mL solution 2. Use dimensional analysis: 65mL ethanol 250 mL solution ( ) = 162.5mL ethanol → 160 mL ethanol 100 mL solution   Exercise 3    Calculate the mass-mass percent for the following solutions     3 g NaCl dissolved in 55 g solution    5% m\/m      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m      0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m       Calculate the mass-volume percent for the following solutions     3 g NaCl dissolved in 45 mL of solution    7% m\/v      175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v       Calculate the volume-volume percent for the following solutions     32 mL of ethanol dissolved in 100 mL of solution    32% v\/v      165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v       How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    0.34 moles     "
 },
 {
-  "id": "sec-solutions3-2",
+  "id": "sec-solutions3-7-2-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions3.html#sec-solutions3-7-2-2",
+  "type": "Exercise",
+  "number": "10.3.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  3 g NaCl dissolved in 55 g solution    5% m\/m   "
 },
 {
-  "id": "sec-solutions3-4",
+  "id": "sec-solutions3-7-2-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions3.html#sec-solutions3-7-2-3",
+  "type": "Exercise",
+  "number": "10.3.2",
   "title": "",
-  "body": "Measuring concentration with percent composition "
+  "body": "  3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m   "
+},
+{
+  "id": "sec-solutions3-7-2-4",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-2-4",
+  "type": "Exercise",
+  "number": "10.3.3",
+  "title": "",
+  "body": "  0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m   "
+},
+{
+  "id": "sec-solutions3-7-3-2",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-3-2",
+  "type": "Exercise",
+  "number": "10.3.4",
+  "title": "",
+  "body": "  3 g NaCl dissolved in 45 mL of solution    7% m\/v   "
+},
+{
+  "id": "sec-solutions3-7-3-3",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-3-3",
+  "type": "Exercise",
+  "number": "10.3.5",
+  "title": "",
+  "body": "  175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v   "
+},
+{
+  "id": "sec-solutions3-7-4-2",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-4-2",
+  "type": "Exercise",
+  "number": "10.3.6",
+  "title": "",
+  "body": "  32 mL of ethanol dissolved in 100 mL of solution    32% v\/v   "
+},
+{
+  "id": "sec-solutions3-7-4-3",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-4-3",
+  "type": "Exercise",
+  "number": "10.3.7",
+  "title": "",
+  "body": "  165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v   "
+},
+{
+  "id": "sec-solutions3-7-5",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-5",
+  "type": "Exercise",
+  "number": "10.3.8",
+  "title": "",
+  "body": "  How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g   "
+},
+{
+  "id": "sec-solutions3-7-6",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-6",
+  "type": "Exercise",
+  "number": "10.3.9",
+  "title": "",
+  "body": "  How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    0.34 moles   "
 },
 {
   "id": "sec-solutions4",
@@ -6666,26 +8052,62 @@ var ptx_lunr_docs = [
   "url": "sec-solutions4.html",
   "type": "Section",
   "number": "10.4",
-  "title": "Measuring concentration with molarity",
-  "body": " Measuring concentration with molarity   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Measuring concentration with molarity   "
+  "title": "Molarity",
+  "body": " Molarity  Chemists often use a different unit of concentration because it’s often helpful to know the number of moles of solute dissolved in solution (because knowing the number of moles is critical if we’re doing any calculations involving chemical reactions). This unit of concentration is molarity. Molarity has a symbol of capital M, which is a shorthand abbreviation for moles\/L. Thus a 3.0 M solution of sodium chloride has 3.0 moles of sodium chloride dissolved in 1 L of solution. This can be expressed as the following formula: moles of solute Molarity = L of solution 1.5 moles solute Thus, if 1.5 moles of solute is dissolved in 0.50 L of solution, the molarity is 0.50L solution = 3.0 M. We can also append the metric prefixes on molarity (ex. mM). The prefix pertains to millimoles solute the number of moles of solute. So mM means . L solution  Using molarity as a conversion factor:  How many grams of sodium hydroxide are contained in a 150 mL of a 500.0 mM solution of sodium hydroxide.  1. Convert volume and molarity to their base units. Volume should be in liters and we want to remove prefixes from molarity 10−3 L 150mL ( ) = 0.15 L 1mL 10−3 M 500.0mM ( ) = 0.5000M 1mM 2. Write molarity as a conversion factor: 0.5000 moles NaOH 0.5000M NaOH = 1 L solution 3. Use molarity to determine the number of moles of solute: 0.5000 moles NaOH 0.15 L solution ( ) = 0.075 moles NaOH 1 L solution 4. Convert from moles to grams with the molar mass 40.0g 0.075 moles NaOH ( ) = 3.0 g NaOH mole   Exercise 4    Calculate the molarity of the following solutions:     0.15 moles of NaCl dissolved in 0.37 L of solution    0.41M      0.070 moles of NaCl dissolved in 175 mL of solution    0.40 M      17 g of NaCl dissolved in 570 mL of solution    0.51 M       How many moles of sodium chloride are needed to prepare 45 mL of a 3.0M solution?    0.14 moles      How many grams of sodium chloride are needed to prepare 45 mL of a 3.0 M solution?    7.9g      How many mg of sodium chloride are contained in 1.00 mL of a 175 mM solution of sodium chloride?    10.2 mg     "
 },
 {
-  "id": "sec-solutions4-2",
+  "id": "sec-solutions4-6-2-2",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions4.html#sec-solutions4-6-2-2",
+  "type": "Exercise",
+  "number": "10.4.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  0.15 moles of NaCl dissolved in 0.37 L of solution    0.41M   "
 },
 {
-  "id": "sec-solutions4-4",
+  "id": "sec-solutions4-6-2-3",
   "level": "2",
-  "url": "sec-solutions4.html#sec-solutions4-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions4.html#sec-solutions4-6-2-3",
+  "type": "Exercise",
+  "number": "10.4.2",
   "title": "",
-  "body": "Measuring concentration with molarity "
+  "body": "  0.070 moles of NaCl dissolved in 175 mL of solution    0.40 M   "
+},
+{
+  "id": "sec-solutions4-6-2-4",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-6-2-4",
+  "type": "Exercise",
+  "number": "10.4.3",
+  "title": "",
+  "body": "  17 g of NaCl dissolved in 570 mL of solution    0.51 M   "
+},
+{
+  "id": "sec-solutions4-6-3",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-6-3",
+  "type": "Exercise",
+  "number": "10.4.4",
+  "title": "",
+  "body": "  How many moles of sodium chloride are needed to prepare 45 mL of a 3.0M solution?    0.14 moles   "
+},
+{
+  "id": "sec-solutions4-6-4",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-6-4",
+  "type": "Exercise",
+  "number": "10.4.5",
+  "title": "",
+  "body": "  How many grams of sodium chloride are needed to prepare 45 mL of a 3.0 M solution?    7.9g   "
+},
+{
+  "id": "sec-solutions4-6-5",
+  "level": "2",
+  "url": "sec-solutions4.html#sec-solutions4-6-5",
+  "type": "Exercise",
+  "number": "10.4.6",
+  "title": "",
+  "body": "  How many mg of sodium chloride are contained in 1.00 mL of a 175 mM solution of sodium chloride?    10.2 mg   "
 },
 {
   "id": "sec-solutions5",
@@ -6693,26 +8115,53 @@ var ptx_lunr_docs = [
   "url": "sec-solutions5.html",
   "type": "Section",
   "number": "10.5",
-  "title": "Measuring charge in solution with equivalents",
-  "body": " Measuring charge in solution with equivalents   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Measuring charge in solution with equivalents   "
+  "title": "Dilution calculations",
+  "body": " Dilution calculations  It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:  C1 V1 = C2 V2  The C’s are concentration and the V’s are volume. C1 and V1 represent the concentration of the starting solution and the volume of it that was diluted. C2 and V2 represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of V1 and V2 are the same. Likewise, the units on C1 and C2 can be any concentration unit, as long as the units are the same.   Exercise 2    17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M      28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v      75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL      You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L      You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.     "
 },
 {
-  "id": "sec-solutions5-2",
+  "id": "sec-solutions5-5-2",
   "level": "2",
-  "url": "sec-solutions5.html#sec-solutions5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions5.html#sec-solutions5-5-2",
+  "type": "Exercise",
+  "number": "10.5.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M   "
 },
 {
-  "id": "sec-solutions5-4",
+  "id": "sec-solutions5-5-3",
   "level": "2",
-  "url": "sec-solutions5.html#sec-solutions5-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions5.html#sec-solutions5-5-3",
+  "type": "Exercise",
+  "number": "10.5.2",
   "title": "",
-  "body": "Measuring charge in solution with equivalents "
+  "body": "  28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v   "
+},
+{
+  "id": "sec-solutions5-5-4",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-5-4",
+  "type": "Exercise",
+  "number": "10.5.3",
+  "title": "",
+  "body": "  75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL   "
+},
+{
+  "id": "sec-solutions5-5-5",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-5-5",
+  "type": "Exercise",
+  "number": "10.5.4",
+  "title": "",
+  "body": "  You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L   "
+},
+{
+  "id": "sec-solutions5-5-6",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-5-6",
+  "type": "Exercise",
+  "number": "10.5.5",
+  "title": "",
+  "body": "  You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.   "
 },
 {
   "id": "sec-solutions6",
@@ -6720,26 +8169,62 @@ var ptx_lunr_docs = [
   "url": "sec-solutions6.html",
   "type": "Section",
   "number": "10.6",
-  "title": "Dilution calculations",
-  "body": " Dilution calculations   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Dilution calculations   "
+  "title": "Measuring equivalents of charge in solution",
+  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:  Eq = moles × |charge|  So if you have 2 moles of sulfate ions, then you have 2 × |−2| = 2 × 2 = 4 Eq of sulfate. We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:  Calculate the number of equivalents in 2 moles of potassium sulfate.  1. Figure out the chemical formula if not provided K2 SO4 2. Figure out the number of moles and charge for each of the ions Charge of K = +1 Charge of sulfate = −2 2 moles K + moles of K + = 2 moles K2 SO4 ( ) = 4 moles K + 1 mole K2 SO4 1 mole SO42+ moles SO42+ = 2 moles K2 SO4 ( ) = 2 moles SO42+ 1 mole K2 SO4 3. Solve for the number of Eq of both ions then add them together: Eq K + = 4 moles × |1| = 4 Eq Eq SO42+ = 2 moles × |−2| = 4 Eq 4Eq + 4Eq = 8Eq total  Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution (Eq\/L). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It’s important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L (mEq\/L). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:  If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.  1. Figure out the formula for the compound K3 PO4 2. Convert from grams to moles mole 5.0g K3 PO4 ( ) = 0.02356 moles K3 PO4 212.265g 3. Calculate the charge and moles of each ion + 3 moles K + Moles K = 0.02356 moles K3 PO4 ( ) = 0.07067 moles K + 1 mole K3 PO4 1 mole PO43− Moles PO43− = 0.02356 moles K3 PO4 ( ) = 0.02356 moles PO43− 1 mole K3 PO4 4. Calculate the Eq of each ion and then add them together Eq of K + = 0.07067 × |1| = 0.07067 Eq Eq of PO43− = 0.02356 × |−3| = 0.07067 Eq Total Eq = 0.07067 Eq + 0.07067 Eq = 0.1413 Eq 5. Convert from Eq to mEq 1mEq 0.1413 Eq ( −3 ) = 141.3 mEq 10 Eq 6. Convert from mL to L 10−3 L 150mL ( ) = 0.15L 1 mL 7. Divide mEq by L 141.3 mEq 942 mEq 940 mEq = → 0.15L L L   Exercise 1    How many Eq of K+ do you have if you have 0.150 moles of KCl    0.150 Eq      How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq      Calculate the number of mEq of calcium ions in 0.050 moles of Ca(NO3 )2    100 mEq      How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34mEq      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L     "
 },
 {
-  "id": "sec-solutions6-2",
+  "id": "sec-solutions6-10-2",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions6.html#sec-solutions6-10-2",
+  "type": "Exercise",
+  "number": "10.6.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  How many Eq of K+ do you have if you have 0.150 moles of KCl    0.150 Eq   "
 },
 {
-  "id": "sec-solutions6-4",
+  "id": "sec-solutions6-10-3",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions6.html#sec-solutions6-10-3",
+  "type": "Exercise",
+  "number": "10.6.2",
   "title": "",
-  "body": "Dilution calculations "
+  "body": "  How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq   "
+},
+{
+  "id": "sec-solutions6-10-4",
+  "level": "2",
+  "url": "sec-solutions6.html#sec-solutions6-10-4",
+  "type": "Exercise",
+  "number": "10.6.3",
+  "title": "",
+  "body": "  Calculate the number of mEq of calcium ions in 0.050 moles of Ca(NO3 )2    100 mEq   "
+},
+{
+  "id": "sec-solutions6-10-5",
+  "level": "2",
+  "url": "sec-solutions6.html#sec-solutions6-10-5",
+  "type": "Exercise",
+  "number": "10.6.4",
+  "title": "",
+  "body": "  How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34mEq   "
+},
+{
+  "id": "sec-solutions6-10-6",
+  "level": "2",
+  "url": "sec-solutions6.html#sec-solutions6-10-6",
+  "type": "Exercise",
+  "number": "10.6.5",
+  "title": "",
+  "body": "  If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L   "
+},
+{
+  "id": "sec-solutions6-10-7",
+  "level": "2",
+  "url": "sec-solutions6.html#sec-solutions6-10-7",
+  "type": "Exercise",
+  "number": "10.6.6",
+  "title": "",
+  "body": "  Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L   "
 },
 {
   "id": "sec-solutions7",
@@ -6747,26 +8232,53 @@ var ptx_lunr_docs = [
   "url": "sec-solutions7.html",
   "type": "Section",
   "number": "10.7",
-  "title": "Stoichiometry calculations with molarity",
-  "body": " Stoichiometry calculations with molarity   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Stoichiometry calculations with molarity   "
+  "title": "Molarity in reactions",
+  "body": " Molarity in reactions  We can do chemical reactions using reactants that are dissolved in solution. We’ve learned one example of this previously when we learned about precipitation reactions. In our next chapter, we will learn about acid-base reactions which often take place in solution as well. Because of this, it is important to be able to carry out calculations involving these reactions. Solution reactions are particularly important because of titrations, chemical reactions that are carried out to measure the amount (or concentration) of a molecule or ion in a solution. Titrations are very useful in chemistry, allowing chemists to measure the quantities such as the amount of pollutants in drinking water.  Thankfully, carrying out these sorts of calculations proceeds in a similar way as other reaction calculations that we’ve done previously. The difference is in the start point and end point. Instead of starting off with a mass of reactant, we will start off with a molarity and volume. We can use this information to calculate the number of moles of the reactant using dimensional analysis or the formula below:  Molarity × Liters = moles  Once we know the number of moles of reactant, we can change this to moles of another reactant or moles of product by using a mole-mole conversion factor derived from the balanced chemical equation. From there, the number of moles of that substance can be converted to mass using the molar mass or to molarity using the volume. See the figure and example below.  Example. If 23.5mL of 0.988 M NaOH is needed to neutralize (fully react with) 7.50 mL of HCl, then what is the molarity of that HCl solution?  HCl(aq) + NaOH(aq) → NaCl(aq) + H2 O(l)  1. We have molarity and volume of one component in a reaction and are being asked for the molarity of the other reactant. The first step is to figure out moles of NaOH. a. Molarity x Liters= moles. Our volume is in mL. We need to convert this to L before using it: 10−3 L 23.5 mL ( ) = 0.0235L 1 mL 0.988 moles × 0.0235L = 0.023218 moles NaOH L 2. We need to convert from moles of NaOH to moles of HCl using a mole-mole conversion factor 1 mole HCl 0.023218 moles NaOH ( ) = 0.023218 moles HCl 1 mole NaOH 3. Molarity=moles\/Liters. We need to first change our volume to L, then use the equation. 10−3 L 7.50 mL ( ) = 0.00750 L 1 mL 0.023218 moles = 3.0957 M → 3.10 M 0.00750 L   Exercise 3    Consider the reaction below. If 10.0 mL of 0.125 M lead (II) nitrate reacts with an excess of NaCl, how many g of lead (II) chloride would you expect? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    0.348 g      Consider the reaction below. If 4.75 mL of 0.0500 M NaOH is needed to neutralize (completely react) with 20.00 mL of HCl, then what is the molarity of the HCl solution? NaOH(aq) + HCl(aq) → H2 O(l) + NaCl(aq)    0.0119 M      Consider the reaction below. If 27.75 mL of 0.1200 M NaOH is needed to neutralize (completely react) with 20.00 mL of C2 O4 H2, then what is the molarity of the C2 O4 H2 solution? C2 O4 H2 (aq) + 2NaOH(aq) → 2H2 O(l) + Na2 C2 O4 (aq)    0.08325 M      A sample of water is contaminated with lead (II) nitrate. 10.0 L of the water is mixed with an excess of NaCl to precipitate the lead as lead (II) chloride according to the reaction below. 0.0751 g of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of μM? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    27.0 μM      3.5 L of 0.050 M iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?    26 g     "
 },
 {
-  "id": "sec-solutions7-2",
+  "id": "sec-solutions7-9-2",
   "level": "2",
-  "url": "sec-solutions7.html#sec-solutions7-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions7.html#sec-solutions7-9-2",
+  "type": "Exercise",
+  "number": "10.7.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Consider the reaction below. If 10.0 mL of 0.125 M lead (II) nitrate reacts with an excess of NaCl, how many g of lead (II) chloride would you expect? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    0.348 g   "
 },
 {
-  "id": "sec-solutions7-4",
+  "id": "sec-solutions7-9-3",
   "level": "2",
-  "url": "sec-solutions7.html#sec-solutions7-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions7.html#sec-solutions7-9-3",
+  "type": "Exercise",
+  "number": "10.7.2",
   "title": "",
-  "body": "Stoichiometry calculations with molarity "
+  "body": "  Consider the reaction below. If 4.75 mL of 0.0500 M NaOH is needed to neutralize (completely react) with 20.00 mL of HCl, then what is the molarity of the HCl solution? NaOH(aq) + HCl(aq) → H2 O(l) + NaCl(aq)    0.0119 M   "
+},
+{
+  "id": "sec-solutions7-9-4",
+  "level": "2",
+  "url": "sec-solutions7.html#sec-solutions7-9-4",
+  "type": "Exercise",
+  "number": "10.7.3",
+  "title": "",
+  "body": "  Consider the reaction below. If 27.75 mL of 0.1200 M NaOH is needed to neutralize (completely react) with 20.00 mL of C2 O4 H2, then what is the molarity of the C2 O4 H2 solution? C2 O4 H2 (aq) + 2NaOH(aq) → 2H2 O(l) + Na2 C2 O4 (aq)    0.08325 M   "
+},
+{
+  "id": "sec-solutions7-9-5",
+  "level": "2",
+  "url": "sec-solutions7.html#sec-solutions7-9-5",
+  "type": "Exercise",
+  "number": "10.7.4",
+  "title": "",
+  "body": "  A sample of water is contaminated with lead (II) nitrate. 10.0 L of the water is mixed with an excess of NaCl to precipitate the lead as lead (II) chloride according to the reaction below. 0.0751 g of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of μM? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    27.0 μM   "
+},
+{
+  "id": "sec-solutions7-9-6",
+  "level": "2",
+  "url": "sec-solutions7.html#sec-solutions7-9-6",
+  "type": "Exercise",
+  "number": "10.7.5",
+  "title": "",
+  "body": "  3.5 L of 0.050 M iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?    26 g   "
 },
 {
   "id": "sec-solutions8",
@@ -6774,26 +8286,107 @@ var ptx_lunr_docs = [
   "url": "sec-solutions8.html",
   "type": "Section",
   "number": "10.8",
-  "title": "Diffusion, dialysis, and osmosis",
-  "body": " Diffusion, dialysis, and osmosis   Summary:     Solutions are homogenous mixtures where a solute is dissolved into a solvent    Ionic compounds dissociate into ions when dissolved in water    Covalent compounds remain intact when dissolved in water     Diffusion, dialysis, and osmosis   "
+  "title": "Osmosis and dialysis",
+  "body": " Osmosis and dialysis  If two solutions (or one solution and a pure solvent) are separated by a semi- permeable membrane, then dialysis and osmosis can occur. What is a semi-permeable membrane? It is a membrane that has very tiny holes in it that of a certain size. This allows very small molecules and ions to travel across the membrane (ex. water, small covalent molecules like glucose, and soluble salts can cross the membrane) while larger molecules and objects can’t (ex. proteins and blood cells cannot cross because they can’t fit through the tiny holes). Diffusion is a term that describes the movement of molecules in a solution. In diffusion, molecules generally move from an area with a high concentration to an area with low concentration. Dialysis is a term that describes the diffusion of solute molecules across a semipermeable membrane from the side with a high concentration to an area with a low concentration. Osmosis describes the movement of water (the solvent) across the semi-permeable membrane, and will be discussed in a little bit.  As stated above, solute will move via diffusion from an area of low concentration to an area of high concentration. This will continue until the concentrations are the same on both sides of the membrane. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the NaCl will move from the side with 1.0M NaCl towards the side with 0.50M NaCl. If both sides have the same volume, then this will continue until the concentration on both sides is the average of the two starting concentrations, 0.75M NaCl (IMPORTANT NOTE: this is only the case if the volumes are the same on both sides of the membrane. In this class, we will not do the more complex calculations where the volumes are different on both sides of the membrane).  Osmosis is similar to dialysis, but it describes the movement of the solvent (water) instead of the solute. Similar to dialysis, osmosis is governed by diffusion and water will move from an area with a high concentration of water to a low concentration of water. Why am I emphasizing that the movement depends on the concentration of water? This is  because concentrations usually focus on the concentration of the solute, rather than the solvent. How are we supposed to figure out the concentration of the water then? We can qualitatively determine the relative concentration by keeping in mind this rule: the concentration of solute and the concentration of solvent are inversely proportional...meaning that if the concentration of solute is high, then the concentration of solvent is low. Why is this? It’s because if there is a lot of solute, then it is taking up space in the solution that would otherwise have been occupied by solvent...thus there is less solvent in the same amount of space.  In osmosis, water will flow from the side with a low solute concentration to the side with a high solute concentration, because that is the same as saying that the water is flowing from the side with a high water concentration to the side with a low water concentration. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the water will move from the side with 0.5 M NaCl towards the side with 1.0M NaCl, the opposite direction of the solute movement. The water pressing up against the membrane as it tries to cross applies a force to the membrane called osmotic pressure. In extreme cases, this pressure can be so strong that it causes the semi-permeable membrane to break.  Our body’s cells are surrounded by a semi-permeable cell membrane. Thus dialysis and osmosis are important considerations in medicine. This is particularly true when administering fluids directly into the bloodstream (ex. IV fluids). Doctors and nurses need to make sure that the osmotic pressure of the fluid being administered balances the osmotic pressure inside of the patient’s cells. Solutions where the osmotic pressure is balanced with the pressure inside of a cell are called isotonic solutions. Two common isotonic solutions used in medicine are 0.9% m\/v sodium chloride and 5% w\/v glucose. Solutions that contain too little solute (and thus a higher than normal concentration of water) are called hypotonic solutions. These solutions will cause water to rush into cells, causing them to swell and, in severe cases, to burst. If the concentration of solute is higher than normal, then the solution is a hypertonic solution. If a hypertonic solution is administered, water will move out of blood cells, causing them to shrink and wrinkle in appearance, a phenomenon called crenation.  In medicine, blood dialysis is used when a patient has non-functional kidneys. Our kidneys normally filter toxins from our blood stream and help to maintain ion and water balance. When the kidneys don’t work, then the blood must be filtered artificially. In blood dialysis, the patient’s blood is removed from their body and passed over a semi-permeable membrane. On the other side of the membrane is an isotonic solution that is free from the toxins that are found in blood. The semipermeable membrane prevents large proteins and  blood cells from leaving the blood. The toxins in the blood, however, can cross the membrane and flow from the area with high concentration (the blood) to the area with low concentration (the dialysis fluid on the other side of the membrane), thus eliminating them from the patient’s body.   Exercise 4    Chamber A contains 2L of 3.0 M glucose and Chamber B contains 2L of 1.0 M glucose. These chambers are separated by a semipermeable membrane.     Which direction (A to B or B to A) will glucose flow?    A to B      What is this called?    osmosis      Which direction will water flow?    B to A      What is this called    osmosis      What will the final concentration of glucose be in both chambers?    2.0 M       Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood     3% m\/v glucose    hypotonic      1.5 % m\/v NaCl    hypertonic      0.9 % m\/v NaCl    isotonic      3.0 g of glucose dissolved in 75 mL of water    hypotonic (4% m\/v)       Let’s assume that a patient’s body contains 6.0L of blood and that their blood contains 150 μM of a particular toxin. If their blood is dialyzed against 6.0L of isotonic fluid, then what will the concentration of toxin be after the dialysis?     The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?    38 μM      What if it is repeated a third time?    19 μM      "
 },
 {
-  "id": "sec-solutions8-2",
+  "id": "sec-solutions8-10-2-2",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions8.html#sec-solutions8-10-2-2",
+  "type": "Exercise",
+  "number": "10.8.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Which direction (A to B or B to A) will glucose flow?    A to B   "
 },
 {
-  "id": "sec-solutions8-4",
+  "id": "sec-solutions8-10-2-3",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions8.html#sec-solutions8-10-2-3",
+  "type": "Exercise",
+  "number": "10.8.2",
   "title": "",
-  "body": "Diffusion, dialysis, and osmosis "
+  "body": "  What is this called?    osmosis   "
+},
+{
+  "id": "sec-solutions8-10-2-4",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-2-4",
+  "type": "Exercise",
+  "number": "10.8.3",
+  "title": "",
+  "body": "  Which direction will water flow?    B to A   "
+},
+{
+  "id": "sec-solutions8-10-2-5",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-2-5",
+  "type": "Exercise",
+  "number": "10.8.4",
+  "title": "",
+  "body": "  What is this called    osmosis   "
+},
+{
+  "id": "sec-solutions8-10-2-6",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-2-6",
+  "type": "Exercise",
+  "number": "10.8.5",
+  "title": "",
+  "body": "  What will the final concentration of glucose be in both chambers?    2.0 M   "
+},
+{
+  "id": "sec-solutions8-10-3-2",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-3-2",
+  "type": "Exercise",
+  "number": "10.8.6",
+  "title": "",
+  "body": "  3% m\/v glucose    hypotonic   "
+},
+{
+  "id": "sec-solutions8-10-3-3",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-3-3",
+  "type": "Exercise",
+  "number": "10.8.7",
+  "title": "",
+  "body": "  1.5 % m\/v NaCl    hypertonic   "
+},
+{
+  "id": "sec-solutions8-10-3-4",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-3-4",
+  "type": "Exercise",
+  "number": "10.8.8",
+  "title": "",
+  "body": "  0.9 % m\/v NaCl    isotonic   "
+},
+{
+  "id": "sec-solutions8-10-3-5",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-3-5",
+  "type": "Exercise",
+  "number": "10.8.9",
+  "title": "",
+  "body": "  3.0 g of glucose dissolved in 75 mL of water    hypotonic (4% m\/v)   "
+},
+{
+  "id": "sec-solutions8-10-4-2",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-4-2",
+  "type": "Exercise",
+  "number": "10.8.10",
+  "title": "",
+  "body": "  The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?    38 μM   "
+},
+{
+  "id": "sec-solutions8-10-4-3",
+  "level": "2",
+  "url": "sec-solutions8.html#sec-solutions8-10-4-3",
+  "type": "Exercise",
+  "number": "10.8.11",
+  "title": "",
+  "body": "  What if it is repeated a third time?    19 μM   "
 },
 {
   "id": "sec-acidsbases1",
@@ -6801,53 +8394,89 @@ var ptx_lunr_docs = [
   "url": "sec-acidsbases1.html",
   "type": "Section",
   "number": "11.1",
-  "title": "What are acids and bases?",
-  "body": " What are acids and bases?   Summary:     Acids donate ions to other things and increase the amount of in a solution    Bases accept ions and increase the amount of in a solution     What are acids and bases?   There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:         Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +     Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H + and Cl - . Because HCl produces H + in water, it fits the definition of an Arrhenius acid. However, H + doesn’t exist for very long in water. It rapidly reacts with water to produce hydronium ion , H 3 O + . Thus the HCl actually donated an H + to water in this reaction, fitting the Brønstead-Lowry definition of an acid             A lone pair of electrons on water forms a covalent bond with a ion to form a hydronium ion.   Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na + and OH - . As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H + forming water.           Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:     In this reaction, the NH 3 (ammonia) accepts an H + from CH 3 CO 2 H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H + .  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.  "
+  "title": "What is an acid\/base?",
+  "body": " What is an acid\/base?  There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:  Name Definition of an acid Definition of a base Arrhenius definition Produces H+ Produces OH- Brønstead-Lowry definition Donates H+ Accepts H+  Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H+ and Cl-. Because HCl produces H+ in water, it fits the definition of an Arrhenius acid. However, H+ doesn’t exist for very long in water. It rapidly reacts with water to product hydronium ion, H3O+. Thus the HCl actually donated an H+ to water in this reaction, fitting the Brønstead-Lowry definition of an acid  HCl → H + + Cl −  H + + H2 O → H3 O+  HCl + H2 O → H3 O+ + Cl −  Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na+ and OH-. As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H+ forming water.  NaOH → Na + + OH −  OH − + HOH → HOH + OH −  (Note how the black H + is accepted by the red hydroxide from water)  Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:  NH3 (aq) + CH3 CO2 H(aq) → NH4+ (aq) + CH3 CO2− (aq)  In this reaction, the NH3 (ammonia) accepts an H+ from CH3CO2H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H+.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH4 not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.   Exercise 1    Identify the acid and base in the following reactions     HI(aq) + NaOH (aq) → H2 O(l) + NaI (aq)    HI acid + NaOH base      NH3 (aq) + HCl(aq) → NH4+ (aq) + Cl − (aq)    NH3 base + HCl acid      NH4+ (aq) + Cl − (aq) → NH3 (aq) + HCl (aq)    NH4+ acid + Cl − base      C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense    Water can be both an acid and a base      CH3 NH2 (aq) + CH3 CH2 CH2 CO2 H(aq) → CH3 NH3+ (aq) + CH3 CH2 CH2 CO2− (aq)    CH3 NH2 base + CH3 CH2 CH2 CO2 H acid      H2 SO4 (aq) + H2 O(l) → HSO4− (aq) + H3 O+ (aq)    H2 SO4 (aq)acid + H2 O(l) base      NH3 (aq) + H2 O(l) → NH4+ (aq) + OH − (aq)    NH3 (aq)base + H2 O(l)acid      Compare your answers in E and F, focusing on water. What interesting property does water possess?    Water can be both an acid and a base       Draw the Lewis structure of hydronium ion.    Structure is in the reading     "
 },
 {
-  "id": "sec-acidsbases1-2",
+  "id": "sec-acidsbases1-16-2-2",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-acidsbases1-4",
-  "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "What are acids and bases? "
-},
-{
-  "id": "sec-acidsbases1-6",
-  "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-6",
-  "type": "Table",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-2",
+  "type": "Exercise",
   "number": "11.1.1",
   "title": "",
-  "body": "       Name  Definition of an acid  Definition of a base    Arrhenius definition  Produces H +  Produces OH -    Brønstead-Lowry definition  Donates H +  Accepts H +    "
+  "body": "  HI(aq) + NaOH (aq) → H2 O(l) + NaI (aq)    HI acid + NaOH base   "
 },
 {
-  "id": "sec-acidsbases1-7",
+  "id": "sec-acidsbases1-16-2-3",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "hydronium ion "
-},
-{
-  "id": "sec-acidsbases1-11",
-  "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-11",
-  "type": "Figure",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-3",
+  "type": "Exercise",
   "number": "11.1.2",
   "title": "",
-  "body": "  A lone pair of electrons on water forms a covalent bond with a ion to form a hydronium ion.  "
+  "body": "  NH3 (aq) + HCl(aq) → NH4+ (aq) + Cl − (aq)    NH3 base + HCl acid   "
+},
+{
+  "id": "sec-acidsbases1-16-2-4",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-4",
+  "type": "Exercise",
+  "number": "11.1.3",
+  "title": "",
+  "body": "  NH4+ (aq) + Cl − (aq) → NH3 (aq) + HCl (aq)    NH4+ acid + Cl − base   "
+},
+{
+  "id": "sec-acidsbases1-16-2-5",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-5",
+  "type": "Exercise",
+  "number": "11.1.4",
+  "title": "",
+  "body": "  C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense    Water can be both an acid and a base   "
+},
+{
+  "id": "sec-acidsbases1-16-2-6",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-6",
+  "type": "Exercise",
+  "number": "11.1.5",
+  "title": "",
+  "body": "  CH3 NH2 (aq) + CH3 CH2 CH2 CO2 H(aq) → CH3 NH3+ (aq) + CH3 CH2 CH2 CO2− (aq)    CH3 NH2 base + CH3 CH2 CH2 CO2 H acid   "
+},
+{
+  "id": "sec-acidsbases1-16-2-7",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-7",
+  "type": "Exercise",
+  "number": "11.1.6",
+  "title": "",
+  "body": "  H2 SO4 (aq) + H2 O(l) → HSO4− (aq) + H3 O+ (aq)    H2 SO4 (aq)acid + H2 O(l) base   "
+},
+{
+  "id": "sec-acidsbases1-16-2-8",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-8",
+  "type": "Exercise",
+  "number": "11.1.7",
+  "title": "",
+  "body": "  NH3 (aq) + H2 O(l) → NH4+ (aq) + OH − (aq)    NH3 (aq)base + H2 O(l)acid   "
+},
+{
+  "id": "sec-acidsbases1-16-2-9",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-9",
+  "type": "Exercise",
+  "number": "11.1.8",
+  "title": "",
+  "body": "  Compare your answers in E and F, focusing on water. What interesting property does water possess?    Water can be both an acid and a base   "
+},
+{
+  "id": "sec-acidsbases1-16-3",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-16-3",
+  "type": "Exercise",
+  "number": "11.1.9",
+  "title": "",
+  "body": "  Draw the Lewis structure of hydronium ion.    Structure is in the reading   "
 },
 {
   "id": "sec-acidsbases2",
@@ -6856,25 +8485,187 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.2",
   "title": "Naming acids and bases",
-  "body": " Naming acids and bases   Summary:     Acid naming rules    Bases naming rules     Naming acids and bases   We already know how to name the common bases that we’ll see in this chapter. Most of the bases we’ll be discussing are ionic compounds that contain the hydroxide ion. We’ll be naming those compounds in the same way that we’ve named them in the past. There is one additional base that we’ll frequently encounter in this chapter, NH 3 , which is called ammonia (you should learn this). We’ll learn about other nitrogen containing bases in later chapters as well as how to name them.  Naming acids follows different rules than we’ve used previously. When naming acids, it depends on if the acid is 1) composed of two elements, 2) contains a polyatomic ion, or 3) is an organic acid (more on these in a later chapter). Acids that contain only two elements include HCl, HBr, and HI. For these acids, we name them by starting with the name of the anion (ex. HCl—we start with chloride). We then drop the -ide ending and replace it with “-ic acid”. Lastly we add “hydro-“ as a prefix. So, HCl is hydrochloric acid.  If the acid contains a polyatomic ion, then we name the anion and drop the -ate ending from the name (we won’t worry about polyatomic ions with other endings). We then add on “ic-acid” and in some cases instead add “-uric acid” or “-oric acid” (if the name of the polyatomic ion ends in an “f” sound; ex. -fate or -phate).  Additionally, some acids are polyprotic acids, meaning that they have more than one H+ that can be donated to a base. Phosphoric acid, for example, is the acid produced from the phosphate ion, . The acid thus must have 3 H + added to fully neutralize the 3 - charge, giving the formula H 3 PO 4 . Previously, we learned that there are other forms of the phosphate anion that has one or two H + s added on. and are called hydrogen phosphate and dihydrogen phosphate respectively. These are also acids since they have one or more H + s to donate, but since they are also polyatomic ions, their name is simply the name of the polyatomic ion.  To figure out the formula for an acid, we need to know the anion that it is paired with, both its formula and its charge. We then only need to pair it with the appropriate number of H + ions in order to have the number of positive and negative charges be equal.  "
+  "body": " Naming acids and bases  We already know how to name the common bases that we’ll see in this chapter. Most of the bases we’ll be discussing are ionic compounds that contain the hydroxide ion. We’ll be naming those compounds in the same way that we’ve named them in the past. There is one additional base that we’ll frequently encounter in this chapter, NH3, which is called ammonia (you should learn this). We’ll learn about other nitrogen containing bases in later chapters as well as how to name them.  Naming acids follows different rules than we’ve used previously. When naming acids, it depends on if the acid is 1) composed of two elements, 2) contains a polyatomic ion, or 3) is an organic acid (more on these in a later chapter). Acids that contain only two elements include HCl, HBr, and HI. For these acids, we name them by starting with the  name of the anion (ex. HCl—we start with chloride). We then drop the -ide ending and replace it with “-ic acid”. Lastly we add “hydro-“ as a prefix. So, HCl is hydrochloric acid.  If the acid contains a polyatomic ion, then we name the anion and drop the -ate ending from the name (we won’t worry about polyatomic ions with other endings). We then add on “ic-acid” and in some cases instead add “-uric acid” or “-oric acid” (if the name of the polyatomic ion ends in an “f” sound; ex. -fate or -phate).  Additionally, some acids are polyprotic acids, meaning that they have more than one H+ that can be donated to a base. Phosphoric acid, for example, is the acid produced from the phosphate ion, PO43− . The acid thus must have 3 H+ added to fully neutralize the 3- charge, giving the formula H3PO4. Previously, we learned that there are other forms of the phosphate anion that has one or two H+s added on. HPO42− and H2 PO4− are called hydrogen phosphate and dihydrogen phosphate respectively. These are also acids since they have one or more H+s to donate, but since they are also polyatomic ions, their name is simply the name of the polyatomic ion.  To figure out the formula for an acid, we need to know the anion that it is paired with, both its formula and its charge. We then only need to pair it with the appropriate number of H+ ions in order to have the number of positive and negative charges be equal.   Exercise 2    What is the name of the following acids?     HBr    Hydrobromic acid      HI    Hydroiodic acid      HNO3    Nitric acid      H3PO4    Phosphoric acid      H2SO4    Sulfuric acid      HCO3−    Hydrogen carbonate or bicarbonate       What is the name of the following bases?     KOH    Potassium hydroxide      Sr(OH)2    Strontium hydroxide      NH3    Ammonia      HCO3−    Hydrogen carbonate or bicarbonate      HCO3− is listed as an acid in problem 1g and a base in problem 2d. How can it be both?    It can accept another H+ becoming carbonic acid; it can also donate an H+ become carbonate       What is the correct chemical formula for the following acids or bases?     Calcium hydroxide    Ca(OH)2      Carbonic acid    Carbonic acid H2 CO3      Acetic acid    Acetic acid CH3 CO2 H      Hydrochloric acid    Hydrochloric acid HCl      Magnesium hydroxide    Magnesium hydroxide Mg(OH)2      Cesium hydroxide    Cesium hydroxide CsOH       What is the correct acid name if H+ is added to the following polyatomic ions to turn them into acids:     Citrate    Citric acid      Aspartate    Aspartic acid      Oxalate    Oxalic acid      "
 },
 {
-  "id": "sec-acidsbases2-2",
+  "id": "sec-acidsbases2-8-2-2",
   "level": "2",
-  "url": "sec-acidsbases2.html#sec-acidsbases2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-2-2",
+  "type": "Exercise",
+  "number": "11.2.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  HBr    Hydrobromic acid   "
 },
 {
-  "id": "sec-acidsbases2-4",
+  "id": "sec-acidsbases2-8-2-3",
   "level": "2",
-  "url": "sec-acidsbases2.html#sec-acidsbases2-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-2-3",
+  "type": "Exercise",
+  "number": "11.2.2",
   "title": "",
-  "body": "Naming acids and bases "
+  "body": "  HI    Hydroiodic acid   "
+},
+{
+  "id": "sec-acidsbases2-8-2-4",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-2-4",
+  "type": "Exercise",
+  "number": "11.2.3",
+  "title": "",
+  "body": "  HNO3    Nitric acid   "
+},
+{
+  "id": "sec-acidsbases2-8-2-5",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-2-5",
+  "type": "Exercise",
+  "number": "11.2.4",
+  "title": "",
+  "body": "  H3PO4    Phosphoric acid   "
+},
+{
+  "id": "sec-acidsbases2-8-2-6",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-2-6",
+  "type": "Exercise",
+  "number": "11.2.5",
+  "title": "",
+  "body": "  H2SO4    Sulfuric acid   "
+},
+{
+  "id": "sec-acidsbases2-8-2-7",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-2-7",
+  "type": "Exercise",
+  "number": "11.2.6",
+  "title": "",
+  "body": "  HCO3−    Hydrogen carbonate or bicarbonate   "
+},
+{
+  "id": "sec-acidsbases2-8-3-2",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-3-2",
+  "type": "Exercise",
+  "number": "11.2.7",
+  "title": "",
+  "body": "  KOH    Potassium hydroxide   "
+},
+{
+  "id": "sec-acidsbases2-8-3-3",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-3-3",
+  "type": "Exercise",
+  "number": "11.2.8",
+  "title": "",
+  "body": "  Sr(OH)2    Strontium hydroxide   "
+},
+{
+  "id": "sec-acidsbases2-8-3-4",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-3-4",
+  "type": "Exercise",
+  "number": "11.2.9",
+  "title": "",
+  "body": "  NH3    Ammonia   "
+},
+{
+  "id": "sec-acidsbases2-8-3-5",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-3-5",
+  "type": "Exercise",
+  "number": "11.2.10",
+  "title": "",
+  "body": "  HCO3−    Hydrogen carbonate or bicarbonate   "
+},
+{
+  "id": "sec-acidsbases2-8-3-6",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-3-6",
+  "type": "Exercise",
+  "number": "11.2.11",
+  "title": "",
+  "body": "  HCO3− is listed as an acid in problem 1g and a base in problem 2d. How can it be both?    It can accept another H+ becoming carbonic acid; it can also donate an H+ become carbonate   "
+},
+{
+  "id": "sec-acidsbases2-8-4-2",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-4-2",
+  "type": "Exercise",
+  "number": "11.2.12",
+  "title": "",
+  "body": "  Calcium hydroxide    Ca(OH)2   "
+},
+{
+  "id": "sec-acidsbases2-8-4-3",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-4-3",
+  "type": "Exercise",
+  "number": "11.2.13",
+  "title": "",
+  "body": "  Carbonic acid    Carbonic acid H2 CO3   "
+},
+{
+  "id": "sec-acidsbases2-8-4-4",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-4-4",
+  "type": "Exercise",
+  "number": "11.2.14",
+  "title": "",
+  "body": "  Acetic acid    Acetic acid CH3 CO2 H   "
+},
+{
+  "id": "sec-acidsbases2-8-4-5",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-4-5",
+  "type": "Exercise",
+  "number": "11.2.15",
+  "title": "",
+  "body": "  Hydrochloric acid    Hydrochloric acid HCl   "
+},
+{
+  "id": "sec-acidsbases2-8-4-6",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-4-6",
+  "type": "Exercise",
+  "number": "11.2.16",
+  "title": "",
+  "body": "  Magnesium hydroxide    Magnesium hydroxide Mg(OH)2   "
+},
+{
+  "id": "sec-acidsbases2-8-4-7",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-4-7",
+  "type": "Exercise",
+  "number": "11.2.17",
+  "title": "",
+  "body": "  Cesium hydroxide    Cesium hydroxide CsOH   "
+},
+{
+  "id": "sec-acidsbases2-8-5-2",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-5-2",
+  "type": "Exercise",
+  "number": "11.2.18",
+  "title": "",
+  "body": "  Citrate    Citric acid   "
+},
+{
+  "id": "sec-acidsbases2-8-5-3",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-5-3",
+  "type": "Exercise",
+  "number": "11.2.19",
+  "title": "",
+  "body": "  Aspartate    Aspartic acid   "
+},
+{
+  "id": "sec-acidsbases2-8-5-4",
+  "level": "2",
+  "url": "sec-acidsbases2.html#sec-acidsbases2-8-5-4",
+  "type": "Exercise",
+  "number": "11.2.20",
+  "title": "",
+  "body": "  Oxalate    Oxalic acid   "
 },
 {
   "id": "sec-acidsbases3",
@@ -6883,43 +8674,133 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.3",
   "title": "Strengths of acids and bases",
-  "body": " Strengths of acids and bases   Summary:     Strong acids and bases completely break into ions in solution    Weak acids and bases partially break into ions in solution    There is a finite list of strong acids and strong bases that you must memorize.     Strengths of acids and bases   When an acid or base is dissolved into water, the compound dissociates into ions (or produces ions in other cases). This process can be written as a chemical reaction. See the example below:     In a previous chapter, we learned that all chemical reactions are reversible and we learned about equilibrium. The same is true for the dissociation of an acid or base in water. Some of these dissociation reactions have equilibriums that lie so far towards the products that they are nearly irreversible reactions. When these acids\/bases dissolve into water, they very nearly completely dissociate into their ions. These compounds are said to be strong acids and strong bases. There is a list of strong acids and strong bases that you need to memorize:  Strong acids: .  Strong bases: group I and II metals paired with hydroxide in an ionic compound (ex. NaOH)   Weak acids and weak bases are ones where the compound dissociates into ions when put into water, but not completely. There is still a measurable amount of the starting compound left over. This is because the reverse reaction still occurs to an appreciable extent. These weak acids and bases partially dissociate into ions when dissolved. Thankfully there is no list of weak acids\/bases that you need to memorize. All you need to know is that if you’re dealing with an acid or base that isn’t a strong acid or base, that it will be a weak one instead.  "
+  "body": " Strengths of acids and bases  When an acid or base is dissolved into water, the compound dissociates into ions (or produces ions in other cases). This process can be written as a chemical reaction. See the example below:  H2 SO4 + H2 O → H3 O+ + HSO4−  In a previous chapter, we learned that all chemical reactions are reversible and we learned about equilibrium. The same is true for the dissociation of an acid or base in water. Some of these dissociation reactions have equilibriums that lie so far towards the products that they are nearly irreversible reactions. When these acids\/bases dissolve into water, they very nearly completely dissociate into their ions. These compounds are said to be strong acids and strong bases. There is a list of strong acids and strong bases that you need to memorize:  Strong acids: HCl, HBr, HI, HNO3 , H2 SO4.  Strong bases: group I and II metals paired with hydroxide in an ionic compound (ex. NaOH)  Weak acids and weak bases are ones where the compound dissociates into ions when put into water, but not completely. There is still a measurable amount of the starting compound left over. This is because the reverse reaction still occurs to an appreciable extent. These weak acids and bases partially dissociate into ions when dissolved. Thankfully there is no list of weak acids\/bases that you need to memorize. All you need to know is that if you’re dealing with an acid or base that isn’t a strong acid or base, that it will be a weak one instead.   Exercise 3    Write the list of strong acids that you need to know.     Try to figure out a mneumonic device to help you remember this list. Share it with a classmate.       Label the following compounds as strong or weak bases     Fe(OH)2      Ca(OH)2      KOH      Sr(OH)2      Mn(OH)3      HCO3−       Write a reaction equation for phosphoric acid losing...     One proton      Two protons      Three protons       Consider the acid base reaction shown below: CH3 CO2 H + H2 O → H3 O+ + CH3 CO2− If the following reaction is at equilibrium, which way will the reaction shift if...     More CH3 CO2 H is added      More CH3 CO2− is added      More H3 O+ is added      HCl is added (think about what HCl forms when dissolved into water)      "
 },
 {
-  "id": "sec-acidsbases3-2",
+  "id": "sec-acidsbases3-8-2-2",
   "level": "2",
-  "url": "sec-acidsbases3.html#sec-acidsbases3-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-2-2",
+  "type": "Exercise",
+  "number": "11.3.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Try to figure out a mneumonic device to help you remember this list. Share it with a classmate.   "
 },
 {
-  "id": "sec-acidsbases3-4",
+  "id": "sec-acidsbases3-8-3-2",
   "level": "2",
-  "url": "sec-acidsbases3.html#sec-acidsbases3-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-3-2",
+  "type": "Exercise",
+  "number": "11.3.2",
   "title": "",
-  "body": "Strengths of acids and bases "
+  "body": "  Fe(OH)2   "
 },
 {
-  "id": "sec-acidsbases3-7",
+  "id": "sec-acidsbases3-8-3-3",
   "level": "2",
-  "url": "sec-acidsbases3.html#sec-acidsbases3-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-3-3",
+  "type": "Exercise",
+  "number": "11.3.3",
   "title": "",
-  "body": "strong acids strong bases. "
+  "body": "  Ca(OH)2   "
 },
 {
-  "id": "sec-acidsbases3-10",
+  "id": "sec-acidsbases3-8-3-4",
   "level": "2",
-  "url": "sec-acidsbases3.html#sec-acidsbases3-10",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-3-4",
+  "type": "Exercise",
+  "number": "11.3.4",
   "title": "",
-  "body": "Weak acids weak bases "
+  "body": "  KOH   "
+},
+{
+  "id": "sec-acidsbases3-8-3-5",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-3-5",
+  "type": "Exercise",
+  "number": "11.3.5",
+  "title": "",
+  "body": "  Sr(OH)2   "
+},
+{
+  "id": "sec-acidsbases3-8-3-6",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-3-6",
+  "type": "Exercise",
+  "number": "11.3.6",
+  "title": "",
+  "body": "  Mn(OH)3   "
+},
+{
+  "id": "sec-acidsbases3-8-3-7",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-3-7",
+  "type": "Exercise",
+  "number": "11.3.7",
+  "title": "",
+  "body": "  HCO3−   "
+},
+{
+  "id": "sec-acidsbases3-8-4-2",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-4-2",
+  "type": "Exercise",
+  "number": "11.3.8",
+  "title": "",
+  "body": "  One proton   "
+},
+{
+  "id": "sec-acidsbases3-8-4-3",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-4-3",
+  "type": "Exercise",
+  "number": "11.3.9",
+  "title": "",
+  "body": "  Two protons   "
+},
+{
+  "id": "sec-acidsbases3-8-4-4",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-4-4",
+  "type": "Exercise",
+  "number": "11.3.10",
+  "title": "",
+  "body": "  Three protons   "
+},
+{
+  "id": "sec-acidsbases3-8-5-2",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-5-2",
+  "type": "Exercise",
+  "number": "11.3.11",
+  "title": "",
+  "body": "  More CH3 CO2 H is added   "
+},
+{
+  "id": "sec-acidsbases3-8-5-3",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-5-3",
+  "type": "Exercise",
+  "number": "11.3.12",
+  "title": "",
+  "body": "  More CH3 CO2− is added   "
+},
+{
+  "id": "sec-acidsbases3-8-5-4",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-5-4",
+  "type": "Exercise",
+  "number": "11.3.13",
+  "title": "",
+  "body": "  More H3 O+ is added   "
+},
+{
+  "id": "sec-acidsbases3-8-5-5",
+  "level": "2",
+  "url": "sec-acidsbases3.html#sec-acidsbases3-8-5-5",
+  "type": "Exercise",
+  "number": "11.3.14",
+  "title": "",
+  "body": "  HCl is added (think about what HCl forms when dissolved into water)   "
 },
 {
   "id": "sec-acidsbases4",
@@ -6927,35 +8808,161 @@ var ptx_lunr_docs = [
   "url": "sec-acidsbases4.html",
   "type": "Section",
   "number": "11.4",
-  "title": "Conjugate acid \/ base pairs",
-  "body": " Conjugate acid \/ base pairs   Summary:     Acids become conjugate bases after they lose a hydrogen ion    Bases become conjugate acids after gaining a hydrogen ion    Conjugate acid \/ base pairs are compounds (or ions) that are related by the addition\/removal of a single ion.     Conjugate acid \/ base pairs   The dissociation of an acid or base is a reversible reaction (excepting strong acids and bases). If acetic acid functions as an acid, donating its H + to something else, then acetate results as a product. In the reverse reaction, that acetate ion would accept an H + once again becoming acetic acid. Thus acetate would be functioning as a base. Every acid produces a base after donating its H + . Likewise, every base produces an acid after accepting an H + , because the reverse reaction would have the product donating the H + that the base form had just received.  Every acid will therefore form a base in a chemical reaction. This is called the conjugate base of that acid. Together they form a conjugate acid-base pair , two molecules whose only difference is the presence or absence of an H + . Likewise every base will form a conjugate acid after accepting an H + in a reaction, and they together for a conjugate acid-base pair.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH 4 not an acid while HCl is? The truth is that every compound with a hydrogen atom is potentially an acid, but some of them are so weak that we don’t consider them to be an acid (CH 4 is an example of this). The strength of an acid is related to the stability of its conjugate base. If the conjugate base is very stable, then it is easy for the acid to lose an H + and form its conjugate base. If the conjugate base is an anion that we’ve seen before (monoatomic or polyatomic), then it’s stable. In the case of , its conjugate base would be . This is unstable because it would put a negative charge on a carbon atom, something we’ve never seen before (reminder: carbon isn’t very electronegative and thus wouldn’t like to have excess electrons). Negative charges can exist on highly electronegative elements such as the halogens and oxygen. If a molecule has a positive charge and has a hydrogen atom, it can often act as an acid since losing the H + can stabilize the molecule by also removing the positive charge (ex.   In order for a molecule to act as a base, the molecule must have a lone pair of electrons in order to form a new bond with the H + that it would accept. In addition, the conjugate acid must be stable. Nitrogen and oxygen atoms often have lone pairs of electrons and are especially good at accepting H + . Also, molecules that have a negative charge and lone pairs of electrons are often good bases because if they accept an H + , the negative charge will get neutralized (ex. ).  "
+  "title": "Conjugate acid\/base pairs",
+  "body": " Conjugate acid\/base pairs  The dissociation of an acid or base is a reversible reaction (excepting strong acids and bases). If acetic acid functions as an acid, donating its H+ to something else, then acetate results as a product. In the reverse reaction, that acetate ion would accept an H+ once again becoming acetic acid. Thus acetate would be functioning as a base. Every acid produces a base after donating its H+. Likewise, every base produces an acid after accepting an H+, because the reverse reaction would have the product donating the H+ that the base form had just received.  Every acid will therefore form a base in a chemical reaction. This is called the conjugate base of that acid. Together they form a conjugate acid-base pair, two molecules whose only difference is the presence or absence of an H+. Likewise every base will form a conjugate acid after accepting an H+ in a reaction, and they together for a conjugate acid-base pair.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH4 not an acid while HCl is? The truth is that every compound with a hydrogen atom is potentially an acid, but some of them are so weak that we don’t consider them to be an acid (CH4 is an example of this). The strength of an acid is related to the stability of its conjugate base. If the conjugate base is very stable, then it is easy for the acid to lose an H+ and form its conjugate base. If the conjugate base is an anion that we’ve seen before (monoatomic or polyatomic), then it’s stable. In the case of CH4 , its conjugate base would be CH3− . This is unstable because it would put a negative charge on a carbon atom, something we’ve never seen before (reminder: carbon isn’t very electronegative and thus wouldn’t like to have excess electrons). Negative charges can exist on highly electronegative elements such as the halogens and oxygen. If a molecule has a positive charge and has a hydrogen atom, it can often act as an acid since losing the H+ can stabilize the molecule by also removing the positive charge (ex. NH4+ is an acid because losing H + results in NH3 which is stable)  In order for a molecule to act as a base, the molecule must have a lone pair of electrons in order to form a new bond with the H+ that it would accept. In addition, the conjugate acid must be stable. Nitrogen and oxygen atoms often have lone pairs of electrons and are especially good at accepting H+. Also, molecules that have a negative charge and lone pairs of electrons are often good bases because if they accept an H+, the negative charge will get neutralized (ex. OH − is a good base because if it accepts an H + the conjugate acid is water, which is very stable ).   Exercise 4    For the following pairs of compounds, identify them as a conjugate acid-base pair or not a conjugate acid-base pair     HCl and Cl −    HCl and Cl − ; yes      Na and NaH    Na and NaH; no      F − and HF    F − and HF; yes      O2− and OH −    O2− and OH − ; yes      H3 O+ and OH −    H3 O+ and OH − ; no      NH3 and NH4+    NH3 and NH4+ ; yes       For the following pairs of compounds, the first compound is a reactant and the second compound is a product. Identify the first compound as an acid or base and the 2nd compound as a conjugate acid or conjugate base.     F − \/ HF    F − \/ HF base\/conjugate acid      HCO2− \/ H2 CO2    HCO2− \/ H2 CO2 base\/conjugate acid      NCl3 \/ NHCl3+    NCl3 \/ NHCl3+ base\/conjugate acid      H2 PO4− \/ HPO4−    H2 PO4− \/ HPO4− acid\/conjugate base      H2 PO4− \/H3 PO4    H2 PO4− \/H3 PO4 base\/conjugate acid       Which of the following compounds is likely to be a good acid, a good base, or neither and why?     NHF3+    NHF3+ acid      C2 H5 CO2−    C2 H5 CO2− base      CH3 CH3    CH3 CH3 neither      H2 CO3    H2 CO3 acid      CO32−    CO32− base      NH2 Cl    NH2 Cl base      "
 },
 {
-  "id": "sec-acidsbases4-2",
+  "id": "sec-acidsbases4-6-2-2",
   "level": "2",
-  "url": "sec-acidsbases4.html#sec-acidsbases4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-2-2",
+  "type": "Exercise",
+  "number": "11.4.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  HCl and Cl −    HCl and Cl − ; yes   "
 },
 {
-  "id": "sec-acidsbases4-4",
+  "id": "sec-acidsbases4-6-2-3",
   "level": "2",
-  "url": "sec-acidsbases4.html#sec-acidsbases4-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-2-3",
+  "type": "Exercise",
+  "number": "11.4.2",
   "title": "",
-  "body": "Conjugate acid \/ base pairs "
+  "body": "  Na and NaH    Na and NaH; no   "
 },
 {
-  "id": "sec-acidsbases4-6",
+  "id": "sec-acidsbases4-6-2-4",
   "level": "2",
-  "url": "sec-acidsbases4.html#sec-acidsbases4-6",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-2-4",
+  "type": "Exercise",
+  "number": "11.4.3",
   "title": "",
-  "body": "conjugate base conjugate acid-base pair conjugate acid "
+  "body": "  F − and HF    F − and HF; yes   "
+},
+{
+  "id": "sec-acidsbases4-6-2-5",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-2-5",
+  "type": "Exercise",
+  "number": "11.4.4",
+  "title": "",
+  "body": "  O2− and OH −    O2− and OH − ; yes   "
+},
+{
+  "id": "sec-acidsbases4-6-2-6",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-2-6",
+  "type": "Exercise",
+  "number": "11.4.5",
+  "title": "",
+  "body": "  H3 O+ and OH −    H3 O+ and OH − ; no   "
+},
+{
+  "id": "sec-acidsbases4-6-2-7",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-2-7",
+  "type": "Exercise",
+  "number": "11.4.6",
+  "title": "",
+  "body": "  NH3 and NH4+    NH3 and NH4+ ; yes   "
+},
+{
+  "id": "sec-acidsbases4-6-3-2",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-3-2",
+  "type": "Exercise",
+  "number": "11.4.7",
+  "title": "",
+  "body": "  F − \/ HF    F − \/ HF base\/conjugate acid   "
+},
+{
+  "id": "sec-acidsbases4-6-3-3",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-3-3",
+  "type": "Exercise",
+  "number": "11.4.8",
+  "title": "",
+  "body": "  HCO2− \/ H2 CO2    HCO2− \/ H2 CO2 base\/conjugate acid   "
+},
+{
+  "id": "sec-acidsbases4-6-3-4",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-3-4",
+  "type": "Exercise",
+  "number": "11.4.9",
+  "title": "",
+  "body": "  NCl3 \/ NHCl3+    NCl3 \/ NHCl3+ base\/conjugate acid   "
+},
+{
+  "id": "sec-acidsbases4-6-3-5",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-3-5",
+  "type": "Exercise",
+  "number": "11.4.10",
+  "title": "",
+  "body": "  H2 PO4− \/ HPO4−    H2 PO4− \/ HPO4− acid\/conjugate base   "
+},
+{
+  "id": "sec-acidsbases4-6-3-6",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-3-6",
+  "type": "Exercise",
+  "number": "11.4.11",
+  "title": "",
+  "body": "  H2 PO4− \/H3 PO4    H2 PO4− \/H3 PO4 base\/conjugate acid   "
+},
+{
+  "id": "sec-acidsbases4-6-4-2",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-4-2",
+  "type": "Exercise",
+  "number": "11.4.12",
+  "title": "",
+  "body": "  NHF3+    NHF3+ acid   "
+},
+{
+  "id": "sec-acidsbases4-6-4-3",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-4-3",
+  "type": "Exercise",
+  "number": "11.4.13",
+  "title": "",
+  "body": "  C2 H5 CO2−    C2 H5 CO2− base   "
+},
+{
+  "id": "sec-acidsbases4-6-4-4",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-4-4",
+  "type": "Exercise",
+  "number": "11.4.14",
+  "title": "",
+  "body": "  CH3 CH3    CH3 CH3 neither   "
+},
+{
+  "id": "sec-acidsbases4-6-4-5",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-4-5",
+  "type": "Exercise",
+  "number": "11.4.15",
+  "title": "",
+  "body": "  H2 CO3    H2 CO3 acid   "
+},
+{
+  "id": "sec-acidsbases4-6-4-6",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-4-6",
+  "type": "Exercise",
+  "number": "11.4.16",
+  "title": "",
+  "body": "  CO32−    CO32− base   "
+},
+{
+  "id": "sec-acidsbases4-6-4-7",
+  "level": "2",
+  "url": "sec-acidsbases4.html#sec-acidsbases4-6-4-7",
+  "type": "Exercise",
+  "number": "11.4.17",
+  "title": "",
+  "body": "  NH2 Cl    NH2 Cl base   "
 },
 {
   "id": "sec-acidsbases5",
@@ -6963,53 +8970,134 @@ var ptx_lunr_docs = [
   "url": "sec-acidsbases5.html",
   "type": "Section",
   "number": "11.5",
-  "title": "Water",
-  "body": " Water   Summary:     Water can act as an acid or a base in a reaction    There is a relationship between the amount of hydronium and hydroxide ions in an aqueous solution    We can use the Kw equation to determine the concentration of hydroxide and hydronium ions in a solution     Water can be an acid or a base   We already learned that acids donate H + or increase the concentration of H + in solution. This is a bit of an oversimplification. In water, H + essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:     H 3 O + is a polyatomic ion called hydronium ion . Chemists will typically use H+ and H3O+ interchangeably, so just be aware that H + really means H 3 O + if the acid is in water. Another term to be aware of is that H + is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron…take away the electron to form H + and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:          What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion     Weak Base  Acid  Hydroxide ion       Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:      So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:         Nitrogen containing base examples  Form 1  Form 2                    Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:     So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, K w , which has a value of 1x10 -14 at 25 o C. This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. K w is a unitless value (even though it seems like it should have units of M 2 ) but the reason why is beyond the scope of this course.     This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral,   Therefore, becomes   So   "
+  "title": "Water as an acid and base",
+  "body": " Water as an acid and base  We already learned that acids donate H+ or increase the concentration of H+ in solution. This is a bit of an oversimplification. In water, H+ essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:  H + + H2 O → H3 O+  H3O+ is a polyatomic ion called hydronium ion. Chemists will typically use H+ and H3O+ interchangeably, so just be aware that H+ really means H3O+ if the acid is in water. Another term to be aware of is that H+ is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron...take away the electron to form H+ and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:  What is being Water Water Example reaction mixed with acts as becomes... water a... Acid (Strong or Base Hydronium ion HBr(g) + H2 O(l) → H3 O+ (aq) + Br − (aq) weak) Strong Base Acid Hydroxide ion NaOH(s) + HOH(l) → Na+ (aq) + OH − (aq) + HOH(l)  Same as: NaOH(s) + H2 O(l) → NaOH(aq) + H2 O(l) Weak Base Acid Hydroxide ion NH3 (g) + H2 O(l) → OH − (aq) + NH4+ (aq) → NH4 OH(aq)  Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:  NH2 CH3 (aq) + H2 O(l) → NH3 CH3+ (aq) + OH − (aq) → NH3 CH3 OH(aq)  So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:  Nitrogen containing base Form 1 Form 2 examples NH3 NH3 (aq) NH4 OH(aq) NH2 CH3 NH2 CH3 (aq) NH3 CH3 OH(aq) NH(CH3 )2 NH(CH3 )2 (aq) NH2 (CH3 )2 OH(aq)  Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:  H2 O + H2 O → H3 O+ + OH −  So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium  ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, Kw, which has a value of 1x10-14 at 25oC. This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. Kw is a unitless value (even though it seems like it should have units of M2) but the reason why is beyond the scope of this course.  [H3 O+ ] × [OH − ] = 1 × 10−14 = Kw  This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral, [H3 O + ] = [OH − ]  Therefore, [H3 O+ ] × [OH − ] = 1 × 10−14 becomes [H3 O + ]2 = 1 × 10−14  So [H3 O+ ] = √1 × 10−14 = 1 × 10−7 M   Exercise 1    Write the equation for adding the following compounds to water:     Ca(OH)2    Ca(OH)2 (s) + 2H2 O(l) → Ca(OH)2 (aq) + 2H2 O(l)      H2SO4 (write the reaction for it losing only one proton)    H2 SO4 (l) + H2 O → H3 O+ (aq) + HSO4− (aq)      H2SO4 (write the reaction for it losing two protons)    H2 SO4 (l) + 2H2 O → 2H3 O+ (aq) + SO42− (aq)      NH2CH2CH3    NH2 CH2 CH3 (l) + H2 O(l) → NH3 CH2 CH3+ (aq) + OH − (aq)       Determine the concentration of hydronium ion if the concentration of hydroxide is:     3.3 x 10-9 M    3.0 x 10-6 M      0.0003 M    3 x 10-11 M      0.01 M    1x10-12 M       Look at your answers in #2. What happens to the hydronium concentration as the hydroxide concentration rises?    It decreases      Determine the concentration of hydroxide ion if the concentration of hydronium is:     3.3 x 10-9 M    3.0 x 10-6 M      0.0003 M    3 x 10-11 M      0.01 M    1x10-12 M       Look at your answers in #2 and #4. What do you notice?    The values are the same for the same starting concentrations      Look at your answers in #4. What happens to the hydroxide concentration as the hydronium concentration rises?    It decreases      At 0oC, the value of Kw is 1.14 x 10-15. What is the concentration of hydronium ion in neutral water at 0oC?    3.38 x 10-8 M     "
 },
 {
-  "id": "sec-acidsbases5-2",
+  "id": "sec-acidsbases5-21-2-2",
   "level": "2",
-  "url": "sec-acidsbases5.html#sec-acidsbases5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-acidsbases5-4",
-  "level": "2",
-  "url": "sec-acidsbases5.html#sec-acidsbases5-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Water can be an acid or a base "
-},
-{
-  "id": "sec-acidsbases5-7",
-  "level": "2",
-  "url": "sec-acidsbases5.html#sec-acidsbases5-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "hydronium ion "
-},
-{
-  "id": "sec-acidsbases5-9",
-  "level": "2",
-  "url": "sec-acidsbases5.html#sec-acidsbases5-9",
-  "type": "Table",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-2-2",
+  "type": "Exercise",
   "number": "11.5.1",
   "title": "",
-  "body": "        What is being mixed with water  Water acts as a…  Water becomes…  Example reaction    Acid (Strong or weak)  Base  Hydronium ion     Strong Base  Acid  Hydroxide ion     Weak Base  Acid  Hydroxide ion     "
+  "body": "  Ca(OH)2    Ca(OH)2 (s) + 2H2 O(l) → Ca(OH)2 (aq) + 2H2 O(l)   "
 },
 {
-  "id": "sec-acidsbases5-13",
+  "id": "sec-acidsbases5-21-2-3",
   "level": "2",
-  "url": "sec-acidsbases5.html#sec-acidsbases5-13",
-  "type": "Table",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-2-3",
+  "type": "Exercise",
   "number": "11.5.2",
   "title": "",
-  "body": "       Nitrogen containing base examples  Form 1  Form 2                   "
+  "body": "  H2SO4 (write the reaction for it losing only one proton)    H2 SO4 (l) + H2 O → H3 O+ (aq) + HSO4− (aq)   "
+},
+{
+  "id": "sec-acidsbases5-21-2-4",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-2-4",
+  "type": "Exercise",
+  "number": "11.5.3",
+  "title": "",
+  "body": "  H2SO4 (write the reaction for it losing two protons)    H2 SO4 (l) + 2H2 O → 2H3 O+ (aq) + SO42− (aq)   "
+},
+{
+  "id": "sec-acidsbases5-21-2-5",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-2-5",
+  "type": "Exercise",
+  "number": "11.5.4",
+  "title": "",
+  "body": "  NH2CH2CH3    NH2 CH2 CH3 (l) + H2 O(l) → NH3 CH2 CH3+ (aq) + OH − (aq)   "
+},
+{
+  "id": "sec-acidsbases5-21-3-2",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-3-2",
+  "type": "Exercise",
+  "number": "11.5.5",
+  "title": "",
+  "body": "  3.3 x 10-9 M    3.0 x 10-6 M   "
+},
+{
+  "id": "sec-acidsbases5-21-3-3",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-3-3",
+  "type": "Exercise",
+  "number": "11.5.6",
+  "title": "",
+  "body": "  0.0003 M    3 x 10-11 M   "
+},
+{
+  "id": "sec-acidsbases5-21-3-4",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-3-4",
+  "type": "Exercise",
+  "number": "11.5.7",
+  "title": "",
+  "body": "  0.01 M    1x10-12 M   "
+},
+{
+  "id": "sec-acidsbases5-21-4",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-4",
+  "type": "Exercise",
+  "number": "11.5.8",
+  "title": "",
+  "body": "  Look at your answers in #2. What happens to the hydronium concentration as the hydroxide concentration rises?    It decreases   "
+},
+{
+  "id": "sec-acidsbases5-21-5-2",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-5-2",
+  "type": "Exercise",
+  "number": "11.5.9",
+  "title": "",
+  "body": "  3.3 x 10-9 M    3.0 x 10-6 M   "
+},
+{
+  "id": "sec-acidsbases5-21-5-3",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-5-3",
+  "type": "Exercise",
+  "number": "11.5.10",
+  "title": "",
+  "body": "  0.0003 M    3 x 10-11 M   "
+},
+{
+  "id": "sec-acidsbases5-21-5-4",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-5-4",
+  "type": "Exercise",
+  "number": "11.5.11",
+  "title": "",
+  "body": "  0.01 M    1x10-12 M   "
+},
+{
+  "id": "sec-acidsbases5-21-6",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-6",
+  "type": "Exercise",
+  "number": "11.5.12",
+  "title": "",
+  "body": "  Look at your answers in #2 and #4. What do you notice?    The values are the same for the same starting concentrations   "
+},
+{
+  "id": "sec-acidsbases5-21-7",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-7",
+  "type": "Exercise",
+  "number": "11.5.13",
+  "title": "",
+  "body": "  Look at your answers in #4. What happens to the hydroxide concentration as the hydronium concentration rises?    It decreases   "
+},
+{
+  "id": "sec-acidsbases5-21-8",
+  "level": "2",
+  "url": "sec-acidsbases5.html#sec-acidsbases5-21-8",
+  "type": "Exercise",
+  "number": "11.5.14",
+  "title": "",
+  "body": "  At 0oC, the value of Kw is 1.14 x 10-15. What is the concentration of hydronium ion in neutral water at 0oC?    3.38 x 10-8 M   "
 },
 {
   "id": "sec-acidsbases6",
@@ -7017,98 +9105,62 @@ var ptx_lunr_docs = [
   "url": "sec-acidsbases6.html",
   "type": "Section",
   "number": "11.6",
-  "title": "Neutralization reactions",
-  "body": " Neutralization reactions   Summary:     Neutralization reactions involve an acid reacting with a base    Neutralization reactions involve ions.    Ionic equations can be used to represent neutalization reactions     Neutralization reactions for monoprotic acids and bases   The other class of reaction that we’ve seen before in this chapter is a neutralization reaction. Here we’ll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:     Ionic equation:     Net ionic equation:     Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:       Steps to writing a neutralization reaction     Break the reactants into their ions     is a covalent compound and thus won’t break apart into ions. There is no hydroxide it can lose.      Identify the acid and the base    When identifying the acid and the base, H + will always be an acid and OH - will always be a base (in your class, at least)    If the acid is a polyatomic ion (ie. one of the polyatomic ions with “hydrogen” in the name, then break off the hydrogen ion (example: breaks into and ))      React the acid and the base. H + and OH - will combine together (if present) to form water, but in some cases the base may be something other than hydroxide. In those cases, have the hydrogen ion react with whatever other base is present.    Look at what ions you have left over (and what new ion you may have formed)    Write these ions in the products (if you’re being asked for an ionic equation)    Delete any ions that didn’t change in the reaction (if you’re being asked for a net ionic equation)    Combine the ions together to form an ionic compound (if you’re being asked for the chemical equation)       To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid (H + ) to react with the base (OH - ) to form water. This results in ions being left over (the spectator ions). Those ions are    Combined together to form the chemical equation,    Left alone as separate ions (to form the ionic equation), or    Deleted in both the reactants and products to form the net ionic equation    Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia ( ), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won’t split into ions in the first step. See the example below:   If we react with , after step one, we’d have . At this point the acidic ion will react with the basic to form . The product would then contain and the left over We can then write the equation in the following ways:  Ionic equation:     Net ionic equation (get rid of the chloride spectator ion):     Chemical equation (combine the ions in the products together to make a compound):      As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its H + . See the example below:   If we react with , after step one, we’d have . In step 2, the HCl is identified as the acid since it has an H + ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic ion will react with the basic to form . This leaves a left over We can then write the equation in the following ways:  Ionic equation:        Net ionic equation (get rid of the spectator ions):     Chemical equation (combine the ions in the products together to make a compound):         Potassium hydroxide and hydrobromic acid      Ionic equation:  Net ionic equation:  Chemical equation:        Nitric acid and sodium hydroxide      Ionic equation:  Net ionic equation:  Chemical equation:        Ammonia and hydroiodic acid      Ionic equation:  Net ionic equation:  Chemical equation:        Potassium hydroxide and potassium hydrogen carbonate      Ionic equation:  (note: you could combine the two ions in the reactants and products to be )  Net ionic equation:  Chemical equation:        Nitric acid and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:        Ammonia and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:  (note: the and the can swap positions in the chemical formula, so it could be written as instead)       "
+  "title": "Neutralization reactions for monoprotic acids and bases",
+  "body": " Neutralization reactions for monoprotic acids and bases  The other class of reaction that we’ve seen before in this chapter is a neutralization reaction. Here we’ll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:  HCl(aq) + NaOH(aq) → H2 O(l) + NaCl(aq)  Ionic equation:  H + (aq) + Cl − (aq) + Na+ (aq) + OH − (aq) → H2 O (l) + Na+ (aq) + Cl − (aq)  Net ionic equation:  H + (aq) + OH − (aq) → H2 O(l)  Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:  H + (aq) + OH − (aq) → H2 O(l)  Steps to writing a neutralization reaction  1. Break the reactants into their ions a. NH3 is a covalent compound and thus won’t break apart into ions. There is no hydroxide it can lose. 2. Identify the acid and the base a. When identifying the acid and the base, H+ will always be an acid and OH- will always be a base (in your class, at least) b. If the acid is a polyatomic ion (ie. one of the polyatomic ions with “hydrogen” in the name, then break off the hydrogen ion (example: HPO42− breaks into H + and PO43− )) 3. React the acid and the base. H+ and OH- will combine together (if present) to form water, but in some cases the base may be something other than hydroxide. In those cases, have the hydrogen ion react with whatever other base is present. 4. Look at what ions you have left over (and what new ion you may have formed) a. Write these ions in the products (if you’re being asked for an ionic equation) b. Delete any ions that didn’t change in the reaction (if you’re being asked for a net ionic equation) c. Combine the ions together to form an ionic compound (if you’re being asked for the chemical equation)  To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid (H+) to react with the base (OH-) to form water. This results in ions being left over (the spectator ions). Those ions are  1. Combined together to form the chemical equation, 2. Left alone as separate ions (to form the ionic equation), or 3. Deleted in both the reactants and products to form the net ionic equation  Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia (NH3 ), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won’t split into ions in the first step. See the example below:  If we react NH3 (aq) with HCl (aq), after step one, we’d have NH3 (aq) + H + (aq) + Cl − (aq). At this point the acidic H + ion will react with the basic NH3 to form NH4+ . The product would then contain NH4+ (aq) and the left over Cl − (aq). We can then write the equation in the following ways:  Ionic equation:  NH3 (aq) + H + (aq) + Cl − (aq) → NH4+ (aq) + Cl − (aq)  Net ionic equation (get rid of the chloride spectator ion):  NH3 (aq) + H + (aq) → NH4+ (aq)  Chemical equation (combine the ions in the products together to make a compound):  NH3 (aq) + HCl(aq) → NH4 Cl(aq)  What if the base is a polyatomic ion, like hydrogen carbonate. Then, just like ammonia, it will not dissociate (because there is no hydroxide that it can lose). It will instead combine with the hydrogen ion to form a new substance. See the example below:  If we react NaHSO4 (aq)with HCl (aq), after step one, we’d have Na+ (aq) + H2 PO4− (aq) + H + (aq) + Cl − (aq). In step 2, the HCl is identified as the acid since it has an H+ ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic H + ion will react with the basic H2 PO4− to form H3 PO4. This leaves a left over Na+ (aq) + Cl − (aq). We can then write the equation in the following ways:  Ionic equation:  Na+ (aq) + H2 PO4− (aq) + H + (aq) + Cl − (aq) → H3 PO4 (aq) + Na+ (aq) + Cl − (aq)  Net ionic equation (get rid of the spectator ions):  H2 PO4− (aq) + H + (aq) → H3 PO4 (aq)  Chemical equation (combine the ions in the products together to make a compound):  NaH2 PO4 (aq) + HCl(aq) → H3 PO4 (aq) + NaCl(aq)  As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This  hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its H+. See the example below:  Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide.  1. Start by writing the formulas of the compounds and then breaking them apart into their ions Sodium hydrogen phosphate: 2Na+ (aq) and HPO42− (aq) Potassium hydroxide: K + (aq) and OH − (aq) 2. The base is the potassium hydroxide, thus the hydrogen phosphate is acting as an acid. It must be further broken apart into H + and PO43− . 3. React the acid and the base. In this case we have H+ and OH- that will combine to form water. This leaves behind 2Na+ , K + , and PO43− . 4. We can now write the ionic equation, K + (aq) + OH − (aq) + 2Na+ (aq) + H + (aq) + PO43− (aq) → H2 O (l) + 2Na + (aq) + K + (aq) + PO43− (aq) net ionic equation,  OH − (aq) + H + (aq) → H2 O (l) and chemical equation KOH(aq) + Na2 HPO4 (aq) → H2 O (l) + Na2 KPO4 (aq)  (note the strange ionic compound in the product with two different cations...that’s okay!...also their order in the formula doesn’t matter)   Exercise 1    Write an ionic equation, net ionic equation, and chemical equation for the following reactions:     Potassium hydroxide and hydrobromic acid      Nitric acid and sodium hydroxide      Ammonia and hydroiodic acid      Potassium hydroxide and potassium hydrogen carbonate      Nitric acid and sodium hydrogen carbonate      Ammonia and sodium hydrogen carbonate      "
 },
 {
-  "id": "sec-acidsbases6-2",
+  "id": "sec-acidsbases6-37-2-2",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-acidsbases6-4",
-  "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Neutralization reactions for monoprotic acids and bases "
-},
-{
-  "id": "sec-acidsbases6-18",
-  "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-18",
-  "type": "Example",
-  "number": "11.6.1",
-  "title": "",
-  "body": " If we react with , after step one, we’d have . At this point the acidic ion will react with the basic to form . The product would then contain and the left over We can then write the equation in the following ways:  Ionic equation:     Net ionic equation (get rid of the chloride spectator ion):     Chemical equation (combine the ions in the products together to make a compound):     "
-},
-{
-  "id": "sec-acidsbases6-20",
-  "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-20",
-  "type": "Example",
-  "number": "11.6.2",
-  "title": "",
-  "body": " If we react with , after step one, we’d have . In step 2, the HCl is identified as the acid since it has an H + ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic ion will react with the basic to form . This leaves a left over We can then write the equation in the following ways:  Ionic equation:        Net ionic equation (get rid of the spectator ions):     Chemical equation (combine the ions in the products together to make a compound):     "
-},
-{
-  "id": "exercises-acidsbases6-1",
-  "level": "2",
-  "url": "sec-acidsbases6.html#exercises-acidsbases6-1",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-37-2-2",
   "type": "Exercise",
   "number": "11.6.1",
   "title": "",
-  "body": "  Potassium hydroxide and hydrobromic acid      Ionic equation:  Net ionic equation:  Chemical equation:     "
+  "body": "  Potassium hydroxide and hydrobromic acid   "
 },
 {
-  "id": "exercises-acidsbases6-2",
+  "id": "sec-acidsbases6-37-2-3",
   "level": "2",
-  "url": "sec-acidsbases6.html#exercises-acidsbases6-2",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-37-2-3",
   "type": "Exercise",
   "number": "11.6.2",
   "title": "",
-  "body": "  Nitric acid and sodium hydroxide      Ionic equation:  Net ionic equation:  Chemical equation:     "
+  "body": "  Nitric acid and sodium hydroxide   "
 },
 {
-  "id": "exercises-acidsbases6-3",
+  "id": "sec-acidsbases6-37-2-4",
   "level": "2",
-  "url": "sec-acidsbases6.html#exercises-acidsbases6-3",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-37-2-4",
   "type": "Exercise",
   "number": "11.6.3",
   "title": "",
-  "body": "  Ammonia and hydroiodic acid      Ionic equation:  Net ionic equation:  Chemical equation:     "
+  "body": "  Ammonia and hydroiodic acid   "
 },
 {
-  "id": "exercises-acidsbases6-4",
+  "id": "sec-acidsbases6-37-2-5",
   "level": "2",
-  "url": "sec-acidsbases6.html#exercises-acidsbases6-4",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-37-2-5",
   "type": "Exercise",
   "number": "11.6.4",
   "title": "",
-  "body": "  Potassium hydroxide and potassium hydrogen carbonate      Ionic equation:  (note: you could combine the two ions in the reactants and products to be )  Net ionic equation:  Chemical equation:     "
+  "body": "  Potassium hydroxide and potassium hydrogen carbonate   "
 },
 {
-  "id": "exercises-acidsbases6-5",
+  "id": "sec-acidsbases6-37-2-6",
   "level": "2",
-  "url": "sec-acidsbases6.html#exercises-acidsbases6-5",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-37-2-6",
   "type": "Exercise",
   "number": "11.6.5",
   "title": "",
-  "body": "  Nitric acid and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:     "
+  "body": "  Nitric acid and sodium hydrogen carbonate   "
 },
 {
-  "id": "exercises-acidsbases6-6",
+  "id": "sec-acidsbases6-37-2-7",
   "level": "2",
-  "url": "sec-acidsbases6.html#exercises-acidsbases6-6",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-37-2-7",
   "type": "Exercise",
   "number": "11.6.6",
   "title": "",
-  "body": "  Ammonia and sodium hydrogen carbonate      Ionic equation:  Net ionic equation:  Chemical equation:  (note: the and the can swap positions in the chemical formula, so it could be written as instead)     "
+  "body": "  Ammonia and sodium hydrogen carbonate   "
 },
 {
   "id": "sec-acidsbases7",
@@ -7117,106 +9169,106 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.7",
   "title": "pH",
-  "body": " pH   Summary:     pH is a different way of expressing the concentration of hydronium ion in a solution    Neutral pH is 7. Acidic pH is less than 7. Basic pH is greater than 7.    Calculations involving pH involve logarithms\/power functions     pH   When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:     This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:     pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.   The pH scale    In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:                 If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution      2.4        If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution.    Use the Kw equation to find the hydronium ion concentration first.    11.6        If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?    Use the reverse pH equation to get the hydronium ion concentration. You can then get the hydroxide concentration using the Kw equation.    [hydronium]= , [hydroxide]= , hydronium ion concentration is higher        Repeat the same calculations, but at a pH value of 9.2.      [hydronium]= , [hydroxide]= , hydroxide ion concentration is higher        Compare the results of the last two problems. If the pH is greater than 7, is the hydronium or hydroxide ion concentration bigger? What about below pH 7?      The hydronium ion concentration is greater than the hydroxide ion concentration below pH 7. Above pH 7, the reverse is true.              If 1.00 g of HCl is added to 2.0 L water, what is the new pH?     Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the hydronium that was already there...for these problems it is an insignificant amount)    0.0274 moles hydronium      Step 2: Calculate the molarity of hydronium ion      0.014 M        Step 3: Calculate the pH      1.9              If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?     Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)      0.0250 moles hydroxide        Step 2: Calculate the molarity of hydroxide ion      0.042 M        Step 3: Calculate the molarity of the hydronium ion             Step 4: Calculate the pH      13          Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is at that temperature.      7.47       "
+  "body": " pH  When scientists describe how acidic or basic a solution is, we could report the concentration of hydronium ion or hydroxide ion. However, because the numbers are so small and usually written in scientific notation, this becomes quite cumbersome. To solve this problem, we instead often transform the concentration of hydronium ion into a pH value using the formula below:  pH = −log ([H3 O+ ])  This version of the equation can be used to find the pH value from a concentration of hydronium ion (which MUST be molarity). We can figure out the pH of a neutral solution as shown:  pH = − log(1 × 10−7 ) = 7  pH values lower than 7 are said to be acidic solutions. pH values above 7 are basic solutions. The reason why will be determined as a part of your exercises.  In some cases, we’ll need to figure out the concentration of hydronium ion from a pH value. This requires rearrangement of the pH equation using algebra skills. The tricky part of this is that we need to ‘undo’ the log function. This is done by taking 10 and raising it to the power of everything on that side of the equation as shown below:  pH = − log([H3 O+ ])  −pH = log([H3 O+ ]) + 10−pH = 10log([H3O ])  10−pH = [H3 O+ ]   Exercise 3    If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution    2.4      If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution (hint: first calculate the hydronium ion concentration like we did previously)    11.6      If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?     Repeat the same calculations, but at a pH value of 9.2.    [hydronium]=6.3E-10 M, [hydroxide]=1.6E-5 M, hydroxide ion concentration is higher       If 1.00 g of HCl is added to 2.0 L water, what is the new pH?     Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the 1x10-7 M hydronium that was already there...for these problems it is an insignificant amount)    0.0274 moles hydronium      Step 2: Calculate the molarity of hydronium ion    0.014 M      Step 3: Calculate the pH    1.9       If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?     Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)    0.0250 moles hydroxide      Step 2: Calculate the molarity of hydroxide ion    0.042 M      Step 3: Calculate the molarity of the hydronium ion    2.4E-13 M      Step 4: Calculate the pH    13       Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is 1.14 x 10-15    7.47     "
 },
 {
-  "id": "sec-acidsbases7-2",
+  "id": "sec-acidsbases7-11-2",
   "level": "2",
-  "url": "sec-acidsbases7.html#sec-acidsbases7-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-acidsbases7-4",
-  "level": "2",
-  "url": "sec-acidsbases7.html#sec-acidsbases7-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "pH "
-},
-{
-  "id": "phscale",
-  "level": "2",
-  "url": "sec-acidsbases7.html#phscale",
-  "type": "Figure",
-  "number": "11.7.1",
-  "title": "",
-  "body": " The pH scale   "
-},
-{
-  "id": "exercises-acidsbases7-1",
-  "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-1",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-2",
   "type": "Exercise",
   "number": "11.7.1",
   "title": "",
-  "body": "  If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution      2.4     "
+  "body": "  If the concentration of hydronium ion is 0.0044M, calculate the pH of the solution    2.4   "
 },
 {
-  "id": "exercises-acidsbases7-2",
+  "id": "sec-acidsbases7-11-3",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-2",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-3",
   "type": "Exercise",
   "number": "11.7.2",
   "title": "",
-  "body": "  If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution.    Use the Kw equation to find the hydronium ion concentration first.    11.6     "
+  "body": "  If the concentration of hydroxide ion is 0.0044M, calculate the pH of the solution (hint: first calculate the hydronium ion concentration like we did previously)    11.6   "
 },
 {
-  "id": "exercises-acidsbases7-3",
+  "id": "sec-acidsbases7-11-4-2",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-3",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-4-2",
   "type": "Exercise",
   "number": "11.7.3",
   "title": "",
-  "body": "  If the pH of a solution is 4.3, calculate the hydronium ion concentration and the hydroxide ion concentration. Which is greater?    Use the reverse pH equation to get the hydronium ion concentration. You can then get the hydroxide concentration using the Kw equation.    [hydronium]= , [hydroxide]= , hydronium ion concentration is higher     "
+  "body": "  Repeat the same calculations, but at a pH value of 9.2.    [hydronium]=6.3E-10 M, [hydroxide]=1.6E-5 M, hydroxide ion concentration is higher   "
 },
 {
-  "id": "exercises-acidsbases7-4",
+  "id": "sec-acidsbases7-11-5-2",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-4",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-5-2",
   "type": "Exercise",
   "number": "11.7.4",
   "title": "",
-  "body": "  Repeat the same calculations, but at a pH value of 9.2.      [hydronium]= , [hydroxide]= , hydroxide ion concentration is higher     "
+  "body": "  Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the 1x10-7 M hydronium that was already there...for these problems it is an insignificant amount)    0.0274 moles hydronium   "
 },
 {
-  "id": "exercises-acidsbases7-5",
+  "id": "sec-acidsbases7-11-5-3",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-5",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-5-3",
   "type": "Exercise",
   "number": "11.7.5",
   "title": "",
-  "body": "  Compare the results of the last two problems. If the pH is greater than 7, is the hydronium or hydroxide ion concentration bigger? What about below pH 7?      The hydronium ion concentration is greater than the hydroxide ion concentration below pH 7. Above pH 7, the reverse is true.     "
+  "body": "  Step 2: Calculate the molarity of hydronium ion    0.014 M   "
 },
 {
-  "id": "exercises-acidsbases7-6",
+  "id": "sec-acidsbases7-11-5-4",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-6",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-5-4",
   "type": "Exercise",
   "number": "11.7.6",
   "title": "",
-  "body": "  If 1.00 g of HCl is added to 2.0 L water, what is the new pH?     Step 1: How many moles of HCl was added? How many moles of hydronium was added? How much hydronium ion is present in the water (you can ignore the hydronium that was already there...for these problems it is an insignificant amount)    0.0274 moles hydronium      Step 2: Calculate the molarity of hydronium ion      0.014 M        Step 3: Calculate the pH      1.9      "
+  "body": "  Step 3: Calculate the pH    1.9   "
 },
 {
-  "id": "exercises-acidsbases7-7",
+  "id": "sec-acidsbases7-11-6-2",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-7",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-6-2",
   "type": "Exercise",
   "number": "11.7.7",
   "title": "",
-  "body": "  If 1.00g of NaOH is added to 0.59 L of water, what is the new pH?     Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)      0.0250 moles hydroxide        Step 2: Calculate the molarity of hydroxide ion      0.042 M        Step 3: Calculate the molarity of the hydronium ion             Step 4: Calculate the pH      13      "
+  "body": "  Step 1: How many moles of NaOH was added? How many moles of hydroxide was added? How much hydroxide ion is present in the water (you can ignore the 1x10-7 M hydroxide that was already there...for these problems it is an insignificant amount)    0.0250 moles hydroxide   "
 },
 {
-  "id": "exercises-acidsbases7-8",
+  "id": "sec-acidsbases7-11-6-3",
   "level": "2",
-  "url": "sec-acidsbases7.html#exercises-acidsbases7-8",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-6-3",
   "type": "Exercise",
   "number": "11.7.8",
   "title": "",
-  "body": "  Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is at that temperature.      7.47     "
+  "body": "  Step 2: Calculate the molarity of hydroxide ion    0.042 M   "
+},
+{
+  "id": "sec-acidsbases7-11-6-4",
+  "level": "2",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-6-4",
+  "type": "Exercise",
+  "number": "11.7.9",
+  "title": "",
+  "body": "  Step 3: Calculate the molarity of the hydronium ion    2.4E-13 M   "
+},
+{
+  "id": "sec-acidsbases7-11-6-5",
+  "level": "2",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-6-5",
+  "type": "Exercise",
+  "number": "11.7.10",
+  "title": "",
+  "body": "  Step 4: Calculate the pH    13   "
+},
+{
+  "id": "sec-acidsbases7-11-7",
+  "level": "2",
+  "url": "sec-acidsbases7.html#sec-acidsbases7-11-7",
+  "type": "Exercise",
+  "number": "11.7.11",
+  "title": "",
+  "body": "  Calculate the pH of neutral water at 0 degrees Celsius where the value of Kw is 1.14 x 10-15    7.47   "
 },
 {
   "id": "sec-acidsbases8",
@@ -7225,151 +9277,97 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.8",
   "title": "Buffers",
-  "body": " Buffers   Summary:     Buffers help solutions resist changes in pH    Buffers are mixtures of weak acids and weak bases    Every buffered solution has a buffering capacity that describes how much acid or base it can handle     Buffers    Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.  When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.   How a buffer resists changes in pH from the addition of acid    Every buffer has a buffering capacity . This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.     Which of the following mixtures of chemicals would make good buffers?          Yes        \/      Yes             No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.           Yes             No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.      \/      Yes             No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.       Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.             If a solution contains 0.11 moles of weak base and 0.34 moles of weak acid, then ...     How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles        How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles        How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles        "
+  "body": " Buffers  Buffers are substances that can be added to water to make the water resistant to changes in pH. A buffer consists of either a weak acid and its conjugate base or a weak base and its conjugate acid. How does this mixture of substances make the solution more resistant to changes in pH?  When a strong acid is added to water, it will form hydronium ions and the concentration of the hydronium ions formed will be the same as the concentration of the acid that was just added, because a strong acid completely dissociates upon addition to water. Likewise if a strong base is added to water, it will form the number of hydroxide ions that are contained in that substance that was added, again because a strong base will completely dissociate when added to water. The additional hydronium ion or hydroxide ion will then directly affect the pH of the solution.  When a buffer is present, the solution contains an additional solute that is an acid and another that is a base. These acids and bases are capable of reacting with any base or acid that might get added to the solution, helping to neutralize it. The picture below might help.  Every buffer has a buffering capacity. This is the amount of additional acid or base that can be added without exceeding the amount of buffering compounds. So if a buffered solution contains 0.1M weak base and 0.2M of its conjugate acid, then the solution could handle the addition of up to 0.1M hydronium ions before running out of weak base  (because the weak base will react with the hydronium ions) and up to 0.2M hydroxide ions (because the hydroxide would react with the conjugate acid). Amounts of hydronium above 0.1M would exceed the buffering capacity of the solution as would addition of more than 0.2M hydroxide ion.   Exercise 4    Which of the following mixtures of chemicals would make good buffers?     NaF\/ HF    yes      KHCO3 \/ H2 CO3    Yes      NaOH\/H2 O    No      NH3 \/NH4 Br    Yes      NaCl\/HCl    No      KH2 PO4 \/H3 PO4    Yes      HF\/H3 PO4    No       Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.    Drawings may vary      If a solution contains 0.11 moles of weak base and 0.33 moles of weak acid, then how many moles of nitric acid could be added without exceeding the buffering capacity?     How many moles of sodium hydroxide could be added without exceeding the buffering capacity?    How many moles of sodium hydroxide could be added without exceeding the buffering capacity? 0.33 moles      How many moles of calcium hydroxide could be added without exceeding the buffering capacity?    How many moles of calcium hydroxide could be added without exceeding the buffering capacity? 0.17 moles      "
 },
 {
-  "id": "sec-acidsbases8-2",
+  "id": "sec-acidsbases8-7-2-2",
   "level": "2",
-  "url": "sec-acidsbases8.html#sec-acidsbases8-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-acidsbases8-4",
-  "level": "2",
-  "url": "sec-acidsbases8.html#sec-acidsbases8-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Buffers "
-},
-{
-  "id": "sec-acidsbases8-5",
-  "level": "2",
-  "url": "sec-acidsbases8.html#sec-acidsbases8-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Buffers "
-},
-{
-  "id": "",
-  "level": "2",
-  "url": "sec-acidsbases8.html#",
-  "type": "Figure",
-  "number": "11.8.1",
-  "title": "",
-  "body": " How a buffer resists changes in pH from the addition of acid   "
-},
-{
-  "id": "sec-acidsbases8-9",
-  "level": "2",
-  "url": "sec-acidsbases8.html#sec-acidsbases8-9",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "buffering capacity "
-},
-{
-  "id": "exercises-acidbases8-1-2",
-  "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-2",
   "type": "Exercise",
   "number": "11.8.1",
   "title": "",
-  "body": "       Yes     "
+  "body": "  NaF\/ HF    yes   "
 },
 {
-  "id": "exercises-acidbases8-1-3",
+  "id": "sec-acidsbases8-7-2-3",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-3",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-3",
   "type": "Exercise",
   "number": "11.8.2",
   "title": "",
-  "body": "  \/      Yes     "
+  "body": "  KHCO3 \/ H2 CO3    Yes   "
 },
 {
-  "id": "exercises-acidbases8-1-4",
+  "id": "sec-acidsbases8-7-2-4",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-4",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-4",
   "type": "Exercise",
   "number": "11.8.3",
   "title": "",
-  "body": "       No    They are related by the addition\/removal of a proton. However, hydroxide is a strong base, not a weak base.   "
+  "body": "  NaOH\/H2 O    No   "
 },
 {
-  "id": "exercises-acidbases8-1-5",
+  "id": "sec-acidsbases8-7-2-5",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-5",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-5",
   "type": "Exercise",
   "number": "11.8.4",
   "title": "",
-  "body": "       Yes     "
+  "body": "  NH3 \/NH4 Br    Yes   "
 },
 {
-  "id": "exercises-acidbases8-1-6",
+  "id": "sec-acidsbases8-7-2-6",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-6",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-6",
   "type": "Exercise",
   "number": "11.8.5",
   "title": "",
-  "body": "       No    These compounds are related by the addition\/removal of a proton. However, HCl is a strong acid.   "
+  "body": "  NaCl\/HCl    No   "
 },
 {
-  "id": "exercises-acidbases8-1-7",
+  "id": "sec-acidsbases8-7-2-7",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-7",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-7",
   "type": "Exercise",
   "number": "11.8.6",
   "title": "",
-  "body": "  \/      Yes     "
+  "body": "  KH2 PO4 \/H3 PO4    Yes   "
 },
 {
-  "id": "exercises-acidbases8-1-8",
+  "id": "sec-acidsbases8-7-2-8",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-1-8",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-2-8",
   "type": "Exercise",
   "number": "11.8.7",
   "title": "",
-  "body": "       No    These compounds are both weak acids. Neither is a base. Also neither has its conjugate base present.   "
+  "body": "  HF\/H3 PO4    No   "
 },
 {
-  "id": "exercises-acidbases8-2",
+  "id": "sec-acidsbases8-7-3",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-3",
   "type": "Exercise",
   "number": "11.8.8",
   "title": "",
-  "body": "  Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.          "
+  "body": "  Create a drawing similar to the figure above that shows how a buffer can resist changes to pH caused by adding in strong base.    Drawings may vary   "
 },
 {
-  "id": "exercises-acidbases8-3-2",
+  "id": "sec-acidsbases8-7-4-2",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-3-2",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-4-2",
   "type": "Exercise",
   "number": "11.8.9",
   "title": "",
-  "body": "  How many moles of nitric acid could be added without exceeding the buffering capacity?      0.11 moles     "
+  "body": "  How many moles of sodium hydroxide could be added without exceeding the buffering capacity?    How many moles of sodium hydroxide could be added without exceeding the buffering capacity? 0.33 moles   "
 },
 {
-  "id": "exercises-acidbases8-3-3",
+  "id": "sec-acidsbases8-7-4-3",
   "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-3-3",
+  "url": "sec-acidsbases8.html#sec-acidsbases8-7-4-3",
   "type": "Exercise",
   "number": "11.8.10",
   "title": "",
-  "body": "  How many moles of sodium hydroxide could be added without exceeding the buffering capacity?      0.34 moles     "
-},
-{
-  "id": "exercises-acidbases8-3-4",
-  "level": "2",
-  "url": "sec-acidsbases8.html#exercises-acidbases8-3-4",
-  "type": "Exercise",
-  "number": "11.8.11",
-  "title": "",
-  "body": "  How many moles of calcium hydroxide could be added without exceeding the buffering capacity?      0.17 moles     "
+  "body": "  How many moles of calcium hydroxide could be added without exceeding the buffering capacity?    How many moles of calcium hydroxide could be added without exceeding the buffering capacity? 0.17 moles   "
 },
 {
   "id": "sec-acidsbases9",
@@ -7377,80 +9375,35 @@ var ptx_lunr_docs = [
   "url": "sec-acidsbases9.html",
   "type": "Section",
   "number": "11.9",
-  "title": "Acid-base titrations",
-  "body": " Acid-base titrations   Summary:     Titrations are reactions used to determine the concentration of an unknown.    Mole-mole conversion factors from the balanced neutralization reaction     Acid-base titrations   An acid base titration is simply a solution reaction that is used to measure the concentration of an acid or base. If we begin with a known volume of solution with an unknown concentration of acid, we can determine its concentration by measuring the number of moles of base that we have to add to neutralize it. The easiest way to do that is to slowly add a solution of base of known concentration to the solution using a burette, which allows us to measure the volume of base needed. If we have the volume and concentration of the base, we can use this to determine the number of moles of base. From there, we can convert moles of base to moles of acid using the balanced chemical equation. If we know moles of acid and its volume (remember we need to know this when we start the titration), then we can divide them to determine the concentration.  Up to this point, the acid-base neutralization equations that we’ve been working with have had a 1:1 ratio of acid to base. With some acids and bases, this ratio may not be 1:1. Consider calcium hydroxide, . Each unit of calcium hydroxide contains 2 hydroxide ions. Each one of these bases must be neutralized by a separate hydrogen ion from the acid. Thus 2 acidic ions will be required to neutralize one calcium hydroxide. As with any stoichiometric calculation, we must ensure that we have a balanced equation first to give us the proper mole-mole ratios for our calculations.     7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH. What is the molarity of the HCl solution?     Write a neutralization equation for this reaction.               Figure out the number of moles of NaOH that was added to neutralize the HCl                Figure out the number of moles of HCl that were in the solution to begin with    0.0014014 moles (the same as the amount of NaOH because the ratio is 1:1 in the neutralization equation)      What is the molarity of the HCl solution?      Divide the moles of HCl by the volume of the HCl solution (measured in liters)    0.187 M         For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)    The previous problem gives you the molarity of the HCl solution. Since HCl ionizes completely in water, this is the same concentration as the hydronium ion.    0.73        What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      0.061 M        What was the starting pH of the NaOH solution in question 3? Round to the nearest hundredths place.    Remember that the concentration that you figured out in question 3 is the hydroxide ion concentration. Figure out the hydronium ion concentration using the Kw equation.    12.79        What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    Remember to determine the balanced equation first. The mole-mole ratio in this question is not 1:1!    0.0119 M       "
+  "title": "Acid-Base titration review",
+  "body": " Acid-Base titration review  An acid base titration is simply a solution reaction that is used to measure the concentration of an acid or base. If we begin with a known volume of solution with an unknown concentration of acid, we can determine its concentration by measuring the number of moles of base that we have to add to neutralize it. The easiest way to do that is to slowly add a solution of base of known concentration to the solution using a burette, which allows us to measure the volume of base needed. If we have the volume and concentration of the base, we can use this to determine the number of moles of base. From there, we can convert moles of base to moles of acid using the balanced chemical equation. If we know moles of acid and its volume (remember we need to know this when we start the titration), then we can divide them to determine the concentration.  Up to this point, the acid-base neutralization equations that we’ve been working with have had a 1:1 ratio of acid to base. With some acids and bases, this ratio may not be 1:1. Consider calcium hydroxide. Each unit of calcium hydroxide contains 2 hydroxide  ions. Each one of these bases must be neutralized by a separate hydrogen ion from the acid. Thus 2 acidic H+ ions will be required to neutralize one calcium hydroxide. As with any stoichiometric calculation, we must ensure that we have a balanced equation first to give us the proper mole-mole ratios for our calculations.   Exercise 5    What is the molarity of an HCl solution if 7.50 mL of the solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH?     What was the starting pH of the HCl solution?    What was the starting pH of the HCl solution?       What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?     What was the starting pH of that NaOH solution?    What was the starting pH of that NaOH solution?       What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?     "
 },
 {
-  "id": "sec-acidsbases9-2",
+  "id": "sec-acidsbases9-5-2-2",
   "level": "2",
-  "url": "sec-acidsbases9.html#sec-acidsbases9-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Summary: "
-},
-{
-  "id": "sec-acidsbases9-4",
-  "level": "2",
-  "url": "sec-acidsbases9.html#sec-acidsbases9-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Acid-base titrations "
-},
-{
-  "id": "sec-acidsbases9-5",
-  "level": "2",
-  "url": "sec-acidsbases9.html#sec-acidsbases9-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "titration "
-},
-{
-  "id": "exercises-acidsbases9-1",
-  "level": "2",
-  "url": "sec-acidsbases9.html#exercises-acidsbases9-1",
+  "url": "sec-acidsbases9.html#sec-acidsbases9-5-2-2",
   "type": "Exercise",
   "number": "11.9.1",
   "title": "",
-  "body": "  7.50 mL of an HCl solution was neutralized by the addition of 14.30mL of 0.0980 M NaOH. What is the molarity of the HCl solution?     Write a neutralization equation for this reaction.               Figure out the number of moles of NaOH that was added to neutralize the HCl                Figure out the number of moles of HCl that were in the solution to begin with    0.0014014 moles (the same as the amount of NaOH because the ratio is 1:1 in the neutralization equation)      What is the molarity of the HCl solution?      Divide the moles of HCl by the volume of the HCl solution (measured in liters)    0.187 M      "
+  "body": "  What was the starting pH of the HCl solution?    What was the starting pH of the HCl solution?   "
 },
 {
-  "id": "exercises-acidsbases9-2",
+  "id": "sec-acidsbases9-5-3-2",
   "level": "2",
-  "url": "sec-acidsbases9.html#exercises-acidsbases9-2",
+  "url": "sec-acidsbases9.html#sec-acidsbases9-5-3-2",
   "type": "Exercise",
   "number": "11.9.2",
   "title": "",
-  "body": "  For the titration in question 1, what was the starting pH of the HCl solution? (Round to the nearest hundredths place)    The previous problem gives you the molarity of the HCl solution. Since HCl ionizes completely in water, this is the same concentration as the hydronium ion.    0.73     "
+  "body": "  What was the starting pH of that NaOH solution?    What was the starting pH of that NaOH solution?   "
 },
 {
-  "id": "exercises-acidsbases9-3",
+  "id": "sec-acidsbases9-5-4",
   "level": "2",
-  "url": "sec-acidsbases9.html#exercises-acidsbases9-3",
+  "url": "sec-acidsbases9.html#sec-acidsbases9-5-4",
   "type": "Exercise",
   "number": "11.9.3",
   "title": "",
-  "body": "  What is the molarity of a NaOH solution if 1.5 L of the solution was neutralized by the addition of 15.33mL of 6.00M HCl?      0.061 M     "
-},
-{
-  "id": "exercises-acidsbases9-4",
-  "level": "2",
-  "url": "sec-acidsbases9.html#exercises-acidsbases9-4",
-  "type": "Exercise",
-  "number": "11.9.4",
-  "title": "",
-  "body": "  What was the starting pH of the NaOH solution in question 3? Round to the nearest hundredths place.    Remember that the concentration that you figured out in question 3 is the hydroxide ion concentration. Figure out the hydronium ion concentration using the Kw equation.    12.79     "
-},
-{
-  "id": "exercises-acidsbases9-5",
-  "level": "2",
-  "url": "sec-acidsbases9.html#exercises-acidsbases9-5",
-  "type": "Exercise",
-  "number": "11.9.5",
-  "title": "",
-  "body": "  What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    Remember to determine the balanced equation first. The mole-mole ratio in this question is not 1:1!    0.0119 M     "
+  "body": "  What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?    What is the molarity of a magnesium hydroxide solution if 20.00 mL of it was neutralized by the addition of 4.75 mL of 0.100M HCl?   "
 },
 {
   "id": "backmatter-2",
