@@ -4335,17 +4335,116 @@ var ptx_lunr_docs = [
   "url": "sec-ioncompounds1.html",
   "type": "Section",
   "number": "6.1",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Ionic Compounds",
+  "body": " Ionic Compounds  Compounds are pure substances made of atoms of different elements joined in specific ratios. Two major classes are ionic compounds and covalent, or molecular, compounds. The distinction is the way the atoms are joined.  Ionic compounds are made of ions held together by electrostatic forces. Ions carry a net positive or negative charge. Positively charged ions are cations and negatively charged ions are anions. An ion may consist of one atom, a monoatomic ion, or several covalently bound atoms, a polyatomic ion.  Covalent compounds are formed when atoms share electrons. They remain together as discrete units called molecules. Ionic compounds generally contain a metal and one or more nonmetals, while covalent compounds consist only of nonmetals.  Ionic compounds generally have much higher melting points than covalent compounds because the electrostatic forces holding ions together are stronger than the intermolecular forces between separate molecules. When an ionic compound dissolves in water, its ions separate and become surrounded by water molecules. Covalent compounds remain as intact molecules when they dissolve.   Exercises:    Classify each species as a monoatomic cation, monoatomic anion, polyatomic cation, or polyatomic anion.     Ca²⁺    Monoatomic cation      Mn²⁺    Monoatomic cation      NH₄⁺    Polyatomic cation      ClO₄⁻    Polyatomic anion      Cl⁻    Monoatomic anion      O²⁻    Monoatomic anion      SO₄²⁻    Polyatomic anion       What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces      What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces      For each description, determine whether it describes a molecular compound or an ionic compound.     Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound      Low melting points    Covalent\/molecular compound      Usually contains metal ions    Ionic compound      "
 },
 {
-  "id": "sec-ioncompounds1-2",
+  "id": "sec-ioncompounds1-6-2-2",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-2",
+  "type": "Exercise",
+  "number": "6.1.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Ca²⁺    Monoatomic cation   "
+},
+{
+  "id": "sec-ioncompounds1-6-2-3",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-3",
+  "type": "Exercise",
+  "number": "6.1.2",
+  "title": "",
+  "body": "  Mn²⁺    Monoatomic cation   "
+},
+{
+  "id": "sec-ioncompounds1-6-2-4",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-4",
+  "type": "Exercise",
+  "number": "6.1.3",
+  "title": "",
+  "body": "  NH₄⁺    Polyatomic cation   "
+},
+{
+  "id": "sec-ioncompounds1-6-2-5",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-5",
+  "type": "Exercise",
+  "number": "6.1.4",
+  "title": "",
+  "body": "  ClO₄⁻    Polyatomic anion   "
+},
+{
+  "id": "sec-ioncompounds1-6-2-6",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-6",
+  "type": "Exercise",
+  "number": "6.1.5",
+  "title": "",
+  "body": "  Cl⁻    Monoatomic anion   "
+},
+{
+  "id": "sec-ioncompounds1-6-2-7",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-7",
+  "type": "Exercise",
+  "number": "6.1.6",
+  "title": "",
+  "body": "  O²⁻    Monoatomic anion   "
+},
+{
+  "id": "sec-ioncompounds1-6-2-8",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-8",
+  "type": "Exercise",
+  "number": "6.1.7",
+  "title": "",
+  "body": "  SO₄²⁻    Polyatomic anion   "
+},
+{
+  "id": "sec-ioncompounds1-6-3",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-3",
+  "type": "Exercise",
+  "number": "6.1.8",
+  "title": "",
+  "body": "  What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces   "
+},
+{
+  "id": "sec-ioncompounds1-6-4",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-4",
+  "type": "Exercise",
+  "number": "6.1.9",
+  "title": "",
+  "body": "  What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces   "
+},
+{
+  "id": "sec-ioncompounds1-6-5-2",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-5-2",
+  "type": "Exercise",
+  "number": "6.1.10",
+  "title": "",
+  "body": "  Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound   "
+},
+{
+  "id": "sec-ioncompounds1-6-5-3",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-5-3",
+  "type": "Exercise",
+  "number": "6.1.11",
+  "title": "",
+  "body": "  Low melting points    Covalent\/molecular compound   "
+},
+{
+  "id": "sec-ioncompounds1-6-5-4",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-5-4",
+  "type": "Exercise",
+  "number": "6.1.12",
+  "title": "",
+  "body": "  Usually contains metal ions    Ionic compound   "
 },
 {
   "id": "sec-ioncompounds2",
@@ -4353,17 +4452,143 @@ var ptx_lunr_docs = [
   "url": "sec-ioncompounds2.html",
   "type": "Section",
   "number": "6.2",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Ions",
+  "body": " Ions  An ion is a charged species. An atom becomes negatively charged when it has more electrons than protons and positively charged when it has fewer electrons than protons. The number of protons does not change when an ion forms; ions are created by adding or removing electrons.  Noble gases are especially stable because their valence orbitals are completely filled or completely empty. Except for helium, noble gases have eight valence electrons. This stable arrangement is called the octet rule.  Many atoms form ions in order to obtain a noble-gas electron configuration. Group 1 metals tend to lose one electron, group 2 metals tend to lose two, halogens tend to gain one, and group 16 nonmetals tend to gain two. Aluminum commonly forms a +3 ion, and nitrogen and phosphorus can form -3 ions. Hydrogen may form either a +1 or -1 ion.   Exercises:    What is the electron configuration and charge of each ion?     Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2      Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1      Hydrogen if it gains one electron    [He], or 1s^2; charge -1      Hydrogen if it loses one electron    1s^0; charge +1      Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1      Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3      Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3       What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.      Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.      Determine the charge on each common ion.     Sodium ion    +1      Strontium ion    +2      Aluminum ion    +3      Bromine ion    -1      Sulfur ion    -2      Nitrogen ion    -3      "
 },
 {
-  "id": "sec-ioncompounds2-2",
+  "id": "sec-ioncompounds2-5-2-2",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-2",
+  "type": "Exercise",
+  "number": "6.2.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2   "
+},
+{
+  "id": "sec-ioncompounds2-5-2-3",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-3",
+  "type": "Exercise",
+  "number": "6.2.2",
+  "title": "",
+  "body": "  Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1   "
+},
+{
+  "id": "sec-ioncompounds2-5-2-4",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-4",
+  "type": "Exercise",
+  "number": "6.2.3",
+  "title": "",
+  "body": "  Hydrogen if it gains one electron    [He], or 1s^2; charge -1   "
+},
+{
+  "id": "sec-ioncompounds2-5-2-5",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-5",
+  "type": "Exercise",
+  "number": "6.2.4",
+  "title": "",
+  "body": "  Hydrogen if it loses one electron    1s^0; charge +1   "
+},
+{
+  "id": "sec-ioncompounds2-5-2-6",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-6",
+  "type": "Exercise",
+  "number": "6.2.5",
+  "title": "",
+  "body": "  Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1   "
+},
+{
+  "id": "sec-ioncompounds2-5-2-7",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-7",
+  "type": "Exercise",
+  "number": "6.2.6",
+  "title": "",
+  "body": "  Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3   "
+},
+{
+  "id": "sec-ioncompounds2-5-2-8",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-8",
+  "type": "Exercise",
+  "number": "6.2.7",
+  "title": "",
+  "body": "  Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3   "
+},
+{
+  "id": "sec-ioncompounds2-5-3",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-3",
+  "type": "Exercise",
+  "number": "6.2.8",
+  "title": "",
+  "body": "  What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.   "
+},
+{
+  "id": "sec-ioncompounds2-5-4",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-4",
+  "type": "Exercise",
+  "number": "6.2.9",
+  "title": "",
+  "body": "  Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.   "
+},
+{
+  "id": "sec-ioncompounds2-5-5-2",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-2",
+  "type": "Exercise",
+  "number": "6.2.10",
+  "title": "",
+  "body": "  Sodium ion    +1   "
+},
+{
+  "id": "sec-ioncompounds2-5-5-3",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-3",
+  "type": "Exercise",
+  "number": "6.2.11",
+  "title": "",
+  "body": "  Strontium ion    +2   "
+},
+{
+  "id": "sec-ioncompounds2-5-5-4",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-4",
+  "type": "Exercise",
+  "number": "6.2.12",
+  "title": "",
+  "body": "  Aluminum ion    +3   "
+},
+{
+  "id": "sec-ioncompounds2-5-5-5",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-5",
+  "type": "Exercise",
+  "number": "6.2.13",
+  "title": "",
+  "body": "  Bromine ion    -1   "
+},
+{
+  "id": "sec-ioncompounds2-5-5-6",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-6",
+  "type": "Exercise",
+  "number": "6.2.14",
+  "title": "",
+  "body": "  Sulfur ion    -2   "
+},
+{
+  "id": "sec-ioncompounds2-5-5-7",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-7",
+  "type": "Exercise",
+  "number": "6.2.15",
+  "title": "",
+  "body": "  Nitrogen ion    -3   "
 },
 {
   "id": "sec-ioncompounds3",
@@ -4371,17 +4596,197 @@ var ptx_lunr_docs = [
   "url": "sec-ioncompounds3.html",
   "type": "Section",
   "number": "6.3",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Simple Ionic Compounds",
+  "body": " Simple Ionic Compounds  Ionic compounds are formed by combining cations and anions so that the total positive charge equals the total negative charge. For example, Na⁺ and Cl⁻ combine in a 1:1 ratio to form NaCl, while Ca²⁺ requires two chloride ions and forms CaCl₂. Charges are not written in the final chemical formula.  Simple ionic compounds are named with two words. The first word is the cation name. The second is the anion name, with the element ending replaced by -ide. Prefixes are not used to indicate the number of ions.     Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide      Exercises:    Balance positive and negative charge to determine the formula.     Na⁺ and Cl⁻    NaCl      Mg²⁺ and Cl⁻    MgCl₂      Al³⁺ and Cl⁻    AlCl₃      Na⁺ and O²⁻    Na₂O      Mg²⁺ and O²⁻    MgO, not Mg₂O₂      Al³⁺ and O²⁻    Al₂O₃      K⁺ and N³⁻    K₃N      Mg²⁺ and P³⁻    Mg₃P₂       Name each ionic compound.     MgCl₂    Magnesium chloride      KI    Potassium iodide      AlN    Aluminum nitride      SrO    Strontium oxide      Ca₃P₂    Calcium phosphide       Write the formula for each compound.     Potassium bromide    KBr      Magnesium sulfide    MgS      Strontium fluoride    SrF₂      Sodium phosphide    Na₃P      Calcium nitride    Ca₃N₂      Lithium hydride    LiH      Hydrogen bromide    HBr      "
 },
 {
-  "id": "sec-ioncompounds3-2",
+  "id": "sec-ioncompounds3-4",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-4",
+  "type": "Table",
+  "number": "6.3.1",
   "title": "",
-  "body": "Summary: "
+  "body": "   Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide    "
+},
+{
+  "id": "sec-ioncompounds3-5-2-2",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-2",
+  "type": "Exercise",
+  "number": "6.3.1",
+  "title": "",
+  "body": "  Na⁺ and Cl⁻    NaCl   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-3",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-3",
+  "type": "Exercise",
+  "number": "6.3.2",
+  "title": "",
+  "body": "  Mg²⁺ and Cl⁻    MgCl₂   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-4",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-4",
+  "type": "Exercise",
+  "number": "6.3.3",
+  "title": "",
+  "body": "  Al³⁺ and Cl⁻    AlCl₃   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-5",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-5",
+  "type": "Exercise",
+  "number": "6.3.4",
+  "title": "",
+  "body": "  Na⁺ and O²⁻    Na₂O   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-6",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-6",
+  "type": "Exercise",
+  "number": "6.3.5",
+  "title": "",
+  "body": "  Mg²⁺ and O²⁻    MgO, not Mg₂O₂   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-7",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-7",
+  "type": "Exercise",
+  "number": "6.3.6",
+  "title": "",
+  "body": "  Al³⁺ and O²⁻    Al₂O₃   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-8",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-8",
+  "type": "Exercise",
+  "number": "6.3.7",
+  "title": "",
+  "body": "  K⁺ and N³⁻    K₃N   "
+},
+{
+  "id": "sec-ioncompounds3-5-2-9",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-9",
+  "type": "Exercise",
+  "number": "6.3.8",
+  "title": "",
+  "body": "  Mg²⁺ and P³⁻    Mg₃P₂   "
+},
+{
+  "id": "sec-ioncompounds3-5-3-2",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-2",
+  "type": "Exercise",
+  "number": "6.3.9",
+  "title": "",
+  "body": "  MgCl₂    Magnesium chloride   "
+},
+{
+  "id": "sec-ioncompounds3-5-3-3",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-3",
+  "type": "Exercise",
+  "number": "6.3.10",
+  "title": "",
+  "body": "  KI    Potassium iodide   "
+},
+{
+  "id": "sec-ioncompounds3-5-3-4",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-4",
+  "type": "Exercise",
+  "number": "6.3.11",
+  "title": "",
+  "body": "  AlN    Aluminum nitride   "
+},
+{
+  "id": "sec-ioncompounds3-5-3-5",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-5",
+  "type": "Exercise",
+  "number": "6.3.12",
+  "title": "",
+  "body": "  SrO    Strontium oxide   "
+},
+{
+  "id": "sec-ioncompounds3-5-3-6",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-6",
+  "type": "Exercise",
+  "number": "6.3.13",
+  "title": "",
+  "body": "  Ca₃P₂    Calcium phosphide   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-2",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-2",
+  "type": "Exercise",
+  "number": "6.3.14",
+  "title": "",
+  "body": "  Potassium bromide    KBr   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-3",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-3",
+  "type": "Exercise",
+  "number": "6.3.15",
+  "title": "",
+  "body": "  Magnesium sulfide    MgS   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-4",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-4",
+  "type": "Exercise",
+  "number": "6.3.16",
+  "title": "",
+  "body": "  Strontium fluoride    SrF₂   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-5",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-5",
+  "type": "Exercise",
+  "number": "6.3.17",
+  "title": "",
+  "body": "  Sodium phosphide    Na₃P   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-6",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-6",
+  "type": "Exercise",
+  "number": "6.3.18",
+  "title": "",
+  "body": "  Calcium nitride    Ca₃N₂   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-7",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-7",
+  "type": "Exercise",
+  "number": "6.3.19",
+  "title": "",
+  "body": "  Lithium hydride    LiH   "
+},
+{
+  "id": "sec-ioncompounds3-5-4-8",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-8",
+  "type": "Exercise",
+  "number": "6.3.20",
+  "title": "",
+  "body": "  Hydrogen bromide    HBr   "
 },
 {
   "id": "sec-ioncompounds4",
@@ -4389,17 +4794,197 @@ var ptx_lunr_docs = [
   "url": "sec-ioncompounds4.html",
   "type": "Section",
   "number": "6.4",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Metals with Variable Charges",
+  "body": " Metals with Variable Charges  Many metals, especially transition metals, can adopt more than one stable charge state. Instead of losing enough electrons to exactly match a noble gas, they may empty their outer s or p orbitals or reach another relatively stable arrangement.  Metals with predictable charges include group 1 metals (+1), group 2 metals (+2), and the C.A.Z.A.G. metals: cadmium (+2), aluminum (+3), zinc (+2), silver (+1), and gallium (+3). Other metals may have more than one possible charge.  When naming an ionic compound that contains a metal with variable charge, the metal charge is written as a Roman numeral in parentheses. For example, FeCl₃ is iron (III) chloride.     Number  Roman numeral    1  I    2  II    3  III    4  IV    5  V    6  VI    7  VII    8  VIII     The metal charge can be determined from the known charge on the anion and the requirement that total positive and negative charge balance. In SnO₂, two oxide ions contribute a total charge of -4, so tin must be Sn⁴⁺ and the compound is tin (IV) oxide.   Exercises:    Determine the charge on the metal in each ionic compound.     FeCl₃    Fe³⁺      FeCl₂    Fe²⁺      CoO    Co²⁺      OsO₄    Os⁸⁺      MnN    Mn³⁺      Sn₃N₄    Sn⁴⁺      Sb₂O₅    Sb⁵⁺       Name the ionic compounds from the previous group.     FeCl₃    Iron (III) chloride      FeCl₂    Iron (II) chloride      CoO    Cobalt (II) oxide      OsO₄    Osmium (VIII) oxide      MnN    Manganese (III) nitride      Sn₃N₄    Tin (IV) nitride      Sb₂O₅    Antimony (V) oxide       Write the formula for each compound.     Copper (I) sulfide    Cu₂S      Copper (II) sulfide    CuS      Nickel (II) oxide    NiO      Manganese (III) chloride    MnCl₃      Manganese (VII) oxide    Mn₂O₇      Lead (IV) chloride    PbCl₄      "
 },
 {
-  "id": "sec-ioncompounds4-2",
+  "id": "sec-ioncompounds4-5",
   "level": "2",
-  "url": "sec-ioncompounds4.html#sec-ioncompounds4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-5",
+  "type": "Table",
+  "number": "6.4.1",
   "title": "",
-  "body": "Summary: "
+  "body": "   Number  Roman numeral    1  I    2  II    3  III    4  IV    5  V    6  VI    7  VII    8  VIII    "
+},
+{
+  "id": "sec-ioncompounds4-7-2-2",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-2",
+  "type": "Exercise",
+  "number": "6.4.1",
+  "title": "",
+  "body": "  FeCl₃    Fe³⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-2-3",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-3",
+  "type": "Exercise",
+  "number": "6.4.2",
+  "title": "",
+  "body": "  FeCl₂    Fe²⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-2-4",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-4",
+  "type": "Exercise",
+  "number": "6.4.3",
+  "title": "",
+  "body": "  CoO    Co²⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-2-5",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-5",
+  "type": "Exercise",
+  "number": "6.4.4",
+  "title": "",
+  "body": "  OsO₄    Os⁸⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-2-6",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-6",
+  "type": "Exercise",
+  "number": "6.4.5",
+  "title": "",
+  "body": "  MnN    Mn³⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-2-7",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-7",
+  "type": "Exercise",
+  "number": "6.4.6",
+  "title": "",
+  "body": "  Sn₃N₄    Sn⁴⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-2-8",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-2-8",
+  "type": "Exercise",
+  "number": "6.4.7",
+  "title": "",
+  "body": "  Sb₂O₅    Sb⁵⁺   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-2",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-2",
+  "type": "Exercise",
+  "number": "6.4.8",
+  "title": "",
+  "body": "  FeCl₃    Iron (III) chloride   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-3",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-3",
+  "type": "Exercise",
+  "number": "6.4.9",
+  "title": "",
+  "body": "  FeCl₂    Iron (II) chloride   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-4",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-4",
+  "type": "Exercise",
+  "number": "6.4.10",
+  "title": "",
+  "body": "  CoO    Cobalt (II) oxide   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-5",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-5",
+  "type": "Exercise",
+  "number": "6.4.11",
+  "title": "",
+  "body": "  OsO₄    Osmium (VIII) oxide   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-6",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-6",
+  "type": "Exercise",
+  "number": "6.4.12",
+  "title": "",
+  "body": "  MnN    Manganese (III) nitride   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-7",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-7",
+  "type": "Exercise",
+  "number": "6.4.13",
+  "title": "",
+  "body": "  Sn₃N₄    Tin (IV) nitride   "
+},
+{
+  "id": "sec-ioncompounds4-7-3-8",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-3-8",
+  "type": "Exercise",
+  "number": "6.4.14",
+  "title": "",
+  "body": "  Sb₂O₅    Antimony (V) oxide   "
+},
+{
+  "id": "sec-ioncompounds4-7-4-2",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-4-2",
+  "type": "Exercise",
+  "number": "6.4.15",
+  "title": "",
+  "body": "  Copper (I) sulfide    Cu₂S   "
+},
+{
+  "id": "sec-ioncompounds4-7-4-3",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-4-3",
+  "type": "Exercise",
+  "number": "6.4.16",
+  "title": "",
+  "body": "  Copper (II) sulfide    CuS   "
+},
+{
+  "id": "sec-ioncompounds4-7-4-4",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-4-4",
+  "type": "Exercise",
+  "number": "6.4.17",
+  "title": "",
+  "body": "  Nickel (II) oxide    NiO   "
+},
+{
+  "id": "sec-ioncompounds4-7-4-5",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-4-5",
+  "type": "Exercise",
+  "number": "6.4.18",
+  "title": "",
+  "body": "  Manganese (III) chloride    MnCl₃   "
+},
+{
+  "id": "sec-ioncompounds4-7-4-6",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-4-6",
+  "type": "Exercise",
+  "number": "6.4.19",
+  "title": "",
+  "body": "  Manganese (VII) oxide    Mn₂O₇   "
+},
+{
+  "id": "sec-ioncompounds4-7-4-7",
+  "level": "2",
+  "url": "sec-ioncompounds4.html#sec-ioncompounds4-7-4-7",
+  "type": "Exercise",
+  "number": "6.4.20",
+  "title": "",
+  "body": "  Lead (IV) chloride    PbCl₄   "
 },
 {
   "id": "sec-ioncompounds5",
@@ -4407,17 +4992,179 @@ var ptx_lunr_docs = [
   "url": "sec-ioncompounds5.html",
   "type": "Section",
   "number": "6.5",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Polyatomic Ions",
+  "body": " Polyatomic Ions  Polyatomic ions are charged units made of multiple atoms joined by covalent bonds. The group acts as a single ion and has an overall positive or negative charge. Their names, formulas, and charges must be learned.     Name  Charge  Formula    Ammonium  +1  NH₄⁺    Carbonate  -2  CO₃²⁻    Hydrogen carbonate (bicarbonate)  -1  HCO₃⁻    Phosphate  -3  PO₄³⁻    Hydrogen phosphate (phosphate dibasic)  -2  HPO₄²⁻    Dihydrogen phosphate (phosphate monobasic)  -1  H₂PO₄⁻    Sulfate  -2  SO₄²⁻    Sulfite  -2  SO₃²⁻    Nitrate  -1  NO₃⁻    Nitrite  -1  NO₂⁻    Hydroxide  -1  OH⁻    Acetate  -1  C₂H₃O₂⁻     Ionic compounds containing polyatomic ions are named by naming the cation and then the anion. Ammonium is an important exception to the usual metal-cation pattern because it is a polyatomic cation.  If more than one copy of a polyatomic ion is required to balance charge, the polyatomic ion is enclosed in parentheses and a subscript is written outside the parentheses. For example, Cu²⁺ and NO₃⁻ form Cu(NO₃)₂.   Exercises:    What happens to the name and charge of the polyatomic ion as hydrogens are added?    Hydrogen, or dihydrogen, is added to the name while the root polyatomic-ion name remains the same. For every hydrogen added, the magnitude of the negative charge decreases by one.      What happens to the formula and charge when an -ate ending changes to -ite?    There is one less oxygen atom, while the rest of the formula and the charge remain the same.      Write the correct formula for each ionic compound.     Sodium carbonate    Na₂CO₃      Potassium bicarbonate    KHCO₃      Calcium hydroxide    Ca(OH)₂      Iron (II) phosphate    Fe₃(PO₄)₂      Copper (I) nitrite    CuNO₂      Zinc acetate    Zn(C₂H₃O₂)₂      Ammonium sulfate    (NH₄)₂SO₄      Ammonium acetate    NH₄C₂H₃O₂       Name each ionic compound.     NH₄I    Ammonium iodide      NaNO₃    Sodium nitrate      CoCO₃    Cobalt (II) carbonate      Al₂(HPO₄)₃    Aluminum hydrogen phosphate, or aluminum phosphate dibasic      AgC₂H₃O₂    Silver acetate      Sn(SO₃)₂    Tin (IV) sulfite      Ba(HCO₃)₂    Barium hydrogen carbonate, or barium bicarbonate      NH₄H₂PO₄    Ammonium dihydrogen phosphate, or ammonium phosphate monobasic      "
 },
 {
-  "id": "sec-ioncompounds5-2",
+  "id": "sec-ioncompounds5-3",
   "level": "2",
-  "url": "sec-ioncompounds5.html#sec-ioncompounds5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-3",
+  "type": "Table",
+  "number": "6.5.1",
   "title": "",
-  "body": "Summary: "
+  "body": "   Name  Charge  Formula    Ammonium  +1  NH₄⁺    Carbonate  -2  CO₃²⁻    Hydrogen carbonate (bicarbonate)  -1  HCO₃⁻    Phosphate  -3  PO₄³⁻    Hydrogen phosphate (phosphate dibasic)  -2  HPO₄²⁻    Dihydrogen phosphate (phosphate monobasic)  -1  H₂PO₄⁻    Sulfate  -2  SO₄²⁻    Sulfite  -2  SO₃²⁻    Nitrate  -1  NO₃⁻    Nitrite  -1  NO₂⁻    Hydroxide  -1  OH⁻    Acetate  -1  C₂H₃O₂⁻    "
+},
+{
+  "id": "sec-ioncompounds5-6-2",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-2",
+  "type": "Exercise",
+  "number": "6.5.1",
+  "title": "",
+  "body": "  What happens to the name and charge of the polyatomic ion as hydrogens are added?    Hydrogen, or dihydrogen, is added to the name while the root polyatomic-ion name remains the same. For every hydrogen added, the magnitude of the negative charge decreases by one.   "
+},
+{
+  "id": "sec-ioncompounds5-6-3",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-3",
+  "type": "Exercise",
+  "number": "6.5.2",
+  "title": "",
+  "body": "  What happens to the formula and charge when an -ate ending changes to -ite?    There is one less oxygen atom, while the rest of the formula and the charge remain the same.   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-2",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-2",
+  "type": "Exercise",
+  "number": "6.5.3",
+  "title": "",
+  "body": "  Sodium carbonate    Na₂CO₃   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-3",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-3",
+  "type": "Exercise",
+  "number": "6.5.4",
+  "title": "",
+  "body": "  Potassium bicarbonate    KHCO₃   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-4",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-4",
+  "type": "Exercise",
+  "number": "6.5.5",
+  "title": "",
+  "body": "  Calcium hydroxide    Ca(OH)₂   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-5",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-5",
+  "type": "Exercise",
+  "number": "6.5.6",
+  "title": "",
+  "body": "  Iron (II) phosphate    Fe₃(PO₄)₂   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-6",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-6",
+  "type": "Exercise",
+  "number": "6.5.7",
+  "title": "",
+  "body": "  Copper (I) nitrite    CuNO₂   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-7",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-7",
+  "type": "Exercise",
+  "number": "6.5.8",
+  "title": "",
+  "body": "  Zinc acetate    Zn(C₂H₃O₂)₂   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-8",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-8",
+  "type": "Exercise",
+  "number": "6.5.9",
+  "title": "",
+  "body": "  Ammonium sulfate    (NH₄)₂SO₄   "
+},
+{
+  "id": "sec-ioncompounds5-6-4-9",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-4-9",
+  "type": "Exercise",
+  "number": "6.5.10",
+  "title": "",
+  "body": "  Ammonium acetate    NH₄C₂H₃O₂   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-2",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-2",
+  "type": "Exercise",
+  "number": "6.5.11",
+  "title": "",
+  "body": "  NH₄I    Ammonium iodide   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-3",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-3",
+  "type": "Exercise",
+  "number": "6.5.12",
+  "title": "",
+  "body": "  NaNO₃    Sodium nitrate   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-4",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-4",
+  "type": "Exercise",
+  "number": "6.5.13",
+  "title": "",
+  "body": "  CoCO₃    Cobalt (II) carbonate   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-5",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-5",
+  "type": "Exercise",
+  "number": "6.5.14",
+  "title": "",
+  "body": "  Al₂(HPO₄)₃    Aluminum hydrogen phosphate, or aluminum phosphate dibasic   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-6",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-6",
+  "type": "Exercise",
+  "number": "6.5.15",
+  "title": "",
+  "body": "  AgC₂H₃O₂    Silver acetate   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-7",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-7",
+  "type": "Exercise",
+  "number": "6.5.16",
+  "title": "",
+  "body": "  Sn(SO₃)₂    Tin (IV) sulfite   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-8",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-8",
+  "type": "Exercise",
+  "number": "6.5.17",
+  "title": "",
+  "body": "  Ba(HCO₃)₂    Barium hydrogen carbonate, or barium bicarbonate   "
+},
+{
+  "id": "sec-ioncompounds5-6-5-9",
+  "level": "2",
+  "url": "sec-ioncompounds5.html#sec-ioncompounds5-6-5-9",
+  "type": "Exercise",
+  "number": "6.5.18",
+  "title": "",
+  "body": "  NH₄H₂PO₄    Ammonium dihydrogen phosphate, or ammonium phosphate monobasic   "
 },
 {
   "id": "sec-covcompounds1",
@@ -4425,17 +5172,143 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds1.html",
   "type": "Section",
   "number": "7.1",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Making a Covalent Bond",
+  "body": " Making a Covalent Bond  Covalent compounds form when atoms share electrons. A shared pair of electrons forms a covalent bond. Covalent bonds are strong, so covalent compounds remain together as discrete molecules even when dissolved, melted, or boiled.  To draw the Lewis dot structure for an atom: write the element symbol, surround it with valence electrons as dots, and treat the four sides of the symbol as the outer-shell atomic orbitals. Place no more than two dots per side and do not begin pairing until necessary.  When two atoms approach one another, atomic orbitals can combine to form molecular orbitals shared between the two atoms. Molecular orbitals still hold a maximum of two electrons.  Most atoms are especially stable with eight valence electrons, the octet rule. By combining atomic orbitals into shared molecular orbitals, atoms can share electrons and satisfy the octet rule without adding or removing electrons.   Formation of a Covalent Bond in F₂   Two fluorine atoms are shown before bonding with separate outer orbitals, after bonding with one shared molecular orbital between the atoms, and in an alternate Lewis structure depiction using a single bond.    Hydrogen is a common exception to the octet rule. Its first shell is full with only two electrons, so hydrogen follows the duet rule.   Exercises:    Draw the Lewis dot structure for each atom.     Hydrogen    See the answer-key figure.   Lewis Dot Structure Answer Key   Answer-key panel showing the Lewis dot structures for hydrogen, helium, chlorine, oxygen, nitrogen, and carbon.        Helium    See the answer-key figure.      Chlorine    See the answer-key figure.      Oxygen    See the answer-key figure.      Nitrogen    See the answer-key figure.      Carbon    See the answer-key figure.       Complete the typical-number-of-bonds column based on the number of valence electrons.     H: 1 valence electron    1 bond      He: 2 valence electrons    0 bonds      F: 7 valence electrons    1 bond      O: 6 valence electrons    2 bonds      N: 5 valence electrons    3 bonds      C: 4 valence electrons    4 bonds      S: 6 valence electrons    2 bonds      Ne: 8 valence electrons    0 bonds      "
 },
 {
-  "id": "sec-covcompounds1-2",
+  "id": "fig-fluorine-covalent-bond",
   "level": "2",
-  "url": "sec-covcompounds1.html#sec-covcompounds1-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds1.html#fig-fluorine-covalent-bond",
+  "type": "Figure",
+  "number": "7.1.1",
   "title": "",
-  "body": "Summary: "
+  "body": " Formation of a Covalent Bond in F₂   Two fluorine atoms are shown before bonding with separate outer orbitals, after bonding with one shared molecular orbital between the atoms, and in an alternate Lewis structure depiction using a single bond.   "
+},
+{
+  "id": "sec-covcompounds1-8-2-2",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-2-2",
+  "type": "Exercise",
+  "number": "7.1.1",
+  "title": "",
+  "body": "  Hydrogen    See the answer-key figure.   Lewis Dot Structure Answer Key   Answer-key panel showing the Lewis dot structures for hydrogen, helium, chlorine, oxygen, nitrogen, and carbon.     "
+},
+{
+  "id": "sec-covcompounds1-8-2-3",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-2-3",
+  "type": "Exercise",
+  "number": "7.1.2",
+  "title": "",
+  "body": "  Helium    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds1-8-2-4",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-2-4",
+  "type": "Exercise",
+  "number": "7.1.3",
+  "title": "",
+  "body": "  Chlorine    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds1-8-2-5",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-2-5",
+  "type": "Exercise",
+  "number": "7.1.4",
+  "title": "",
+  "body": "  Oxygen    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds1-8-2-6",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-2-6",
+  "type": "Exercise",
+  "number": "7.1.5",
+  "title": "",
+  "body": "  Nitrogen    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds1-8-2-7",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-2-7",
+  "type": "Exercise",
+  "number": "7.1.6",
+  "title": "",
+  "body": "  Carbon    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds1-8-3-2",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-2",
+  "type": "Exercise",
+  "number": "7.1.7",
+  "title": "",
+  "body": "  H: 1 valence electron    1 bond   "
+},
+{
+  "id": "sec-covcompounds1-8-3-3",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-3",
+  "type": "Exercise",
+  "number": "7.1.8",
+  "title": "",
+  "body": "  He: 2 valence electrons    0 bonds   "
+},
+{
+  "id": "sec-covcompounds1-8-3-4",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-4",
+  "type": "Exercise",
+  "number": "7.1.9",
+  "title": "",
+  "body": "  F: 7 valence electrons    1 bond   "
+},
+{
+  "id": "sec-covcompounds1-8-3-5",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-5",
+  "type": "Exercise",
+  "number": "7.1.10",
+  "title": "",
+  "body": "  O: 6 valence electrons    2 bonds   "
+},
+{
+  "id": "sec-covcompounds1-8-3-6",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-6",
+  "type": "Exercise",
+  "number": "7.1.11",
+  "title": "",
+  "body": "  N: 5 valence electrons    3 bonds   "
+},
+{
+  "id": "sec-covcompounds1-8-3-7",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-7",
+  "type": "Exercise",
+  "number": "7.1.12",
+  "title": "",
+  "body": "  C: 4 valence electrons    4 bonds   "
+},
+{
+  "id": "sec-covcompounds1-8-3-8",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-8",
+  "type": "Exercise",
+  "number": "7.1.13",
+  "title": "",
+  "body": "  S: 6 valence electrons    2 bonds   "
+},
+{
+  "id": "sec-covcompounds1-8-3-9",
+  "level": "2",
+  "url": "sec-covcompounds1.html#sec-covcompounds1-8-3-9",
+  "type": "Exercise",
+  "number": "7.1.14",
+  "title": "",
+  "body": "  Ne: 8 valence electrons    0 bonds   "
 },
 {
   "id": "sec-covcompounds2",
@@ -4443,17 +5316,143 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds2.html",
   "type": "Section",
   "number": "7.2",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Lewis Structures: Basic Rules",
+  "body": " Lewis Structures: Basic Rules  For larger covalent molecules, the octet rule, duet rule, and shared molecular orbitals still apply, but the arrangement of atoms must also be determined. Carbon, for example, has four valence electrons and therefore commonly forms four covalent bonds.  The source gives the following basic procedure for Lewis structures:    Draw the skeleton structure. Put atoms that can make more bonds, such as C, N, and O, near the center and atoms that make fewer bonds, such as H and halogens, on the outside.    Count the total number of valence electrons. Add electrons for negative charges and subtract electrons for positive charges.    Form single bonds between the central and peripheral atoms. Each bond contains two electrons.    Place the remaining electrons around outer atoms first and then inner atoms until each atom has an octet, or a duet for hydrogen.    More rules are added later for structures that cannot satisfy the octet rule with only single bonds.     Exercises:    How many valence electrons are in each species?     Cl₂    14      HBr    8      CH₃CH₃    14      CO₂    16      OH⁻    8      CN⁻    10       Draw Lewis dot structures for the following compounds.     H₂    See the answer-key figure.   Lewis Structure Answer Key   Answer-key panels showing Lewis structures for H2, Cl2, HBr, CH4, SCl2, NF3, N2H4, C2H6, and H2O2.        Cl₂    See the answer-key figure.      HBr    See the answer-key figure.      CH₄    See the answer-key figure.      SCl₂    See the answer-key figure.      NF₃    See the answer-key figure.      NH₂NH₂    See the answer-key figure.      CH₃CH₃    See the answer-key figure.      H₂O₂    See the answer-key figure.      "
 },
 {
-  "id": "sec-covcompounds2-2",
+  "id": "sec-covcompounds2-5-2-2",
   "level": "2",
-  "url": "sec-covcompounds2.html#sec-covcompounds2-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-2-2",
+  "type": "Exercise",
+  "number": "7.2.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Cl₂    14   "
+},
+{
+  "id": "sec-covcompounds2-5-2-3",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-2-3",
+  "type": "Exercise",
+  "number": "7.2.2",
+  "title": "",
+  "body": "  HBr    8   "
+},
+{
+  "id": "sec-covcompounds2-5-2-4",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-2-4",
+  "type": "Exercise",
+  "number": "7.2.3",
+  "title": "",
+  "body": "  CH₃CH₃    14   "
+},
+{
+  "id": "sec-covcompounds2-5-2-5",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-2-5",
+  "type": "Exercise",
+  "number": "7.2.4",
+  "title": "",
+  "body": "  CO₂    16   "
+},
+{
+  "id": "sec-covcompounds2-5-2-6",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-2-6",
+  "type": "Exercise",
+  "number": "7.2.5",
+  "title": "",
+  "body": "  OH⁻    8   "
+},
+{
+  "id": "sec-covcompounds2-5-2-7",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-2-7",
+  "type": "Exercise",
+  "number": "7.2.6",
+  "title": "",
+  "body": "  CN⁻    10   "
+},
+{
+  "id": "sec-covcompounds2-5-3-2",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-2",
+  "type": "Exercise",
+  "number": "7.2.7",
+  "title": "",
+  "body": "  H₂    See the answer-key figure.   Lewis Structure Answer Key   Answer-key panels showing Lewis structures for H2, Cl2, HBr, CH4, SCl2, NF3, N2H4, C2H6, and H2O2.     "
+},
+{
+  "id": "sec-covcompounds2-5-3-3",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-3",
+  "type": "Exercise",
+  "number": "7.2.8",
+  "title": "",
+  "body": "  Cl₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-4",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-4",
+  "type": "Exercise",
+  "number": "7.2.9",
+  "title": "",
+  "body": "  HBr    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-5",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-5",
+  "type": "Exercise",
+  "number": "7.2.10",
+  "title": "",
+  "body": "  CH₄    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-6",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-6",
+  "type": "Exercise",
+  "number": "7.2.11",
+  "title": "",
+  "body": "  SCl₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-7",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-7",
+  "type": "Exercise",
+  "number": "7.2.12",
+  "title": "",
+  "body": "  NF₃    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-8",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-8",
+  "type": "Exercise",
+  "number": "7.2.13",
+  "title": "",
+  "body": "  NH₂NH₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-9",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-9",
+  "type": "Exercise",
+  "number": "7.2.14",
+  "title": "",
+  "body": "  CH₃CH₃    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds2-5-3-10",
+  "level": "2",
+  "url": "sec-covcompounds2.html#sec-covcompounds2-5-3-10",
+  "type": "Exercise",
+  "number": "7.2.15",
+  "title": "",
+  "body": "  H₂O₂    See the answer-key figure.   "
 },
 {
   "id": "sec-covcompounds3",
@@ -4461,17 +5460,89 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds3.html",
   "type": "Section",
   "number": "7.3",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Lewis Structures: Multiple Bonds",
+  "body": " Lewis Structures: Multiple Bonds  Some molecules cannot satisfy the octet rule with only single bonds. In O₂, another pair of atomic orbitals can combine to form a second molecular orbital, creating a double bond. In N₂, a third shared pair creates a triple bond.  The added Lewis-structure rule is: if an atom still lacks an octet, move a lone pair from an adjacent atom to make a second bond. Repeat as needed. Triple bonds are possible, but quadruple bonds are not used in this procedure.   Incomplete SeO Lewis Structure   A partial Lewis structure for SeO shows a single bond between selenium and oxygen with lone-pair electrons arranged around the atoms, illustrating a structure that does not yet satisfy the octet requirement.     Exercises:    Explain how you know the shown SeO structure is not finished and why the student cannot simply add more electrons.    The oxygen does not have an octet of electrons, and all available valence electrons are already present in the structure.      Draw the Lewis structures of the following species.     SeO    See the answer-key figure.   Multiple-Bond Lewis Structure Answer Key   Answer-key panel showing completed Lewis structures for SeO, COCl2, NOF, CO2, N2H2, N2, and CN minus.        COCl₂    See the answer-key figure.      NOF    See the answer-key figure.      CO₂    See the answer-key figure.      N₂H₂    See the answer-key figure.      N₂    See the answer-key figure.      CN⁻    See the answer-key figure.      "
 },
 {
-  "id": "sec-covcompounds3-2",
+  "id": "fig-seo-incomplete",
   "level": "2",
-  "url": "sec-covcompounds3.html#sec-covcompounds3-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds3.html#fig-seo-incomplete",
+  "type": "Figure",
+  "number": "7.3.1",
   "title": "",
-  "body": "Summary: "
+  "body": " Incomplete SeO Lewis Structure   A partial Lewis structure for SeO shows a single bond between selenium and oxygen with lone-pair electrons arranged around the atoms, illustrating a structure that does not yet satisfy the octet requirement.   "
+},
+{
+  "id": "sec-covcompounds3-5-2",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-2",
+  "type": "Exercise",
+  "number": "7.3.1",
+  "title": "",
+  "body": "  Explain how you know the shown SeO structure is not finished and why the student cannot simply add more electrons.    The oxygen does not have an octet of electrons, and all available valence electrons are already present in the structure.   "
+},
+{
+  "id": "sec-covcompounds3-5-3-2",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-2",
+  "type": "Exercise",
+  "number": "7.3.2",
+  "title": "",
+  "body": "  SeO    See the answer-key figure.   Multiple-Bond Lewis Structure Answer Key   Answer-key panel showing completed Lewis structures for SeO, COCl2, NOF, CO2, N2H2, N2, and CN minus.     "
+},
+{
+  "id": "sec-covcompounds3-5-3-3",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-3",
+  "type": "Exercise",
+  "number": "7.3.3",
+  "title": "",
+  "body": "  COCl₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds3-5-3-4",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-4",
+  "type": "Exercise",
+  "number": "7.3.4",
+  "title": "",
+  "body": "  NOF    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds3-5-3-5",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-5",
+  "type": "Exercise",
+  "number": "7.3.5",
+  "title": "",
+  "body": "  CO₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds3-5-3-6",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-6",
+  "type": "Exercise",
+  "number": "7.3.6",
+  "title": "",
+  "body": "  N₂H₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds3-5-3-7",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-7",
+  "type": "Exercise",
+  "number": "7.3.7",
+  "title": "",
+  "body": "  N₂    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds3-5-3-8",
+  "level": "2",
+  "url": "sec-covcompounds3.html#sec-covcompounds3-5-3-8",
+  "type": "Exercise",
+  "number": "7.3.8",
+  "title": "",
+  "body": "  CN⁻    See the answer-key figure.   "
 },
 {
   "id": "sec-covcompounds4",
@@ -4479,17 +5550,98 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds4.html",
   "type": "Section",
   "number": "7.4",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Lewis Structures: Formal Charge",
+  "body": " Lewis Structures: Formal Charge  Covalent structures can contain atoms with formal charges. Charges may cancel within a neutral structure or combine to produce a polyatomic ion.  To determine formal charge, the source uses these rules:    If an atom makes its typical number of bonds, it usually has no formal charge.    Atoms want an octet or duet but own all lone-pair electrons and only half of the electrons in bonds connected to them.    Atoms want to own their normal number of valence electrons.    Formal charge equals the number of valence electrons desired minus the number of electrons owned in the structure.    For oxygen, two bonds usually corresponds to formal charge zero, one bond commonly corresponds to -1, and three bonds commonly corresponds to +1.  The Lewis-structure procedure is extended by adding a final step: calculate any formal charges and write them next to the appropriate atoms.   Exercises:   Formal Charge Exercise Structures   Source diagrams used in the formal-charge exercise, including a selenium-oxygen structure and three structures with indicated atoms whose formal charges are to be determined.      For the Se\/O structure shown, determine the number of electrons around each atom, the number each atom owns, its typical valence-electron count, and its formal charge.    Se: 8 electrons around it, owns 4, wants 6 valence electrons, formal charge +2. O: 8 electrons around it, owns 7, wants 6 valence electrons, formal charge -1.      Add formal charges to the indicated atoms in the source structures.     Structure a    +1   Formal Charge Answer Key   Answer-key panels showing formal charges and Lewis structures for Exercise 1.        Structure b    -1      Structure c    Left atom: -1; middle atom: +1; right atom: 0       Draw each Lewis dot structure and indicate the atom carrying formal charge.     Br⁻    See the answer-key figure.      HCO₂⁻    See the answer-key figure.      OH⁻    See the answer-key figure.      NCl₄⁺    See the answer-key figure.      NO₃⁻    See the answer-key figure.      "
 },
 {
-  "id": "sec-covcompounds4-2",
+  "id": "fig-formal-charge-question-structures",
   "level": "2",
-  "url": "sec-covcompounds4.html#sec-covcompounds4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds4.html#fig-formal-charge-question-structures",
+  "type": "Figure",
+  "number": "7.4.1",
   "title": "",
-  "body": "Summary: "
+  "body": " Formal Charge Exercise Structures   Source diagrams used in the formal-charge exercise, including a selenium-oxygen structure and three structures with indicated atoms whose formal charges are to be determined.   "
+},
+{
+  "id": "sec-covcompounds4-7-3",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-3",
+  "type": "Exercise",
+  "number": "7.4.1",
+  "title": "",
+  "body": "  For the Se\/O structure shown, determine the number of electrons around each atom, the number each atom owns, its typical valence-electron count, and its formal charge.    Se: 8 electrons around it, owns 4, wants 6 valence electrons, formal charge +2. O: 8 electrons around it, owns 7, wants 6 valence electrons, formal charge -1.   "
+},
+{
+  "id": "sec-covcompounds4-7-4-2",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-4-2",
+  "type": "Exercise",
+  "number": "7.4.2",
+  "title": "",
+  "body": "  Structure a    +1   Formal Charge Answer Key   Answer-key panels showing formal charges and Lewis structures for Exercise 1.     "
+},
+{
+  "id": "sec-covcompounds4-7-4-3",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-4-3",
+  "type": "Exercise",
+  "number": "7.4.3",
+  "title": "",
+  "body": "  Structure b    -1   "
+},
+{
+  "id": "sec-covcompounds4-7-4-4",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-4-4",
+  "type": "Exercise",
+  "number": "7.4.4",
+  "title": "",
+  "body": "  Structure c    Left atom: -1; middle atom: +1; right atom: 0   "
+},
+{
+  "id": "sec-covcompounds4-7-5-2",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-5-2",
+  "type": "Exercise",
+  "number": "7.4.5",
+  "title": "",
+  "body": "  Br⁻    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds4-7-5-3",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-5-3",
+  "type": "Exercise",
+  "number": "7.4.6",
+  "title": "",
+  "body": "  HCO₂⁻    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds4-7-5-4",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-5-4",
+  "type": "Exercise",
+  "number": "7.4.7",
+  "title": "",
+  "body": "  OH⁻    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds4-7-5-5",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-5-5",
+  "type": "Exercise",
+  "number": "7.4.8",
+  "title": "",
+  "body": "  NCl₄⁺    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds4-7-5-6",
+  "level": "2",
+  "url": "sec-covcompounds4.html#sec-covcompounds4-7-5-6",
+  "type": "Exercise",
+  "number": "7.4.9",
+  "title": "",
+  "body": "  NO₃⁻    See the answer-key figure.   "
 },
 {
   "id": "sec-covcompounds5",
@@ -4497,17 +5649,53 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds5.html",
   "type": "Section",
   "number": "7.5",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Lewis Structures: Exceptions to the Octet Rule",
+  "body": " Lewis Structures: Exceptions to the Octet Rule  Atoms in the third period and beyond can sometimes accommodate more than eight electrons around the central atom. They are larger and have access to additional orbitals, so the Lewis-structure rules need an extra check.  The updated procedure keeps the earlier Lewis-structure rules but allows extra electrons on a suitable central atom after outer atoms have octets. After formal charges are assigned, additional bonds may be formed to reduce unfavorable formal charges.  When checking an expanded-octet structure, the goals are to eliminate multiple charges such as +2 or -2, minimize the number of charged atoms, avoid adjacent like charges, and usually leave the central atom with formal charge zero.   Exercises:    Draw the Lewis structures for the following molecules.     SO₂    See the answer-key figure.   Expanded-Octet Lewis Structure Answer Key   Answer-key panels showing Lewis structures for SO2, PCl5, SF6, XeF4, and SeO3.        PCl₅    See the answer-key figure.      SF₆    See the answer-key figure.      XeF₄    See the answer-key figure.      SeO₃    See the answer-key figure.      "
 },
 {
-  "id": "sec-covcompounds5-2",
+  "id": "sec-covcompounds5-5-2-2",
   "level": "2",
-  "url": "sec-covcompounds5.html#sec-covcompounds5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds5.html#sec-covcompounds5-5-2-2",
+  "type": "Exercise",
+  "number": "7.5.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  SO₂    See the answer-key figure.   Expanded-Octet Lewis Structure Answer Key   Answer-key panels showing Lewis structures for SO2, PCl5, SF6, XeF4, and SeO3.     "
+},
+{
+  "id": "sec-covcompounds5-5-2-3",
+  "level": "2",
+  "url": "sec-covcompounds5.html#sec-covcompounds5-5-2-3",
+  "type": "Exercise",
+  "number": "7.5.2",
+  "title": "",
+  "body": "  PCl₅    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds5-5-2-4",
+  "level": "2",
+  "url": "sec-covcompounds5.html#sec-covcompounds5-5-2-4",
+  "type": "Exercise",
+  "number": "7.5.3",
+  "title": "",
+  "body": "  SF₆    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds5-5-2-5",
+  "level": "2",
+  "url": "sec-covcompounds5.html#sec-covcompounds5-5-2-5",
+  "type": "Exercise",
+  "number": "7.5.4",
+  "title": "",
+  "body": "  XeF₄    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds5-5-2-6",
+  "level": "2",
+  "url": "sec-covcompounds5.html#sec-covcompounds5-5-2-6",
+  "type": "Exercise",
+  "number": "7.5.5",
+  "title": "",
+  "body": "  SeO₃    See the answer-key figure.   "
 },
 {
   "id": "sec-covcompounds6",
@@ -4515,17 +5703,71 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds6.html",
   "type": "Section",
   "number": "7.6",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Structures of Polyatomic Ions",
+  "body": " Structures of Polyatomic Ions  Polyatomic ions are groups of covalently bound atoms that carry an overall charge. This section applies the Lewis-structure and formal-charge procedures to polyatomic ions.   Exercises:    Start with PO₄³⁻ using only single P-O bonds, then refine the structure.     Determine the formal charge on each atom in the all-single-bond structure.    See the answer-key figure.   Polyatomic-Ion Structure Answer Key   Answer-key panels showing successive phosphate structures and completed polyatomic-ion Lewis structures.        Convert one oxygen lone pair into a P-O double bond and recompute formal charges.    See the answer-key figure.      Repeat using another oxygen. Determine which structure has the fewest formal charges.    See the answer-key figure.       Use the same process to determine the correct Lewis structure.     SO₄²⁻    See the answer-key figure.      Sulfite ion    See the answer-key figure.      HPO₄²⁻    See the answer-key figure.       Why is the same additional-bond step not used in the same way for NO₃⁻?    Nitrogen is in the second period and cannot break the octet rule, so additional bonds cannot be made beyond an octet around nitrogen.     "
 },
 {
-  "id": "sec-covcompounds6-2",
+  "id": "sec-covcompounds6-3-2-2",
   "level": "2",
-  "url": "sec-covcompounds6.html#sec-covcompounds6-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-2-2",
+  "type": "Exercise",
+  "number": "7.6.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  Determine the formal charge on each atom in the all-single-bond structure.    See the answer-key figure.   Polyatomic-Ion Structure Answer Key   Answer-key panels showing successive phosphate structures and completed polyatomic-ion Lewis structures.     "
+},
+{
+  "id": "sec-covcompounds6-3-2-3",
+  "level": "2",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-2-3",
+  "type": "Exercise",
+  "number": "7.6.2",
+  "title": "",
+  "body": "  Convert one oxygen lone pair into a P-O double bond and recompute formal charges.    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds6-3-2-4",
+  "level": "2",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-2-4",
+  "type": "Exercise",
+  "number": "7.6.3",
+  "title": "",
+  "body": "  Repeat using another oxygen. Determine which structure has the fewest formal charges.    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds6-3-3-2",
+  "level": "2",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-3-2",
+  "type": "Exercise",
+  "number": "7.6.4",
+  "title": "",
+  "body": "  SO₄²⁻    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds6-3-3-3",
+  "level": "2",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-3-3",
+  "type": "Exercise",
+  "number": "7.6.5",
+  "title": "",
+  "body": "  Sulfite ion    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds6-3-3-4",
+  "level": "2",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-3-4",
+  "type": "Exercise",
+  "number": "7.6.6",
+  "title": "",
+  "body": "  HPO₄²⁻    See the answer-key figure.   "
+},
+{
+  "id": "sec-covcompounds6-3-4",
+  "level": "2",
+  "url": "sec-covcompounds6.html#sec-covcompounds6-3-4",
+  "type": "Exercise",
+  "number": "7.6.7",
+  "title": "",
+  "body": "  Why is the same additional-bond step not used in the same way for NO₃⁻?    Nitrogen is in the second period and cannot break the octet rule, so additional bonds cannot be made beyond an octet around nitrogen.   "
 },
 {
   "id": "sec-covcompounds7",
@@ -4533,17 +5775,89 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds7.html",
   "type": "Section",
   "number": "7.7",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Naming Diatomic Covalent Compounds",
+  "body": " Naming Diatomic Covalent Compounds  For this lesson, covalent naming is limited to binary compounds containing only two atom types. The first element is named first, and the second element name is changed to end in -ide. Numerical prefixes indicate how many atoms of each element are present. The prefix mono- is not used on the first word when only one atom is present.     Number  Prefix    1  mono (not used on the first word)    2  di    3  tri    4  tetra    5  penta    6  hexa    7  hepta    8  octa    9  nona    10  deca      Exercises:    Write the formula for each compound.     Carbon dioxide    CO₂      Nitrogen trihydride    NH₃      Disulfur dichloride    S₂Cl₂      Triphosphorous pentafluoride    P₃F₅       Name each compound.     CO    Carbon monoxide      C₃H₈    Tricarbon octahydride      N₄I₄    Tetranitrogen tetraiodide      CH₄    Carbon tetrahydride      "
 },
 {
-  "id": "sec-covcompounds7-2",
+  "id": "sec-covcompounds7-3",
   "level": "2",
-  "url": "sec-covcompounds7.html#sec-covcompounds7-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-3",
+  "type": "Table",
+  "number": "7.7.1",
   "title": "",
-  "body": "Summary: "
+  "body": "   Number  Prefix    1  mono (not used on the first word)    2  di    3  tri    4  tetra    5  penta    6  hexa    7  hepta    8  octa    9  nona    10  deca    "
+},
+{
+  "id": "sec-covcompounds7-4-2-2",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-2-2",
+  "type": "Exercise",
+  "number": "7.7.1",
+  "title": "",
+  "body": "  Carbon dioxide    CO₂   "
+},
+{
+  "id": "sec-covcompounds7-4-2-3",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-2-3",
+  "type": "Exercise",
+  "number": "7.7.2",
+  "title": "",
+  "body": "  Nitrogen trihydride    NH₃   "
+},
+{
+  "id": "sec-covcompounds7-4-2-4",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-2-4",
+  "type": "Exercise",
+  "number": "7.7.3",
+  "title": "",
+  "body": "  Disulfur dichloride    S₂Cl₂   "
+},
+{
+  "id": "sec-covcompounds7-4-2-5",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-2-5",
+  "type": "Exercise",
+  "number": "7.7.4",
+  "title": "",
+  "body": "  Triphosphorous pentafluoride    P₃F₅   "
+},
+{
+  "id": "sec-covcompounds7-4-3-2",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-3-2",
+  "type": "Exercise",
+  "number": "7.7.5",
+  "title": "",
+  "body": "  CO    Carbon monoxide   "
+},
+{
+  "id": "sec-covcompounds7-4-3-3",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-3-3",
+  "type": "Exercise",
+  "number": "7.7.6",
+  "title": "",
+  "body": "  C₃H₈    Tricarbon octahydride   "
+},
+{
+  "id": "sec-covcompounds7-4-3-4",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-3-4",
+  "type": "Exercise",
+  "number": "7.7.7",
+  "title": "",
+  "body": "  N₄I₄    Tetranitrogen tetraiodide   "
+},
+{
+  "id": "sec-covcompounds7-4-3-5",
+  "level": "2",
+  "url": "sec-covcompounds7.html#sec-covcompounds7-4-3-5",
+  "type": "Exercise",
+  "number": "7.7.8",
+  "title": "",
+  "body": "  CH₄    Carbon tetrahydride   "
 },
 {
   "id": "sec-covcompounds8",
@@ -4551,17 +5865,152 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds8.html",
   "type": "Section",
   "number": "7.8",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Geometry",
+  "body": " Geometry  Molecular shape is important because it affects how molecules interact. VSEPR theory predicts the arrangement of electron groups around a central atom by assuming the groups spread out in three-dimensional space to maximize their separation.  Two electron groups produce a linear arrangement with a 180-degree bond angle. Three produce trigonal planar geometry with 120-degree bond angles. Four produce tetrahedral geometry with 109.5-degree bond angles.  Electron geometry includes both bonded atoms and lone pairs. Molecular geometry focuses only on the arrangement of atoms. A trigonal-planar electron geometry with one lone pair gives a bent molecular shape. A tetrahedral electron geometry with one lone pair gives trigonal pyramidal shape, while two lone pairs give a bent shape.   Electron and Molecular Geometry Reference   Reference table showing linear, trigonal planar, bent, tetrahedral, and trigonal pyramidal arrangements, with electron-group counts, bond angles, lone-pair counts, and wedge\/dash depictions.     Exercises:    Determine the electron geometry and molecular shape.     2 electron groups, no lone pairs    Linear; linear      3 electron groups, no lone pairs    Trigonal planar; trigonal planar      4 electron groups, 1 lone pair    Tetrahedral; trigonal pyramidal      3 electron groups, 1 lone pair    Trigonal planar; bent      4 electron groups, no lone pairs    Tetrahedral; tetrahedral      4 electron groups, 2 lone pairs    Tetrahedral; bent      Lewis Structures for Geometry Exercise   Four Lewis structures used to determine electron geometry, molecular shape, and bond angles, including water, a phosphorus-oxygen species, a sulfur-oxygen species, and an ozone-like oxygen structure.      For each Lewis structure in the figure, determine electron geometry, molecular shape, and bond angle.     Structure a    Tetrahedral; bent; 109.5°      Structure b    Tetrahedral; trigonal pyramidal; 109.5°      Structure c    Tetrahedral; tetrahedral; 109.5°      Structure d    Trigonal planar; bent; 120°       Determine electron geometry, molecular geometry, and bond angle for each compound.     Carbon tetrachloride    Tetrahedral; tetrahedral; 109.5°      Nitrogen trihydride    Tetrahedral; trigonal pyramidal; 109.5°      Carbonate    Trigonal planar; trigonal planar; 120°      Sulfur dioxide    Trigonal planar; bent; 120°      "
 },
 {
-  "id": "sec-covcompounds8-2",
+  "id": "fig-molecular-geometry-reference",
   "level": "2",
-  "url": "sec-covcompounds8.html#sec-covcompounds8-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds8.html#fig-molecular-geometry-reference",
+  "type": "Figure",
+  "number": "7.8.1",
   "title": "",
-  "body": "Summary: "
+  "body": " Electron and Molecular Geometry Reference   Reference table showing linear, trigonal planar, bent, tetrahedral, and trigonal pyramidal arrangements, with electron-group counts, bond angles, lone-pair counts, and wedge\/dash depictions.   "
+},
+{
+  "id": "sec-covcompounds8-6-2-2",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-2-2",
+  "type": "Exercise",
+  "number": "7.8.1",
+  "title": "",
+  "body": "  2 electron groups, no lone pairs    Linear; linear   "
+},
+{
+  "id": "sec-covcompounds8-6-2-3",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-2-3",
+  "type": "Exercise",
+  "number": "7.8.2",
+  "title": "",
+  "body": "  3 electron groups, no lone pairs    Trigonal planar; trigonal planar   "
+},
+{
+  "id": "sec-covcompounds8-6-2-4",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-2-4",
+  "type": "Exercise",
+  "number": "7.8.3",
+  "title": "",
+  "body": "  4 electron groups, 1 lone pair    Tetrahedral; trigonal pyramidal   "
+},
+{
+  "id": "sec-covcompounds8-6-2-5",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-2-5",
+  "type": "Exercise",
+  "number": "7.8.4",
+  "title": "",
+  "body": "  3 electron groups, 1 lone pair    Trigonal planar; bent   "
+},
+{
+  "id": "sec-covcompounds8-6-2-6",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-2-6",
+  "type": "Exercise",
+  "number": "7.8.5",
+  "title": "",
+  "body": "  4 electron groups, no lone pairs    Tetrahedral; tetrahedral   "
+},
+{
+  "id": "sec-covcompounds8-6-2-7",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-2-7",
+  "type": "Exercise",
+  "number": "7.8.6",
+  "title": "",
+  "body": "  4 electron groups, 2 lone pairs    Tetrahedral; bent   "
+},
+{
+  "id": "fig-geometry-exercise-structures",
+  "level": "2",
+  "url": "sec-covcompounds8.html#fig-geometry-exercise-structures",
+  "type": "Figure",
+  "number": "7.8.2",
+  "title": "",
+  "body": " Lewis Structures for Geometry Exercise   Four Lewis structures used to determine electron geometry, molecular shape, and bond angles, including water, a phosphorus-oxygen species, a sulfur-oxygen species, and an ozone-like oxygen structure.   "
+},
+{
+  "id": "sec-covcompounds8-6-4-2",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-4-2",
+  "type": "Exercise",
+  "number": "7.8.7",
+  "title": "",
+  "body": "  Structure a    Tetrahedral; bent; 109.5°   "
+},
+{
+  "id": "sec-covcompounds8-6-4-3",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-4-3",
+  "type": "Exercise",
+  "number": "7.8.8",
+  "title": "",
+  "body": "  Structure b    Tetrahedral; trigonal pyramidal; 109.5°   "
+},
+{
+  "id": "sec-covcompounds8-6-4-4",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-4-4",
+  "type": "Exercise",
+  "number": "7.8.9",
+  "title": "",
+  "body": "  Structure c    Tetrahedral; tetrahedral; 109.5°   "
+},
+{
+  "id": "sec-covcompounds8-6-4-5",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-4-5",
+  "type": "Exercise",
+  "number": "7.8.10",
+  "title": "",
+  "body": "  Structure d    Trigonal planar; bent; 120°   "
+},
+{
+  "id": "sec-covcompounds8-6-5-2",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-5-2",
+  "type": "Exercise",
+  "number": "7.8.11",
+  "title": "",
+  "body": "  Carbon tetrachloride    Tetrahedral; tetrahedral; 109.5°   "
+},
+{
+  "id": "sec-covcompounds8-6-5-3",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-5-3",
+  "type": "Exercise",
+  "number": "7.8.12",
+  "title": "",
+  "body": "  Nitrogen trihydride    Tetrahedral; trigonal pyramidal; 109.5°   "
+},
+{
+  "id": "sec-covcompounds8-6-5-4",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-5-4",
+  "type": "Exercise",
+  "number": "7.8.13",
+  "title": "",
+  "body": "  Carbonate    Trigonal planar; trigonal planar; 120°   "
+},
+{
+  "id": "sec-covcompounds8-6-5-5",
+  "level": "2",
+  "url": "sec-covcompounds8.html#sec-covcompounds8-6-5-5",
+  "type": "Exercise",
+  "number": "7.8.14",
+  "title": "",
+  "body": "  Sulfur dioxide    Trigonal planar; bent; 120°   "
 },
 {
   "id": "sec-covcompounds9",
@@ -4569,17 +6018,152 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds9.html",
   "type": "Section",
   "number": "7.9",
-  "title": "Atoms and the Periodic Table",
-  "body": " Atoms and the Periodic Table   Summary:   "
+  "title": "Polarity and Intermolecular Forces",
+  "body": " Polarity and Intermolecular Forces  In a polar covalent bond, electrons are shared unequally, producing partial positive and partial negative ends. A nonpolar covalent bond shares electrons more equally. Electronegativity measures how strongly an atom attracts electrons.  The source uses electronegativity differences as follows: a difference is treated as nonpolar; a difference from 0.5 to 1.7 is polar covalent; and a difference greater than 1.7 is likely ionic.  The source links to an electronegativity chart at https:\/\/www.chem.ucla.edu\/~harding\/IGOC\/E\/electronegativity.html.  A molecule is polar when it has a partially positive side and a partially negative side. Polar bonds can cancel if they are equivalent in strength and arranged symmetrically. Linear, trigonal planar, and tetrahedral molecules with equivalent bonds and no central lone pairs can therefore be nonpolar even though the individual bonds are polar.  Four intermolecular forces are emphasized: ionic attractions, hydrogen bonds, dipole-dipole interactions, and London dispersion forces. Ionic attractions involve full charges. Hydrogen bonding is a particularly strong dipole-dipole interaction involving a polar N-H, O-H, or H-F bond and a lone pair. Dipole-dipole interactions occur between polar molecules. London dispersion forces arise from temporary dipoles and occur in all molecules.  In the source ordering, ionic interactions are strongest, followed by hydrogen bonds, dipole-dipole interactions, and then London dispersion forces.   Exercises:    Determine whether each bond is polar or nonpolar.     C-H    Nonpolar      Cl-Cl    Nonpolar      C-F    Polar      N-O    Polar      S-H    Nonpolar      O-H    Polar      Molecules Used in the Polarity Exercises   Source panels showing structural formulas and Lewis structures used in the molecular-polarity and intermolecular-force exercises.      Determine whether each molecule shown in the source figure is polar or nonpolar.     Structure a    Nonpolar      Structure b    Polar      Structure c    Nonpolar      CO₂    Nonpolar      CH₂O    Polar       Identify the intermolecular force or forces between each pair.     CH₂O and CH₂O    Dipole-dipole and London dispersion      Pair b from the source figure    London dispersion      Na⁺ and O²⁻    Ionic bonds and London dispersion      Pair d from the source figure    Ionic bonds, hydrogen bonds, dipole-dipole, and London dispersion      "
 },
 {
-  "id": "sec-covcompounds9-2",
+  "id": "sec-covcompounds9-8-2-2",
   "level": "2",
-  "url": "sec-covcompounds9.html#sec-covcompounds9-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-2-2",
+  "type": "Exercise",
+  "number": "7.9.1",
   "title": "",
-  "body": "Summary: "
+  "body": "  C-H    Nonpolar   "
+},
+{
+  "id": "sec-covcompounds9-8-2-3",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-2-3",
+  "type": "Exercise",
+  "number": "7.9.2",
+  "title": "",
+  "body": "  Cl-Cl    Nonpolar   "
+},
+{
+  "id": "sec-covcompounds9-8-2-4",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-2-4",
+  "type": "Exercise",
+  "number": "7.9.3",
+  "title": "",
+  "body": "  C-F    Polar   "
+},
+{
+  "id": "sec-covcompounds9-8-2-5",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-2-5",
+  "type": "Exercise",
+  "number": "7.9.4",
+  "title": "",
+  "body": "  N-O    Polar   "
+},
+{
+  "id": "sec-covcompounds9-8-2-6",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-2-6",
+  "type": "Exercise",
+  "number": "7.9.5",
+  "title": "",
+  "body": "  S-H    Nonpolar   "
+},
+{
+  "id": "sec-covcompounds9-8-2-7",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-2-7",
+  "type": "Exercise",
+  "number": "7.9.6",
+  "title": "",
+  "body": "  O-H    Polar   "
+},
+{
+  "id": "fig-polarity-exercise-molecules",
+  "level": "2",
+  "url": "sec-covcompounds9.html#fig-polarity-exercise-molecules",
+  "type": "Figure",
+  "number": "7.9.1",
+  "title": "",
+  "body": " Molecules Used in the Polarity Exercises   Source panels showing structural formulas and Lewis structures used in the molecular-polarity and intermolecular-force exercises.   "
+},
+{
+  "id": "sec-covcompounds9-8-4-2",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-4-2",
+  "type": "Exercise",
+  "number": "7.9.7",
+  "title": "",
+  "body": "  Structure a    Nonpolar   "
+},
+{
+  "id": "sec-covcompounds9-8-4-3",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-4-3",
+  "type": "Exercise",
+  "number": "7.9.8",
+  "title": "",
+  "body": "  Structure b    Polar   "
+},
+{
+  "id": "sec-covcompounds9-8-4-4",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-4-4",
+  "type": "Exercise",
+  "number": "7.9.9",
+  "title": "",
+  "body": "  Structure c    Nonpolar   "
+},
+{
+  "id": "sec-covcompounds9-8-4-5",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-4-5",
+  "type": "Exercise",
+  "number": "7.9.10",
+  "title": "",
+  "body": "  CO₂    Nonpolar   "
+},
+{
+  "id": "sec-covcompounds9-8-4-6",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-4-6",
+  "type": "Exercise",
+  "number": "7.9.11",
+  "title": "",
+  "body": "  CH₂O    Polar   "
+},
+{
+  "id": "sec-covcompounds9-8-5-2",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-5-2",
+  "type": "Exercise",
+  "number": "7.9.12",
+  "title": "",
+  "body": "  CH₂O and CH₂O    Dipole-dipole and London dispersion   "
+},
+{
+  "id": "sec-covcompounds9-8-5-3",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-5-3",
+  "type": "Exercise",
+  "number": "7.9.13",
+  "title": "",
+  "body": "  Pair b from the source figure    London dispersion   "
+},
+{
+  "id": "sec-covcompounds9-8-5-4",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-5-4",
+  "type": "Exercise",
+  "number": "7.9.14",
+  "title": "",
+  "body": "  Na⁺ and O²⁻    Ionic bonds and London dispersion   "
+},
+{
+  "id": "sec-covcompounds9-8-5-5",
+  "level": "2",
+  "url": "sec-covcompounds9.html#sec-covcompounds9-8-5-5",
+  "type": "Exercise",
+  "number": "7.9.15",
+  "title": "",
+  "body": "  Pair d from the source figure    Ionic bonds, hydrogen bonds, dipole-dipole, and London dispersion   "
 },
 {
   "id": "sec-rxns1",
