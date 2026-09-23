@@ -81,7 +81,7 @@
 
     <figure xml:id="fig-periodic-table-orbital-blocks">
         <caption>Periodic Table Orbital Blocks and Shell Numbers</caption>
-        <image source="assets/periodic-table-orbital-blocks.svg">
+        <image source="periodic-table-orbital-blocks.svg">
             <shortdescription>
                 A simplified periodic table divided into s, p, d, and f blocks.
                 Labels indicate that s and p orbitals being filled have the same
