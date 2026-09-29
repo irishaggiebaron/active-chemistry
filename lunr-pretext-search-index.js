@@ -4309,7 +4309,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Half-life of Radioisotopes",
-  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half-lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   Exercises:    After 5 half-lives, what fraction of the original radioactive material will remain?     How about after 7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
+  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half-lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
 },
 {
   "id": "sec-nuclear6-2",
@@ -4327,14 +4327,32 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "5.6.1",
   "title": "",
-  "body": "  How about after 7 half-lives?        "
+  "body": "  1 half-life?        "
+},
+{
+  "id": "sec-nuclear6-7-2-3",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-2-3",
+  "type": "Exercise",
+  "number": "5.6.2",
+  "title": "",
+  "body": "  2 half-lives?        "
+},
+{
+  "id": "sec-nuclear6-7-2-4",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-7-2-4",
+  "type": "Exercise",
+  "number": "5.6.3",
+  "title": "",
+  "body": "  7 half-lives?        "
 },
 {
   "id": "sec-nuclear6-7-3",
   "level": "2",
   "url": "sec-nuclear6.html#sec-nuclear6-7-3",
   "type": "Exercise",
-  "number": "5.6.2",
+  "number": "5.6.4",
   "title": "",
   "body": "  After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.        "
 },
@@ -4343,7 +4361,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-nuclear6.html#sec-nuclear6-7-4",
   "type": "Exercise",
-  "number": "5.6.3",
+  "number": "5.6.5",
   "title": "",
   "body": "  If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg   "
 },
@@ -4352,7 +4370,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-nuclear6.html#sec-nuclear6-7-5",
   "type": "Exercise",
-  "number": "5.6.4",
+  "number": "5.6.6",
   "title": "",
   "body": "   Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq   "
 },
@@ -4361,7 +4379,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-nuclear6.html#sec-nuclear6-7-6",
   "type": "Exercise",
-  "number": "5.6.5",
+  "number": "5.6.7",
   "title": "",
   "body": "  A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days   "
 },
