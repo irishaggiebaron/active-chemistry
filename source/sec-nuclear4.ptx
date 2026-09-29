@@ -65,9 +65,11 @@
 		<title>Units of radiation</title>
 		<tabular>
 			<row halign="center" header="yes" bottom="major">
+				<cell></cell>
 				<cell>What is being measured?</cell>
+				<cell></cell>
 			</row>
-			<row header="yes" bottom="minor">
+			<row color="red" bottom="minor">
 				<cell halign="center">Radiation being emitted (in all directions)</cell>
 				<cell halign="center">Radiation impacting a person</cell>
 				<cell halign="center">Biological effects of radiation</cell>
