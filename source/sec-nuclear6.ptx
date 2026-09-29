@@ -49,15 +49,39 @@
 		<exercisegroup>
 			<introduction>
 				<p>
-					After 5 half-lives, what fraction of the original radioactive material will
-					remain?
+					What fraction of the original radioactivity remains in a sample after...
 				</p>
 			</introduction>
-
 			<exercise>
 				<statement>
 					<p>
-						How about after 7 half-lives?
+						1 half-life?
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>\frac{1}{2}</m>
+					</p>
+				</answer>
+			</exercise>
+						<exercise>
+				<statement>
+					<p>
+						2 half-lives?
+					</p>
+				</statement>
+
+				<answer>
+					<p>
+						<m>\frac{1}{2}\times\frac{1}{2} = \frac{1}{4}</m>
+					</p>
+				</answer>
+			</exercise>
+			<exercise>
+				<statement>
+					<p>
+						7 half-lives?
 					</p>
 				</statement>
 
