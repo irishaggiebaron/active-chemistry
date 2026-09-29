@@ -26,7 +26,7 @@
 
 	<p>
 		Another historically important unit is the <term>Curie</term>, abbreviated Ci.
-		One Curie represents <m>3.7 \times 10^10</m> decays per second, or the same
+		One Curie represents <m>3.7 \times 10^{10}</m> decays per second, or the same
 		number of becquerels.
 		Because a Curie often represents a large amount of radiation, smaller metric
 		prefixes such as mCi and <m>\mu</m> Ci are commonly used.
@@ -44,7 +44,7 @@
 
 	<p>
 		To quantify the damaging effects of absorbed radiation, scientists use the
-		unit <term>rem</term>, meaning radiation equivalent in man.
+		unit <term>rem</term>, meaning "radiation equivalent in man".
 		Rem is calculated from rad by multiplying by a damage factor specific to the
 		type of radiation being absorbed.
 		Gamma rays, beta particles, and positrons have a factor of 1; protons and
@@ -61,6 +61,25 @@
 		radiation sickness can begin around 0.5 Sv, and a dose of 3-4 Sv is generally
 		fatal to about half of exposed people.
 	</p>
+	<table>
+		<title>Units of radiation</title>
+		<tabular>
+			<row>
+				<cell>What is being measured?</cell>
+			</row>
+			<row>
+				<cell>Radiation being emitted (in all directions)</cell>
+				<cell>Radiation impacting a person</cell>
+				<cell>Biological effects of radiation</cell>
+			</row>
+			<row>
+				<cell>Becquerels or Curies</cell>
+				<cell>Rads or Grays</cell>
+				<cell>Rem or Sieverts</cell>
+
+			</row>
+		</tabular>
+	</table>
 	<exercises>
 		<title>Exercises:</title>
 
