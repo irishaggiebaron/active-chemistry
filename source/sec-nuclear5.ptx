@@ -62,7 +62,25 @@
 		Here, <m>I_1</m> and <m>I_2</m> are the radiation intensities at distances
 		<m>d_1</m> and <m>d_2</m>, respectively.
 	</p>
+<table>
+		<title>Radiation shielding needs</title>
 
+		<tabular>
+			<row header="yes" bottom="minor">
+				<cell halign="center">Alpha particles</cell>
+				<cell halign="center">Beta particles</cell>
+				<cell halign="center">Gamma rays</cell>
+				<cell halign="center">Neutrons</cell>
+			</row>
+
+			<row>
+				<cell halign="center">Paper or skin</cell>
+				<cell halign="center">Aluminum or plexiglass</cell>
+				<cell halign="center">Lead</cell>
+				<cell halign="center">Thick concrete or water</cell>
+			</row>
+		</tabular>
+	</table>
 	<p>
 		Different forms of radiation require different shielding.
 		In general, larger and more highly charged particles require less shielding.
@@ -70,8 +88,8 @@
 		skin.
 		Beta particles can be shielded by about a centimeter of aluminum, plastic, or
 		plexiglass.
-		Neutrons and gamma rays are much more difficult to shield and often require
-		lead or concrete.
+		Gamma rays are much more difficult to shield and often require
+		lead.  Neutrons can require even more shielding, often only being stopped by thick concrete or a large amount of water.
 	</p>
 	<exercises>
 		<title>Exercises:</title>
