@@ -64,18 +64,18 @@
 	<table>
 		<title>Units of radiation</title>
 		<tabular>
-			<row>
+			<row halign="center" header="yes" bottom="major">
 				<cell>What is being measured?</cell>
 			</row>
-			<row>
-				<cell>Radiation being emitted (in all directions)</cell>
-				<cell>Radiation impacting a person</cell>
-				<cell>Biological effects of radiation</cell>
+			<row header="yes" bottom="minor">
+				<cell halign="center">Radiation being emitted (in all directions)</cell>
+				<cell halign="center">Radiation impacting a person</cell>
+				<cell halign="center">Biological effects of radiation</cell>
 			</row>
 			<row>
-				<cell>Becquerels or Curies</cell>
-				<cell>Rads or Grays</cell>
-				<cell>Rem or Sieverts</cell>
+				<cell halign="center">Becquerels or Curies</cell>
+				<cell halign="center">Rads or Grays</cell>
+				<cell halign="center">Rem or Sieverts</cell>
 
 			</row>
 		</tabular>
