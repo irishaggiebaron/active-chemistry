@@ -113,11 +113,6 @@
 				<cell halign="center">Gy x factor = Sv</cell>
 			</row>
 
-			<row>
-				<cell halign="center">Becquerels or Curies</cell>
-				<cell halign="center">Rads or Grays</cell>
-				<cell halign="center">Rem or Sieverts</cell>
-			</row>
 		</tabular>
 	</table>
 	
