@@ -4057,7 +4057,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Measuring Radioactivity",
-  "body": " Measuring Radioactivity  When considering radioactivity and safety, it is important to minimize the exposure of medical personnel and patients. Radioactivity can cause chemical changes to cells that can lead to cell death, mutations, and cancer. One of the easiest ways to minimize risk is to use the lowest amount of radioactive isotope possible.  Radioactivity can be measured by a variety of devices depending on the type of emission. The SI unit used to measure radioactivity is a becquerel , abbreviated Bq. One Bq is one radioactive decay, or disintegration, per second. A sample containing more radioactive nuclei, or a sample more enriched in radioactive nuclei, produces more radiation per second and therefore has a higher Bq value.  Another historically important unit is the Curie , abbreviated Ci. One Curie represents decays per second, or the same number of becquerels. Because a Curie often represents a large amount of radiation, smaller metric prefixes such as mCi and Ci are commonly used.  Curies and becquerels describe how much radiation an object emits. Because radiation travels in all directions, much of the emitted radiation may never enter a patient or medical professional. To describe the amount of radiation that actually enters the body, scientists use the unit rad . This unit has been replaced in SI by the gray , abbreviated Gy. One Gy is the same as 100 rad.  To quantify the damaging effects of absorbed radiation, scientists use the unit rem , meaning radiation equivalent in man. Rem is calculated from rad by multiplying by a damage factor specific to the type of radiation being absorbed. Gamma rays, beta particles, and positrons have a factor of 1; protons and neutrons have a factor of 10; and alpha particles have a factor of 20.  Another unit used to measure the biological effect of absorbed radiation is the Sievert , abbreviated Sv. One Sv is equivalent to 100 rem. The source notes that an average person receives about 3 mSv per year, an x-ray or CT scan can expose a person to approximately 0.1-10 mSv, a statistically detectable increase in cancer risk occurs around 50 mSv, radiation sickness can begin around 0.5 Sv, and a dose of 3-4 Sv is generally fatal to about half of exposed people.   Exercises:    Convert 18 Ci to Bq.     Bq      Convert Bq to mCi.    14 mCi      Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.      Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.      If a patient receives a dose of 54.3 rad of alpha particles:     How many Gy did they receive?    0.543 Gy      What is the biological impact in units of rem?    1090 rem      What is the biological impact in units of Sv?    10.9 Sv      Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.      Recalculate parts b and c if the radiation was beta-particles instead.    54.3 rem; 0.543 Sv      "
+  "body": " Measuring Radioactivity  When considering radioactivity and safety, it is important to minimize the exposure of medical personnel and patients. Radioactivity can cause chemical changes to cells that can lead to cell death, mutations, and cancer. One of the easiest ways to minimize risk is to use the lowest amount of radioactive isotope possible.  Radioactivity can be measured by a variety of devices depending on the type of emission. The SI unit used to measure radioactivity is a becquerel , abbreviated Bq. One Bq is one radioactive decay, or disintegration, per second. A sample containing more radioactive nuclei, or a sample more enriched in radioactive nuclei, produces more radiation per second and therefore has a higher Bq value.  Another historically important unit is the Curie , abbreviated Ci. One Curie represents decays per second, or the same number of becquerels. Because a Curie often represents a large amount of radiation, smaller metric prefixes such as mCi and Ci are commonly used.  Curies and becquerels describe how much radiation an object emits. Because radiation travels in all directions, much of the emitted radiation may never enter a patient or medical professional. To describe the amount of radiation that actually enters the body, scientists use the unit rad . This unit has been replaced in SI by the gray , abbreviated Gy. One Gy is the same as 100 rad.  To quantify the damaging effects of absorbed radiation, scientists use the unit rem , meaning \"radiation equivalent in man\". Rem is calculated from rad by multiplying by a damage factor specific to the type of radiation being absorbed. Gamma rays, beta particles, and positrons have a factor of 1; protons and neutrons have a factor of 10; and alpha particles have a factor of 20.  Another unit used to measure the biological effect of absorbed radiation is the Sievert , abbreviated Sv. One Sv is equivalent to 100 rem. The source notes that an average person receives about 3 mSv per year, an x-ray or CT scan can expose a person to approximately 0.1-10 mSv, a statistically detectable increase in cancer risk occurs around 50 mSv, radiation sickness can begin around 0.5 Sv, and a dose of 3-4 Sv is generally fatal to about half of exposed people.   Units of radiation    What is being measured?    Radiation being emitted (in all directions)  Radiation impacting a person  Biological effects of radiation    Becquerels or Curies  Rads or Grays  Rem or Sieverts      Exercises:    Convert 18 Ci to Bq.     Bq      Convert Bq to mCi.    14 mCi      Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.      Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.      If a patient receives a dose of 54.3 rad of alpha particles:     How many Gy did they receive?    0.543 Gy      What is the biological impact in units of rem?    1090 rem      What is the biological impact in units of Sv?    10.9 Sv      Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.      Recalculate parts b and c if the radiation was beta-particles instead.    54.3 rem; 0.543 Sv      "
 },
 {
   "id": "sec-nuclear4-3",
@@ -4105,81 +4105,90 @@ var ptx_lunr_docs = [
   "body": "Sievert "
 },
 {
-  "id": "sec-nuclear4-8-2",
+  "id": "sec-nuclear4-8",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-2",
+  "url": "sec-nuclear4.html#sec-nuclear4-8",
+  "type": "Table",
+  "number": "5.4.1",
+  "title": "Units of radiation",
+  "body": " Units of radiation    What is being measured?    Radiation being emitted (in all directions)  Radiation impacting a person  Biological effects of radiation    Becquerels or Curies  Rads or Grays  Rem or Sieverts    "
+},
+{
+  "id": "sec-nuclear4-9-2",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-2",
   "type": "Exercise",
   "number": "5.4.1",
   "title": "",
   "body": "  Convert 18 Ci to Bq.     Bq   "
 },
 {
-  "id": "sec-nuclear4-8-3",
+  "id": "sec-nuclear4-9-3",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-3",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-3",
   "type": "Exercise",
   "number": "5.4.2",
   "title": "",
   "body": "  Convert Bq to mCi.    14 mCi   "
 },
 {
-  "id": "sec-nuclear4-8-4",
+  "id": "sec-nuclear4-9-4",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-4",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-4",
   "type": "Exercise",
   "number": "5.4.3",
   "title": "",
   "body": "  Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.   "
 },
 {
-  "id": "sec-nuclear4-8-5",
+  "id": "sec-nuclear4-9-5",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-5",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-5",
   "type": "Exercise",
   "number": "5.4.4",
   "title": "",
   "body": "  Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.   "
 },
 {
-  "id": "sec-nuclear4-8-6-2",
+  "id": "sec-nuclear4-9-6-2",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-6-2",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-6-2",
   "type": "Exercise",
   "number": "5.4.5",
   "title": "",
   "body": "  How many Gy did they receive?    0.543 Gy   "
 },
 {
-  "id": "sec-nuclear4-8-6-3",
+  "id": "sec-nuclear4-9-6-3",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-6-3",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-6-3",
   "type": "Exercise",
   "number": "5.4.6",
   "title": "",
   "body": "  What is the biological impact in units of rem?    1090 rem   "
 },
 {
-  "id": "sec-nuclear4-8-6-4",
+  "id": "sec-nuclear4-9-6-4",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-6-4",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-6-4",
   "type": "Exercise",
   "number": "5.4.7",
   "title": "",
   "body": "  What is the biological impact in units of Sv?    10.9 Sv   "
 },
 {
-  "id": "sec-nuclear4-8-6-5",
+  "id": "sec-nuclear4-9-6-5",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-6-5",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-6-5",
   "type": "Exercise",
   "number": "5.4.8",
   "title": "",
   "body": "  Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.   "
 },
 {
-  "id": "sec-nuclear4-8-6-6",
+  "id": "sec-nuclear4-9-6-6",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-8-6-6",
+  "url": "sec-nuclear4.html#sec-nuclear4-9-6-6",
   "type": "Exercise",
   "number": "5.4.9",
   "title": "",
