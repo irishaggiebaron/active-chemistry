@@ -703,6 +703,70 @@
     </p>
 
     <p>
+      <definition xml:id="def-ions">
+        <statement>
+          <p>
+            <term>Ion</term> A charged chemical species.
+            The ion may have positive charge(s), negative charge(s), or both.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-cations">
+        <statement>
+          <p>
+            <term>Cation:</term> a positively charged ion
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-anions">
+        <statement>
+          <p>
+            <term>Anion:</term> a negatively charged ion
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-monoatomicion">
+        <statement>
+          <p>
+            <term>Monoatomic ion:</term> An ion that consists of only one atom
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-polyatomicion">
+        <statement>
+          <p>
+            <term>Polyatomic ion:</term> An ion that consists of two or more
+            atoms that are joined by covalent bonds
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-molecules">
+        <statement>
+          <p>
+            <term>Molecules:</term> The basic unit of a covalent compound.
+            Molecules consist of two or more atoms that are joined by the
+            sharing of electrons, which is called a covalent bond.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
       <term>Chapter 7</term>
     </p>
 
