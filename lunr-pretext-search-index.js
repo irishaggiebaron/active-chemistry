@@ -4219,75 +4219,84 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.5",
   "title": "Radiation Safety",
-  "body": " Radiation Safety  Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.  Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Neutrons and gamma rays are much more difficult to shield and often require lead or concrete.   Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
+  "body": " Radiation Safety  Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.   Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water     Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Gamma rays are much more difficult to shield and often require lead. Neutrons can require even more shielding, often only being stopped by thick concrete or a large amount of water.   Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
 },
 {
-  "id": "sec-nuclear5-9-2",
+  "id": "sec-nuclear5-8",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-2",
+  "url": "sec-nuclear5.html#sec-nuclear5-8",
+  "type": "Table",
+  "number": "5.5.1",
+  "title": "Radiation shielding needs",
+  "body": " Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water    "
+},
+{
+  "id": "sec-nuclear5-10-2",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-2",
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
   "body": "  List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.   "
 },
 {
-  "id": "sec-nuclear5-9-3",
+  "id": "sec-nuclear5-10-3",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-3",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-3",
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
   "body": "  What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.   "
 },
 {
-  "id": "sec-nuclear5-9-4",
+  "id": "sec-nuclear5-10-4",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-4",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-4",
   "type": "Exercise",
   "number": "5.5.3",
   "title": "",
   "body": "  How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.   "
 },
 {
-  "id": "sec-nuclear5-9-5-2",
+  "id": "sec-nuclear5-10-5-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-5-2",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-5-2",
   "type": "Exercise",
   "number": "5.5.4",
   "title": "",
   "body": "  20.0 m    1.0 mGy   "
 },
 {
-  "id": "sec-nuclear5-9-5-3",
+  "id": "sec-nuclear5-10-5-3",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-5-3",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-5-3",
   "type": "Exercise",
   "number": "5.5.5",
   "title": "",
   "body": "  100. m    0.040 mGy   "
 },
 {
-  "id": "sec-nuclear5-9-5-4",
+  "id": "sec-nuclear5-10-5-4",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-5-4",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-5-4",
   "type": "Exercise",
   "number": "5.5.6",
   "title": "",
   "body": "  2.5 m    64 mGy   "
 },
 {
-  "id": "sec-nuclear5-9-6",
+  "id": "sec-nuclear5-10-6",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-6",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-6",
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
   "body": "  Rearrange to solve for .        "
 },
 {
-  "id": "sec-nuclear5-9-7",
+  "id": "sec-nuclear5-10-7",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-9-7",
+  "url": "sec-nuclear5.html#sec-nuclear5-10-7",
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
