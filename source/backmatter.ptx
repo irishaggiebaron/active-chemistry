@@ -778,6 +778,16 @@
       </definition>
     </p>
 
+        <p>
+      <definition xml:id="def-metastablestate">
+        <statement>
+          <p>
+            <term>Metastable state:</term> A state that isn't temporarily stable, but that can decay.  A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
     <p>
       <term>Chapter 6</term>
     </p>

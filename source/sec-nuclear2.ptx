@@ -5,8 +5,49 @@
 	<title>Balancing Decay Reactions</title>
 
 	<p>
+		<term>Summary:</term>
+	</p>
+
+	<ol>
+		<li>
+			<p>
+				How to balance a radioactive decay equation
+			</p>
+
+			<ol>
+				<li>
+					<p>
+						The isotope that does the "emitting" or "producing" is on the left side of
+						the reaction arrow
+					</p>
+				</li>
+
+				<li>
+					<p>
+						The form of radiation that is "produced" or "emitted" goes on the right
+						side of the arrow
+					</p>
+				</li>
+
+				<li>
+					<p>
+						The isotope that is produced as a result of the decay also goes on the
+						right side of the arrow
+					</p>
+				</li>
+
+				<li>
+					<p>
+						The equation must balance the mass and nuclear/particle charge on both sides of the equation
+					</p>
+				</li>
+			</ol>
+		</li>
+	</ol>
+
+	<p>
 		When radioactive decay occurs, changes happen to the radioactive atom.
-		In most cases, the emission of radiation results in a change in the nucleus
+		The emission of radiation results in a change in the nucleus of the starting isotope
 		and can even change one element into another.
 		To describe the changes that take place after radioactive decay, we can write
 		a radioactive decay equation.
@@ -18,8 +59,7 @@
 		The first type of decay equation that we’ll explore is gamma decay.
 		Unlike other forms of radioactivity, there is no change in the composition of
 		the nucleus.
-		Instead, the nucleus changes from a high-energy state, called a metastable
-		state, to a lower-energy state.
+		Instead, the nucleus changes from a high-energy state, called a <term><xref ref="def-metastablestate" text="custom">metastable state</xref></term>, to a lower-energy state.
 		This makes gamma-emission equations especially simple to balance:
 	</p>
 
@@ -57,7 +97,7 @@
 		The second equation represents positron emission.
 		A positron may be written as <m>{}^{0}_{+1}\mathrm{e}</m>, <m>\beta^+</m>, or
 		<m>\mathrm{e}^+</m>.
-		In both cases, charge and mass must balance on both sides of the equation.
+		<em>In both cases, mass (indicated by the superscripts) and nuclear/particle charge (indicated by the subscript) must balance on both sides of the equation.</em>
 	</p>
 
 	<p>
