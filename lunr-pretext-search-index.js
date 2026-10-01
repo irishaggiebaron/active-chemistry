@@ -3643,7 +3643,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.1",
   "title": "Types of Radioactivity",
-  "body": " Types of Radioactivity  In this chapter, we’ll be exploring radiation and radioactivity . Radiation is the emission of energy from an object in the form of electromagnetic radiation or in the form of parts of atoms. Importantly, radiation does not imply a specific cause for the energy emission. Radioactivity produces radiation, but from a very specific source. In radioactivity, an atom has an unstable nucleus, and that nucleus becomes stable, releasing radiation in the process. There are other sources of radiation besides radioactivity. Radioactivity will always produce radiation.  In the last chapter, we learned about isotopes. To review, isotopes are atoms of an element that have different numbers of neutrons and thus different mass numbers. Some isotopes are stable, whereas other isotopes have unstable nuclei. These nuclei can stabilize themselves by emitting energy or particles. This is called radioactive decay. Radioactive decay causes that isotope to emit radiation. The forms that we’ll be learning about because of their relevance to medicine are gamma radiation , beta particles, alpha particles, neutrons, protons, and positrons.  Gamma rays are a form of electromagnetic radiation, or light energy. Out of the different forms of electromagnetic radiation, gamma rays have the highest energies. Some radioactive isotopes emit gamma radiation in the form of a photon with the energy of a gamma ray. Gamma-ray emission is caused by an unstable nucleus relaxing to a lower-energy state and emitting the lost energy as light. Unlike the other types of radioactive emission, gamma rays are massless and lack charge.  Other radioactive isotopes decay and emit particles. These particles include alpha particles, beta particles, positrons, protons, and neutrons. Alpha particles have the greatest mass and are essentially helium nuclei consisting of 2 protons and 2 neutrons. Beta particles are essentially electrons ejected from the nucleus as part of radioactive emission rather than from the electron cloud. Positrons are antimatter particles. They have the same mass as an electron but are positively charged. When positrons collide with electrons, they annihilate one another and their mass is turned into energy in the form of gamma rays. Protons and neutrons have the same masses and charges discussed previously, even when they are ejected from an atom as part of radioactive decay.   Exercises:    Do the following particles have mass? If they do, round their mass to the nearest amu.     Gamma ray    No      Beta-particle    Yes, 0 amu      Proton    Yes, 1 amu      Alpha particle    Yes, 4 amu      Neutron    Yes, 1 amu      Positron    Yes, 0 amu       What is the charge of the following particles?     Gamma ray           Beta-particle           Proton           Alpha particle           Neutron           Positron            How many protons and neutrons are in the following nuclei?     Cobalt-57    27 protons, 30 neutrons      Uranium-238    92 protons, 146 neutrons      Fluorine-18    9 protons, 9 neutrons      "
+  "body": " Types of Radioactivity  In this chapter, we’ll be exploring radiation and radioactivity . Radiation is the emission of energy from an object in the form of electromagnetic radiation or in the form of parts of atoms. Importantly, radiation does not imply a specific cause for the energy emission. Radioactivity produces radiation, but from a very specific source. In radioactivity, an atom has an unstable nucleus, and that nucleus becomes stable, releasing radiation in the process. There are other sources of radiation besides radioactivity. Radioactivity will always produce radiation.  In the last chapter, we learned about isotopes. To review, isotopes are atoms of an element that have different numbers of neutrons and thus different mass numbers. Some isotopes are stable, whereas other isotopes have unstable nuclei. These nuclei can stabilize themselves by emitting energy or particles. This is called radioactive decay. Radioactive decay causes that isotope to emit radiation. The forms that we’ll be learning about because of their relevance to medicine are gamma rays, beta particles, alpha particles, neutrons, protons, and positrons.   Visualizing radiation from the radioactive element radon      Gamma rays are a form of electromagnetic radiation, or light energy. Out of the different forms of electromagnetic radiation, gamma rays have the highest energies. Some radioactive isotopes emit gamma radiation in the form of a photon with the energy of a gamma ray. Gamma-ray emission is caused by an unstable nucleus relaxing to a lower-energy state and emitting the lost energy as light. Unlike the other types of radioactive emission, gamma rays are massless and lack charge.  Other radioactive isotopes decay and emit particles. These particles include alpha particles, beta particles, positrons, protons, and neutrons. Alpha particles have the greatest mass and are essentially helium nuclei, consisting of 2 protons and 2 neutrons. Beta particles are essentially electrons ejected from the nucleus as part of radioactive emission rather than from the electron cloud. Positrons are antimatter particles. They have the same mass as an electron but are positively charged. When positrons collide with electrons, they annihilate one another and their mass is turned into energy in the form of gamma rays. Protons and neutrons have the same masses and charges discussed previously, even when they are ejected from an atom as part of radioactive decay.   Exercises:    Do the following particles have mass? If they do, round their mass to the nearest amu.     Gamma ray    No      Beta-particle    Yes, 0 amu      Proton    Yes, 1 amu      Alpha particle    Yes, 4 amu      Neutron    Yes, 1 amu      Positron    Yes, 0 amu       What is the charge of the following particles?     Gamma ray           Beta-particle           Proton           Alpha particle           Neutron           Positron            Make a table containing the different types of radiation covered in this chapter, along with their masses and charges.    You can do this!      How many protons and neutrons are in the following nuclei?     Cobalt-57    27 protons, 30 neutrons      Uranium-238    92 protons, 146 neutrons      Fluorine-18    9 protons, 9 neutrons      "
 },
 {
   "id": "sec-nuclear1-2",
@@ -3655,155 +3655,164 @@ var ptx_lunr_docs = [
   "body": "radiation radioactivity "
 },
 {
-  "id": "sec-nuclear1-3",
-  "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "gamma radiation "
-},
-{
   "id": "sec-nuclear1-5",
   "level": "2",
   "url": "sec-nuclear1.html#sec-nuclear1-5",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "antimatter annihilate "
+  "body": "Gamma rays "
 },
 {
-  "id": "sec-nuclear1-6-2-2",
+  "id": "sec-nuclear1-6",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-2-2",
+  "url": "sec-nuclear1.html#sec-nuclear1-6",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Alpha particles Beta particles Positrons antimatter annihilate "
+},
+{
+  "id": "sec-nuclear1-7-2-2",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-2-2",
   "type": "Exercise",
   "number": "5.1.1",
   "title": "",
   "body": "  Gamma ray    No   "
 },
 {
-  "id": "sec-nuclear1-6-2-3",
+  "id": "sec-nuclear1-7-2-3",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-2-3",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-2-3",
   "type": "Exercise",
   "number": "5.1.2",
   "title": "",
   "body": "  Beta-particle    Yes, 0 amu   "
 },
 {
-  "id": "sec-nuclear1-6-2-4",
+  "id": "sec-nuclear1-7-2-4",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-2-4",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-2-4",
   "type": "Exercise",
   "number": "5.1.3",
   "title": "",
   "body": "  Proton    Yes, 1 amu   "
 },
 {
-  "id": "sec-nuclear1-6-2-5",
+  "id": "sec-nuclear1-7-2-5",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-2-5",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-2-5",
   "type": "Exercise",
   "number": "5.1.4",
   "title": "",
   "body": "  Alpha particle    Yes, 4 amu   "
 },
 {
-  "id": "sec-nuclear1-6-2-6",
+  "id": "sec-nuclear1-7-2-6",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-2-6",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-2-6",
   "type": "Exercise",
   "number": "5.1.5",
   "title": "",
   "body": "  Neutron    Yes, 1 amu   "
 },
 {
-  "id": "sec-nuclear1-6-2-7",
+  "id": "sec-nuclear1-7-2-7",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-2-7",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-2-7",
   "type": "Exercise",
   "number": "5.1.6",
   "title": "",
   "body": "  Positron    Yes, 0 amu   "
 },
 {
-  "id": "sec-nuclear1-6-3-2",
+  "id": "sec-nuclear1-7-3-2",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-3-2",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-3-2",
   "type": "Exercise",
   "number": "5.1.7",
   "title": "",
   "body": "  Gamma ray        "
 },
 {
-  "id": "sec-nuclear1-6-3-3",
+  "id": "sec-nuclear1-7-3-3",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-3-3",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-3-3",
   "type": "Exercise",
   "number": "5.1.8",
   "title": "",
   "body": "  Beta-particle        "
 },
 {
-  "id": "sec-nuclear1-6-3-4",
+  "id": "sec-nuclear1-7-3-4",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-3-4",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-3-4",
   "type": "Exercise",
   "number": "5.1.9",
   "title": "",
   "body": "  Proton        "
 },
 {
-  "id": "sec-nuclear1-6-3-5",
+  "id": "sec-nuclear1-7-3-5",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-3-5",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-3-5",
   "type": "Exercise",
   "number": "5.1.10",
   "title": "",
   "body": "  Alpha particle        "
 },
 {
-  "id": "sec-nuclear1-6-3-6",
+  "id": "sec-nuclear1-7-3-6",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-3-6",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-3-6",
   "type": "Exercise",
   "number": "5.1.11",
   "title": "",
   "body": "  Neutron        "
 },
 {
-  "id": "sec-nuclear1-6-3-7",
+  "id": "sec-nuclear1-7-3-7",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-3-7",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-3-7",
   "type": "Exercise",
   "number": "5.1.12",
   "title": "",
   "body": "  Positron        "
 },
 {
-  "id": "sec-nuclear1-6-4-2",
+  "id": "sec-nuclear1-7-4",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-4-2",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-4",
   "type": "Exercise",
   "number": "5.1.13",
+  "title": "",
+  "body": "  Make a table containing the different types of radiation covered in this chapter, along with their masses and charges.    You can do this!   "
+},
+{
+  "id": "sec-nuclear1-7-5-2",
+  "level": "2",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-5-2",
+  "type": "Exercise",
+  "number": "5.1.14",
   "title": "",
   "body": "  Cobalt-57    27 protons, 30 neutrons   "
 },
 {
-  "id": "sec-nuclear1-6-4-3",
+  "id": "sec-nuclear1-7-5-3",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-4-3",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-5-3",
   "type": "Exercise",
-  "number": "5.1.14",
+  "number": "5.1.15",
   "title": "",
   "body": "  Uranium-238    92 protons, 146 neutrons   "
 },
 {
-  "id": "sec-nuclear1-6-4-4",
+  "id": "sec-nuclear1-7-5-4",
   "level": "2",
-  "url": "sec-nuclear1.html#sec-nuclear1-6-4-4",
+  "url": "sec-nuclear1.html#sec-nuclear1-7-5-4",
   "type": "Exercise",
-  "number": "5.1.15",
+  "number": "5.1.16",
   "title": "",
   "body": "  Fluorine-18    9 protons, 9 neutrons   "
 },
@@ -4390,7 +4399,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Ionic Compounds vs. Covalent Compounds",
-  "body": " Ionic Compounds vs. Covalent Compounds   Summary:     Types of compounds: ionic and covalent    What is an ion?    Properties of ionic compounds    Compounds are pure substances made of atoms of different elements joined in specific ratios. Two major classes are ionic compounds and covalent, or molecular, compounds. The distinction is the way the atoms are joined.  Ionic compounds are made of ions held together by electrostatic forces . Ions carry a net positive or negative charge. Positively charged ions are cations and negatively charged ions are anions . An ion may consist of one atom, a monoatomic ion , or several covalently bound atoms, a polyatomic ion .   A \"plussy\" cat. A useful tool to help you remember the term cation  A \"plussy\" cat. A useful tool to help you remember the term cation  A drawing of a cat with plus symbols on its chest   Covalent compounds are formed when atoms share electrons. They remain together as discrete units called molecules . Ionic compounds generally contain a metal and one or more nonmetals, while covalent compounds consist only of nonmetals.  Ionic compounds generally have much higher melting points than covalent compounds because the electrostatic forces holding ions together are stronger than the intermolecular forces between separate molecules. When an ionic compound dissolves in water, its ions separate and become surrounded by water molecules. Covalent compounds remain as intact molecules when they dissolve.   Exercises:    Classify each species as a monoatomic cation, monoatomic anion, polyatomic cation, or polyatomic anion.     Ca²⁺    Monoatomic cation      Mn²⁺    Monoatomic cation      NH₄⁺    Polyatomic cation      ClO₄⁻    Polyatomic anion      Cl⁻    Monoatomic anion      O²⁻    Monoatomic anion      SO₄²⁻    Polyatomic anion       What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces      What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces      For each description, determine whether it describes a molecular compound or an ionic compound.     Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound      Low melting points    Covalent\/molecular compound      Usually contains metal ions    Ionic compound      "
+  "body": " Ionic Compounds vs. Covalent Compounds   Summary:     Types of compounds: ionic and covalent    What is an ion?    Properties of ionic compounds    Compounds are pure substances made of atoms of different elements joined in specific ratios. Two major classes are ionic compounds and covalent, or molecular, compounds. The distinction is the way the atoms are joined.  Ionic compounds are made of ions held together by electrostatic forces . Ions carry a net positive or negative charge. Positively charged ions are cations and negatively charged ions are anions . An ion may consist of one atom, a monoatomic ion , or several covalently bound atoms, a polyatomic ion .   A \"plussy\" cat. A useful tool to help you remember the term cation   A \"plussy\" cat. A useful tool to help you remember the term cation  A drawing of a cat with plus symbols on its chest    Covalent compounds are formed when atoms share electrons. They remain together as discrete units called molecules . Ionic compounds generally contain a metal and one or more nonmetals, while covalent compounds consist only of nonmetals.  Ionic compounds generally have much higher melting points than covalent compounds because the electrostatic forces holding ions together are stronger than the intermolecular forces between separate molecules. When an ionic compound dissolves in water, its ions separate and become surrounded by water molecules. Covalent compounds remain as intact molecules when they dissolve.   Exercises:    Classify each species as a monoatomic cation, monoatomic anion, polyatomic cation, or polyatomic anion.     Ca²⁺    Monoatomic cation      Mn²⁺    Monoatomic cation      NH₄⁺    Polyatomic cation      ClO₄⁻    Polyatomic anion      Cl⁻    Monoatomic anion      O²⁻    Monoatomic anion      SO₄²⁻    Polyatomic anion       What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces      What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces      For each description, determine whether it describes a molecular compound or an ionic compound.     Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound      Low melting points    Covalent\/molecular compound      Usually contains metal ions    Ionic compound      "
 },
 {
   "id": "sec-ioncompounds1-2",
@@ -9538,7 +9547,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5    Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -9745,7 +9754,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 6 "
+  "body": "Radiation: "
 },
 {
   "id": "backmatter-2-25",
@@ -9754,7 +9763,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Ion "
+  "body": "Radioactivity: "
 },
 {
   "id": "backmatter-2-26",
@@ -9763,7 +9772,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Electrostatic forces "
+  "body": "Gamma rays: "
 },
 {
   "id": "backmatter-2-27",
@@ -9772,7 +9781,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Cation: "
+  "body": "Alpha particles: "
 },
 {
   "id": "backmatter-2-28",
@@ -9781,7 +9790,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Anion: "
+  "body": "Beta particles: "
 },
 {
   "id": "backmatter-2-29",
@@ -9790,7 +9799,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Monoatomic ion: "
+  "body": "Positron: "
 },
 {
   "id": "backmatter-2-30",
@@ -9799,7 +9808,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Polyatomic ion: "
+  "body": "Antimatter: "
 },
 {
   "id": "backmatter-2-31",
@@ -9808,7 +9817,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Intermolecular forces: "
+  "body": "Annihilate: "
 },
 {
   "id": "backmatter-2-32",
@@ -9817,7 +9826,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Molecules: "
+  "body": "Chapter 6 "
 },
 {
   "id": "backmatter-2-33",
@@ -9826,7 +9835,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Octet rule: "
+  "body": "Ion "
 },
 {
   "id": "backmatter-2-34",
@@ -9835,7 +9844,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 7 "
+  "body": "Electrostatic forces "
 },
 {
   "id": "backmatter-2-35",
@@ -9844,7 +9853,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 8 "
+  "body": "Cation: "
 },
 {
   "id": "backmatter-2-36",
@@ -9853,12 +9862,84 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 9 "
+  "body": "Anion: "
 },
 {
   "id": "backmatter-2-37",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-37",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Monoatomic ion: "
+},
+{
+  "id": "backmatter-2-38",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-38",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Polyatomic ion: "
+},
+{
+  "id": "backmatter-2-39",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-39",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Intermolecular forces: "
+},
+{
+  "id": "backmatter-2-40",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-40",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molecules: "
+},
+{
+  "id": "backmatter-2-41",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-41",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Octet rule: "
+},
+{
+  "id": "backmatter-2-42",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-42",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 7 "
+},
+{
+  "id": "backmatter-2-43",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-43",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 8 "
+},
+{
+  "id": "backmatter-2-44",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-44",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-45",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-45",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
