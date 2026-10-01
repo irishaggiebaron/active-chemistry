@@ -53,7 +53,7 @@
 	<table>
 		<title>Groups in the periodic table with known charges</title>
 		<tabular>
-			<row header="yes" halign="center">
+			<row header="yes" halign="center" bottom="major">
 				<cell>Group 1 (minus hydrogen)</cell>
 				<cell>Group 2</cell>
 				<cell>Metals in Group 3 or 15 (3A)</cell>
