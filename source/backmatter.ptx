@@ -713,6 +713,16 @@
       </definition>
     </p>
 
+       <p>
+      <definition xml:id="def-electrostaticforces">
+        <statement>
+          <p>
+            <term>Electrostatic forces</term> The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
     <p>
       <definition xml:id="def-cations">
         <statement>
@@ -754,6 +764,16 @@
       </definition>
     </p>
 
+   <p>
+      <definition xml:id="def-intermolecularforces">
+        <statement>
+          <p>
+            <term>Intermolecular forces:</term> The forces that exist between atoms, ions, or molecules.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
     <p>
       <definition xml:id="def-molecules">
         <statement>
@@ -761,6 +781,16 @@
             <term>Molecules:</term> The basic unit of a covalent compound.
             Molecules consist of two or more atoms that are joined by the
             sharing of electrons, which is called a covalent bond.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+   <p>
+      <definition xml:id="def-octetrule">
+        <statement>
+          <p>
+            <term>Octet rule:</term> A rule that states that atoms like to obtain electron configurations that are the same as a noble gas.  This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.
           </p>
         </statement>
       </definition>
