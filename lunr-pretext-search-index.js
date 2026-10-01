@@ -3823,174 +3823,192 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.2",
   "title": "Balancing Decay Reactions",
-  "body": " Balancing Decay Reactions  When radioactive decay occurs, changes happen to the radioactive atom. In most cases, the emission of radiation results in a change in the nucleus and can even change one element into another. To describe the changes that take place after radioactive decay, we can write a radioactive decay equation. The guiding principle when writing a radioactive decay equation is that the total mass and total charge cannot change after the decay has occurred.  The first type of decay equation that we’ll explore is gamma decay. Unlike other forms of radioactivity, there is no change in the composition of the nucleus. Instead, the nucleus changes from a high-energy state, called a metastable state, to a lower-energy state. This makes gamma-emission equations especially simple to balance:     The superscript indicates that the iodine-125 nucleus is metastable. The Greek letter gamma represents the emitted gamma ray.  Beta particles and positrons are both particles emitted from the nucleus. Both have mass, although it is very small and often rounded to 0 amu. Beta particles are negatively charged, while positrons are positively charged. When a nucleus emits a charged particle, the remaining charge in the nucleus must change. This results in the nucleus having the same mass but a different number of protons, so the identity of the element can change.        The first equation represents beta-particle emission. A beta particle may be written as , , or . The second equation represents positron emission. A positron may be written as , , or . In both cases, charge and mass must balance on both sides of the equation.  For beta emission, a neutron changes into a beta particle plus a proton. The mass remains the same, the number of protons increases by one, and the number of neutrons decreases by one. For positron emission, a proton is converted into a neutron and a positron. The atomic number decreases by one while the mass is preserved.  Alpha particles have a mass of 4 amu and a charge of ; they are the same as a helium nucleus. An alpha-emission equation must balance both mass and charge:     Radioactive decay can also eject protons or neutrons from the nucleus. A proton can be represented as , and a neutron as . The same balancing rules apply: total nuclear charge and total mass must be the same on both sides of the equation.   Exercises:    Write a balanced nuclear decay equation for the following:     The beta decay of carbon-14           The alpha decay of radon-220           The gamma decay of cobalt-60           The positron emission of magnesium-23           The neutron emission of krypton-87           The proton emission of cobalt-47            What type of radiation is emitted in the following processes?     The conversion of metastable Tc-99 to stable Tc-99    Gamma      The conversion of carbon-11 to boron-11    Positron      Polonium-210 changing to lead-206    Alpha           Beta           Proton           Neutron       What type(s) of radioactive emission:     involves particles with non-negligible masses?    Alpha, proton, neutron      produces a positively charged particle?    Positron, proton, and alpha      causes the nucleus to increase in atomic number by 1?    Beta      causes the nucleus to decrease in atomic number by 1?    Positron, proton      increases the number of neutrons in the nucleus?    Positron      decreases the number of neutrons in the nucleus?    Beta, neutron, and alpha      causes no change in the identity of the element?    Gamma and neutron      "
+  "body": " Balancing Decay Reactions   Summary:     How to balance a radioactive decay equation    The isotope that does the \"emitting\" or \"producing\" is on the left side of the reaction arrow    The form of radiation that is \"produced\" or \"emitted\" goes on the right side of the arrow    The isotope that is produced as a result of the decay also goes on the right side of the arrow    The equation must balance the mass and nuclear\/particle charge on both sides of the equation      When radioactive decay occurs, changes happen to the radioactive atom. The emission of radiation results in a change in the nucleus of the starting isotope and can even change one element into another. To describe the changes that take place after radioactive decay, we can write a radioactive decay equation. The guiding principle when writing a radioactive decay equation is that the total mass and total charge cannot change after the decay has occurred.  The first type of decay equation that we’ll explore is gamma decay. Unlike other forms of radioactivity, there is no change in the composition of the nucleus. Instead, the nucleus changes from a high-energy state, called a metastable state , to a lower-energy state. This makes gamma-emission equations especially simple to balance:     The superscript indicates that the iodine-125 nucleus is metastable. The Greek letter gamma represents the emitted gamma ray.  Beta particles and positrons are both particles emitted from the nucleus. Both have mass, although it is very small and often rounded to 0 amu. Beta particles are negatively charged, while positrons are positively charged. When a nucleus emits a charged particle, the remaining charge in the nucleus must change. This results in the nucleus having the same mass but a different number of protons, so the identity of the element can change.        The first equation represents beta-particle emission. A beta particle may be written as , , or . The second equation represents positron emission. A positron may be written as , , or . In both cases, mass (indicated by the superscripts) and nuclear\/particle charge (indicated by the subscript) must balance on both sides of the equation.   For beta emission, a neutron changes into a beta particle plus a proton. The mass remains the same, the number of protons increases by one, and the number of neutrons decreases by one. For positron emission, a proton is converted into a neutron and a positron. The atomic number decreases by one while the mass is preserved.  Alpha particles have a mass of 4 amu and a charge of ; they are the same as a helium nucleus. An alpha-emission equation must balance both mass and charge:     Radioactive decay can also eject protons or neutrons from the nucleus. A proton can be represented as , and a neutron as . The same balancing rules apply: total nuclear charge and total mass must be the same on both sides of the equation.   Exercises:    Write a balanced nuclear decay equation for the following:     The beta decay of carbon-14           The alpha decay of radon-220           The gamma decay of cobalt-60           The positron emission of magnesium-23           The neutron emission of krypton-87           The proton emission of cobalt-47            What type of radiation is emitted in the following processes?     The conversion of metastable Tc-99 to stable Tc-99    Gamma      The conversion of carbon-11 to boron-11    Positron      Polonium-210 changing to lead-206    Alpha           Beta           Proton           Neutron       What type(s) of radioactive emission:     involves particles with non-negligible masses?    Alpha, proton, neutron      produces a positively charged particle?    Positron, proton, and alpha      causes the nucleus to increase in atomic number by 1?    Beta      causes the nucleus to decrease in atomic number by 1?    Positron, proton      increases the number of neutrons in the nucleus?    Positron      decreases the number of neutrons in the nucleus?    Beta, neutron, and alpha      causes no change in the identity of the element?    Gamma and neutron      "
 },
 {
-  "id": "sec-nuclear2-14-2-2",
+  "id": "sec-nuclear2-2",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-2-2",
+  "url": "sec-nuclear2.html#sec-nuclear2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-nuclear2-5",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "metastable state "
+},
+{
+  "id": "sec-nuclear2-16-2-2",
+  "level": "2",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-2-2",
   "type": "Exercise",
   "number": "5.2.1",
   "title": "",
   "body": "  The beta decay of carbon-14        "
 },
 {
-  "id": "sec-nuclear2-14-2-3",
+  "id": "sec-nuclear2-16-2-3",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-2-3",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-2-3",
   "type": "Exercise",
   "number": "5.2.2",
   "title": "",
   "body": "  The alpha decay of radon-220        "
 },
 {
-  "id": "sec-nuclear2-14-2-4",
+  "id": "sec-nuclear2-16-2-4",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-2-4",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-2-4",
   "type": "Exercise",
   "number": "5.2.3",
   "title": "",
   "body": "  The gamma decay of cobalt-60        "
 },
 {
-  "id": "sec-nuclear2-14-2-5",
+  "id": "sec-nuclear2-16-2-5",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-2-5",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-2-5",
   "type": "Exercise",
   "number": "5.2.4",
   "title": "",
   "body": "  The positron emission of magnesium-23        "
 },
 {
-  "id": "sec-nuclear2-14-2-6",
+  "id": "sec-nuclear2-16-2-6",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-2-6",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-2-6",
   "type": "Exercise",
   "number": "5.2.5",
   "title": "",
   "body": "  The neutron emission of krypton-87        "
 },
 {
-  "id": "sec-nuclear2-14-2-7",
+  "id": "sec-nuclear2-16-2-7",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-2-7",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-2-7",
   "type": "Exercise",
   "number": "5.2.6",
   "title": "",
   "body": "  The proton emission of cobalt-47        "
 },
 {
-  "id": "sec-nuclear2-14-3-2",
+  "id": "sec-nuclear2-16-3-2",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-3-2",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-3-2",
   "type": "Exercise",
   "number": "5.2.7",
   "title": "",
   "body": "  The conversion of metastable Tc-99 to stable Tc-99    Gamma   "
 },
 {
-  "id": "sec-nuclear2-14-3-3",
+  "id": "sec-nuclear2-16-3-3",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-3-3",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-3-3",
   "type": "Exercise",
   "number": "5.2.8",
   "title": "",
   "body": "  The conversion of carbon-11 to boron-11    Positron   "
 },
 {
-  "id": "sec-nuclear2-14-3-4",
+  "id": "sec-nuclear2-16-3-4",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-3-4",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-3-4",
   "type": "Exercise",
   "number": "5.2.9",
   "title": "",
   "body": "  Polonium-210 changing to lead-206    Alpha   "
 },
 {
-  "id": "sec-nuclear2-14-3-5",
+  "id": "sec-nuclear2-16-3-5",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-3-5",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-3-5",
   "type": "Exercise",
   "number": "5.2.10",
   "title": "",
   "body": "       Beta   "
 },
 {
-  "id": "sec-nuclear2-14-3-6",
+  "id": "sec-nuclear2-16-3-6",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-3-6",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-3-6",
   "type": "Exercise",
   "number": "5.2.11",
   "title": "",
   "body": "       Proton   "
 },
 {
-  "id": "sec-nuclear2-14-3-7",
+  "id": "sec-nuclear2-16-3-7",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-3-7",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-3-7",
   "type": "Exercise",
   "number": "5.2.12",
   "title": "",
   "body": "       Neutron   "
 },
 {
-  "id": "sec-nuclear2-14-4-2",
+  "id": "sec-nuclear2-16-4-2",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-2",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-2",
   "type": "Exercise",
   "number": "5.2.13",
   "title": "",
   "body": "  involves particles with non-negligible masses?    Alpha, proton, neutron   "
 },
 {
-  "id": "sec-nuclear2-14-4-3",
+  "id": "sec-nuclear2-16-4-3",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-3",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-3",
   "type": "Exercise",
   "number": "5.2.14",
   "title": "",
   "body": "  produces a positively charged particle?    Positron, proton, and alpha   "
 },
 {
-  "id": "sec-nuclear2-14-4-4",
+  "id": "sec-nuclear2-16-4-4",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-4",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-4",
   "type": "Exercise",
   "number": "5.2.15",
   "title": "",
   "body": "  causes the nucleus to increase in atomic number by 1?    Beta   "
 },
 {
-  "id": "sec-nuclear2-14-4-5",
+  "id": "sec-nuclear2-16-4-5",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-5",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-5",
   "type": "Exercise",
   "number": "5.2.16",
   "title": "",
   "body": "  causes the nucleus to decrease in atomic number by 1?    Positron, proton   "
 },
 {
-  "id": "sec-nuclear2-14-4-6",
+  "id": "sec-nuclear2-16-4-6",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-6",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-6",
   "type": "Exercise",
   "number": "5.2.17",
   "title": "",
   "body": "  increases the number of neutrons in the nucleus?    Positron   "
 },
 {
-  "id": "sec-nuclear2-14-4-7",
+  "id": "sec-nuclear2-16-4-7",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-7",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-7",
   "type": "Exercise",
   "number": "5.2.18",
   "title": "",
   "body": "  decreases the number of neutrons in the nucleus?    Beta, neutron, and alpha   "
 },
 {
-  "id": "sec-nuclear2-14-4-8",
+  "id": "sec-nuclear2-16-4-8",
   "level": "2",
-  "url": "sec-nuclear2.html#sec-nuclear2-14-4-8",
+  "url": "sec-nuclear2.html#sec-nuclear2-16-4-8",
   "type": "Exercise",
   "number": "5.2.19",
   "title": "",
@@ -4003,7 +4021,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Uses of Radioactive Materials",
-  "body": " Uses of Radioactive Materials  Radioactive materials have numerous uses in energy production, science, and medicine.  Nuclear power plants rely on isotopes that undergo neutron decay to initiate a process called nuclear fission . Nuclear fission is a different type of nuclear decay in which a nucleus splits. This splitting is caused by the impact of a high-energy neutron on a nucleus. The impact produces an unstable nucleus that undergoes fission. When a nucleus splits, smaller nuclei are produced along with other neutrons. These neutrons can impact other nuclei, producing a chain reaction . Every time a nucleus undergoes fission, some of its mass is turned into energy. This energy can be used to boil water, and the resulting steam can turn a turbine to produce electricity.  Nuclear power can produce vast amounts of power without producing greenhouse gases. However, nuclear power also generates radioactive waste. The nuclei produced after fission are often radioactive themselves, creating a challenge for safe waste storage. In addition, the radioactive materials used to sustain chain reactions, especially uranium-235, are limited resources that require substantial effort to mine and purify.  Radioactive isotopes are also used in medicine as tracers or therapeutics. In a PET scan, a patient is treated with isotopes that emit positrons. The positrons are quickly annihilated by electrons in surrounding tissues, producing gamma rays that can be detected by specialized cameras. This allows doctors to locate the positron-emitting isotopes in the body. For example, radioactive sugar can accumulate in tumors because cancer cells take up sugar more quickly than most surrounding tissues. Detecting the resulting gamma rays helps identify the location of a tumor.  Another medical use of radioactive materials is radiation therapy. Radioactive materials are placed in or near a tumor. The radiation can damage molecules in the tumor cells and ultimately kill those cells. The damage can be difficult to confine to the tumor, however, so surrounding tissues may also be affected.   Exercises:    Uses of radioactive materials     Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.      Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.      How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.      Which type of radiation do you think would be more damaging to tissues, an alpha particle or a beta-particle? Why?    Alpha particles have a greater impact because of their larger charge.      "
+  "body": " Uses of Radioactive Materials  Radioactive materials have numerous uses in energy production, science, and medicine.  Nuclear power plants rely on isotopes that undergo neutron decay to initiate a process called nuclear fission . Nuclear fission is a different type of nuclear decay in which a nucleus splits. This splitting is caused by the impact of a high-energy neutron on a nucleus. The impact produces an unstable nucleus that undergoes fission. When a nucleus splits, smaller nuclei are produced along with other neutrons. These neutrons can impact other nuclei, producing a chain reaction . Every time a nucleus undergoes fission, some of its mass is turned into energy. This energy can be used to boil water, and the resulting steam can turn a turbine to produce electricity.  Nuclear power can produce vast amounts of power without producing greenhouse gases. However, nuclear power also generates radioactive waste. The nuclei produced after fission are often radioactive themselves, creating a challenge for safe waste storage. In addition, the radioactive materials used to sustain chain reactions, especially uranium-235, are limited resources that require substantial effort to mine and purify.   How does nuclear power work?    Radioactive isotopes are also used in medicine as tracers or therapeutics. In a PET scan, a patient is treated with isotopes that emit positrons. The positrons are quickly annihilated by electrons in surrounding tissues, producing gamma rays that can be detected by specialized cameras. This allows doctors to locate the positron-emitting isotopes in the body. For example, radioactive sugar can accumulate in tumors because cancer cells take up sugar more quickly than most surrounding tissues. Detecting the resulting gamma rays helps identify the location of a tumor.   How does a PET scan work?    Another medical use of radioactive materials is radiation therapy. Radioactive materials are placed in or near a tumor. The radiation can damage molecules in the tumor cells and ultimately kill those cells. The damage can be difficult to confine to the tumor, however, so surrounding tissues may also be affected.   Exercises:    Uses of radioactive materials     Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.      Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.      How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.      Which type of radiation do you think would be more damaging to tissues, an alpha particle or a beta-particle? Why?    Alpha particles have a greater impact because of their larger charge.      "
 },
 {
   "id": "sec-nuclear3-3",
@@ -4015,45 +4033,45 @@ var ptx_lunr_docs = [
   "body": "nuclear fission chain reaction "
 },
 {
-  "id": "sec-nuclear3-5",
+  "id": "sec-nuclear3-6",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-5",
+  "url": "sec-nuclear3.html#sec-nuclear3-6",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "tracers "
 },
 {
-  "id": "sec-nuclear3-7-2-2",
+  "id": "sec-nuclear3-9-2-2",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-7-2-2",
+  "url": "sec-nuclear3.html#sec-nuclear3-9-2-2",
   "type": "Exercise",
   "number": "5.3.1",
   "title": "",
   "body": "  Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.   "
 },
 {
-  "id": "sec-nuclear3-7-2-3",
+  "id": "sec-nuclear3-9-2-3",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-7-2-3",
+  "url": "sec-nuclear3.html#sec-nuclear3-9-2-3",
   "type": "Exercise",
   "number": "5.3.2",
   "title": "",
   "body": "  Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.   "
 },
 {
-  "id": "sec-nuclear3-7-2-4",
+  "id": "sec-nuclear3-9-2-4",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-7-2-4",
+  "url": "sec-nuclear3.html#sec-nuclear3-9-2-4",
   "type": "Exercise",
   "number": "5.3.3",
   "title": "",
   "body": "  How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.   "
 },
 {
-  "id": "sec-nuclear3-7-2-5",
+  "id": "sec-nuclear3-9-2-5",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-7-2-5",
+  "url": "sec-nuclear3.html#sec-nuclear3-9-2-5",
   "type": "Exercise",
   "number": "5.3.4",
   "title": "",
@@ -4228,7 +4246,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.5",
   "title": "Radiation Safety",
-  "body": " Radiation Safety  Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.   Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water     Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Gamma rays are much more difficult to shield and often require lead. Neutrons can require even more shielding, often only being stopped by thick concrete or a large amount of water.   Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
+  "body": " Radiation Safety  Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.   Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water     Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Gamma rays are much more difficult to shield and often require lead. Neutrons can require even more shielding, often only being stopped by thick concrete or a large amount of water.   Servant of God who contributed significantly to our understanding of the biological effects of radiation     Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
 },
 {
   "id": "sec-nuclear5-8",
@@ -4240,72 +4258,72 @@ var ptx_lunr_docs = [
   "body": " Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water    "
 },
 {
-  "id": "sec-nuclear5-10-2",
+  "id": "sec-nuclear5-11-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-2",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-2",
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
   "body": "  List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.   "
 },
 {
-  "id": "sec-nuclear5-10-3",
+  "id": "sec-nuclear5-11-3",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-3",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-3",
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
   "body": "  What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.   "
 },
 {
-  "id": "sec-nuclear5-10-4",
+  "id": "sec-nuclear5-11-4",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-4",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-4",
   "type": "Exercise",
   "number": "5.5.3",
   "title": "",
   "body": "  How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.   "
 },
 {
-  "id": "sec-nuclear5-10-5-2",
+  "id": "sec-nuclear5-11-5-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-5-2",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-5-2",
   "type": "Exercise",
   "number": "5.5.4",
   "title": "",
   "body": "  20.0 m    1.0 mGy   "
 },
 {
-  "id": "sec-nuclear5-10-5-3",
+  "id": "sec-nuclear5-11-5-3",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-5-3",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-5-3",
   "type": "Exercise",
   "number": "5.5.5",
   "title": "",
   "body": "  100. m    0.040 mGy   "
 },
 {
-  "id": "sec-nuclear5-10-5-4",
+  "id": "sec-nuclear5-11-5-4",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-5-4",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-5-4",
   "type": "Exercise",
   "number": "5.5.6",
   "title": "",
   "body": "  2.5 m    64 mGy   "
 },
 {
-  "id": "sec-nuclear5-10-6",
+  "id": "sec-nuclear5-11-6",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-6",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-6",
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
   "body": "  Rearrange to solve for .        "
 },
 {
-  "id": "sec-nuclear5-10-7",
+  "id": "sec-nuclear5-11-7",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-10-7",
+  "url": "sec-nuclear5.html#sec-nuclear5-11-7",
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
@@ -4318,7 +4336,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Half-life of Radioisotopes",
-  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half-lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
+  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half-lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   The problem of nuclear waste  Nuclear power plants in the United States produce a large amount of nuclear waste. This nuclear waste has half-life values of thousands of years. This creates a massive safety and storage problem. But what if that didn't have to be the case? Could we use nuclear power and do a better job taking care of creation?     Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
 },
 {
   "id": "sec-nuclear6-2",
@@ -4330,63 +4348,63 @@ var ptx_lunr_docs = [
   "body": "half-lives "
 },
 {
-  "id": "sec-nuclear6-7-2-2",
+  "id": "sec-nuclear6-8-2-2",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-2-2",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-2-2",
   "type": "Exercise",
   "number": "5.6.1",
   "title": "",
   "body": "  1 half-life?        "
 },
 {
-  "id": "sec-nuclear6-7-2-3",
+  "id": "sec-nuclear6-8-2-3",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-2-3",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-2-3",
   "type": "Exercise",
   "number": "5.6.2",
   "title": "",
   "body": "  2 half-lives?        "
 },
 {
-  "id": "sec-nuclear6-7-2-4",
+  "id": "sec-nuclear6-8-2-4",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-2-4",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-2-4",
   "type": "Exercise",
   "number": "5.6.3",
   "title": "",
   "body": "  7 half-lives?        "
 },
 {
-  "id": "sec-nuclear6-7-3",
+  "id": "sec-nuclear6-8-3",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-3",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-3",
   "type": "Exercise",
   "number": "5.6.4",
   "title": "",
   "body": "  After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.        "
 },
 {
-  "id": "sec-nuclear6-7-4",
+  "id": "sec-nuclear6-8-4",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-4",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-4",
   "type": "Exercise",
   "number": "5.6.5",
   "title": "",
   "body": "  If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg   "
 },
 {
-  "id": "sec-nuclear6-7-5",
+  "id": "sec-nuclear6-8-5",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-5",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-5",
   "type": "Exercise",
   "number": "5.6.6",
   "title": "",
   "body": "   Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq   "
 },
 {
-  "id": "sec-nuclear6-7-6",
+  "id": "sec-nuclear6-8-6",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-7-6",
+  "url": "sec-nuclear6.html#sec-nuclear6-8-6",
   "type": "Exercise",
   "number": "5.6.7",
   "title": "",
@@ -9547,7 +9565,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -9826,7 +9844,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 6 "
+  "body": "Metastable state: "
 },
 {
   "id": "backmatter-2-33",
@@ -9835,7 +9853,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Ion "
+  "body": "Chapter 6 "
 },
 {
   "id": "backmatter-2-34",
@@ -9844,7 +9862,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Electrostatic forces "
+  "body": "Ion "
 },
 {
   "id": "backmatter-2-35",
@@ -9853,7 +9871,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Cation: "
+  "body": "Electrostatic forces "
 },
 {
   "id": "backmatter-2-36",
@@ -9862,7 +9880,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Anion: "
+  "body": "Cation: "
 },
 {
   "id": "backmatter-2-37",
@@ -9871,7 +9889,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Monoatomic ion: "
+  "body": "Anion: "
 },
 {
   "id": "backmatter-2-38",
@@ -9880,7 +9898,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Polyatomic ion: "
+  "body": "Monoatomic ion: "
 },
 {
   "id": "backmatter-2-39",
@@ -9889,7 +9907,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Intermolecular forces: "
+  "body": "Polyatomic ion: "
 },
 {
   "id": "backmatter-2-40",
@@ -9898,7 +9916,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Molecules: "
+  "body": "Intermolecular forces: "
 },
 {
   "id": "backmatter-2-41",
@@ -9907,7 +9925,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Octet rule: "
+  "body": "Molecules: "
 },
 {
   "id": "backmatter-2-42",
@@ -9916,7 +9934,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 7 "
+  "body": "Octet rule: "
 },
 {
   "id": "backmatter-2-43",
@@ -9925,7 +9943,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 8 "
+  "body": "Chapter 7 "
 },
 {
   "id": "backmatter-2-44",
@@ -9934,12 +9952,21 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 9 "
+  "body": "Chapter 8 "
 },
 {
   "id": "backmatter-2-45",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-45",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-46",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-46",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
