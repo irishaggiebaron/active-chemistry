@@ -4390,129 +4390,147 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.1",
   "title": "Ionic Compounds vs. Covalent Compounds",
-  "body": " Ionic Compounds vs. Covalent Compounds  Compounds are pure substances made of atoms of different elements joined in specific ratios. Two major classes are ionic compounds and covalent, or molecular, compounds. The distinction is the way the atoms are joined.  Ionic compounds are made of ions held together by electrostatic forces. Ions carry a net positive or negative charge. Positively charged ions are cations and negatively charged ions are anions . An ion may consist of one atom, a monoatomic ion , or several covalently bound atoms, a polyatomic ion .  Covalent compounds are formed when atoms share electrons. They remain together as discrete units called molecules . Ionic compounds generally contain a metal and one or more nonmetals, while covalent compounds consist only of nonmetals.  Ionic compounds generally have much higher melting points than covalent compounds because the electrostatic forces holding ions together are stronger than the intermolecular forces between separate molecules. When an ionic compound dissolves in water, its ions separate and become surrounded by water molecules. Covalent compounds remain as intact molecules when they dissolve.   Exercises:    Classify each species as a monoatomic cation, monoatomic anion, polyatomic cation, or polyatomic anion.     Ca²⁺    Monoatomic cation      Mn²⁺    Monoatomic cation      NH₄⁺    Polyatomic cation      ClO₄⁻    Polyatomic anion      Cl⁻    Monoatomic anion      O²⁻    Monoatomic anion      SO₄²⁻    Polyatomic anion       What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces      What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces      For each description, determine whether it describes a molecular compound or an ionic compound.     Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound      Low melting points    Covalent\/molecular compound      Usually contains metal ions    Ionic compound      "
+  "body": " Ionic Compounds vs. Covalent Compounds   Summary:     Types of compounds: ionic and covalent    What is an ion?    Properties of ionic compounds    Compounds are pure substances made of atoms of different elements joined in specific ratios. Two major classes are ionic compounds and covalent, or molecular, compounds. The distinction is the way the atoms are joined.  Ionic compounds are made of ions held together by electrostatic forces . Ions carry a net positive or negative charge. Positively charged ions are cations and negatively charged ions are anions . An ion may consist of one atom, a monoatomic ion , or several covalently bound atoms, a polyatomic ion .  Covalent compounds are formed when atoms share electrons. They remain together as discrete units called molecules . Ionic compounds generally contain a metal and one or more nonmetals, while covalent compounds consist only of nonmetals.  Ionic compounds generally have much higher melting points than covalent compounds because the electrostatic forces holding ions together are stronger than the intermolecular forces between separate molecules. When an ionic compound dissolves in water, its ions separate and become surrounded by water molecules. Covalent compounds remain as intact molecules when they dissolve.   Exercises:    Classify each species as a monoatomic cation, monoatomic anion, polyatomic cation, or polyatomic anion.     Ca²⁺    Monoatomic cation      Mn²⁺    Monoatomic cation      NH₄⁺    Polyatomic cation      ClO₄⁻    Polyatomic anion      Cl⁻    Monoatomic anion      O²⁻    Monoatomic anion      SO₄²⁻    Polyatomic anion       What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces      What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces      For each description, determine whether it describes a molecular compound or an ionic compound.     Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound      Low melting points    Covalent\/molecular compound      Usually contains metal ions    Ionic compound      "
 },
 {
-  "id": "sec-ioncompounds1-3",
+  "id": "sec-ioncompounds1-2",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-3",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-2",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "ions cations anions monoatomic ion polyatomic ion "
+  "body": "Summary: "
 },
 {
-  "id": "sec-ioncompounds1-4",
+  "id": "sec-ioncompounds1-5",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-4",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ions electrostatic forces cations anions monoatomic ion polyatomic ion "
+},
+{
+  "id": "sec-ioncompounds1-6",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "molecules "
 },
 {
-  "id": "sec-ioncompounds1-6-2-2",
+  "id": "sec-ioncompounds1-7",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-7",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "intermolecular forces "
+},
+{
+  "id": "sec-ioncompounds1-8-2-2",
+  "level": "2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-2",
   "type": "Exercise",
   "number": "6.1.1",
   "title": "",
   "body": "  Ca²⁺    Monoatomic cation   "
 },
 {
-  "id": "sec-ioncompounds1-6-2-3",
+  "id": "sec-ioncompounds1-8-2-3",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-3",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-3",
   "type": "Exercise",
   "number": "6.1.2",
   "title": "",
   "body": "  Mn²⁺    Monoatomic cation   "
 },
 {
-  "id": "sec-ioncompounds1-6-2-4",
+  "id": "sec-ioncompounds1-8-2-4",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-4",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-4",
   "type": "Exercise",
   "number": "6.1.3",
   "title": "",
   "body": "  NH₄⁺    Polyatomic cation   "
 },
 {
-  "id": "sec-ioncompounds1-6-2-5",
+  "id": "sec-ioncompounds1-8-2-5",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-5",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-5",
   "type": "Exercise",
   "number": "6.1.4",
   "title": "",
   "body": "  ClO₄⁻    Polyatomic anion   "
 },
 {
-  "id": "sec-ioncompounds1-6-2-6",
+  "id": "sec-ioncompounds1-8-2-6",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-6",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-6",
   "type": "Exercise",
   "number": "6.1.5",
   "title": "",
   "body": "  Cl⁻    Monoatomic anion   "
 },
 {
-  "id": "sec-ioncompounds1-6-2-7",
+  "id": "sec-ioncompounds1-8-2-7",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-7",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-7",
   "type": "Exercise",
   "number": "6.1.6",
   "title": "",
   "body": "  O²⁻    Monoatomic anion   "
 },
 {
-  "id": "sec-ioncompounds1-6-2-8",
+  "id": "sec-ioncompounds1-8-2-8",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-2-8",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-2-8",
   "type": "Exercise",
   "number": "6.1.7",
   "title": "",
   "body": "  SO₄²⁻    Polyatomic anion   "
 },
 {
-  "id": "sec-ioncompounds1-6-3",
+  "id": "sec-ioncompounds1-8-3",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-3",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-3",
   "type": "Exercise",
   "number": "6.1.8",
   "title": "",
   "body": "  What term describes the forces that hold together the ions in an ionic compound?    Electrostatic forces   "
 },
 {
-  "id": "sec-ioncompounds1-6-4",
+  "id": "sec-ioncompounds1-8-4",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-4",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-4",
   "type": "Exercise",
   "number": "6.1.9",
   "title": "",
   "body": "  What term describes all of the forces that hold together molecules in a molecular compound?    Intermolecular forces   "
 },
 {
-  "id": "sec-ioncompounds1-6-5-2",
+  "id": "sec-ioncompounds1-8-5-2",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-5-2",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-5-2",
   "type": "Exercise",
   "number": "6.1.10",
   "title": "",
   "body": "  Parts of the chemical formula break apart when they are dissolved into water.    Ionic compound   "
 },
 {
-  "id": "sec-ioncompounds1-6-5-3",
+  "id": "sec-ioncompounds1-8-5-3",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-5-3",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-5-3",
   "type": "Exercise",
   "number": "6.1.11",
   "title": "",
   "body": "  Low melting points    Covalent\/molecular compound   "
 },
 {
-  "id": "sec-ioncompounds1-6-5-4",
+  "id": "sec-ioncompounds1-8-5-4",
   "level": "2",
-  "url": "sec-ioncompounds1.html#sec-ioncompounds1-6-5-4",
+  "url": "sec-ioncompounds1.html#sec-ioncompounds1-8-5-4",
   "type": "Exercise",
   "number": "6.1.12",
   "title": "",
@@ -4525,138 +4543,165 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Ions",
-  "body": " Ions  An ion is a charged species. An atom becomes negatively charged when it has more electrons than protons and positively charged when it has fewer electrons than protons. The number of protons does not change when an ion forms; ions are created by adding or removing electrons.  Noble gases are especially stable because their valence orbitals are completely filled or completely empty. Except for helium, noble gases have eight valence electrons. This stable arrangement is called the octet rule.  Many atoms form ions in order to obtain a noble-gas electron configuration. Group 1 metals tend to lose one electron, group 2 metals tend to lose two, halogens tend to gain one, and group 16 nonmetals tend to gain two. Aluminum commonly forms a +3 ion, and nitrogen and phosphorus can form -3 ions. Hydrogen may form either a +1 or -1 ion.   Exercises:    What is the electron configuration and charge of each ion?     Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2      Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1      Hydrogen if it gains one electron    [He], or 1s^2; charge -1      Hydrogen if it loses one electron    1s^0; charge +1      Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1      Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3      Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3       What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.      Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.      Determine the charge on each common ion.     Sodium ion    +1      Strontium ion    +2      Aluminum ion    +3      Bromine ion    -1      Sulfur ion    -2      Nitrogen ion    -3      "
+  "body": " Ions   Summary:     Many ions form because they are trying to have a stable electron configuration (like a noble gas)    Metals will generally lose electrons, forming cations    Non-metals will generally gain electrons, forming anions    Some groups contain elements with known ion charges    An ion is a charged species. An atom becomes negatively charged when it has more electrons than protons and positively charged when it has fewer electrons than protons. The number of protons does not change when an ion forms; ions are created by adding or removing electrons.  Noble gases are especially stable because their valence orbitals are completely filled. Except for helium, noble gases have eight valence electrons. The observation that many elements will try to achieve an electron configuration of a noble gas (with their typical 8 valence electrons) is called the octet rule .  Many atoms form ions in order to obtain a noble-gas electron configuration. Group 1 metals tend to lose one electron, group 2 metals tend to lose two, halogens tend to gain one, and group 16 nonmetals tend to gain two. Similarly, aluminum commonly forms a +3 ion, and nitrogen and phosphorus can form -3 ions because doing so will satisfy the octet rule. Hydrogen may form either a +1 or -1 ion, giving it either a completely empty 1s orbital or a completely filled 1s orbital.   Groups in the periodic table with known charges    Group 1 (minus hydrogen)  Group 2  Metals in Group 3 or 15 (3A)  Non-metals in Group 15 (6A)  Non-metals in Group 16 (7A)  Group 17    +1  +2  +3  -3  -2  -1     Other metals, such as the transition metals, can also form ions. However, it is typically not feasible for them to lose enough electrons (or gain enough) to reach the same electron configuration as a noble gas. Because of this, they will typically form ions with various charges. This will be discussed further in a later section.   Exercises:    What is the electron configuration and charge of each ion?     Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2      Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1      Hydrogen if it gains one electron    [He], or 1s^2; charge -1      Hydrogen if it loses one electron    1s^0; charge +1      Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1      Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3      Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3       What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.      Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.      Determine the charge on each common ion.     Sodium ion    +1      Strontium ion    +2      Aluminum ion    +3      Bromine ion    -1      Sulfur ion    -2      Nitrogen ion    -3      "
 },
 {
-  "id": "sec-ioncompounds2-5-2-2",
+  "id": "sec-ioncompounds2-2",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-ioncompounds2-5",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "octet rule "
+},
+{
+  "id": "sec-ioncompounds2-7",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-7",
+  "type": "Table",
+  "number": "6.2.1",
+  "title": "Groups in the periodic table with known charges",
+  "body": " Groups in the periodic table with known charges    Group 1 (minus hydrogen)  Group 2  Metals in Group 3 or 15 (3A)  Non-metals in Group 15 (6A)  Non-metals in Group 16 (7A)  Group 17    +1  +2  +3  -3  -2  -1    "
+},
+{
+  "id": "sec-ioncompounds2-9-2-2",
+  "level": "2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-2",
   "type": "Exercise",
   "number": "6.2.1",
   "title": "",
   "body": "  Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2   "
 },
 {
-  "id": "sec-ioncompounds2-5-2-3",
+  "id": "sec-ioncompounds2-9-2-3",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-3",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-3",
   "type": "Exercise",
   "number": "6.2.2",
   "title": "",
   "body": "  Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1   "
 },
 {
-  "id": "sec-ioncompounds2-5-2-4",
+  "id": "sec-ioncompounds2-9-2-4",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-4",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-4",
   "type": "Exercise",
   "number": "6.2.3",
   "title": "",
   "body": "  Hydrogen if it gains one electron    [He], or 1s^2; charge -1   "
 },
 {
-  "id": "sec-ioncompounds2-5-2-5",
+  "id": "sec-ioncompounds2-9-2-5",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-5",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-5",
   "type": "Exercise",
   "number": "6.2.4",
   "title": "",
   "body": "  Hydrogen if it loses one electron    1s^0; charge +1   "
 },
 {
-  "id": "sec-ioncompounds2-5-2-6",
+  "id": "sec-ioncompounds2-9-2-6",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-6",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-6",
   "type": "Exercise",
   "number": "6.2.5",
   "title": "",
   "body": "  Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1   "
 },
 {
-  "id": "sec-ioncompounds2-5-2-7",
+  "id": "sec-ioncompounds2-9-2-7",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-7",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-7",
   "type": "Exercise",
   "number": "6.2.6",
   "title": "",
   "body": "  Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3   "
 },
 {
-  "id": "sec-ioncompounds2-5-2-8",
+  "id": "sec-ioncompounds2-9-2-8",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-2-8",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-2-8",
   "type": "Exercise",
   "number": "6.2.7",
   "title": "",
   "body": "  Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3   "
 },
 {
-  "id": "sec-ioncompounds2-5-3",
+  "id": "sec-ioncompounds2-9-3",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-3",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-3",
   "type": "Exercise",
   "number": "6.2.8",
   "title": "",
   "body": "  What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.   "
 },
 {
-  "id": "sec-ioncompounds2-5-4",
+  "id": "sec-ioncompounds2-9-4",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-4",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-4",
   "type": "Exercise",
   "number": "6.2.9",
   "title": "",
   "body": "  Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.   "
 },
 {
-  "id": "sec-ioncompounds2-5-5-2",
+  "id": "sec-ioncompounds2-9-5-2",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-2",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-5-2",
   "type": "Exercise",
   "number": "6.2.10",
   "title": "",
   "body": "  Sodium ion    +1   "
 },
 {
-  "id": "sec-ioncompounds2-5-5-3",
+  "id": "sec-ioncompounds2-9-5-3",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-3",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-5-3",
   "type": "Exercise",
   "number": "6.2.11",
   "title": "",
   "body": "  Strontium ion    +2   "
 },
 {
-  "id": "sec-ioncompounds2-5-5-4",
+  "id": "sec-ioncompounds2-9-5-4",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-4",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-5-4",
   "type": "Exercise",
   "number": "6.2.12",
   "title": "",
   "body": "  Aluminum ion    +3   "
 },
 {
-  "id": "sec-ioncompounds2-5-5-5",
+  "id": "sec-ioncompounds2-9-5-5",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-5",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-5-5",
   "type": "Exercise",
   "number": "6.2.13",
   "title": "",
   "body": "  Bromine ion    -1   "
 },
 {
-  "id": "sec-ioncompounds2-5-5-6",
+  "id": "sec-ioncompounds2-9-5-6",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-6",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-5-6",
   "type": "Exercise",
   "number": "6.2.14",
   "title": "",
   "body": "  Sulfur ion    -2   "
 },
 {
-  "id": "sec-ioncompounds2-5-5-7",
+  "id": "sec-ioncompounds2-9-5-7",
   "level": "2",
-  "url": "sec-ioncompounds2.html#sec-ioncompounds2-5-5-7",
+  "url": "sec-ioncompounds2.html#sec-ioncompounds2-9-5-7",
   "type": "Exercise",
   "number": "6.2.15",
   "title": "",
@@ -4669,192 +4714,201 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.3",
   "title": "Simple Ionic Compounds",
-  "body": " Simple Ionic Compounds  Ionic compounds are formed by combining cations and anions so that the total positive charge equals the total negative charge. For example, Na⁺ and Cl⁻ combine in a 1:1 ratio to form NaCl, while Ca²⁺ requires two chloride ions and forms CaCl₂. Charges are not written in the final chemical formula.  Simple ionic compounds are named with two words. The first word is the cation name. The second is the anion name, with the element ending replaced by -ide. Prefixes are not used to indicate the number of ions.     Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide      Exercises:    Balance positive and negative charge to determine the formula.     Na⁺ and Cl⁻    NaCl      Mg²⁺ and Cl⁻    MgCl₂      Al³⁺ and Cl⁻    AlCl₃      Na⁺ and O²⁻    Na₂O      Mg²⁺ and O²⁻    MgO, not Mg₂O₂      Al³⁺ and O²⁻    Al₂O₃      K⁺ and N³⁻    K₃N      Mg²⁺ and P³⁻    Mg₃P₂       Name each ionic compound.     MgCl₂    Magnesium chloride      KI    Potassium iodide      AlN    Aluminum nitride      SrO    Strontium oxide      Ca₃P₂    Calcium phosphide       Write the formula for each compound.     Potassium bromide    KBr      Magnesium sulfide    MgS      Strontium fluoride    SrF₂      Sodium phosphide    Na₃P      Calcium nitride    Ca₃N₂      Lithium hydride    LiH      Hydrogen bromide    HBr      "
+  "body": " Simple Ionic Compounds   Summary:     Ions combine together in ratios to give a net charge of zero.    Ionic compounds are named by naming the cation and then the anion    The cation name is the name of metal (or polyatomic ion)    To name the anion, drop the ending of the element name and add an -ide suffix      Ionic compounds are formed by combining cations and anions so that the total positive charge equals the total negative charge. For example, and combine in a 1:1 ratio to form NaCl because the +1 charge on the sodium ion already equals the -1 charge on the chloride ion. If, on the other hand, we tried to form a compound between and , we would need two chloride ions to balance the charge of the calcium ion. Thus the ionic compound that forms has the formula . Note: Charges are not written in the final chemical formula.   Now that we know how to figure out the chemical formula for an ionic compound, how do we name them? Simple ionic compounds are named with two words. The first word is the cation name. The name of the cation is simply the name of the metal (for now). The second word is the anion name. With the anion name, we start with the element name, drop the ending, and add a suffix of -ide. For instance, oxygen becomes oxide. Note: prefixes are not used to indicate the number of ions. We will see prefixes used in a later section when we discuss how to name covalent compounds.     Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide      Exercises:    Balance positive and negative charge to determine the formula.     Na⁺ and Cl⁻    NaCl      Mg²⁺ and Cl⁻    MgCl₂      Al³⁺ and Cl⁻    AlCl₃      Na⁺ and O²⁻    Na₂O      Mg²⁺ and O²⁻    MgO, not Mg₂O₂      Al³⁺ and O²⁻    Al₂O₃      K⁺ and N³⁻    K₃N      Mg²⁺ and P³⁻    Mg₃P₂       Name each ionic compound.     MgCl₂    Magnesium chloride      KI    Potassium iodide      AlN    Aluminum nitride      SrO    Strontium oxide      Ca₃P₂    Calcium phosphide       Write the formula for each compound.     Potassium bromide    KBr      Magnesium sulfide    MgS      Strontium fluoride    SrF₂      Sodium phosphide    Na₃P      Calcium nitride    Ca₃N₂      Lithium hydride    LiH      Hydrogen bromide    HBr      "
 },
 {
-  "id": "sec-ioncompounds3-4",
+  "id": "sec-ioncompounds3-2",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-4",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-ioncompounds3-6",
+  "level": "2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-6",
   "type": "Table",
   "number": "6.3.1",
   "title": "",
   "body": "   Element  Anion name    Oxygen  Oxide    Chlorine  Chloride    Bromine  Bromide    Nitrogen  Nitride    Phosphorous  Phosphide    "
 },
 {
-  "id": "sec-ioncompounds3-5-2-2",
+  "id": "sec-ioncompounds3-7-2-2",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-2",
   "type": "Exercise",
   "number": "6.3.1",
   "title": "",
   "body": "  Na⁺ and Cl⁻    NaCl   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-3",
+  "id": "sec-ioncompounds3-7-2-3",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-3",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-3",
   "type": "Exercise",
   "number": "6.3.2",
   "title": "",
   "body": "  Mg²⁺ and Cl⁻    MgCl₂   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-4",
+  "id": "sec-ioncompounds3-7-2-4",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-4",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-4",
   "type": "Exercise",
   "number": "6.3.3",
   "title": "",
   "body": "  Al³⁺ and Cl⁻    AlCl₃   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-5",
+  "id": "sec-ioncompounds3-7-2-5",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-5",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-5",
   "type": "Exercise",
   "number": "6.3.4",
   "title": "",
   "body": "  Na⁺ and O²⁻    Na₂O   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-6",
+  "id": "sec-ioncompounds3-7-2-6",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-6",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-6",
   "type": "Exercise",
   "number": "6.3.5",
   "title": "",
   "body": "  Mg²⁺ and O²⁻    MgO, not Mg₂O₂   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-7",
+  "id": "sec-ioncompounds3-7-2-7",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-7",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-7",
   "type": "Exercise",
   "number": "6.3.6",
   "title": "",
   "body": "  Al³⁺ and O²⁻    Al₂O₃   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-8",
+  "id": "sec-ioncompounds3-7-2-8",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-8",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-8",
   "type": "Exercise",
   "number": "6.3.7",
   "title": "",
   "body": "  K⁺ and N³⁻    K₃N   "
 },
 {
-  "id": "sec-ioncompounds3-5-2-9",
+  "id": "sec-ioncompounds3-7-2-9",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-2-9",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-2-9",
   "type": "Exercise",
   "number": "6.3.8",
   "title": "",
   "body": "  Mg²⁺ and P³⁻    Mg₃P₂   "
 },
 {
-  "id": "sec-ioncompounds3-5-3-2",
+  "id": "sec-ioncompounds3-7-3-2",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-3-2",
   "type": "Exercise",
   "number": "6.3.9",
   "title": "",
   "body": "  MgCl₂    Magnesium chloride   "
 },
 {
-  "id": "sec-ioncompounds3-5-3-3",
+  "id": "sec-ioncompounds3-7-3-3",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-3",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-3-3",
   "type": "Exercise",
   "number": "6.3.10",
   "title": "",
   "body": "  KI    Potassium iodide   "
 },
 {
-  "id": "sec-ioncompounds3-5-3-4",
+  "id": "sec-ioncompounds3-7-3-4",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-4",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-3-4",
   "type": "Exercise",
   "number": "6.3.11",
   "title": "",
   "body": "  AlN    Aluminum nitride   "
 },
 {
-  "id": "sec-ioncompounds3-5-3-5",
+  "id": "sec-ioncompounds3-7-3-5",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-5",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-3-5",
   "type": "Exercise",
   "number": "6.3.12",
   "title": "",
   "body": "  SrO    Strontium oxide   "
 },
 {
-  "id": "sec-ioncompounds3-5-3-6",
+  "id": "sec-ioncompounds3-7-3-6",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-3-6",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-3-6",
   "type": "Exercise",
   "number": "6.3.13",
   "title": "",
   "body": "  Ca₃P₂    Calcium phosphide   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-2",
+  "id": "sec-ioncompounds3-7-4-2",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-2",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-2",
   "type": "Exercise",
   "number": "6.3.14",
   "title": "",
   "body": "  Potassium bromide    KBr   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-3",
+  "id": "sec-ioncompounds3-7-4-3",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-3",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-3",
   "type": "Exercise",
   "number": "6.3.15",
   "title": "",
   "body": "  Magnesium sulfide    MgS   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-4",
+  "id": "sec-ioncompounds3-7-4-4",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-4",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-4",
   "type": "Exercise",
   "number": "6.3.16",
   "title": "",
   "body": "  Strontium fluoride    SrF₂   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-5",
+  "id": "sec-ioncompounds3-7-4-5",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-5",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-5",
   "type": "Exercise",
   "number": "6.3.17",
   "title": "",
   "body": "  Sodium phosphide    Na₃P   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-6",
+  "id": "sec-ioncompounds3-7-4-6",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-6",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-6",
   "type": "Exercise",
   "number": "6.3.18",
   "title": "",
   "body": "  Calcium nitride    Ca₃N₂   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-7",
+  "id": "sec-ioncompounds3-7-4-7",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-7",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-7",
   "type": "Exercise",
   "number": "6.3.19",
   "title": "",
   "body": "  Lithium hydride    LiH   "
 },
 {
-  "id": "sec-ioncompounds3-5-4-8",
+  "id": "sec-ioncompounds3-7-4-8",
   "level": "2",
-  "url": "sec-ioncompounds3.html#sec-ioncompounds3-5-4-8",
+  "url": "sec-ioncompounds3.html#sec-ioncompounds3-7-4-8",
   "type": "Exercise",
   "number": "6.3.20",
   "title": "",
@@ -9484,7 +9538,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5    Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5    Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -9709,7 +9763,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Cation: "
+  "body": "Electrostatic forces "
 },
 {
   "id": "backmatter-2-27",
@@ -9718,7 +9772,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Anion: "
+  "body": "Cation: "
 },
 {
   "id": "backmatter-2-28",
@@ -9727,7 +9781,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Monoatomic ion: "
+  "body": "Anion: "
 },
 {
   "id": "backmatter-2-29",
@@ -9736,7 +9790,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Polyatomic ion: "
+  "body": "Monoatomic ion: "
 },
 {
   "id": "backmatter-2-30",
@@ -9745,7 +9799,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Molecules: "
+  "body": "Polyatomic ion: "
 },
 {
   "id": "backmatter-2-31",
@@ -9754,7 +9808,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 7 "
+  "body": "Intermolecular forces: "
 },
 {
   "id": "backmatter-2-32",
@@ -9763,7 +9817,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 8 "
+  "body": "Molecules: "
 },
 {
   "id": "backmatter-2-33",
@@ -9772,12 +9826,39 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 9 "
+  "body": "Octet rule: "
 },
 {
   "id": "backmatter-2-34",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-34",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 7 "
+},
+{
+  "id": "backmatter-2-35",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-35",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 8 "
+},
+{
+  "id": "backmatter-2-36",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-36",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-37",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-37",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
