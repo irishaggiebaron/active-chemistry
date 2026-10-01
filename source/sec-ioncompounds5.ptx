@@ -33,7 +33,7 @@
 		
 		
 		<tabular>
-			<row>
+			<row header="yes" bottom="major">
 				<cell>Name</cell>
 				<cell>Charge</cell>
 				<cell>Formula</cell>

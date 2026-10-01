@@ -699,6 +699,86 @@
     </p>
 
     <p>
+      <definition xml:id="def-radiation">
+        <statement>
+          <p>
+            <term>Radiation:</term> Electromagnetic waves or particles that are emitted from an object
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-radioactivity">
+        <statement>
+          <p>
+            <term>Radioactivity:</term> A property of a substance that contains isotopes that decay and emit radiation.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-gammarays">
+        <statement>
+          <p>
+            <term>Gamma rays:</term> A very high energy form of electromagnetic radiation
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-alphaparticles">
+        <statement>
+          <p>
+            <term>Alpha particles:</term> A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-betaparticles">
+        <statement>
+          <p>
+            <term>Beta particles:</term> An electron that is emitted from the nucleus of a radioactive atom.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-positrons">
+        <statement>
+          <p>
+            <term>Positron:</term> A positively charged electron that is emitted from the nucleus of a radioactive atom
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-antimatter">
+        <statement>
+          <p>
+            <term>Antimatter:</term> A substance that annihilates matter when it comes into contact with it
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-annihilate">
+        <statement>
+          <p>
+            <term>Annihilate:</term> When matter and antimatter come into contact, are completely converted into energy.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
       <term>Chapter 6</term>
     </p>
 
