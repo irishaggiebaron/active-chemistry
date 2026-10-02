@@ -4570,7 +4570,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "6.2",
   "title": "Ions",
-  "body": " Ions   Summary:     Many ions form because they are trying to have a stable electron configuration (like a noble gas)    Metals will generally lose electrons, forming cations    Non-metals will generally gain electrons, forming anions    Some groups contain elements with known ion charges    An ion is a charged species. An atom becomes negatively charged when it has more electrons than protons and positively charged when it has fewer electrons than protons. The number of protons does not change when an ion forms; ions are created by adding or removing electrons.  Noble gases are especially stable because their valence orbitals are completely filled. Except for helium, noble gases have eight valence electrons. The observation that many elements will try to achieve an electron configuration of a noble gas (with their typical 8 valence electrons) is called the octet rule .  Many atoms form ions in order to obtain a noble-gas electron configuration. Group 1 metals tend to lose one electron, group 2 metals tend to lose two, halogens tend to gain one, and group 16 nonmetals tend to gain two. Similarly, aluminum commonly forms a +3 ion, and nitrogen and phosphorus can form -3 ions because doing so will satisfy the octet rule. Hydrogen may form either a +1 or -1 ion, giving it either a completely empty 1s orbital or a completely filled 1s orbital.   Groups in the periodic table with known charges    Group 1 (minus hydrogen)  Group 2  Metals in Group 3 or 15 (3A)  Non-metals in Group 15 (6A)  Non-metals in Group 16 (7A)  Group 17    +1  +2  +3  -3  -2  -1     Other metals, such as the transition metals, can also form ions. However, it is typically not feasible for them to lose enough electrons (or gain enough) to reach the same electron configuration as a noble gas. Because of this, they will typically form ions with various charges. This will be discussed further in a later section.   Exercises:    What is the electron configuration and charge of each ion?     Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2      Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1      Hydrogen if it gains one electron    [He], or 1s^2; charge -1      Hydrogen if it loses one electron    1s^0; charge +1      Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1      Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3      Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3       What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.      Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.      Determine the charge on each common ion.     Sodium ion    +1      Strontium ion    +2      Aluminum ion    +3      Bromine ion    -1      Sulfur ion    -2      Nitrogen ion    -3      "
+  "body": " Ions   Summary:     Many ions form because they are trying to have a stable electron configuration (like a noble gas)    Metals will generally lose electrons, forming cations    Non-metals will generally gain electrons, forming anions    Some groups contain elements with known ion charges    An ion is a charged species. An atom becomes negatively charged when it has more electrons than protons and positively charged when it has fewer electrons than protons. The number of protons does not change when an ion forms; ions are created by adding or removing electrons.  Noble gases are especially stable because their valence orbitals are completely filled. Except for helium, noble gases have eight valence electrons. The observation that many elements will try to achieve an electron configuration of a noble gas (with their typical 8 valence electrons) is called the octet rule .  Many atoms form ions in order to obtain a noble-gas electron configuration. Group 1 metals tend to lose one electron, group 2 metals tend to lose two, halogens tend to gain one, and group 16 nonmetals tend to gain two. Similarly, aluminum commonly forms a +3 ion, and nitrogen and phosphorus can form -3 ions because doing so will satisfy the octet rule. Hydrogen may form either a +1 or -1 ion, giving it either a completely empty 1s orbital or a completely filled 1s orbital.   Groups in the periodic table with known charges    Group 1 (minus hydrogen)  Group 2  Metals in Group 3 or 15 (3A)  Non-metals in Group 15 (6A)  Non-metals in Group 16 (7A)  Group 17    +1  +2  +3  -3  -2  -1     Other metals, such as the transition metals, can also form ions. However, it is typically not feasible for them to lose enough electrons (or gain enough) to reach the same electron configuration as a noble gas. Because of this, they will typically form ions with various charges. This will be discussed further in a later section.   Exercises:    What is the electron configuration and charge of each ion?     Calcium if it loses two electrons    [Ar], or ; charge +2      Chlorine if it gains one electron    [Ar], or ; charge -1      Hydrogen if it gains one electron    [He], or ; charge -1      Hydrogen if it loses one electron     ; charge +1      Sodium if it loses one electron    [Ne], or ; charge +1      Aluminum if it loses three electrons    [Ne], or ; charge +3      Phosphorus if it gains three electrons    [Ar], or ; charge -3       What pattern do you notice about the electron configurations of the ions above?    The outer shell is always full or empty. The ions resemble noble gases.      Which ions above are cations and which are anions?    The species that lose electrons are cations; the species that gain electrons are anions.      Determine the charge on each common ion. Hint: Use a periodic table!     Sodium ion    +1      Strontium ion    +2      Aluminum ion    +3      Bromine ion    -1      Sulfur ion    -2      Nitrogen ion    -3      "
 },
 {
   "id": "sec-ioncompounds2-2",
@@ -4606,7 +4606,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.1",
   "title": "",
-  "body": "  Calcium if it loses two electrons    [Ar], or [Ne]3s^2 3p^6; charge +2   "
+  "body": "  Calcium if it loses two electrons    [Ar], or ; charge +2   "
 },
 {
   "id": "sec-ioncompounds2-9-2-3",
@@ -4615,7 +4615,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.2",
   "title": "",
-  "body": "  Chlorine if it gains one electron    [Ar], or [Ne]3s^2 3p^6; charge -1   "
+  "body": "  Chlorine if it gains one electron    [Ar], or ; charge -1   "
 },
 {
   "id": "sec-ioncompounds2-9-2-4",
@@ -4624,7 +4624,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.3",
   "title": "",
-  "body": "  Hydrogen if it gains one electron    [He], or 1s^2; charge -1   "
+  "body": "  Hydrogen if it gains one electron    [He], or ; charge -1   "
 },
 {
   "id": "sec-ioncompounds2-9-2-5",
@@ -4633,7 +4633,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.4",
   "title": "",
-  "body": "  Hydrogen if it loses one electron    1s^0; charge +1   "
+  "body": "  Hydrogen if it loses one electron     ; charge +1   "
 },
 {
   "id": "sec-ioncompounds2-9-2-6",
@@ -4642,7 +4642,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.5",
   "title": "",
-  "body": "  Sodium if it loses one electron    [Ne], or [He]2s^2 2p^6; charge +1   "
+  "body": "  Sodium if it loses one electron    [Ne], or ; charge +1   "
 },
 {
   "id": "sec-ioncompounds2-9-2-7",
@@ -4651,7 +4651,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.6",
   "title": "",
-  "body": "  Aluminum if it loses three electrons    [Ne], or [He]2s^2 2p^6; charge +3   "
+  "body": "  Aluminum if it loses three electrons    [Ne], or ; charge +3   "
 },
 {
   "id": "sec-ioncompounds2-9-2-8",
@@ -4660,7 +4660,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "6.2.7",
   "title": "",
-  "body": "  Phosphorus if it gains three electrons    [Ar], or [Ne]3s^2 3p^6; charge -3   "
+  "body": "  Phosphorus if it gains three electrons    [Ar], or ; charge -3   "
 },
 {
   "id": "sec-ioncompounds2-9-3",
