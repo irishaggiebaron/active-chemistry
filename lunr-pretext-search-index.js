@@ -4246,84 +4246,93 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.5",
   "title": "Radiation Safety",
-  "body": " Radiation Safety  Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.   Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water     Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Gamma rays are much more difficult to shield and often require lead. Neutrons can require even more shielding, often only being stopped by thick concrete or a large amount of water.   Servant of God who contributed significantly to our understanding of the biological effects of radiation     Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
+  "body": " Radiation Safety   Summary:      Ways that we can safely with radioactive materials    Minimize the amount of material    Minimize the amount of time    Increase the distance between the user and the material    Inverse square law      Use appropriate shielding to block the radiation       Radiation can pose safety risks to humans, but careful use can minimize health impacts. The source identifies four considerations for limiting exposure:    Amount of radiation used    Time    Distance    Shielding    Whenever radioactive materials or other radiation sources are used, the least amount possible should be used. Lower amounts of radioactive material reduce total exposure and the amount of possible damage. Biological damage can also be reduced by spending the minimum amount of time near a radiation source.  Distance is another important consideration. Radiation intensity decreases with the square of the increase in distance from the source. A person standing 2 m from a source would receive one-fourth the exposure received at 1 m because the same radiation is spread over a larger area. This relationship is described by the inverse square law:     Here, and are the radiation intensities at distances and , respectively.   Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water     Different forms of radiation require different shielding. In general, larger and more highly charged particles require less shielding. Alpha particles can be blocked by a sheet of paper or by the outer layer of skin. Beta particles can be shielded by about a centimeter of aluminum, plastic, or plexiglass. Gamma rays are much more difficult to shield and often require lead. Neutrons can require even more shielding, often only being stopped by thick concrete or a large amount of water.   Servant of God who contributed significantly to our understanding of the biological effects of radiation     Exercises:    List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.      What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.      How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.      A person would be exposed to 4.0 mGy of radiation at 10.0 m from a radiation source. How much radiation would they be exposed to at:     20.0 m    1.0 mGy      100. m    0.040 mGy      2.5 m    64 mGy       Rearrange to solve for .           A worker needs to keep radiation exposure below 5.0 mGy. If the worker would be exposed to 15 mGy at a distance of 2.5 m, what is the closest distance the worker can be to the radiation source without exceeding the maximum dose?    4.3 m     "
 },
 {
-  "id": "sec-nuclear5-8",
+  "id": "sec-nuclear5-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-8",
+  "url": "sec-nuclear5.html#sec-nuclear5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-nuclear5-10",
+  "level": "2",
+  "url": "sec-nuclear5.html#sec-nuclear5-10",
   "type": "Table",
   "number": "5.5.1",
   "title": "Radiation shielding needs",
   "body": " Radiation shielding needs    Alpha particles  Beta particles  Gamma rays  Neutrons    Paper or skin  Aluminum or plexiglass  Lead  Thick concrete or water    "
 },
 {
-  "id": "sec-nuclear5-11-2",
+  "id": "sec-nuclear5-13-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-2",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-2",
   "type": "Exercise",
   "number": "5.5.1",
   "title": "",
   "body": "  List the four ways that we can help lessen our exposure to radiation when working with radioactive materials.    Use as little as needed, minimize the time of exposure, use appropriate shielding, and work at the maximum distance possible.   "
 },
 {
-  "id": "sec-nuclear5-11-3",
+  "id": "sec-nuclear5-13-3",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-3",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-3",
   "type": "Exercise",
   "number": "5.5.2",
   "title": "",
   "body": "  What type of radiation is the easiest to block with shielding? Which types are the hardest to block?    Easiest: alpha. Hardest: neutrons and gamma rays.   "
 },
 {
-  "id": "sec-nuclear5-11-4",
+  "id": "sec-nuclear5-13-4",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-4",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-4",
   "type": "Exercise",
   "number": "5.5.3",
   "title": "",
   "body": "  How do the mass and charge of radiation relate to how easy it is to block that type of radiation?    The more mass and charge the radiation has, the easier it is to block. Radiation with low mass and no charge is difficult to block.   "
 },
 {
-  "id": "sec-nuclear5-11-5-2",
+  "id": "sec-nuclear5-13-5-2",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-5-2",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-5-2",
   "type": "Exercise",
   "number": "5.5.4",
   "title": "",
   "body": "  20.0 m    1.0 mGy   "
 },
 {
-  "id": "sec-nuclear5-11-5-3",
+  "id": "sec-nuclear5-13-5-3",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-5-3",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-5-3",
   "type": "Exercise",
   "number": "5.5.5",
   "title": "",
   "body": "  100. m    0.040 mGy   "
 },
 {
-  "id": "sec-nuclear5-11-5-4",
+  "id": "sec-nuclear5-13-5-4",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-5-4",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-5-4",
   "type": "Exercise",
   "number": "5.5.6",
   "title": "",
   "body": "  2.5 m    64 mGy   "
 },
 {
-  "id": "sec-nuclear5-11-6",
+  "id": "sec-nuclear5-13-6",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-6",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-6",
   "type": "Exercise",
   "number": "5.5.7",
   "title": "",
   "body": "  Rearrange to solve for .        "
 },
 {
-  "id": "sec-nuclear5-11-7",
+  "id": "sec-nuclear5-13-7",
   "level": "2",
-  "url": "sec-nuclear5.html#sec-nuclear5-11-7",
+  "url": "sec-nuclear5.html#sec-nuclear5-13-7",
   "type": "Exercise",
   "number": "5.5.8",
   "title": "",
@@ -4336,7 +4345,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Half-life of Radioisotopes",
-  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   The problem of nuclear waste  Nuclear power plants in the United States produce a large amount of nuclear waste. This nuclear waste has half-life values of thousands of years. This creates a massive safety and storage problem. But what if that didn't have to be the case? Could we use nuclear power and do a better job taking care of creation?     Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
+  "body": " Half-life of Radioisotopes   Summary:      Meaning of a half-life    Every half life, the amount of radioactive material decreases by a factor of     Amount of radioactivity remaining after a certain time can be calculated using the half-life formula       Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   The problem of nuclear waste  Nuclear power plants in the United States produce a large amount of nuclear waste. This nuclear waste has half-life values of thousands of years. This creates a massive safety and storage problem. But what if that didn't have to be the case? Could we use nuclear power and do a better job taking care of creation?     Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
 },
 {
   "id": "sec-nuclear6-2",
@@ -4345,66 +4354,75 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Summary: "
+},
+{
+  "id": "sec-nuclear6-4",
+  "level": "2",
+  "url": "sec-nuclear6.html#sec-nuclear6-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "half lives "
 },
 {
-  "id": "sec-nuclear6-8-2-2",
+  "id": "sec-nuclear6-10-2-2",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-2-2",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-2-2",
   "type": "Exercise",
   "number": "5.6.1",
   "title": "",
   "body": "  1 half-life?        "
 },
 {
-  "id": "sec-nuclear6-8-2-3",
+  "id": "sec-nuclear6-10-2-3",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-2-3",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-2-3",
   "type": "Exercise",
   "number": "5.6.2",
   "title": "",
   "body": "  2 half-lives?        "
 },
 {
-  "id": "sec-nuclear6-8-2-4",
+  "id": "sec-nuclear6-10-2-4",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-2-4",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-2-4",
   "type": "Exercise",
   "number": "5.6.3",
   "title": "",
   "body": "  7 half-lives?        "
 },
 {
-  "id": "sec-nuclear6-8-3",
+  "id": "sec-nuclear6-10-3",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-3",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-3",
   "type": "Exercise",
   "number": "5.6.4",
   "title": "",
   "body": "  After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.        "
 },
 {
-  "id": "sec-nuclear6-8-4",
+  "id": "sec-nuclear6-10-4",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-4",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-4",
   "type": "Exercise",
   "number": "5.6.5",
   "title": "",
   "body": "  If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg   "
 },
 {
-  "id": "sec-nuclear6-8-5",
+  "id": "sec-nuclear6-10-5",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-5",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-5",
   "type": "Exercise",
   "number": "5.6.6",
   "title": "",
   "body": "   Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq   "
 },
 {
-  "id": "sec-nuclear6-8-6",
+  "id": "sec-nuclear6-10-6",
   "level": "2",
-  "url": "sec-nuclear6.html#sec-nuclear6-8-6",
+  "url": "sec-nuclear6.html#sec-nuclear6-10-6",
   "type": "Exercise",
   "number": "5.6.7",
   "title": "",
