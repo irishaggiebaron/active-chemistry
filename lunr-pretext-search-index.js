@@ -4021,57 +4021,57 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.3",
   "title": "Uses of Radioactive Materials",
-  "body": " Uses of Radioactive Materials  Radioactive materials have numerous uses in energy production, science, and medicine.  Nuclear power plants rely on isotopes that undergo neutron decay to initiate a process called nuclear fission . Nuclear fission is a different type of nuclear decay in which a nucleus splits. This splitting is caused by the impact of a high-energy neutron on a nucleus. The impact produces an unstable nucleus that undergoes fission. When a nucleus splits, smaller nuclei are produced along with other neutrons. These neutrons can impact other nuclei, producing a chain reaction . Every time a nucleus undergoes fission, some of its mass is turned into energy. This energy can be used to boil water, and the resulting steam can turn a turbine to produce electricity.  Nuclear power can produce vast amounts of power without producing greenhouse gases. However, nuclear power also generates radioactive waste. The nuclei produced after fission are often radioactive themselves, creating a challenge for safe waste storage. In addition, the radioactive materials used to sustain chain reactions, especially uranium-235, are limited resources that require substantial effort to mine and purify.   How does nuclear power work?    Radioactive isotopes are also used in medicine as tracers or therapeutics. In a PET scan, a patient is treated with isotopes that emit positrons. The positrons are quickly annihilated by electrons in surrounding tissues, producing gamma rays that can be detected by specialized cameras. This allows doctors to locate the positron-emitting isotopes in the body. For example, radioactive sugar can accumulate in tumors because cancer cells take up sugar more quickly than most surrounding tissues. Detecting the resulting gamma rays helps identify the location of a tumor.   How does a PET scan work?    Another medical use of radioactive materials is radiation therapy. Radioactive materials are placed in or near a tumor. The radiation can damage molecules in the tumor cells and ultimately kill those cells. The damage can be difficult to confine to the tumor, however, so surrounding tissues may also be affected.   Exercises:    Uses of radioactive materials     Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.      Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.      How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.      Which type of radiation do you think would be more damaging to tissues, an alpha particle or a beta-particle? Why?    Alpha particles have a greater impact because of their larger charge.      "
+  "body": " Uses of Radioactive Materials  Summary:    Generation of power from nuclear fission    Detection of cancer using a PET scan    Use of radiation to kill cancer cells    Radioactive materials have numerous uses in energy production, science, and medicine.  Nuclear power plants rely on isotopes that undergo neutron decay to initiate a process called nuclear fisson . Nuclear fission is a different type of nuclear decay in which a nucleus splits. This splitting is caused by the impact of a high-energy neutron on a nucleus. The impact produces an unstable nucleus that undergoes fission. When a nucleus splits, smaller nuclei are produced along with other neutrons. These neutrons can impact other nuclei, producing a chain reaction . Every time a nucleus undergoes fission, some of its mass is turned into energy. This energy can be used to boil water, and the resulting steam can turn a turbine to produce electricity.  Nuclear power can produce vast amounts of power without producing greenhouse gases. However, nuclear power also generates radioactive waste. The nuclei produced after fission are often radioactive themselves, creating a challenge for safe waste storage. In addition, the radioactive materials used to sustain chain reactions, especially uranium-235, are limited resources that require substantial effort to mine and purify.   How does nuclear power work?    Radioactive isotopes are also used in medicine as tracers or therapeutics. In a PET scan, a patient is treated with isotopes that emit positrons. The positrons are quickly annihilated by electrons in surrounding tissues, producing gamma rays that can be detected by specialized cameras. This allows doctors to locate the positron-emitting isotopes in the body. For example, radioactive sugar can accumulate in tumors because cancer cells take up sugar more quickly than most surrounding tissues. Detecting the resulting gamma rays helps identify the location of a tumor.   How does a PET scan work?    Another medical use of radioactive materials is radiation therapy. Radioactive materials are placed in or near a tumor. The radiation can damage molecules in the tumor cells and ultimately kill those cells. The damage can be difficult to confine to the tumor, however, so surrounding tissues may also be affected.   Exercises:    Uses of radioactive materials     Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.      Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.      How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.      Which type of radiation do you think would be more damaging to tissues, an alpha particle or a beta-particle? Why?    Alpha particles have a greater impact because of their larger charge.      "
 },
 {
-  "id": "sec-nuclear3-3",
+  "id": "sec-nuclear3-5",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-3",
+  "url": "sec-nuclear3.html#sec-nuclear3-5",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "nuclear fission chain reaction "
+  "body": "nuclear fisson chain reaction "
 },
 {
-  "id": "sec-nuclear3-6",
+  "id": "sec-nuclear3-8",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-6",
+  "url": "sec-nuclear3.html#sec-nuclear3-8",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "tracers "
 },
 {
-  "id": "sec-nuclear3-9-2-2",
+  "id": "sec-nuclear3-11-2-2",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-9-2-2",
+  "url": "sec-nuclear3.html#sec-nuclear3-11-2-2",
   "type": "Exercise",
   "number": "5.3.1",
   "title": "",
   "body": "  Explain how a chain reaction is used to produce nuclear power.    A neutron impacts the nucleus of one atom, leading to nuclear fission and energy release. The fission releases more neutrons, which can impact other nuclei and cause additional fission reactions and energy release.   "
 },
 {
-  "id": "sec-nuclear3-9-2-3",
+  "id": "sec-nuclear3-11-2-3",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-9-2-3",
+  "url": "sec-nuclear3.html#sec-nuclear3-11-2-3",
   "type": "Exercise",
   "number": "5.3.2",
   "title": "",
   "body": "  Why are gamma-ray cameras used to detect positrons in a PET scan?    Positrons annihilate when they encounter electrons in surrounding atoms. This annihilation releases energy in the form of gamma rays.   "
 },
 {
-  "id": "sec-nuclear3-9-2-4",
+  "id": "sec-nuclear3-11-2-4",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-9-2-4",
+  "url": "sec-nuclear3.html#sec-nuclear3-11-2-4",
   "type": "Exercise",
   "number": "5.3.3",
   "title": "",
   "body": "  How do doctors get cancer cells to accumulate radioactive materials prior to a PET scan?    Radioactive sugar is given to the patient. Cancer cells take up and use sugar more quickly than many other tissues because they are actively growing.   "
 },
 {
-  "id": "sec-nuclear3-9-2-5",
+  "id": "sec-nuclear3-11-2-5",
   "level": "2",
-  "url": "sec-nuclear3.html#sec-nuclear3-9-2-5",
+  "url": "sec-nuclear3.html#sec-nuclear3-11-2-5",
   "type": "Exercise",
   "number": "5.3.4",
   "title": "",
@@ -4084,34 +4084,16 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.4",
   "title": "Measuring Radioactivity",
-  "body": " Measuring Radioactivity  When considering radioactivity and safety, it is important to minimize the exposure of medical personnel and patients. Radioactivity can cause chemical changes to cells that can lead to cell death, mutations, and cancer. One of the easiest ways to minimize risk is to use the lowest amount of radioactive isotope possible.  Radioactivity can be measured by a variety of devices depending on the type of emission. The SI unit used to measure radioactivity is a becquerel , abbreviated Bq. One Bq is one radioactive decay, or disintegration, per second. A sample containing more radioactive nuclei, or a sample more enriched in radioactive nuclei, produces more radiation per second and therefore has a higher Bq value.  Another historically important unit is the Curie , abbreviated Ci. One Curie represents decays per second, or the same number of becquerels. Because a Curie often represents a large amount of radiation, smaller metric prefixes such as mCi and Ci are commonly used.   Units of radiation    Radiation being emitted (in all directions)  Radiation impacting a person  Biological effects of radiation    Becquerels or Curies  Rads or Grays  Rem or Sieverts     Curies and becquerels describe how much radiation an object emits. Because radiation travels in all directions, much of the emitted radiation may never enter a patient or medical professional. To describe the amount of radiation that actually enters the body, scientists use the unit rad . This unit has been replaced in SI by the gray , abbreviated Gy. One Gy is the same as 100 rad.  To quantify the damaging effects of absorbed radiation, scientists use the unit rem , meaning \"radiation equivalent in man\". Rem is calculated from rad by multiplying by a damage factor specific to the type of radiation being absorbed. Gamma rays, beta particles, and positrons have a factor of 1; protons and neutrons have a factor of 10; and alpha particles have a factor of 20.   Human impact factors    1  10  20    Gamma rays, beta particles, and positrons  Protons and neutrons  Alpha particles     Another unit used to measure the biological effect of absorbed radiation is the Sievert , abbreviated Sv. One Sv is equivalent to 100 rem. The source notes that an average person receives about 3 mSv per year, an x-ray or CT scan can expose a person to approximately 0.1-10 mSv, a statistically detectable increase in cancer risk occurs around 50 mSv, radiation sickness can begin around 0.5 Sv, and a dose of 3-4 Sv is generally fatal to about half of exposed people.   Conversions that you need to know how to do    Converting between Bq and Ci  Converting between rad and Gy  Converting between rem and Sv  Converting between rad and rem  Converting between Gy and Sv    1 Ci = Bq  1 Gy=100 rad  1 Sv=100 rem  rad x factor = rem  Gy x factor = Sv      Exercises:    Convert 18 Ci to Bq.     Bq      Convert Bq to mCi.    14 mCi      Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.      Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.      If a patient receives a dose of 54.3 rad of alpha particles:     How many Gy did they receive?    0.543 Gy      What is the biological impact in units of rem?    1090 rem      What is the biological impact in units of Sv?    10.9 Sv      Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.      Recalculate parts b and c if the radiation was beta-particles instead.    54.3 rem; 0.543 Sv      "
-},
-{
-  "id": "sec-nuclear4-3",
-  "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "becquerel "
-},
-{
-  "id": "sec-nuclear4-4",
-  "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Curie "
+  "body": " Measuring Radioactivity  Summary:     Units of radiation emission: Becquerel and Curie    Units of radiation absorption: rad and Gray    Units of biological damage: rem and Sievert     When considering radioactivity and safety, it is important to minimize the exposure of medical personnel and patients. Radioactivity can cause chemical changes to cells that can lead to cell death, mutations, and cancer. One of the easiest ways to minimize risk is to use the lowest amount of radioactive isotope possible.  Radioactivity can be measured by a variety of devices depending on the type of emission. The SI unit used to measure radioactivity is a becquerel , abbreviated Bq. One Bq is one radioactive decay, or disintegration, per second. A sample containing more radioactive nuclei, or a sample more enriched in radioactive nuclei, produces more radiation per second and therefore has a higher Bq value.  Another historically important unit is the Curie , abbreviated Ci. One Curie represents decays per second, or the same number of becquerels. Because a Curie often represents a large amount of radiation, smaller metric prefixes such as mCi and Ci are commonly used.   Units of radiation    Radiation being emitted (in all directions)  Radiation impacting a person  Biological effects of radiation    Becquerels or Curies  Rads or Grays  Rem or Sieverts     Curies and becquerels describe how much radiation an object emits. Because radiation travels in all directions, much of the emitted radiation may never enter a patient or medical professional. To describe the amount of radiation that actually enters the body, scientists use the unit rad . This unit has been replaced in SI by the Gray , abbreviated Gy. One Gy is the same as 100 rad.  To quantify the damaging effects of absorbed radiation, scientists use the unit rem , meaning \"radiation equivalent in man\". Rem is calculated from rad by multiplying by a damage factor specific to the type of radiation being absorbed. Gamma rays, beta particles, and positrons have a factor of 1; protons and neutrons have a factor of 10; and alpha particles have a factor of 20.   Human impact factors    1  10  20    Gamma rays, beta particles, and positrons  Protons and neutrons  Alpha particles     Another unit used to measure the biological effect of absorbed radiation is the Sievert , abbreviated Sv. One Sv is equivalent to 100 rem. The source notes that an average person receives about 3 mSv per year, an x-ray or CT scan can expose a person to approximately 0.1-10 mSv, a statistically detectable increase in cancer risk occurs around 50 mSv, radiation sickness can begin around 0.5 Sv, and a dose of 3-4 Sv is generally fatal to about half of exposed people.   Conversions that you need to know how to do    Converting between Bq and Ci  Converting between rad and Gy  Converting between rem and Sv  Converting between rad and rem  Converting between Gy and Sv    1 Ci = Bq  1 Gy=100 rad  1 Sv=100 rem  rad x factor = rem  Gy x factor = Sv      Exercises:    Convert 18 Ci to Bq.     Bq      Convert Bq to mCi.    14 mCi      Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.      Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.      If a patient receives a dose of 54.3 rad of alpha particles:     How many Gy did they receive?    0.543 Gy      What is the biological impact in units of rem?    1090 rem      What is the biological impact in units of Sv?    10.9 Sv      Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.      Recalculate parts b and c if the radiation was beta-particles instead.    54.3 rem; 0.543 Sv      "
 },
 {
   "id": "sec-nuclear4-5",
   "level": "2",
   "url": "sec-nuclear4.html#sec-nuclear4-5",
-  "type": "Table",
-  "number": "5.4.1",
-  "title": "Units of radiation",
-  "body": " Units of radiation    Radiation being emitted (in all directions)  Radiation impacting a person  Biological effects of radiation    Becquerels or Curies  Rads or Grays  Rem or Sieverts    "
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "becquerel "
 },
 {
   "id": "sec-nuclear4-6",
@@ -4120,25 +4102,25 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "rad gray "
+  "body": "Curie "
 },
 {
   "id": "sec-nuclear4-7",
   "level": "2",
   "url": "sec-nuclear4.html#sec-nuclear4-7",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "rem "
+  "type": "Table",
+  "number": "5.4.1",
+  "title": "Units of radiation",
+  "body": " Units of radiation    Radiation being emitted (in all directions)  Radiation impacting a person  Biological effects of radiation    Becquerels or Curies  Rads or Grays  Rem or Sieverts    "
 },
 {
   "id": "sec-nuclear4-8",
   "level": "2",
   "url": "sec-nuclear4.html#sec-nuclear4-8",
-  "type": "Table",
-  "number": "5.4.2",
-  "title": "Human impact factors",
-  "body": " Human impact factors    1  10  20    Gamma rays, beta particles, and positrons  Protons and neutrons  Alpha particles    "
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "rad Gray "
 },
 {
   "id": "sec-nuclear4-9",
@@ -4147,93 +4129,111 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Sievert "
+  "body": "rem "
 },
 {
   "id": "sec-nuclear4-10",
   "level": "2",
   "url": "sec-nuclear4.html#sec-nuclear4-10",
   "type": "Table",
+  "number": "5.4.2",
+  "title": "Human impact factors",
+  "body": " Human impact factors    1  10  20    Gamma rays, beta particles, and positrons  Protons and neutrons  Alpha particles    "
+},
+{
+  "id": "sec-nuclear4-11",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Sievert "
+},
+{
+  "id": "sec-nuclear4-12",
+  "level": "2",
+  "url": "sec-nuclear4.html#sec-nuclear4-12",
+  "type": "Table",
   "number": "5.4.3",
   "title": "Conversions that you need to know how to do",
   "body": " Conversions that you need to know how to do    Converting between Bq and Ci  Converting between rad and Gy  Converting between rem and Sv  Converting between rad and rem  Converting between Gy and Sv    1 Ci = Bq  1 Gy=100 rad  1 Sv=100 rem  rad x factor = rem  Gy x factor = Sv    "
 },
 {
-  "id": "sec-nuclear4-11-2",
+  "id": "sec-nuclear4-13-2",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-2",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-2",
   "type": "Exercise",
   "number": "5.4.1",
   "title": "",
   "body": "  Convert 18 Ci to Bq.     Bq   "
 },
 {
-  "id": "sec-nuclear4-11-3",
+  "id": "sec-nuclear4-13-3",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-3",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-3",
   "type": "Exercise",
   "number": "5.4.2",
   "title": "",
   "body": "  Convert Bq to mCi.    14 mCi   "
 },
 {
-  "id": "sec-nuclear4-11-4",
+  "id": "sec-nuclear4-13-4",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-4",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-4",
   "type": "Exercise",
   "number": "5.4.3",
   "title": "",
   "body": "  Which sample is more radioactive, one with 4.3 Ci or one with Bq?    The Bq sample is more radioactive. The key converts 4.3 Ci to about 160,000 Bq.   "
 },
 {
-  "id": "sec-nuclear4-11-5",
+  "id": "sec-nuclear4-13-5",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-5",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-5",
   "type": "Exercise",
   "number": "5.4.4",
   "title": "",
   "body": "  Describe the difference between rad, Bq, and rem in terms of what they are measuring.    Bq measures the amount of radiation released from a source. Rad measures how much of that radiation enters the body. Rem measures the biological impact of absorbed radiation.   "
 },
 {
-  "id": "sec-nuclear4-11-6-2",
+  "id": "sec-nuclear4-13-6-2",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-6-2",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-6-2",
   "type": "Exercise",
   "number": "5.4.5",
   "title": "",
   "body": "  How many Gy did they receive?    0.543 Gy   "
 },
 {
-  "id": "sec-nuclear4-11-6-3",
+  "id": "sec-nuclear4-13-6-3",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-6-3",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-6-3",
   "type": "Exercise",
   "number": "5.4.6",
   "title": "",
   "body": "  What is the biological impact in units of rem?    1090 rem   "
 },
 {
-  "id": "sec-nuclear4-11-6-4",
+  "id": "sec-nuclear4-13-6-4",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-6-4",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-6-4",
   "type": "Exercise",
   "number": "5.4.7",
   "title": "",
   "body": "  What is the biological impact in units of Sv?    10.9 Sv   "
 },
 {
-  "id": "sec-nuclear4-11-6-5",
+  "id": "sec-nuclear4-13-6-5",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-6-5",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-6-5",
   "type": "Exercise",
   "number": "5.4.8",
   "title": "",
   "body": "  Would you expect the person who received the dose in part c to survive or be sick?    The patient is likely dead or dying.   "
 },
 {
-  "id": "sec-nuclear4-11-6-6",
+  "id": "sec-nuclear4-13-6-6",
   "level": "2",
-  "url": "sec-nuclear4.html#sec-nuclear4-11-6-6",
+  "url": "sec-nuclear4.html#sec-nuclear4-13-6-6",
   "type": "Exercise",
   "number": "5.4.9",
   "title": "",
@@ -4336,7 +4336,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "5.6",
   "title": "Half-life of Radioisotopes",
-  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half-lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   The problem of nuclear waste  Nuclear power plants in the United States produce a large amount of nuclear waste. This nuclear waste has half-life values of thousands of years. This creates a massive safety and storage problem. But what if that didn't have to be the case? Could we use nuclear power and do a better job taking care of creation?     Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
+  "body": " Half-life of Radioisotopes  Radioactive isotopes decay in a random fashion. As they decay, atoms in the sample change and the sample gradually loses its radioactive properties because less of the original radioactive isotope remains. We measure the decay rate of radioactive isotopes using half lives . One half-life is the amount of time required for the decay rate of a substance to decrease by a factor of one-half.  After one half-life, one-half of the original isotope remains. After a second half-life, one-half of one-half remains, or one-fourth. After each subsequent half-life, the amount of original radioactive isotope decreases by one-half again. The amount of radioactive isotope or its decay rate after a given time can be calculated with:     In this formula, is the decay rate or amount of isotope at time , is the original rate or amount, is the elapsed time, and is the half-life of the isotope.  For example, if we begin with 17 mCi of radioactive material with a half-life of 8 days and 30 days pass, the calculation is mCi. Half-lives can range from seconds or minutes to thousands of years. Isotopes used clinically generally have short half-lives, on the order of days or weeks, because they decay quickly and can produce a useful radiation dose with less material.   The problem of nuclear waste  Nuclear power plants in the United States produce a large amount of nuclear waste. This nuclear waste has half-life values of thousands of years. This creates a massive safety and storage problem. But what if that didn't have to be the case? Could we use nuclear power and do a better job taking care of creation?     Exercises:    What fraction of the original radioactivity remains in a sample after...     1 half-life?           2 half-lives?           7 half-lives?            After 4 half-lives, what percentage of the original radioactive material will remain? Round to 3 significant figures.           If 28.5 mg of radioactive material with a half-life of 17 days is allowed to decay for 8 days, how much will remain? Round to 3 significant figures.    20.6 mg       Bq of radioactive material is purchased. It has a half-life of 23 hours. After exactly 7 days, how much radioactive material will remain? Round to 2 significant figures.     Bq      A lab orders 16 mCi of radioactive material. After 8 days, 2.0 mCi remains. What is the half-life of the material? Round to the nearest tenth of a day.    2.7 days     "
 },
 {
   "id": "sec-nuclear6-2",
@@ -4345,7 +4345,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "half-lives "
+  "body": "half lives "
 },
 {
   "id": "sec-nuclear6-8-2-2",
@@ -9565,7 +9565,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.         Nuclear fission: A nuclear reaction in which an unstable isotope breaks apart into multiple other isotopes. This process releases a tremendous amount of energy.         Chain reaction: The process by which a nuclear fission event produces neutrons which can in turn trigger additional nuclear fission events in adjacent atoms, which then release more neutrons, which leads to the sustaining or growth of the fission reaction         Tracer: A radioactive chemical that is used to track its position in the body         Becquerel: A unit of radiation emission that corresponds to 1 disintegration or decay per second         Curie: A unit of radiation emission that is named after Marie Curie. It is equivalent to          rad: A unit of radiation absoption. Rad stands for \"radiation absorbed dose\"         Gray: A unit of radiation absorption that is abbreviated Gy. 100 rad = 1 Gray         rem: A unit of biological radiation effect. It is an acronym that stands for \"radiation equivalent in man\".         Sievert: A unit of biological radiation effect. It is abbreviated Sv. 100 rem = 1 Sv.         Half life: The amount of time that it takes for half of the radioactive nuclei in a sample to decay.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8    Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -9853,7 +9853,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 6 "
+  "body": "Nuclear fission: "
 },
 {
   "id": "backmatter-2-34",
@@ -9862,7 +9862,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Ion "
+  "body": "Chain reaction: "
 },
 {
   "id": "backmatter-2-35",
@@ -9871,7 +9871,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Electrostatic forces "
+  "body": "Tracer: "
 },
 {
   "id": "backmatter-2-36",
@@ -9880,7 +9880,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Cation: "
+  "body": "Becquerel: "
 },
 {
   "id": "backmatter-2-37",
@@ -9889,7 +9889,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Anion: "
+  "body": "Curie: "
 },
 {
   "id": "backmatter-2-38",
@@ -9898,7 +9898,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Monoatomic ion: "
+  "body": "rad: "
 },
 {
   "id": "backmatter-2-39",
@@ -9907,7 +9907,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Polyatomic ion: "
+  "body": "Gray: "
 },
 {
   "id": "backmatter-2-40",
@@ -9916,7 +9916,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Intermolecular forces: "
+  "body": "rem: "
 },
 {
   "id": "backmatter-2-41",
@@ -9925,7 +9925,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Molecules: "
+  "body": "Sievert: "
 },
 {
   "id": "backmatter-2-42",
@@ -9934,7 +9934,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Octet rule: "
+  "body": "Half life: "
 },
 {
   "id": "backmatter-2-43",
@@ -9943,7 +9943,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 7 "
+  "body": "Chapter 6 "
 },
 {
   "id": "backmatter-2-44",
@@ -9952,7 +9952,7 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 8 "
+  "body": "Ion "
 },
 {
   "id": "backmatter-2-45",
@@ -9961,12 +9961,102 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 9 "
+  "body": "Electrostatic forces "
 },
 {
   "id": "backmatter-2-46",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-46",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Cation: "
+},
+{
+  "id": "backmatter-2-47",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-47",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Anion: "
+},
+{
+  "id": "backmatter-2-48",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-48",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Monoatomic ion: "
+},
+{
+  "id": "backmatter-2-49",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-49",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Polyatomic ion: "
+},
+{
+  "id": "backmatter-2-50",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-50",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Intermolecular forces: "
+},
+{
+  "id": "backmatter-2-51",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-51",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Molecules: "
+},
+{
+  "id": "backmatter-2-52",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-52",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Octet rule: "
+},
+{
+  "id": "backmatter-2-53",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-53",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 7 "
+},
+{
+  "id": "backmatter-2-54",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-54",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 8 "
+},
+{
+  "id": "backmatter-2-55",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-55",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-56",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-56",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
