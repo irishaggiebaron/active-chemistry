@@ -788,6 +788,106 @@
       </definition>
     </p>
 
+        <p>
+      <definition xml:id="def-nuclearfission">
+        <statement>
+          <p>
+            <term>Nuclear fission:</term> A nuclear reaction in which an unstable isotope breaks apart into multiple other isotopes.  This process releases a tremendous amount of energy.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-chainreaction">
+        <statement>
+          <p>
+            <term>Chain reaction:</term> The process by which a nuclear fission event produces neutrons which can in turn trigger additional nuclear fission events in adjacent atoms, which then release more neutrons, which leads to the sustaining or growth of the fission reaction
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-tracers">
+        <statement>
+          <p>
+            <term>Tracer:</term> A radioactive chemical that is used to track its position in the body
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-becquerel">
+        <statement>
+          <p>
+            <term>Becquerel:</term> A unit of radiation emission that corresponds to 1 disintegration or decay per second
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-metastablestate">
+        <statement>
+          <p>
+            <term>Curie:</term> A unit of radiation emission that is named after Marie Curie.  It is equivalent to <m>3.7 \times 10^{10} Bq</m>
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+            <p>
+      <definition xml:id="def-rad">
+        <statement>
+          <p>
+            <term>rad:</term> A unit of radiation absoption. Rad stands for "radiation absorbed dose"
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-gray">
+        <statement>
+          <p>
+            <term>Gray:</term> A unit of radiation absorption that is abbreviated Gy.  100 rad = 1 Gray
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+            <p>
+      <definition xml:id="def-rem">
+        <statement>
+          <p>
+            <term>rem:</term> A unit of biological radiation effect.  It is an acronym that stands for "radiation equivalent in man".
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-sievert">
+        <statement>
+          <p>
+            <term>Sievert:</term> A unit of biological radiation effect.  It is abbreviated Sv.  100 rem = 1 Sv.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+        <p>
+      <definition xml:id="def-halflives">
+        <statement>
+          <p>
+            <term>Half life:</term> The amount of time that it takes for half of the radioactive nuclei in a sample to decay.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
     <p>
       <term>Chapter 6</term>
     </p>

@@ -10,7 +10,7 @@
 		radioactive properties because less of the original radioactive isotope
 		remains.
 		We measure the decay rate of radioactive isotopes using
-		<term>half-lives</term>.
+		<term><xref ref="def-halflives" text="custom">half lives</xref></term>.
 		One half-life is the amount of time required for the decay rate of a substance
 		to decrease by a factor of one-half.
 	</p>
