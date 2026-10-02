@@ -44,12 +44,16 @@
 	</p>
 
 	<p>
-		Another historically important unit is the <term><xref ref="def-curie" text="custom">Curie</xref></term>, abbreviated Ci.
+		Another historically important unit is the <term><xref ref="def-curie" text="custom">Curie</xref></term>, abbreviated Ci, which was named after one of the greatest scientists of all time, Marie Curie.
 		One Curie represents <m>3.7 \times 10^{10}</m> decays per second, or the same
 		number of becquerels.
 		Because a Curie often represents a large amount of radiation, smaller metric
 		prefixes such as mCi and <m>\mu</m> Ci are commonly used.
 	</p>
+	<assemblage>
+		<title>The life and accomplishments of Marie Curie</title>
+		<video youtube="w6JFRi0Qm_s"></video>
+	</assemblage>
 <table>
 		<title>Units of radiation</title>
 
