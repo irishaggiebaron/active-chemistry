@@ -829,7 +829,7 @@
     </p>
 
         <p>
-      <definition xml:id="def-metastablestate">
+      <definition xml:id="def-curie">
         <statement>
           <p>
             <term>Curie:</term> A unit of radiation emission that is named after Marie Curie.  It is equivalent to <m>3.7 \times 10^{10} Bq</m>
