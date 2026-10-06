@@ -11,1087 +11,1065 @@
     <exercises>
         <title>5.1: Types of Radioactivity</title>
 
-        <exercisegroup>
-            <exercise>
-                <statement>
-                    <p>
-                        Compare alpha and beta particles in terms of charge and
-                        approximate mass.
-                    </p>
-                </statement>
+        <exercise xml:id="new-36-01">
+            <title>Particle notation</title>
 
-                <answer>
-                    <p>
-                        Alpha: +2 charge and about 4 amu.
-                        Beta minus: -1 charge and negligible mass on the amu
-                        scale.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Give the nuclear symbol, mass number, and charge of an alpha
+                    particle.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Compare alpha and beta particles in terms of charge and
-                        approximate mass.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    <m>^{4}_{2}\mathrm{He}</m>; mass number 4, charge <m>2+</m>.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Alpha: +2 charge and about 4 amu.
-                        Beta minus: -1 charge and negligible mass on the amu
-                        scale.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-36-02">
+            <title>Beta identity</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Compare alpha and
-                        beta particles in terms of charge and approximate mass.
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    What particle is emitted in beta-minus decay?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Alpha: +2 charge and about 4 amu.
-                        Beta minus: -1 charge and negligible mass on the amu
-                        scale.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    An electron, conventionally written
+                    <m>^{0}_{-1}\mathrm{e}</m>.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Compare alpha and beta particles
-                        in terms of charge and approximate mass.
-                    </p>
-                </statement>
+        <exercise xml:id="new-36-03">
+            <title>Gamma properties</title>
 
-                <answer>
-                    <p>
-                        Alpha: +2 charge and about 4 amu.
-                        Beta minus: -1 charge and negligible mass on the amu
-                        scale.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Does a gamma photon carry electric charge or nucleon mass
+                    number?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Compare alpha and beta
-                        particles in terms of charge and approximate mass.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    Neither; its charge and mass number are zero.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Alpha: +2 charge and about 4 amu.
-                        Beta minus: -1 charge and negligible mass on the amu
-                        scale.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-36-04">
+            <title>Positron</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Which type of common nuclear radiation has no mass and
-                        no charge: alpha, beta, or gamma?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    How does a positron differ from an electron in charge and
+                    mass?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Gamma radiation.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    It has the same mass but opposite positive charge.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Which type of common nuclear radiation has no mass and
-                        no charge: alpha, beta, or gamma?
-                    </p>
-                </statement>
+        <exercise xml:id="new-36-05">
+            <title>Charge ranking</title>
 
-                <answer>
-                    <p>
-                        Gamma radiation.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Order beta-minus, gamma, and alpha radiation by electric
+                    charge.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Which type of
-                        common nuclear radiation has no mass and no charge:
-                        alpha, beta, or gamma?
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    Beta-minus: <m>1-</m>; gamma: 0; alpha: <m>2+</m>.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Gamma radiation.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-36-06">
+            <title>Mass comparison</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Which type of common nuclear
-                        radiation has no mass and no charge: alpha, beta, or
-                        gamma?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Which has greater particle mass, an alpha particle or a beta
+                    particle?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Gamma radiation.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    The alpha particle.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Which type of common
-                        nuclear radiation has no mass and no charge: alpha,
-                        beta, or gamma?
-                    </p>
-                </statement>
+        <exercise xml:id="new-36-07">
+            <title>Field behavior</title>
 
-                <answer>
-                    <p>
-                        Gamma radiation.
-                    </p>
-                </answer>
-            </exercise>
-        </exercisegroup>
+            <statement>
+                <p>
+                    Which of alpha, beta-minus, and gamma radiation is not
+                    deflected by an electric field?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Gamma radiation.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-36-08">
+            <title>Atomic effect</title>
+
+            <statement>
+                <p>
+                    Which listed emission leaves both atomic number and mass
+                    number unchanged?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Gamma emission.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-36-09">
+            <title>Misconception</title>
+
+            <statement>
+                <p>
+                    Does beta-minus emission mean an orbital electron simply
+                    escaped from an otherwise unchanged nucleus?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    No.
+                    A nuclear neutron converts to a proton, with an electron and
+                    antineutrino emitted.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-36-10">
+            <title>Identification</title>
+
+            <statement>
+                <p>
+                    A nuclear emission has mass number zero and charge
+                    <m>1+</m>.
+                    Identify it.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    A positron, or beta-plus particle.
+                </p>
+            </answer>
+        </exercise>
     </exercises>
 
     <exercises>
         <title>5.2: Balancing Decay Reactions</title>
 
-        <exercisegroup>
-            <exercise>
-                <statement>
-                    <p>
-                        Write the nuclear equation for alpha decay of
-                        uranium-238.
-                    </p>
-                </statement>
+        <exercise xml:id="new-37-01">
+            <title>Alpha equation</title>
 
-                <answer>
-                    <p>
-                        <m>{}^{238}_{92}\mathrm{U}\rightarrow{}^{4}_{2}\mathrm{He}+{}^{234}_{90}\mathrm{Th}</m>
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Complete
+                    <m>^{238}_{92}\mathrm{U}\rightarrow\,\underline{\hspace{1cm}}+{}^{4}_{2}\mathrm{He}</m>.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Write the nuclear equation for alpha decay of
-                        uranium-238.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    <m>^{234}_{90}\mathrm{Th}</m>.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        <m>{}^{238}_{92}\mathrm{U}\rightarrow{}^{4}_{2}\mathrm{He}+{}^{234}_{90}\mathrm{Th}</m>
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-37-02">
+            <title>Beta daughter reasoning</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Write the nuclear
-                        equation for alpha decay of uranium-238.
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Phosphorus-32 emits a beta-minus particle.
+                    Predict the daughter and explain why the atomic number rises
+                    although the mass number stays fixed.
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        <m>{}^{238}_{92}\mathrm{U}\rightarrow{}^{4}_{2}\mathrm{He}+{}^{234}_{90}\mathrm{Th}</m>
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    The daughter is <m>^{32}_{16}\mathrm{S}</m>.
+                    A neutron converts to a proton, keeping total nucleon count
+                    unchanged.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Write the nuclear equation for
-                        alpha decay of uranium-238.
-                    </p>
-                </statement>
+        <exercise xml:id="new-37-03">
+            <title>Positron verification</title>
 
-                <answer>
-                    <p>
-                        <m>{}^{238}_{92}\mathrm{U}\rightarrow{}^{4}_{2}\mathrm{He}+{}^{234}_{90}\mathrm{Th}</m>
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    A proposed positron decay is
+                    <m>^{18}_{9}\mathrm{F}\rightarrow{}^{18}_{10}\mathrm{Ne}+{}^{0}_{1}\mathrm{e}</m>.
+                    Correct it by balancing atomic number.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Write the nuclear
-                        equation for alpha decay of uranium-238.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    The daughter must be <m>^{18}_{8}\mathrm{O}</m> because
+                    <m>9=8+1</m>; mass number remains 18.
+                    A neutrino is omitted in this simplified notation.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        <m>{}^{238}_{92}\mathrm{U}\rightarrow{}^{4}_{2}\mathrm{He}+{}^{234}_{90}\mathrm{Th}</m>
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-37-04">
+            <title>Gamma equation</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Complete the beta-minus decay:
-                        <m>{}^{32}_{15}\mathrm{P}\rightarrow{}^{0}_{-1}\mathrm{e}+?</m>.
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Write the gamma emission of excited technetium-99, denoted
+                    <m>^{99m}_{43}\mathrm{Tc}</m>.
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        <m>{}^{32}_{16}\mathrm{S}</m>.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    <m>^{99m}_{43}\mathrm{Tc}\rightarrow{}^{99}_{43}\mathrm{Tc}+\gamma</m>.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Complete the beta-minus decay:
-                        <m>{}^{32}_{15}\mathrm{P}\rightarrow{}^{0}_{-1}\mathrm{e}+?</m>.
-                    </p>
-                </statement>
+        <exercise xml:id="new-37-05">
+            <title>Missing emission</title>
 
-                <answer>
-                    <p>
-                        <m>{}^{32}_{16}\mathrm{S}</m>.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Identify the emission in
+                    <m>^{210}_{84}\mathrm{Po}\rightarrow{}^{206}_{82}\mathrm{Pb}+\underline{\hspace{1cm}}</m>.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Complete the
-                        beta-minus decay:
-                        <m>{}^{32}_{15}\mathrm{P}\rightarrow{}^{0}_{-1}\mathrm{e}+?</m>.
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    An alpha particle, <m>^{4}_{2}\mathrm{He}</m>.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        <m>{}^{32}_{16}\mathrm{S}</m>.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-37-06">
+            <title>Conservation check</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Complete the beta-minus decay:
-                        <m>{}^{32}_{15}\mathrm{P}\rightarrow{}^{0}_{-1}\mathrm{e}+?</m>.
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Why is
+                    <m>^{14}_{6}\mathrm{C}\rightarrow{}^{14}_{6}\mathrm{C}+{}^{0}_{-1}\mathrm{e}</m>
+                    not a balanced beta-decay equation?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        <m>{}^{32}_{16}\mathrm{S}</m>.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    Atomic-number sums differ; the daughter should have atomic
+                    number 7.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Complete the
-                        beta-minus decay:
-                        <m>{}^{32}_{15}\mathrm{P}\rightarrow{}^{0}_{-1}\mathrm{e}+?</m>.
-                    </p>
-                </statement>
+        <exercise xml:id="new-37-07">
+            <title>Sequential decay</title>
 
-                <answer>
-                    <p>
-                        <m>{}^{32}_{16}\mathrm{S}</m>.
-                    </p>
-                </answer>
-            </exercise>
-        </exercisegroup>
+            <statement>
+                <p>
+                    A nucleus undergoes alpha decay then beta-minus decay.
+                    What are the net changes in mass and atomic number?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Mass number decreases by 4; atomic number decreases by 1.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-37-08">
+            <title>Electron capture</title>
+
+            <statement>
+                <p>
+                    Complete
+                    <m>^{7}_{4}\mathrm{Be}+{}^{0}_{-1}\mathrm{e}\rightarrow\underline{\hspace{1cm}}</m>
+                    in simplified notation.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    <m>^{7}_{3}\mathrm{Li}</m>, with an emitted neutrino
+                    omitted.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-37-09">
+            <title>Reverse inference</title>
+
+            <statement>
+                <p>
+                    An alpha-decay daughter is <m>^{222}_{86}\mathrm{Rn}</m>.
+                    Find the parent nuclide.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    <m>^{226}_{88}\mathrm{Ra}</m>.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-37-10">
+            <title>Element change</title>
+
+            <statement>
+                <p>
+                    Why does gamma emission not turn one element into another?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    It changes nuclear energy, not proton count.
+                </p>
+            </answer>
+        </exercise>
     </exercises>
 
     <exercises>
         <title>5.3: Uses of Radioactive Materials</title>
 
-        <exercisegroup>
-            <exercise>
-                <statement>
-                    <p>
-                        Why can a radioactive tracer be useful in medicine even
-                        when only a small amount is administered?
-                    </p>
-                </statement>
+        <exercise xml:id="new-38-01">
+            <title>Chain reaction</title>
 
-                <answer>
-                    <p>
-                        Its radiation can be detected from outside the body,
-                        allowing the location or movement of the tracer to be
-                        followed.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Explain how neutrons sustain a fission chain reaction.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Why can a radioactive tracer be useful in medicine even
-                        when only a small amount is administered?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    Neutrons released by one fission event can trigger fission
+                    in additional nuclei.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Its radiation can be detected from outside the body,
-                        allowing the location or movement of the tracer to be
-                        followed.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-38-02">
+            <title>Control rods</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Why can a
-                        radioactive tracer be useful in medicine even when only
-                        a small amount is administered?
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    What role do neutron-absorbing control rods play in a
+                    reactor?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Its radiation can be detected from outside the body,
-                        allowing the location or movement of the tracer to be
-                        followed.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    They reduce available neutrons and control the chain
+                    reaction rate.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Why can a radioactive tracer be
-                        useful in medicine even when only a small amount is
-                        administered?
-                    </p>
-                </statement>
+        <exercise xml:id="new-38-03">
+            <title>Tracer</title>
 
-                <answer>
-                    <p>
-                        Its radiation can be detected from outside the body,
-                        allowing the location or movement of the tracer to be
-                        followed.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Why can a small radioactive tracer help locate a substance
+                    within a body?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Why can a radioactive
-                        tracer be useful in medicine even when only a small
-                        amount is administered?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    Its emitted radiation can be detected outside the body to
+                    reveal its distribution.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Its radiation can be detected from outside the body,
-                        allowing the location or movement of the tracer to be
-                        followed.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-38-04">
+            <title>PET signal</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        In nuclear fission, why can one fission event lead to
-                        additional fission events?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    What produces the photons detected in positron emission
+                    tomography?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Fission can release neutrons that strike other fissile
-                        nuclei, producing a chain reaction.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    A positron annihilates with an electron, typically producing
+                    two gamma photons.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        In nuclear fission, why can one fission event lead to
-                        additional fission events?
-                    </p>
-                </statement>
+        <exercise xml:id="new-38-05">
+            <title>Targeting</title>
 
-                <answer>
-                    <p>
-                        Fission can release neutrons that strike other fissile
-                        nuclei, producing a chain reaction.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Why might a glucose-like tracer accumulate more strongly in
+                    some tumors?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: In nuclear
-                        fission, why can one fission event lead to additional
-                        fission events?
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    Some tumors have elevated glucose uptake; uptake patterns
+                    vary and are not exclusive to cancer.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Fission can release neutrons that strike other fissile
-                        nuclei, producing a chain reaction.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-38-06">
+            <title>Therapy versus imaging</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: In nuclear fission, why can one
-                        fission event lead to additional fission events?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    How does using radiation to destroy tumor cells differ from
+                    using a tracer to image them?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Fission can release neutrons that strike other fissile
-                        nuclei, producing a chain reaction.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    Therapy aims to deliver damaging energy; imaging aims to
+                    detect distribution with a diagnostic signal.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: In nuclear fission,
-                        why can one fission event lead to additional fission
-                        events?
-                    </p>
-                </statement>
+        <exercise xml:id="new-38-07">
+            <title>Isotope choice</title>
 
-                <answer>
-                    <p>
-                        Fission can release neutrons that strike other fissile
-                        nuclei, producing a chain reaction.
-                    </p>
-                </answer>
-            </exercise>
-        </exercisegroup>
+            <statement>
+                <p>
+                    Why is a very long-lived tracer often undesirable for short
+                    diagnostic imaging?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    It can continue irradiating the person after useful imaging
+                    has ended.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-38-08">
+            <title>Energy pathway</title>
+
+            <statement>
+                <p>
+                    Trace the main energy conversions from fission to
+                    electricity in a typical power plant.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Nuclear energy becomes heat, then turbine mechanical energy,
+                    then electrical energy.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-38-09">
+            <title>Location matters</title>
+
+            <statement>
+                <p>
+                    Why can an alpha emitter inside tissue be hazardous despite
+                    low external penetration?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Alpha particles deposit energy intensely over a short
+                    distance within nearby tissue.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-38-10">
+            <title>Sterilization</title>
+
+            <statement>
+                <p>
+                    How can radiation sterilize equipment without heating it to
+                    a high temperature?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Ionizing radiation damages microorganisms and their
+                    molecular machinery.
+                </p>
+            </answer>
+        </exercise>
     </exercises>
 
     <exercises>
         <title>5.4: Measuring radioactivity</title>
 
-        <exercisegroup>
-            <exercise>
-                <statement>
-                    <p>
-                        Convert 2.0 Ci to Bq using
-                        <m>1\text{ Ci}=3.7\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </statement>
+        <exercise xml:id="new-39-01">
+            <title>Activity conversion</title>
 
-                <answer>
-                    <p>
-                        <m>7.4\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Convert 2.00 Ci to Bq using
+                    <m>1\,\mathrm{Ci}=3.70\times10^{10}</m> Bq.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Convert 2.0 Ci to Bq using
-                        <m>1\text{ Ci}=3.7\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    <m>7.40\times10^{10}</m> Bq.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        <m>7.4\times10^{10}\text{ Bq}</m>.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-39-02">
+            <title>Reverse conversion</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Convert 2.0 Ci to
-                        Bq using <m>1\text{ Ci}=3.7\times10^{10}\text{ Bq}</m>.
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Convert <m>7.40\times10^7</m> Bq to mCi.
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        <m>7.4\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    2.00 mCi.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Convert 2.0 Ci to Bq using
-                        <m>1\text{ Ci}=3.7\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </statement>
+        <exercise xml:id="new-39-03">
+            <title>Disintegration count</title>
 
-                <answer>
-                    <p>
-                        <m>7.4\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    A source has constant activity 500.
+                    Bq over 10.0 s.
+                    How many decays are expected?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Convert 2.0 Ci to Bq
-                        using <m>1\text{ Ci}=3.7\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    <m>5.00\times10^3</m> decays.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        <m>7.4\times10^{10}\text{ Bq}</m>.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-39-04">
+            <title>Activity meaning</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Convert <m>7.4\times10^7</m> Bq to mCi.
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    What does 1 Bq measure?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        2.0 mCi.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    One nuclear decay per second.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Convert <m>7.4\times10^7</m> Bq to mCi.
-                    </p>
-                </statement>
+        <exercise xml:id="new-39-05">
+            <title>Absorbed dose</title>
 
-                <answer>
-                    <p>
-                        2.0 mCi.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Convert 250 rad to Gy using 100 rad = 1 Gy.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Convert
-                        <m>7.4\times10^7</m> Bq to mCi.
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    2.50 Gy if the input has three significant figures.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        2.0 mCi.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-39-06">
+            <title>Equivalent dose</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Convert <m>7.4\times10^7</m> Bq to
-                        mCi.
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Convert 75.0 mrem to mSv using 100 rem = 1 Sv.
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        2.0 mCi.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    0.750 mSv.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Convert
-                        <m>7.4\times10^7</m> Bq to mCi.
-                    </p>
-                </statement>
+        <exercise xml:id="new-39-07">
+            <title>Quantity distinction</title>
 
-                <answer>
-                    <p>
-                        2.0 mCi.
-                    </p>
-                </answer>
-            </exercise>
-        </exercisegroup>
+            <statement>
+                <p>
+                    Explain the difference between activity and absorbed dose.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Activity measures decay rate; absorbed dose measures energy
+                    deposited per mass.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-39-08">
+            <title>Biological weighting</title>
+
+            <statement>
+                <p>
+                    Why might equal absorbed doses of different radiation types
+                    have different biological effects?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Radiation types have different biological effectiveness,
+                    represented by weighting factors.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-39-09">
+            <title>Energy per mass</title>
+
+            <statement>
+                <p>
+                    A tissue absorbs 0.0200 J in a mass of 0.100 kg.
+                    Find absorbed dose in Gy.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    0.200 Gy, because 1 Gy = 1 J/kg.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-39-10">
+            <title>Comparison</title>
+
+            <statement>
+                <p>
+                    Which source has greater activity: 1.00 microcurie or
+                    <m>5.00\times10^4</m> Bq?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    The latter; 1.00 microcurie is <m>3.70\times10^4</m> Bq.
+                </p>
+            </answer>
+        </exercise>
     </exercises>
 
     <exercises>
         <title>5.5: Radiation Safety</title>
 
-        <exercisegroup>
-            <exercise>
-                <statement>
-                    <p>
-                        A worker must briefly handle a gamma-emitting source.
-                        Name two exposure-control strategies that could reduce
-                        dose.
-                    </p>
-                </statement>
+        <exercise xml:id="new-40-01">
+            <title>Time</title>
 
-                <answer>
-                    <p>
-                        Any two of: reduce time, increase distance, use
-                        appropriate shielding, or minimize the amount/activity
-                        handled.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    For a fixed dose rate, what happens to exposure when time is
+                    halved?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        A worker must briefly handle a gamma-emitting source.
-                        Name two exposure-control strategies that could reduce
-                        dose.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    The dose is halved.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Any two of: reduce time, increase distance, use
-                        appropriate shielding, or minimize the amount/activity
-                        handled.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-40-02">
+            <title>Distance</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: A worker must
-                        briefly handle a gamma-emitting source.
-                        Name two exposure-control strategies that could reduce
-                        dose.
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    For an unshielded point source, what happens to intensity
+                    when distance doubles?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Any two of: reduce time, increase distance, use
-                        appropriate shielding, or minimize the amount/activity
-                        handled.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    It falls to one quarter by the inverse-square relationship.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: A worker must briefly handle a
-                        gamma-emitting source.
-                        Name two exposure-control strategies that could reduce
-                        dose.
-                    </p>
-                </statement>
+        <exercise xml:id="new-40-03">
+            <title>Shielding</title>
 
-                <answer>
-                    <p>
-                        Any two of: reduce time, increase distance, use
-                        appropriate shielding, or minimize the amount/activity
-                        handled.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Which is more easily stopped by paper, alpha or gamma
+                    radiation?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: A worker must briefly
-                        handle a gamma-emitting source.
-                        Name two exposure-control strategies that could reduce
-                        dose.
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    Alpha radiation.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Any two of: reduce time, increase distance, use
-                        appropriate shielding, or minimize the amount/activity
-                        handled.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-40-04">
+            <title>Internal contamination</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Why are gloves useful when working with some radioactive
-                        materials even though gloves may not stop penetrating
-                        gamma rays?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Why is preventing inhalation of radioactive dust important?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Gloves can reduce contamination of the skin and prevent
-                        radioactive material from being transferred or ingested.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    It prevents radioactive material from becoming an internal
+                    source of exposure.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        Why are gloves useful when working with some radioactive
-                        materials even though gloves may not stop penetrating
-                        gamma rays?
-                    </p>
-                </statement>
+        <exercise xml:id="new-40-05">
+            <title>Practical control</title>
 
-                <answer>
-                    <p>
-                        Gloves can reduce contamination of the skin and prevent
-                        radioactive material from being transferred or ingested.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    How can remote handling tools reduce exposure?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: Why are gloves
-                        useful when working with some radioactive materials even
-                        though gloves may not stop penetrating gamma rays?
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    They increase distance from the source.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        Gloves can reduce contamination of the skin and prevent
-                        radioactive material from being transferred or ingested.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-40-06">
+            <title>Inverse distance</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: Why are gloves useful when working
-                        with some radioactive materials even though gloves may
-                        not stop penetrating gamma rays?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    A point-source dose rate is 8.0 units/h at 1.0 m.
+                    What is it at 4.0 m under the same assumptions?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        Gloves can reduce contamination of the skin and prevent
-                        radioactive material from being transferred or ingested.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    0.50 units/h.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: Why are gloves useful
-                        when working with some radioactive materials even though
-                        gloves may not stop penetrating gamma rays?
-                    </p>
-                </statement>
+        <exercise xml:id="new-40-07">
+            <title>Dose calculation</title>
 
-                <answer>
-                    <p>
-                        Gloves can reduce contamination of the skin and prevent
-                        radioactive material from being transferred or ingested.
-                    </p>
-                </answer>
-            </exercise>
-        </exercisegroup>
+            <statement>
+                <p>
+                    At a hypothetical constant dose rate of 0.20 mSv/h, what
+                    dose accumulates in 15 min?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    0.050 mSv.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-40-08">
+            <title>Combined controls</title>
+
+            <statement>
+                <p>
+                    Time is halved and distance from an unshielded point source
+                    is doubled.
+                    What fraction of the original dose remains?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    One eighth.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-40-09">
+            <title>Protective clothing</title>
+
+            <statement>
+                <p>
+                    Does wearing gloves provide substantial shielding from
+                    penetrating gamma radiation?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    No.
+                    Gloves mainly help prevent contamination; penetrating
+                    radiation requires appropriate shielding.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-40-10">
+            <title>Hazard distinction</title>
+
+            <statement>
+                <p>
+                    Distinguish irradiation from contamination.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Irradiation is exposure to radiation; contamination is
+                    radioactive material deposited on or inside something.
+                </p>
+            </answer>
+        </exercise>
     </exercises>
 
     <exercises>
         <title>5.6: Half-life of Radioisotopes</title>
 
-        <exercisegroup>
-            <exercise>
-                <statement>
-                    <p>
-                        A sample begins with 80.0 mg of a radioisotope.
-                        How much remains after 3 half-lives?
-                    </p>
-                </statement>
+        <exercise xml:id="new-41-01">
+            <title>Whole half-lives</title>
 
-                <answer>
-                    <p>
-                        10.0 mg.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    An 80.0 mg sample undergoes three half-lives.
+                    Find the amount remaining.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        A sample begins with 80.0 mg of a radioisotope.
-                        How much remains after 3 half-lives?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    10.0 mg.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        10.0 mg.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-41-02">
+            <title>Elapsed time</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: A sample begins
-                        with 80.0 mg of a radioisotope.
-                        How much remains after 3 half-lives?
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    A nuclide has half-life 6.00 h.
+                    How long is required for activity to fall to one quarter?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        10.0 mg.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    12.0 h.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: A sample begins with 80.0 mg of a
-                        radioisotope.
-                        How much remains after 3 half-lives?
-                    </p>
-                </statement>
+        <exercise xml:id="new-41-03">
+            <title>Half-life inference</title>
 
-                <answer>
-                    <p>
-                        10.0 mg.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    Activity drops from 160 Bq to 20 Bq in 9.0 days.
+                    Find the half-life.
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: A sample begins with
-                        80.0 mg of a radioisotope.
-                        How much remains after 3 half-lives?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    3.0 days.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        10.0 mg.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-41-04">
+            <title>Fractional time</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A radioisotope has a half-life of 6.0 h.
-                        What fraction remains after 24 h?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    Find the fraction remaining after half a half-life.
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        24 h is 4 half-lives, so <m>(1/2)^4=1/16</m>, or 6.25%.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    <m>2^{-1/2}\approx0.707</m>, or 70.7 percent.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Answer the following and briefly justify your reasoning:
-                        A radioisotope has a half-life of 6.0 h.
-                        What fraction remains after 24 h?
-                    </p>
-                </statement>
+        <exercise xml:id="new-41-05">
+            <title>Reverse amount</title>
 
-                <answer>
-                    <p>
-                        24 h is 4 half-lives, so <m>(1/2)^4=1/16</m>, or 6.25%.
-                        A correct justification should connect the answer to the
-                        relevant definition, relationship, or calculation from
-                        this section.
-                    </p>
-                </answer>
-            </exercise>
+            <statement>
+                <p>
+                    A sample contains 5.00 mg after two half-lives.
+                    What was its starting amount?
+                </p>
+            </statement>
 
-            <exercise>
-                <statement>
-                    <p>
-                        A student is working on this question: A radioisotope
-                        has a half-life of 6.0 h.
-                        What fraction remains after 24 h?
-                        What result should the student obtain?
-                    </p>
-                </statement>
+            <answer>
+                <p>
+                    20.0 mg.
+                </p>
+            </answer>
+        </exercise>
 
-                <answer>
-                    <p>
-                        24 h is 4 half-lives, so <m>(1/2)^4=1/16</m>, or 6.25%.
-                    </p>
-                </answer>
-            </exercise>
+        <exercise xml:id="new-41-06">
+            <title>Decayed fraction</title>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Use the ideas or procedures from this section to solve
-                        this related problem: A radioisotope has a half-life of
-                        6.0 h.
-                        What fraction remains after 24 h?
-                    </p>
-                </statement>
+            <statement>
+                <p>
+                    What percentage has decayed after four half-lives?
+                </p>
+            </statement>
 
-                <answer>
-                    <p>
-                        24 h is 4 half-lives, so <m>(1/2)^4=1/16</m>, or 6.25%.
-                    </p>
-                </answer>
-            </exercise>
+            <answer>
+                <p>
+                    93.75 percent.
+                </p>
+            </answer>
+        </exercise>
 
-            <exercise>
-                <statement>
-                    <p>
-                        Check the following proposed conclusion for the problem
-                        and state the correct conclusion: A radioisotope has a
-                        half-life of 6.0 h.
-                        What fraction remains after 24 h?
-                    </p>
-                </statement>
+        <exercise xml:id="new-41-07">
+            <title>Different nuclides</title>
 
-                <answer>
-                    <p>
-                        24 h is 4 half-lives, so <m>(1/2)^4=1/16</m>, or 6.25%.
-                    </p>
-                </answer>
-            </exercise>
-        </exercisegroup>
+            <statement>
+                <p>
+                    Two equally active sources have half-lives of 1 h and 10 h.
+                    Which has higher activity after 5 h?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    The 10 h source.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-41-08">
+            <title>Activity model</title>
+
+            <statement>
+                <p>
+                    A source starts at 1000 Bq with half-life 2.00 days.
+                    Find activity after 6.00 days.
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    125 Bq.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-41-09">
+            <title>Misconception</title>
+
+            <statement>
+                <p>
+                    Does every remaining nucleus necessarily decay during the
+                    next half-life?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    No.
+                    Decay is probabilistic; half the population is expected to
+                    remain.
+                </p>
+            </answer>
+        </exercise>
+
+        <exercise xml:id="new-41-10">
+            <title>Threshold</title>
+
+            <statement>
+                <p>
+                    How many whole half-lives are needed for less than 1 percent
+                    to remain?
+                </p>
+            </statement>
+
+            <answer>
+                <p>
+                    Seven, leaving about 0.781 percent.
+                </p>
+            </answer>
+        </exercise>
     </exercises>
 </section>
