@@ -33,7 +33,7 @@
 
             <statement>
                 <p>
-                    What particle is emitted in beta-minus decay?
+                    What particle is emitted in beta decay?
                 </p>
             </statement>
 
@@ -50,8 +50,7 @@
 
             <statement>
                 <p>
-                    Does a gamma photon carry electric charge or nucleon mass
-                    number?
+                    Does a gamma photon carry electric charge or mass?
                 </p>
             </statement>
 
@@ -74,7 +73,7 @@
 
             <answer>
                 <p>
-                    It has the same mass but opposite positive charge.
+                    It has the same mass but opposite (positive) charge.
                 </p>
             </answer>
         </exercise>
@@ -84,14 +83,14 @@
 
             <statement>
                 <p>
-                    Order beta-minus, gamma, and alpha radiation by electric
+                    Order beta, gamma, and alpha radiation by electric
                     charge.
                 </p>
             </statement>
 
             <answer>
                 <p>
-                    Beta-minus: <m>1-</m>; gamma: 0; alpha: <m>2+</m>.
+                    Beta: <m>1-</m>; gamma: 0; alpha: <m>2+</m>.
                 </p>
             </answer>
         </exercise>
@@ -118,14 +117,14 @@
 
             <statement>
                 <p>
-                    Which of alpha, beta-minus, and gamma radiation is not
+                    Which of alpha, beta, positrons, protons, neutrons and gamma radiation is not
                     deflected by an electric field?
                 </p>
             </statement>
 
             <answer>
                 <p>
-                    Gamma radiation.
+                    Gamma radiation, and neutrons
                 </p>
             </answer>
         </exercise>
@@ -152,7 +151,7 @@
 
             <statement>
                 <p>
-                    Does beta-minus emission mean an orbital electron simply
+                    Does beta emission mean an orbital electron simply
                     escaped from an otherwise unchanged nucleus?
                 </p>
             </statement>
@@ -160,8 +159,7 @@
             <answer>
                 <p>
                     No.
-                    A nuclear neutron converts to a proton, with an electron and
-                    antineutrino emitted.
+                    A nuclear neutron converts to a proton, with an electron being emitted.
                 </p>
             </answer>
         </exercise>
@@ -171,7 +169,7 @@
 
             <statement>
                 <p>
-                    A nuclear emission has mass number zero and charge
+                    A nuclear emission has mass number of 1 and charge
                     <m>1+</m>.
                     Identify it.
                 </p>
@@ -179,7 +177,7 @@
 
             <answer>
                 <p>
-                    A positron, or beta-plus particle.
+                    A proton
                 </p>
             </answer>
         </exercise>
