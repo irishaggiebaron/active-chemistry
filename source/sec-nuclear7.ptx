@@ -11,7 +11,7 @@
     <title>5.1: Types of Radioactivity</title>
 
     <exercises>
-        <title>Additional Exercises</title>
+        <term>Additional Exercises</term>
 
         <exercisegroup>
             <exercise>
@@ -192,7 +192,7 @@
             </exercise>
         </exercisegroup>
     </exercises>
-    <title>5.2: Balancing Decay Reactions</title>
+    <term>5.2: Balancing Decay Reactions</term>
 
     <exercises>
         <title>Additional Exercises</title>
@@ -366,7 +366,7 @@
         </exercisegroup>
     </exercises>
 
-    <title>5.3: Uses of Radioactive Materials</title>
+    <term>5.3: Uses of Radioactive Materials</term>
   <exercises>
     <title>Additional Exercises</title>
     <exercisegroup>
@@ -453,7 +453,7 @@
     </exercisegroup>
   </exercises>
 
- <title>5.4: Measuring Radioactivity</title>
+ <term>5.4: Measuring Radioactivity</term>
   <exercises>
     <title>Additional Exercises</title>
     <exercisegroup>
@@ -540,7 +540,7 @@
     </exercisegroup>
   </exercises>
 
- <title>5.5: Radiation Safety</title>
+ <term>5.5: Radiation Safety</term>
   <exercises>
     <title>Additional Exercises</title>
     <exercisegroup>
@@ -627,7 +627,7 @@
     </exercisegroup>
   </exercises>
 
- <title>5.6: Half-life of Radioisotopes</title>
+ <term>5.6: Half-life of Radioisotopes</term>
   <exercises>
     <title>Additional Exercises</title>
     <exercisegroup>
