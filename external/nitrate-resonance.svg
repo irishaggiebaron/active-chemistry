@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img">
+  <title>Nitrate ion: three equivalent resonance contributors</title>
+  <desc>Three resonance contributors showing alternative double-bond positions, formal charges, and overall charge. A double-headed resonance arrow separates contributors.</desc>
+  <rect x="0" y="0" width="1200" height="520" fill="white"/>
+  <text x="600" y="42" font-size="26" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Nitrate ion: three equivalent resonance contributors</text>
+  <text x="600" y="76" font-size="17" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Alternate drawings of one delocalized ion; atoms do not change position.</text>
+  <g transform="translate(-120,40) scale(0.80)">
+    <line x1="396.0" y1="255.0" x2="396.0" y2="155.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="404.0" y1="255.0" x2="404.0" y2="155.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="421.65063509461095" y1="292.5" x2="508.25317547305485" y2="342.5" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="378.34936490538905" y1="292.5" x2="291.74682452694515" y2="342.5" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <text x="400" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">N</text>
+    <text x="425" y="263" font-size="18" text-anchor="start" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">+</text>
+    <text x="400.0" y="141.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="364.5910346561913" cy="115.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="369.5910346561913" cy="106.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="430.40896534380863" cy="106.66987298107779" r="3.8" fill="#15202b"/>
+    <circle cx="435.40896534380863" cy="115.33012701892218" r="3.8" fill="#15202b"/>
+    <text x="529.9038105676658" y="366.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="560.3127759114744" cy="331.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="565.3127759114744" cy="340.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="565.3127759114744" cy="369.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="560.3127759114744" cy="378.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="534.9038105676658" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="524.9038105676658" cy="393.0" r="3.8" fill="#15202b"/>
+    <text x="583.597385602301" y="392.0" font-size="18" text-anchor="middle" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+    <text x="270.0961894323342" y="366.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="275.0961894323342" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="265.0961894323342" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="239.6872240885255" cy="378.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="234.6872240885255" cy="369.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="234.68722408852554" cy="340.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="239.68722408852554" cy="331.6698729810778" r="3.8" fill="#15202b"/>
+    <text x="216.402614397699" y="392.0" font-size="18" text-anchor="middle" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+    <path d="M202.0961894323342,50.0 H190.0961894323342 V435.0 H202.0961894323342" fill="none" stroke="#15202b" stroke-width="2.5"/>
+    <path d="M597.9038105676658,50.0 H609.9038105676658 V435.0 H597.9038105676658" fill="none" stroke="#15202b" stroke-width="2.5"/>
+    <text x="624.9038105676658" y="80.0" font-size="25" text-anchor="start" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+  </g>
+  <text x="200" y="456" font-size="17" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Contributor 1</text>
+  <g transform="translate(280,40) scale(0.80)">
+    <line x1="400.0" y1="255.0" x2="400.0" y2="155.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="423.65063509461095" y1="289.03589838486226" x2="510.25317547305485" y2="339.03589838486226" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="419.65063509461095" y1="295.96410161513774" x2="506.25317547305485" y2="345.96410161513774" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="378.34936490538905" y1="292.5" x2="291.74682452694515" y2="342.5" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <text x="400" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">N</text>
+    <text x="425" y="263" font-size="18" text-anchor="start" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">+</text>
+    <text x="400.0" y="141.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="364.5910346561913" cy="115.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="369.5910346561913" cy="106.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="395.0" cy="92.0" r="3.8" fill="#15202b"/>
+    <circle cx="405.0" cy="92.0" r="3.8" fill="#15202b"/>
+    <circle cx="430.40896534380863" cy="106.66987298107779" r="3.8" fill="#15202b"/>
+    <circle cx="435.40896534380863" cy="115.33012701892218" r="3.8" fill="#15202b"/>
+    <text x="400.0" y="74.0" font-size="18" text-anchor="middle" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+    <text x="529.9038105676658" y="366.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="560.3127759114744" cy="331.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="565.3127759114744" cy="340.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="534.9038105676658" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="524.9038105676658" cy="393.0" r="3.8" fill="#15202b"/>
+    <text x="270.0961894323342" y="366.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="275.0961894323342" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="265.0961894323342" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="239.6872240885255" cy="378.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="234.6872240885255" cy="369.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="234.68722408852554" cy="340.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="239.68722408852554" cy="331.6698729810778" r="3.8" fill="#15202b"/>
+    <text x="216.402614397699" y="392.0" font-size="18" text-anchor="middle" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+    <path d="M202.0961894323342,50.0 H190.0961894323342 V435.0 H202.0961894323342" fill="none" stroke="#15202b" stroke-width="2.5"/>
+    <path d="M597.9038105676658,50.0 H609.9038105676658 V435.0 H597.9038105676658" fill="none" stroke="#15202b" stroke-width="2.5"/>
+    <text x="624.9038105676658" y="80.0" font-size="25" text-anchor="start" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+  </g>
+  <text x="600" y="456" font-size="17" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Contributor 2</text>
+  <g transform="translate(680,40) scale(0.80)">
+    <line x1="400.0" y1="255.0" x2="400.0" y2="155.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="421.65063509461095" y1="292.5" x2="508.25317547305485" y2="342.5" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="380.34936490538905" y1="295.96410161513774" x2="293.74682452694515" y2="345.96410161513774" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="376.34936490538905" y1="289.03589838486226" x2="289.74682452694515" y2="339.03589838486226" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <text x="400" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">N</text>
+    <text x="425" y="263" font-size="18" text-anchor="start" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">+</text>
+    <text x="400.0" y="141.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="364.5910346561913" cy="115.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="369.5910346561913" cy="106.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="395.0" cy="92.0" r="3.8" fill="#15202b"/>
+    <circle cx="405.0" cy="92.0" r="3.8" fill="#15202b"/>
+    <circle cx="430.40896534380863" cy="106.66987298107779" r="3.8" fill="#15202b"/>
+    <circle cx="435.40896534380863" cy="115.33012701892218" r="3.8" fill="#15202b"/>
+    <text x="400.0" y="74.0" font-size="18" text-anchor="middle" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+    <text x="529.9038105676658" y="366.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="560.3127759114744" cy="331.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="565.3127759114744" cy="340.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="565.3127759114744" cy="369.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="560.3127759114744" cy="378.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="534.9038105676658" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="524.9038105676658" cy="393.0" r="3.8" fill="#15202b"/>
+    <text x="583.597385602301" y="392.0" font-size="18" text-anchor="middle" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+    <text x="270.0961894323342" y="366.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">O</text>
+    <circle cx="275.0961894323342" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="265.0961894323342" cy="393.0" r="3.8" fill="#15202b"/>
+    <circle cx="234.68722408852554" cy="340.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="239.68722408852554" cy="331.6698729810778" r="3.8" fill="#15202b"/>
+    <path d="M202.0961894323342,50.0 H190.0961894323342 V435.0 H202.0961894323342" fill="none" stroke="#15202b" stroke-width="2.5"/>
+    <path d="M597.9038105676658,50.0 H609.9038105676658 V435.0 H597.9038105676658" fill="none" stroke="#15202b" stroke-width="2.5"/>
+    <text x="624.9038105676658" y="80.0" font-size="25" text-anchor="start" fill="#155b8b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">−</text>
+  </g>
+  <text x="1000" y="456" font-size="17" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Contributor 3</text>
+  <line x1="380" y1="280" x2="420" y2="280" stroke="#155b8b" stroke-width="2.5"/>
+  <path d="M388,274 L380,280 L388,286" fill="none" stroke="#155b8b" stroke-width="2.5"/>
+  <path d="M412,274 L420,280 L412,286" fill="none" stroke="#155b8b" stroke-width="2.5"/>
+  <line x1="780" y1="280" x2="820" y2="280" stroke="#155b8b" stroke-width="2.5"/>
+  <path d="M788,274 L780,280 L788,286" fill="none" stroke="#155b8b" stroke-width="2.5"/>
+  <path d="M812,274 L820,280 L812,286" fill="none" stroke="#155b8b" stroke-width="2.5"/>
+  <text x="600" y="491" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Resonance contributors are not separate compounds or a literal switching sequence.</text>
+</svg>

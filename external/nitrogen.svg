@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img">
+  <title>Nitrogen — N₂</title>
+  <desc>Nitrogen — N₂. Bonds are lines; paired dots are lone pairs. </desc>
+  <rect x="0" y="0" width="800" height="520" fill="white"/>
+  <text x="400" y="44" font-size="25" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Nitrogen — N₂</text>
+  <text x="400" y="78" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Lewis electron structure · 2D connectivity, not a 3D shape</text>
+  <g transform="translate(80,45) scale(0.8)">
+    <line x1="325.0" y1="272.0" x2="475.0" y2="272.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="325.0" y1="280.0" x2="475.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="325.0" y1="288.0" x2="475.0" y2="288.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <text x="300" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">N</text>
+    <circle cx="262.0" cy="285.0" r="3.8" fill="#15202b"/>
+    <circle cx="262.0" cy="275.0" r="3.8" fill="#15202b"/>
+    <text x="500" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">N</text>
+    <circle cx="538.0" cy="275.0" r="3.8" fill="#15202b"/>
+    <circle cx="538.0" cy="285.0" r="3.8" fill="#15202b"/>
+  </g>
+  <text x="400" y="486" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">10 valence electrons · lines = shared pairs · dots = nonbonding electrons</text>
+</svg>
