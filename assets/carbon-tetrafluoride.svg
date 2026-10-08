@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img">
+  <title>Carbon tetrafluoride — CF₄</title>
+  <desc>Carbon tetrafluoride — CF₄. Bonds are lines; paired dots are lone pairs. </desc>
+  <rect x="0" y="0" width="800" height="520" fill="white"/>
+  <text x="400" y="44" font-size="25" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Carbon tetrafluoride — CF₄</text>
+  <text x="400" y="78" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Lewis electron structure · 2D connectivity, not a 3D shape</text>
+  <g transform="translate(80,45) scale(0.8)">
+    <line x1="425.0" y1="280.0" x2="525.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="400.0" y1="305.0" x2="400.0" y2="405.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="375.0" y1="280.0" x2="275.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="400.0" y1="255.0" x2="400.0" y2="155.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <text x="400" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">C</text>
+    <text x="550.0" y="291.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">F</text>
+    <circle cx="564.6698729810778" cy="244.59103465619134" r="3.8" fill="#15202b"/>
+    <circle cx="573.3301270189222" cy="249.59103465619134" r="3.8" fill="#15202b"/>
+    <circle cx="588.0" cy="275.0" r="3.8" fill="#15202b"/>
+    <circle cx="588.0" cy="285.0" r="3.8" fill="#15202b"/>
+    <circle cx="573.3301270189222" cy="310.4089653438087" r="3.8" fill="#15202b"/>
+    <circle cx="564.6698729810778" cy="315.4089653438087" r="3.8" fill="#15202b"/>
+    <text x="400.0" y="441.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">F</text>
+    <circle cx="435.4089653438087" cy="444.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="430.4089653438087" cy="453.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="405.0" cy="468.0" r="3.8" fill="#15202b"/>
+    <circle cx="395.0" cy="468.0" r="3.8" fill="#15202b"/>
+    <circle cx="369.5910346561913" cy="453.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="364.5910346561913" cy="444.6698729810778" r="3.8" fill="#15202b"/>
+    <text x="250.0" y="291.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">F</text>
+    <circle cx="235.33012701892218" cy="315.4089653438087" r="3.8" fill="#15202b"/>
+    <circle cx="226.66987298107782" cy="310.4089653438087" r="3.8" fill="#15202b"/>
+    <circle cx="212.0" cy="285.0" r="3.8" fill="#15202b"/>
+    <circle cx="212.0" cy="275.0" r="3.8" fill="#15202b"/>
+    <circle cx="226.6698729810778" cy="249.59103465619134" r="3.8" fill="#15202b"/>
+    <circle cx="235.33012701892216" cy="244.59103465619134" r="3.8" fill="#15202b"/>
+    <text x="400.0" y="141.0" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">F</text>
+    <circle cx="364.5910346561913" cy="115.3301270189222" r="3.8" fill="#15202b"/>
+    <circle cx="369.5910346561913" cy="106.6698729810778" r="3.8" fill="#15202b"/>
+    <circle cx="395.0" cy="92.0" r="3.8" fill="#15202b"/>
+    <circle cx="405.0" cy="92.0" r="3.8" fill="#15202b"/>
+    <circle cx="430.40896534380863" cy="106.66987298107779" r="3.8" fill="#15202b"/>
+    <circle cx="435.40896534380863" cy="115.33012701892218" r="3.8" fill="#15202b"/>
+  </g>
+  <text x="400" y="486" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">32 valence electrons · lines = shared pairs · dots = nonbonding electrons</text>
+</svg>

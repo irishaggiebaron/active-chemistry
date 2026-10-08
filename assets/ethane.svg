@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img">
+  <title>Ethane — C₂H₆</title>
+  <desc>Ethane — C₂H₆. Bonds are lines; paired dots are lone pairs. </desc>
+  <rect x="0" y="0" width="800" height="520" fill="white"/>
+  <text x="400" y="44" font-size="25" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Ethane — C₂H₆</text>
+  <text x="400" y="78" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Lewis electron structure · 2D connectivity, not a 3D shape</text>
+  <g transform="translate(80,45) scale(0.8)">
+    <line x1="335.0" y1="280.0" x2="465.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="285.0" y1="280.0" x2="195.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="310.0" y1="255.0" x2="310.0" y2="175.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="310.0" y1="305.0" x2="310.0" y2="385.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="515.0" y1="280.0" x2="605.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="490.0" y1="255.0" x2="490.0" y2="175.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <line x1="490.0" y1="305.0" x2="490.0" y2="385.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
+    <text x="310" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">C</text>
+    <text x="490" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">C</text>
+    <text x="170" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
+    <text x="310" y="161" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
+    <text x="310" y="421" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
+    <text x="630" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
+    <text x="490" y="161" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
+    <text x="490" y="421" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
+  </g>
+  <text x="400" y="486" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">14 valence electrons · lines = shared pairs · dots = nonbonding electrons</text>
+</svg>
