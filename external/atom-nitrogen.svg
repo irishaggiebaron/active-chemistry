@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img">
   <title>Nitrogen atom: Lewis symbol</title>
   <desc>Nitrogen atom: Lewis symbol. Bonds are lines; paired dots are lone pairs. Five valence electrons: one pair and three unpaired electrons.</desc>
   <rect x="0" y="0" width="800" height="520" fill="white"/>
-  <text x="400" y="44" font-size="25" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Nitrogen atom: Lewis symbol</text>
-  <text x="400" y="78" font-size="16" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Lewis electron structure · 2D connectivity, not a 3D shape</text>
   <g transform="translate(80,45) scale(0.8)">
     <text x="400" y="291" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">N</text>
     <circle cx="395.0" cy="242.0" r="3.8" fill="#15202b"/>
@@ -13,5 +11,4 @@
     <circle cx="400.0" cy="318.0" r="3.8" fill="#15202b"/>
     <circle cx="362.0" cy="280.0" r="3.8" fill="#15202b"/>
   </g>
-  <text x="400" y="486" font-size="15" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Five valence electrons: one pair and three unpaired electrons.</text>
-</svg>
+  </svg>

@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img">
   <title>Candidate drawing: water — incomplete</title>
   <desc>Candidate drawing: water — incomplete. Bonds are lines; paired dots are lone pairs. Deliberately incomplete candidate for an error-diagnosis exercise.</desc>
   <rect x="0" y="0" width="800" height="520" fill="white"/>
-  <text x="400" y="44" font-size="25" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Candidate drawing: water — incomplete</text>
-  <text x="400" y="78" font-size="17" text-anchor="middle" fill="#8c3c18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Exercise candidate — deliberately incorrect</text>
   <g transform="translate(80,45) scale(0.8)">
     <line x1="380.3123749748104" y1="270.40770654145274" x2="304.6876250251896" y2="329.59229345854726" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
     <line x1="419.6876250251896" y1="270.40770654145274" x2="495.3123749748104" y2="329.59229345854726" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
@@ -14,5 +12,4 @@
     <text x="285" y="356" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
     <text x="515" y="356" font-size="34" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">H</text>
   </g>
-  <text x="400" y="486" font-size="15" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Deliberately incomplete candidate for an error-diagnosis exercise.</text>
-</svg>
+  </svg>
