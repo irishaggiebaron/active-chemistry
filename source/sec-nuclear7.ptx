@@ -596,6 +596,21 @@
             </answer>
         </exercise>
 
+        <exercise xml:id="new-39-044">
+            <title>Conversions</title>
+            <statement>
+                <p>
+                    If a patient's body aborbs 3.1mGy of proton radiation, how many Sv did they absorb?  Is the person likely fine, soon to be sick, or soon to be dead?
+                </p>
+            </statement>
+            <answer>
+                <p>
+                    0.062 Sv;  Their cancer risk has likely been significantly increased, but they are below the 0.5 Sv threshold for radiation sickness.
+                </p>
+            </answer>
+            
+        </exercise>
+
         <exercise xml:id="new-39-05">
             <title>Absorbed dose</title>
 
