@@ -113,12 +113,11 @@
         </exercise>
 
         <exercise xml:id="new-36-07">
-            <title>Field behavior</title>
+            <title>Lacks a charge</title>
 
             <statement>
                 <p>
-                    Which of alpha, beta, positrons, protons, neutrons and gamma radiation is not
-                    deflected by an electric field?
+                    Which of alpha, beta, positrons, protons, neutrons and gamma radiation lacks an electrical charge?
                 </p>
             </statement>
 
@@ -208,8 +207,8 @@
 
             <statement>
                 <p>
-                    Phosphorus-32 emits a beta-minus particle.
-                    Predict the daughter and explain why the atomic number rises
+                    Phosphorus-32 emits a beta particle.
+                    Predict the resulting isotope and explain why the atomic number rises
                     although the mass number stays fixed.
                 </p>
             </statement>
@@ -217,8 +216,7 @@
             <answer>
                 <p>
                     The daughter is <m>^{32}_{16}\mathrm{S}</m>.
-                    A neutron converts to a proton, keeping total nucleon count
-                    unchanged.
+                    A neutron converts to a proton which affects the atomic number.  The mass of a proton an neutron are essentially the same, so the mass number doesn't change.
                 </p>
             </answer>
         </exercise>
@@ -230,15 +228,14 @@
                 <p>
                     A proposed positron decay is
                     <m>^{18}_{9}\mathrm{F}\rightarrow{}^{18}_{10}\mathrm{Ne}+{}^{0}_{1}\mathrm{e}</m>.
-                    Correct it by balancing atomic number.
+                    Correct it.
                 </p>
             </statement>
 
             <answer>
                 <p>
-                    The daughter must be <m>^{18}_{8}\mathrm{O}</m> because
+                    The resulting isotope must be <m>^{18}_{8}\mathrm{O}</m> because
                     <m>9=8+1</m>; mass number remains 18.
-                    A neutrino is omitted in this simplified notation.
                 </p>
             </answer>
         </exercise>
@@ -290,7 +287,7 @@
 
             <answer>
                 <p>
-                    Atomic-number sums differ; the daughter should have atomic
+                    Atomic-number sums differ; the product isotope should have atomic
                     number 7.
                 </p>
             </answer>
@@ -301,7 +298,7 @@
 
             <statement>
                 <p>
-                    A nucleus undergoes alpha decay then beta-minus decay.
+                    A nucleus undergoes alpha decay then beta decay.
                     What are the net changes in mass and atomic number?
                 </p>
             </statement>
@@ -318,7 +315,7 @@
 
             <statement>
                 <p>
-                    Complete
+                    Electron capture is a process that can occur in the nucleus of certain atoms.  It follows the same rules as radioactive decay, but in the opposite direction.  Complete
                     <m>^{7}_{4}\mathrm{Be}+{}^{0}_{-1}\mathrm{e}\rightarrow\underline{\hspace{1cm}}</m>
                     in simplified notation.
                 </p>
@@ -326,8 +323,7 @@
 
             <answer>
                 <p>
-                    <m>^{7}_{3}\mathrm{Li}</m>, with an emitted neutrino
-                    omitted.
+                    <m>^{7}_{3}\mathrm{Li}</m>
                 </p>
             </answer>
         </exercise>
@@ -337,8 +333,8 @@
 
             <statement>
                 <p>
-                    An alpha-decay daughter is <m>^{222}_{86}\mathrm{Rn}</m>.
-                    Find the parent nuclide.
+                    <m>^{222}_{86}\mathrm{Rn}</m> is produced from an alpha decay reaction.
+                    Find the parent isotope.
                 </p>
             </statement>
 
