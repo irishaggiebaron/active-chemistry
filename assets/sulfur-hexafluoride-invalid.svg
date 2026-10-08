@@ -1,10 +1,8 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="520" viewBox="0 0 800 520" role="img">
   <title>Candidate drawing: SF₆ — incorrect</title>
   <desc>Candidate drawing: SF₆ — incorrect. Bonds are lines; paired dots are lone pairs. Deliberate extra sulfur lone pair: this candidate exceeds its budget.</desc>
   <rect x="0" y="0" width="800" height="520" fill="white"/>
-  <text x="400" y="44" font-size="25" text-anchor="middle" fill="#15202b" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold">Candidate drawing: SF₆ — incorrect</text>
-  <text x="400" y="78" font-size="17" text-anchor="middle" fill="#8c3c18" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Exercise candidate — deliberately incorrect</text>
   <g transform="translate(80,45) scale(0.8)">
     <line x1="425.0" y1="280.0" x2="525.0" y2="280.0" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
     <line x1="412.5" y1="301.65063509461095" x2="462.5" y2="388.25317547305485" stroke="#15202b" stroke-width="3" stroke-linecap="round"/>
@@ -58,5 +56,4 @@
     <circle cx="513.0" cy="145.0961894323342" r="3.8" fill="#15202b"/>
     <circle cx="513.0" cy="155.0961894323342" r="3.8" fill="#15202b"/>
   </g>
-  <text x="400" y="486" font-size="15" text-anchor="middle" fill="#52606d" font-family="DejaVu Sans, Arial, sans-serif" font-weight="normal">Deliberate extra sulfur lone pair: this candidate exceeds its budget.</text>
-</svg>
+  </svg>

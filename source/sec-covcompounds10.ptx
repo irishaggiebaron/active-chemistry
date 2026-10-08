@@ -40,7 +40,7 @@
       <p>Explain why the displayed hydrogen molecule is stable with only two electrons around each hydrogen.</p>
       <figure xml:id="ch7-s1-e3-question-fig1">
         <caption>Hydrogen — H₂</caption>
-        <image source="../images/hydrogen.svg" width="70%">
+        <image source="hydrogen.svg" width="70%">
           <description>Hydrogen — H₂. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
@@ -58,7 +58,7 @@
       <p><m>\mathrm{Cl_{2}}</m> has one single bond, using two electrons, and three lone pairs on each chlorine, using twelve more.</p>
       <figure xml:id="ch7-s1-e4-answer-fig1">
         <caption>Chlorine — Cl₂</caption>
-        <image source="../images/chlorine.svg" width="70%">
+        <image source="chlorine.svg" width="70%">
           <description>Chlorine — Cl₂. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
@@ -70,7 +70,7 @@
       <p>Using carbon's Lewis symbol and the octet rule, predict its usual number of covalent bonds in a neutral molecule such as methane.</p>
       <figure xml:id="ch7-s1-e5-question-fig1">
         <caption>Carbon atom: Lewis symbol</caption>
-        <image source="../images/atom-carbon.svg" width="70%">
+        <image source="atom-carbon.svg" width="70%">
           <description>Carbon atom: Lewis symbol. Bonds are lines; paired dots are lone pairs. Four valence electrons, shown unpaired before bonding.</description>
         </image>
       </figure>
@@ -79,7 +79,7 @@
       <p>Four bonds. Sharing four pairs allows carbon's four valence electrons to participate in an octet.</p>
       <figure xml:id="ch7-s1-e5-answer-fig1">
         <caption>Methane — CH₄</caption>
-        <image source="../images/methane.svg" width="70%">
+        <image source="methane.svg" width="70%">
           <description>Methane — CH₄. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
@@ -91,7 +91,7 @@
       <p>In the displayed <m>\mathrm{HCl}</m> structure, distinguish electrons in the bond from electrons located only on chlorine.</p>
       <figure xml:id="ch7-s1-e6-question-fig1">
         <caption>Hydrogen chloride — HCl</caption>
-        <image source="../images/hydrogen-chloride.svg" width="70%">
+        <image source="hydrogen-chloride.svg" width="70%">
           <description>Hydrogen chloride — HCl. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
@@ -106,7 +106,7 @@
       <p>Use the oxygen molecule shown. Explain why each oxygen counts eight surrounding electrons although the molecule has only twelve valence electrons in total.</p>
       <figure xml:id="ch7-s1-e7-question-fig1">
         <caption>Oxygen — O₂</caption>
-        <image source="../images/oxygen.svg" width="70%">
+        <image source="oxygen.svg" width="70%">
           <description>Oxygen — O₂. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
@@ -124,7 +124,7 @@
       <p>The symbol has two dots forming one pair. Its first shell is already full.</p>
       <figure xml:id="ch7-s1-e8-answer-fig1">
         <caption>Helium atom: Lewis symbol</caption>
-        <image source="../images/atom-helium.svg" width="70%">
+        <image source="atom-helium.svg" width="70%">
           <description>Helium atom: Lewis symbol. Bonds are lines; paired dots are lone pairs. Two valence electrons fill the first shell.</description>
         </image>
       </figure>
@@ -139,7 +139,7 @@
       <p>Pairs may remain nonbonding. Nitrogen commonly forms three bonds while retaining one lone pair; its five valence electrons do not require five bonds.</p>
       <figure xml:id="ch7-s1-e9-answer-fig1">
         <caption>Ammonia — NH₃</caption>
-        <image source="../images/ammonia.svg" width="70%">
+        <image source="ammonia.svg" width="70%">
           <description>Ammonia — NH₃. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
@@ -273,7 +273,7 @@
       <p>Carbon can make four bonds; hydrogen normally makes only one and is terminal.</p>
       <figure xml:id="ch7-s2-e2-answer-fig1">
         <caption>Methane — CH₄</caption>
-        <image source=".svg" width="70%">
+        <image source="methane.svg" width="70%">
           <description>Methane — CH₄. Bonds are lines; paired dots are lone pairs. </description>
         </image>
       </figure>
