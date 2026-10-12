@@ -5,7 +5,7 @@
 	<title>Classes of chemical reactions</title>
 
 	<p>
-		A chemical reaction is the process of converting one or more pure substances
+		A <term><xref ref="def-chemicalreaction" text="custom">chemical reaction</xref></term> is the process of converting one or more pure substances
 		into others.
 		In order to do this, nature does not create or destroy atoms (that only
 		happens in nuclear reactions, as is covered in chapter 5).
@@ -63,7 +63,7 @@
 	</p>
 
 	<p>
-		<em>Type 1: Addition reaction (sometimes called a combination reaction):</em> Two or
+		<em>Type 1: <term><xref ref="def-additionreaction" text="custom">Addition reaction</xref></term> (sometimes called a combination reaction):</em> Two or
 		more pure substances combine to make one.
 		Example:
 	</p>
@@ -72,7 +72,7 @@
 		<me>A + B \rightarrow AB</me>
 	</p>
 	<p>
-		<em>Type 2: Decomposition reaction:</em> One substance breaks apart into two or more
+		<em>Type 2: <term><xref ref="def-decompositionreaction" text="custom">Decomposition reaction:</xref></term></em> One substance breaks apart into two or more
 		substances.
 		Example:
 	</p>
