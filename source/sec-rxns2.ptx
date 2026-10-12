@@ -110,19 +110,20 @@
 				</statement>
 
 				<answer>
-					
-						<p>
-							
-								Ionic equation: <m>2K^+ (aq) + CO_3^{2-} (aq) + Zn^{2+} (aq) + 2Br^- (aq) \rightarrow
+					<p>
+						Ionic equation:
+						<m>2K^+ (aq) + CO_3^{2-} (aq) + Zn^{2+} (aq) + 2Br^- (aq) \rightarrow
 								ZnCO_3 (s) + 2K^+ (aq) + 2Br^- (aq)
 							</m>
-						</p> <p>
-							Net ionic: <m>
+					</p>
+
+					<p>
+						Net ionic:
+						<m>
 								CO_3^{2-} (aq) + Zn^{2+} (aq) \rightarrow
 								ZnCO_3 (s)
 							</m>
-						</p>
-					
+					</p>
 				</answer>
 			</exercise>
 
@@ -136,12 +137,16 @@
 				<answer>
 					<p>
 						<p>
-							Ionic equation: <m>
+							Ionic equation:
+							<m>
 								2Cs(s) + Fe^{2+} (aq) + 2Cl^- (aq) \rightarrow 2Cs^+ (aq) + 2Cl^-
 								(aq) + Fe(s)
 							</m>
-						</p> 
-						<p>Net ionic: <m>2Cs(s) + Fe^{2+} (aq) \rightarrow 2Cs^+ (aq) + Fe(s)</m></p>
+						</p>
+
+						<p>
+							Net ionic: <m>2Cs(s) + Fe^{2+} (aq) \rightarrow 2Cs^+ (aq) + Fe(s)</m>
+						</p>
 					</p>
 				</answer>
 			</exercise>
@@ -149,14 +154,22 @@
 			<exercise>
 				<statement>
 					<p>
-						F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)
+						<m>F_2 (g) + 2NaCl(aq) \rightarrow Cl_2 (g) + 2NaF (aq)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						Ionic equation: F2 (g) + 2Na+ (aq ) + 2Cl − (aq ) → Cl2 (g) + 2Na+ (aq ) +
-						2F − (aq) Net ionic: F2 (g) + 2Cl − (aq ) → Cl2 (g) + 2F − (aq)
+						<p>
+							<m>
+								Ionic equation: F_2 (g) + 2Na^+ (aq) + 2Cl^- (aq) \rightarrow Cl_2 (g) + 2Na^+ (aq) +
+								2F^− (aq)
+							</m>
+						</p>
+
+						<p>
+							Net ionic: <m>F_2 (g) + 2Cl^- (aq) \rightarrow Cl_2 (g) + 2F^- (aq)</m>
+						</p>
 					</p>
 				</answer>
 			</exercise>
