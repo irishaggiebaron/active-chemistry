@@ -106,7 +106,7 @@
 			<exercise>
 				<statement>
 					<p>
-						H2 (g) + Cl2 (g ) → 2HCl (g)
+						<m>H_2 (g) + Cl_2 (g) \rightarrow 2HCl (g)</m>
 					</p>
 				</statement>
 
@@ -120,7 +120,7 @@
 			<exercise>
 				<statement>
 					<p>
-						H2 CO3 (s) → H2 O(g) + CO2 (g)
+						<m>H_2CO_3 (s) \rightarrow H_2O(g) + CO_2 (g)</m>
 					</p>
 				</statement>
 
@@ -149,7 +149,7 @@
 
 				<answer>
 					<p>
-						2Fe(OH)3 (s) → Fe2 O3 (s) + 3H2 O(l)
+						<m>2Fe(OH)_3 (s) \rightarrow Fe_2O_3 (s) + 3H_2O(l)</m>
 					</p>
 				</answer>
 			</exercise>
@@ -164,7 +164,7 @@
 
 				<answer>
 					<p>
-						2AgBr(s) → 2Ag(s) + Br2 (l)
+						<m>2AgBr(s) \rightarrow 2Ag(s) + Br_2 (l)</m>
 					</p>
 				</answer>
 			</exercise>
@@ -179,7 +179,7 @@
 
 				<answer>
 					<p>
-						2N2 (g) + 3H2 → 2NH3 (g)
+						<m>2N_2 (g) + 3H_2 \rightarrow 2NH_3 (g)</m>
 					</p>
 				</answer>
 			</exercise>
