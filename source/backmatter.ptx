@@ -993,6 +993,55 @@
     <p>
       <term>Chapter 8</term>
     </p>
+ <p>
+      <definition xml:id="def-chemicalreaction">
+        <statement>
+          <p>
+            <term>Chemical reaction:</term> The process of converting one or more pure substances into different pure substances
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+ <p>
+      <definition xml:id="def-additionreaction">
+        <statement>
+          <p>
+            <term>Addition reaction:</term> A chemical reaction in which 2 or more pure substances combine to form one pure substance.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+     <p>
+      <definition xml:id="def-decompositionreaction">
+        <statement>
+          <p>
+            <term>Decomposition reaction:</term> A chemical reaction in which one compound breaks apart into 2 or more different pure substances.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+     <p>
+      <definition xml:id="def-ionicequation">
+        <statement>
+          <p>
+            <term>Ionic equation:</term> A chemical equation in which all ionic compounds that are dissolved into solution are represented as their component ions
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+     <p>
+      <definition xml:id="def-netionicequation">
+        <statement>
+          <p>
+            <term>Net ionic equation:</term> An ionic equation in which the ions that don't react or change are removed from the equation
+          </p>
+        </statement>
+      </definition>
+    </p>
 
     <p>
       <term>Chapter 9</term>
