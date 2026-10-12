@@ -15,9 +15,10 @@
 		both the cations and anions forming bonds with the dipole of water.
 		A better way of depicting this in a chemical reaction would be to instead
 		write NaCl (aq) as <m>Na^+ (aq) + Cl^- (aq)</m>.
-		This is what we do when we write an <term><xref ref="def-ionicequation" text="custom">ionic equation</xref></term>; all of the reactants and
-		products that are aqueous are instead written as their ions that are dissolved
-		in water.
+		This is what we do when we write an
+		<term><xref ref="def-ionicequation" text="custom">ionic equation</xref></term>;
+		all of the reactants and products that are aqueous are instead written as
+		their ions that are dissolved in water.
 		Two important notes:
 	</p>
 
@@ -30,13 +31,15 @@
 	</p>
 
 	<p>
-		Both of these rules are illustrated when we write <m>Na_2SO_4 (aq)</m> as <m>2Na^+ + SO_4^{2-}</m>
-		.
+		Both of these rules are illustrated when we write <m>Na_2SO_4 (aq)</m> as
+		<m>2Na^+ + SO_4^{2-}</m>.
 	</p>
 
 	<p>
-		A net ionic equation is an ionic equation that only lists the ions that
-		actually react in the reaction.
+		A
+		<term><xref ref="def-netionicequation" text="custom">net ionic equation</xref></term>
+		is an ionic equation that only lists the ions that actually react in the
+		reaction.
 		In order to write a net ionic equation we begin with an ionic equation and
 		then delete any ions that are aqueous in both the reactants and products.
 		These ions are called spectator ions because they don’t participate in the
@@ -45,21 +48,27 @@
 	</p>
 
 	<p>
-		Standard reaction equation: <me>
+		Standard reaction equation:
+		<me>
 			Na_3PO_4 (aq) + FeCl_3 (aq) \rightarrow FePO_4 (s) + 3NaCl (aq)
 		</me>
 	</p>
 
 	<p>
-		Ionic equation: <me>
+		Ionic equation:
+		<me>
 			3Na^+ (aq) + PO_4^{3-} (aq) + Fe^{3+} (aq) + 3Cl^- (aq) \rightarrow FePO_4 (s) +
 			3Na^+ (aq) + 3Cl^- (aq)
 		</me>
 	</p>
 
 	<p>
-		Net ionic equation: <me>Fe^{3+} (aq) + PO_4^{3-} (aq) \rightarrow FePO_4 (s)</me>
+		Net ionic equation:
+		<me>
+			Fe^{3+} (aq) + PO_4^{3-} (aq) \rightarrow FePO_4 (s)
+		</me>
 	</p>
+
 	<exercises>
 		<title>Exercise 3</title>
 
@@ -73,15 +82,22 @@
 			<exercise>
 				<statement>
 					<p>
-						Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )
+						<m>Na_3PO_4 (aq) + FeCl_3 (aq) \rightarrow FePO_4 (s) + 3NaCl (aq)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						Ionic equation: 3Na+ (aq ) + PO43− (aq ) + Fe 3+ (aq ) + 3Cl − (aq ) →
-						FePO4 (s) + 3Na+ (aq ) + 3Cl − (aq ) Net ionic: PO43− (aq ) + Fe 3+ (aq )
-						→ FePO4 (s)
+						Ionic equation:
+						<m>
+							3Na^+ (aq) + PO_4^{3-} (aq) + Fe^{3+} (aq) + 3Cl^- (aq) \rightarrow
+							FePO_4 (s) + 3Na^+ (aq) + 3Cl^- (aq) </m>
+					</p>
+
+					<p>
+						Net ionic:
+						<m> PO_4^{3-} (aq) + Fe^{3+} (aq) \rightarrow FePO_4 (s)
+						</m>
 					</p>
 				</answer>
 			</exercise>
@@ -89,30 +105,43 @@
 			<exercise>
 				<statement>
 					<p>
-						K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )
+						<m>K_2CO_3 (aq) + ZnBr_2 (aq) \rightarrow ZnCO_3 (s) + 2KBr (aq)</m>
 					</p>
 				</statement>
 
 				<answer>
-					<p>
-						Ionic equation: 2K + (aq ) + CO32− (aq ) + Zn2+ (aq ) + 2Br − (aq ) →
-						ZnCO3 (s) + 2K + (aq ) + 2Br − (aq ) Net ionic: CO32− (aq ) + Zn2+ (aq ) →
-						ZnCO3 (s)
-					</p>
+					
+						<p>
+							
+								Ionic equation: <m>2K^+ (aq) + CO_3^{2-} (aq) + Zn^{2+} (aq) + 2Br^- (aq) \rightarrow
+								ZnCO_3 (s) + 2K^+ (aq) + 2Br^- (aq)
+							</m>
+						</p> <p>
+							Net ionic: <m>
+								CO_3^{2-} (aq) + Zn^{2+} (aq) \rightarrow
+								ZnCO_3 (s)
+							</m>
+						</p>
+					
 				</answer>
 			</exercise>
 
 			<exercise>
 				<statement>
 					<p>
-						2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)
+						<m>2Cs(s) + FeCl_2 (aq) \rightarrow 2CsCl(aq) + Fe(s)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						Ionic equation: 2Cs(s) + Fe 2+ (aq ) + 2Cl − (aq ) → 2Cs + (aq ) + 2Cl −
-						(aq) + Fe(s) Net ionic: 2Cs(s) + Fe 2+ (aq ) → 2Cs + (aq ) + Fe(s)
+						<p>
+							Ionic equation: <m>
+								2Cs(s) + Fe^{2+} (aq) + 2Cl^- (aq) \rightarrow 2Cs^+ (aq) + 2Cl^-
+								(aq) + Fe(s)
+							</m>
+						</p> 
+						<p>Net ionic: <m>2Cs(s) + Fe^{2+} (aq) \rightarrow 2Cs^+ (aq) + Fe(s)</m></p>
 					</p>
 				</answer>
 			</exercise>
