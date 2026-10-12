@@ -7354,6 +7354,33 @@ var ptx_lunr_docs = [
   "body": " Classes of chemical reactions  A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:     In this example, compounds AX and BY are the reactants. AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:     In this example, the reactants and _are reacting to form water ( )_. In front of the chemical formulas, there are sometimes additional numbers called coefficients. These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:   Type 1: Addition reaction (sometimes called a combination reaction): Two or more pure substances combine to make one. Example:      Type 2: Decomposition reaction: One substance breaks apart into two or more substances. Example:     An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:      Exercise 1    Classify the following reactions as addition (combination) reactions or decomposition reactions:          Addition           Decomposition       Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:     Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water           Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.           Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride           "
 },
 {
+  "id": "sec-rxns1-2",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "chemical reaction "
+},
+{
+  "id": "sec-rxns1-9",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-9",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Addition reaction "
+},
+{
+  "id": "sec-rxns1-11",
+  "level": "2",
+  "url": "sec-rxns1.html#sec-rxns1-11",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Decomposition reaction: "
+},
+{
   "id": "sec-rxns1-15-2-2",
   "level": "2",
   "url": "sec-rxns1.html#sec-rxns1-15-2-2",
@@ -7405,7 +7432,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.2",
   "title": "Ionic equations and Net Ionic equations",
-  "body": " Ionic equations and Net Ionic equations  When the reactants in a reaction are aqueous, the standard way of writing a reaction works, but depending on what we’re trying to show, we can sometimes do better. For instance, writing NaCl (aq) in a reaction tells us that sodium chloride is dissolved in water. It doesn’t show us what has happened to the sodium chloride through. When ionic compounds dissolve in water, they dissociate into their ions, with both the cations and anions forming bonds with the dipole of water. A better way of depicting this in a chemical reaction would be to instead write NaCl (aq) as Na+ (aq ) + Cl − (aq ). This is what we do when we write an ionic equation; all of the reactants and products that are aqueous are instead written as their ions that are dissolved in water. Two important notes:  1. If there is more than one ion, then this is specified with a coefficient in front of the ion...NOT with a subscript after it. 2. Polyatomic ions will not break apart  Both of these rules are illustrated when we write Na2 SO4 (aq) as 2Na+ + SO42− .  A net ionic equation is an ionic equation that only lists the ions that actually react in the reaction. In order to write a net ionic equation we begin with an ionic equation and then delete any ions that are aqueous in both the reactants and products. These ions are called spectator ions because they don’t participate in the reaction themselves. See the example below:  Standard reaction equation: Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq)  Ionic equation: 3Na+ (aq) + PO43− (aq) + Fe 3+ (aq) + 3Cl− (aq) → FePO4 (s) + 3Na+ (aq) + 3Cl − (aq)  Net ionic equation: Fe 3+ (aq ) + PO43− (aq ) → FePO4 (s)   Exercise 3    Write ionic and net ionic equations for the following reactions     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Ionic equation: 3Na+ (aq ) + PO43− (aq ) + Fe 3+ (aq ) + 3Cl − (aq ) → FePO4 (s) + 3Na+ (aq ) + 3Cl − (aq ) Net ionic: PO43− (aq ) + Fe 3+ (aq ) → FePO4 (s)      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Ionic equation: 2K + (aq ) + CO32− (aq ) + Zn2+ (aq ) + 2Br − (aq ) → ZnCO3 (s) + 2K + (aq ) + 2Br − (aq ) Net ionic: CO32− (aq ) + Zn2+ (aq ) → ZnCO3 (s)      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Ionic equation: 2Cs(s) + Fe 2+ (aq ) + 2Cl − (aq ) → 2Cs + (aq ) + 2Cl − (aq) + Fe(s) Net ionic: 2Cs(s) + Fe 2+ (aq ) → 2Cs + (aq ) + Fe(s)      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Ionic equation: F2 (g) + 2Na+ (aq ) + 2Cl − (aq ) → Cl2 (g) + 2Na+ (aq ) + 2F − (aq) Net ionic: F2 (g) + 2Cl − (aq ) → Cl2 (g) + 2F − (aq)      "
+  "body": " Ionic equations and Net Ionic equations  When the reactants in a reaction are aqueous, the standard way of writing a reaction works, but depending on what we’re trying to show, we can sometimes do better. For instance, writing NaCl (aq) in a reaction tells us that sodium chloride is dissolved in water. It doesn’t show us what has happened to the sodium chloride through. When ionic compounds dissolve in water, they dissociate into their ions, with both the cations and anions forming bonds with the dipole of water. A better way of depicting this in a chemical reaction would be to instead write NaCl (aq) as . This is what we do when we write an ionic equation ; all of the reactants and products that are aqueous are instead written as their ions that are dissolved in water. Two important notes:  1. If there is more than one ion, then this is specified with a coefficient in front of the ion...NOT with a subscript after it. 2. Polyatomic ions will not break apart  Both of these rules are illustrated when we write as .  A net ionic equation is an ionic equation that only lists the ions that actually react in the reaction. In order to write a net ionic equation we begin with an ionic equation and then delete any ions that are aqueous in both the reactants and products. These ions are called spectator ions because they don’t participate in the reaction themselves. See the example below:  Standard reaction equation:   Ionic equation:   Net ionic equation:    Exercise 3    Write ionic and net ionic equations for the following reactions          Ionic equation:   Net ionic:            Ionic equation:   Net ionic:             Ionic equation:   Net ionic:                 Net ionic:        "
+},
+{
+  "id": "sec-rxns2-2",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "ionic equation "
+},
+{
+  "id": "sec-rxns2-5",
+  "level": "2",
+  "url": "sec-rxns2.html#sec-rxns2-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "net ionic equation "
 },
 {
   "id": "sec-rxns2-9-2-2",
@@ -7414,7 +7459,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.2.1",
   "title": "",
-  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Ionic equation: 3Na+ (aq ) + PO43− (aq ) + Fe 3+ (aq ) + 3Cl − (aq ) → FePO4 (s) + 3Na+ (aq ) + 3Cl − (aq ) Net ionic: PO43− (aq ) + Fe 3+ (aq ) → FePO4 (s)   "
+  "body": "       Ionic equation:   Net ionic:    "
 },
 {
   "id": "sec-rxns2-9-2-3",
@@ -7423,7 +7468,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.2.2",
   "title": "",
-  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Ionic equation: 2K + (aq ) + CO32− (aq ) + Zn2+ (aq ) + 2Br − (aq ) → ZnCO3 (s) + 2K + (aq ) + 2Br − (aq ) Net ionic: CO32− (aq ) + Zn2+ (aq ) → ZnCO3 (s)   "
+  "body": "       Ionic equation:   Net ionic:    "
 },
 {
   "id": "sec-rxns2-9-2-4",
@@ -7432,7 +7477,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.2.3",
   "title": "",
-  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Ionic equation: 2Cs(s) + Fe 2+ (aq ) + 2Cl − (aq ) → 2Cs + (aq ) + 2Cl − (aq) + Fe(s) Net ionic: 2Cs(s) + Fe 2+ (aq ) → 2Cs + (aq ) + Fe(s)   "
+  "body": "        Ionic equation:   Net ionic:     "
 },
 {
   "id": "sec-rxns2-9-2-5",
@@ -7441,7 +7486,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.2.4",
   "title": "",
-  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Ionic equation: F2 (g) + 2Na+ (aq ) + 2Cl − (aq ) → Cl2 (g) + 2Na+ (aq ) + 2F − (aq) Net ionic: F2 (g) + 2Cl − (aq ) → Cl2 (g) + 2F − (aq)   "
+  "body": "           Net ionic:     "
 },
 {
   "id": "sec-rxns3",
