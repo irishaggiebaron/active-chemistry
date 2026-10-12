@@ -7351,7 +7351,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.1",
   "title": "Classes of chemical reactions",
-  "body": " Classes of chemical reactions  A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:  AX + BY → AB + XY  In this example, compounds AX and BY are the reactants. AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:  2H2 (g) + O2 (g) → 2H2 O (l)  In this example, the reactants H2 and O2 are reacting to form water (H2O). In front of the chemical formulas, there are sometimes additional numbers called coefficients. These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:  Type 1: Addition reaction (sometimes called a combination reaction): Two or more pure substances combine to make one. Example:  A + B → AB  Type 2: Decomposition reaction: One substance breaks apart into two or more substances. Example:  AX → A + X  An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:  H2 (g), N2 (g), O2 (g), F2 (g), Cl2 (g), Br2 (l ), I2 (s)   Exercise 1    Classify the following reactions as addition (combination) reactions or decomposition reactions:     H2 (g) + Cl2 (g ) → 2HCl (g)    Addition      H2 CO3 (s) → H2 O(g) + CO2 (g)    Decomposition       Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:     Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water    2Fe(OH)3 (s) → Fe2 O3 (s) + 3H2 O(l)      Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.    2AgBr(s) → 2Ag(s) + Br2 (l)      Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride    2N2 (g) + 3H2 → 2NH3 (g)      "
+  "body": " Classes of chemical reactions  A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:     In this example, compounds AX and BY are the reactants. AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:     In this example, the reactants and _are reacting to form water ( )_. In front of the chemical formulas, there are sometimes additional numbers called coefficients. These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:   Type 1: Addition reaction (sometimes called a combination reaction): Two or more pure substances combine to make one. Example:      Type 2: Decomposition reaction: One substance breaks apart into two or more substances. Example:     An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:      Exercise 1    Classify the following reactions as addition (combination) reactions or decomposition reactions:          Addition           Decomposition       Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:     Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water           Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.           Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride           "
 },
 {
   "id": "sec-rxns1-15-2-2",
@@ -7360,7 +7360,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.1.1",
   "title": "",
-  "body": "  H2 (g) + Cl2 (g ) → 2HCl (g)    Addition   "
+  "body": "       Addition   "
 },
 {
   "id": "sec-rxns1-15-2-3",
@@ -7369,7 +7369,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.1.2",
   "title": "",
-  "body": "  H2 CO3 (s) → H2 O(g) + CO2 (g)    Decomposition   "
+  "body": "       Decomposition   "
 },
 {
   "id": "sec-rxns1-15-3-2",
@@ -7378,7 +7378,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.1.3",
   "title": "",
-  "body": "  Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water    2Fe(OH)3 (s) → Fe2 O3 (s) + 3H2 O(l)   "
+  "body": "  Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water        "
 },
 {
   "id": "sec-rxns1-15-3-3",
@@ -7387,7 +7387,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.1.4",
   "title": "",
-  "body": "  Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.    2AgBr(s) → 2Ag(s) + Br2 (l)   "
+  "body": "  Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.        "
 },
 {
   "id": "sec-rxns1-15-3-4",
@@ -7396,7 +7396,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.1.5",
   "title": "",
-  "body": "  Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride    2N2 (g) + 3H2 → 2NH3 (g)   "
+  "body": "  Two molecules of nitrogen gas combine with three molecules of hydrogen gas to produce two molecules of gasseous nitrogen trihydride        "
 },
 {
   "id": "sec-rxns2",
