@@ -16,7 +16,7 @@
 	</p>
 
 	<p>
-		AX + BY → AB + XY
+		<me>AX + BY \rightarrow AB + XY</me>
 	</p>
 
 	<p>
@@ -35,11 +35,11 @@
 	</p>
 
 	<p>
-		2H2 (g) + O2 (g) → 2H2 O (l)
+		<me>2H_2 (g) + O_2 (g) → 2H_2O (l)</me>
 	</p>
 
 	<p>
-		In this example, the reactants H2 and O2 are reacting to form water (H2O).
+		In this example, the reactants <m>H_2</m> and <m>O_2</m> _are reacting to form water (<m>H_2O</m>)_.
 		In front of the chemical formulas, there are sometimes additional numbers
 		called coefficients.
 		These numbers are used to tell how many of those elements or compounds are
@@ -69,9 +69,8 @@
 	</p>
 
 	<p>
-		A + B → AB
+		<me>A + B \rightarrow AB</me>
 	</p>
-
 	<p>
 		Type 2: Decomposition reaction: One substance breaks apart into two or more
 		substances.
@@ -79,7 +78,7 @@
 	</p>
 
 	<p>
-		AX → A + X
+		<me>AX \rightarrow A + X</me>
 	</p>
 
 	<p>
@@ -91,7 +90,7 @@
 	</p>
 
 	<p>
-		H2 (g), N2 (g), O2 (g), F2 (g), Cl2 (g), Br2 (l ), I2 (s)
+		<me>H_2 (g), N_2 (g), O_2 (g), F_2 (g), Cl_2 (g), Br_2 (l), I_2 (s)</me>
 	</p>
 	<exercises>
 		<title>Exercise 1</title>
