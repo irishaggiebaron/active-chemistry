@@ -14,8 +14,8 @@
 		When ionic compounds dissolve in water, they dissociate into their ions, with
 		both the cations and anions forming bonds with the dipole of water.
 		A better way of depicting this in a chemical reaction would be to instead
-		write NaCl (aq) as Na+ (aq ) + Cl − (aq ).
-		This is what we do when we write an ionic equation; all of the reactants and
+		write NaCl (aq) as <m>Na^+ (aq) + Cl^- (aq)</m>.
+		This is what we do when we write an <term><xref ref="def-ionicequation" text="custom">ionic equation</xref></term>; all of the reactants and
 		products that are aqueous are instead written as their ions that are dissolved
 		in water.
 		Two important notes:
@@ -30,7 +30,7 @@
 	</p>
 
 	<p>
-		Both of these rules are illustrated when we write Na2 SO4 (aq) as 2Na+ + SO42−
+		Both of these rules are illustrated when we write <m>Na_2SO_4 (aq)</m> as <m>2Na^+ + SO_4^{2-}</m>
 		.
 	</p>
 
@@ -45,17 +45,20 @@
 	</p>
 
 	<p>
-		Standard reaction equation: Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl
-		(aq)
+		Standard reaction equation: <me>
+			Na_3PO_4 (aq) + FeCl_3 (aq) \rightarrow FePO_4 (s) + 3NaCl (aq)
+		</me>
 	</p>
 
 	<p>
-		Ionic equation: 3Na+ (aq) + PO43− (aq) + Fe 3+ (aq) + 3Cl− (aq) → FePO4 (s) +
-		3Na+ (aq) + 3Cl − (aq)
+		Ionic equation: <me>
+			3Na^+ (aq) + PO_4^{3-} (aq) + Fe^{3+} (aq) + 3Cl^- (aq) \rightarrow FePO_4 (s) +
+			3Na^+ (aq) + 3Cl^- (aq)
+		</me>
 	</p>
 
 	<p>
-		Net ionic equation: Fe 3+ (aq ) + PO43− (aq ) → FePO4 (s)
+		Net ionic equation: <me>Fe^{3+} (aq) + PO_4^{3-} (aq) \rightarrow FePO_4 (s)</me>
 	</p>
 	<exercises>
 		<title>Exercise 3</title>
