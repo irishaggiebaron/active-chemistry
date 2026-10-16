@@ -3741,8 +3741,8 @@ var ptx_lunr_docs = [
   "url": "sec-nuclear1.html",
   "type": "Section",
   "number": "5.1",
-  "title": "Types of Radioactivity",
-  "body": " Types of Radioactivity  Summary:    What are radiation and radioactivity?    What types of radiation can be emitted from a radioactive isotope?    Know the names, charges, and masses of the different forms of radiation    In this chapter, we’ll be exploring radiation and radioactivity . Radiation is the emission of energy from an object in the form of electromagnetic radiation or in the form of parts of atoms. Importantly, radiation does not imply a specific cause for the energy emission. Radioactivity produces radiation, but from a very specific source. In radioactivity, an atom has an unstable nucleus, and that nucleus becomes stable, releasing radiation in the process. There are other sources of radiation besides radioactivity. Radioactivity will always produce radiation.  In the last chapter, we learned about isotopes. To review, isotopes are atoms of an element that have different numbers of neutrons and thus different mass numbers. Some isotopes are stable, whereas other isotopes have unstable nuclei. These nuclei can stabilize themselves by emitting energy or particles. This is called radioactive decay. Radioactive decay causes that isotope to emit radiation. The forms that we’ll be learning about because of their relevance to medicine are gamma rays, beta particles, alpha particles, neutrons, protons, and positrons.   Visualizing radiation from the radioactive element radon      Gamma rays are a form of electromagnetic radiation, or light energy. Out of the different forms of electromagnetic radiation, gamma rays have the highest energies. Some radioactive isotopes emit gamma radiation in the form of a photon with the energy of a gamma ray. Gamma-ray emission is caused by an unstable nucleus relaxing to a lower-energy state and emitting the lost energy as light. Unlike the other types of radioactive emission, gamma rays are massless and lack charge.  Other radioactive isotopes decay and emit particles. These particles include alpha particles, beta particles, positrons, protons, and neutrons. Alpha particles have the greatest mass and are essentially helium nuclei, consisting of 2 protons and 2 neutrons. Beta particles are essentially electrons ejected from the nucleus as part of radioactive emission rather than from the electron cloud. Positrons are antimatter particles. They have the same mass as an electron but are positively charged. When positrons collide with electrons, they annihilate one another and their mass is turned into energy in the form of gamma rays. Protons and neutrons have the same masses and charges discussed previously, even when they are ejected from an atom as part of radioactive decay.   Exercises:    Do the following particles have mass? If they do, round their mass to the nearest amu.     Gamma ray    No      Beta-particle    Yes, 0 amu      Proton    Yes, 1 amu      Alpha particle    Yes, 4 amu      Neutron    Yes, 1 amu      Positron    Yes, 0 amu       What is the charge of the following particles?     Gamma ray           Beta-particle           Proton           Alpha particle           Neutron           Positron            Make a table containing the different types of radiation covered in this chapter, along with their masses and charges.    You can do this!      How many protons and neutrons are in the following nuclei?     Cobalt-57    27 protons, 30 neutrons      Uranium-238    92 protons, 146 neutrons      Fluorine-18    9 protons, 9 neutrons      "
+  "title": "Radioactivity and Radiation",
+  "body": " Radioactivity and Radiation  Summary:    What are radiation and radioactivity?    What types of radiation can be emitted from a radioactive isotope?    Know the names, charges, and masses of the different forms of radiation    In this chapter, we’ll be exploring radiation and radioactivity . Radiation is the emission of energy from an object in the form of electromagnetic radiation or in the form of parts of atoms. Importantly, radiation does not imply a specific cause for the energy emission. Radioactivity produces radiation, but from a very specific source. In radioactivity, an atom has an unstable nucleus, and that nucleus becomes stable, releasing radiation in the process. There are other sources of radiation besides radioactivity. Radioactivity will always produce radiation.  In the last chapter, we learned about isotopes. To review, isotopes are atoms of an element that have different numbers of neutrons and thus different mass numbers. Some isotopes are stable, whereas other isotopes have unstable nuclei. These nuclei can stabilize themselves by emitting energy or particles. This is called radioactive decay. Radioactive decay causes that isotope to emit radiation. The forms that we’ll be learning about because of their relevance to medicine are gamma rays, beta particles, alpha particles, neutrons, protons, and positrons.   Visualizing radiation from the radioactive element radon      Gamma rays are a form of electromagnetic radiation, or light energy. Out of the different forms of electromagnetic radiation, gamma rays have the highest energies. Some radioactive isotopes emit gamma radiation in the form of a photon with the energy of a gamma ray. Gamma-ray emission is caused by an unstable nucleus relaxing to a lower-energy state and emitting the lost energy as light. Unlike the other types of radioactive emission, gamma rays are massless and lack charge.  Other radioactive isotopes decay and emit particles. These particles include alpha particles, beta particles, positrons, protons, and neutrons. Alpha particles have the greatest mass and are essentially helium nuclei, consisting of 2 protons and 2 neutrons. Beta particles are essentially electrons ejected from the nucleus as part of radioactive emission rather than from the electron cloud. Positrons are antimatter particles. They have the same mass as an electron but are positively charged. When positrons collide with electrons, they annihilate one another and their mass is turned into energy in the form of gamma rays. Protons and neutrons have the same masses and charges discussed previously, even when they are ejected from an atom as part of radioactive decay.   Exercises:    Do the following particles have mass? If they do, round their mass to the nearest amu.     Gamma ray    No      Beta-particle    Yes, 0 amu      Proton    Yes, 1 amu      Alpha particle    Yes, 4 amu      Neutron    Yes, 1 amu      Positron    Yes, 0 amu       What is the charge of the following particles?     Gamma ray           Beta-particle           Proton           Alpha particle           Neutron           Positron            Make a table containing the different types of radiation covered in this chapter, along with their masses and charges.    You can do this!      How many protons and neutrons are in the following nuclei?     Cobalt-57    27 protons, 30 neutrons      Uranium-238    92 protons, 146 neutrons      Fluorine-18    9 protons, 9 neutrons      "
 },
 {
   "id": "sec-nuclear1-4",
@@ -7822,56 +7822,11 @@ var ptx_lunr_docs = [
   "body": "  Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent   "
 },
 {
-  "id": "sec-rxns7",
-  "level": "1",
-  "url": "sec-rxns7.html",
-  "type": "Section",
-  "number": "8.7",
-  "title": "Mass-mass relationships in chemical reactions",
-  "body": " Mass-mass relationships in chemical reactions  oxygen gas), we don’t get a mass of 2 grams of water; we get about 18 grams of water! Don’t the coefficients from the balanced reaction mean that for every 2 grams of hydrogen gas, we should get 2 grams of water?! No. The coefficients only apply when we’re counting things (numbers of molecules or moles of molecules); they do NOT apply to mass. Why not? The reason is that different molecules have different masses. We can illustrate this with a relatable example:  For the reaction, 4 tires + 1 car frame → 1 car, if each tire weighs 40 pounds, would you expect the car to weigh only 160 pounds? No. The reason is that the car frame adds mass. The car will have the mass of those tires, but also extra mass from the frame. Similarly, water has added mass from oxygen and thus the 2 grams of hydrogen gas end up producing a larger mass of water.  The previous section allows us to determine the number of moles of product that can be produced in a chemical reaction if we are given the number of moles of reactants. In a laboratory setting, we don’t have any tool that allows us to measure the number of moles of a reactant directly. Instead, we are able to determine the amount of reactants and products by measuring their mass. As we learned in the last lesson, we can easily convert between grams and moles using the molar mass of a substance. So if we are given a certain number of grams of reactant, we can determine the number of moles of that reactant. We can then convert that number of moles to moles of product using the balanced chemical reaction and the mole-mole conversion factor. Finally, we can convert between the number of moles of product and the number of grams of product by using the molar mass of that product. This procedure is summarized in the diagram below:   Exercise 3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide      For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams      For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams      For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?     "
-},
-{
-  "id": "sec-rxns7-5-2",
-  "level": "2",
-  "url": "sec-rxns7.html#sec-rxns7-5-2",
-  "type": "Exercise",
-  "number": "8.7.1",
-  "title": "",
-  "body": "  For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide   "
-},
-{
-  "id": "sec-rxns7-5-3",
-  "level": "2",
-  "url": "sec-rxns7.html#sec-rxns7-5-3",
-  "type": "Exercise",
-  "number": "8.7.2",
-  "title": "",
-  "body": "  For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams   "
-},
-{
-  "id": "sec-rxns7-5-4",
-  "level": "2",
-  "url": "sec-rxns7.html#sec-rxns7-5-4",
-  "type": "Exercise",
-  "number": "8.7.3",
-  "title": "",
-  "body": "  For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams   "
-},
-{
-  "id": "sec-rxns7-5-5",
-  "level": "2",
-  "url": "sec-rxns7.html#sec-rxns7-5-5",
-  "type": "Exercise",
-  "number": "8.7.4",
-  "title": "",
-  "body": "  For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?   "
-},
-{
   "id": "sec-rxns8",
   "level": "1",
   "url": "sec-rxns8.html",
   "type": "Section",
-  "number": "8.8",
+  "number": "8.7",
   "title": "Molar Mass and its use in chemistry",
   "body": " Molar Mass and its use in chemistry  We’ve previously learned about atomic mass. Recall that it’s the average of the masses of the naturally occurring isotopes weighted according to their abundance. The value of the atomic mass can be found in the periodic table under the element symbol. By adding together the atomic masses of all of the elements in a compound, we can determine the molecular weight (for covalent compounds) or formula weight (for all compounds) of the compound in units of amu. Molecular weight and formula weight are calculated in the same way, but they apply to different compounds; molecular weight only applies to molecules (which only exist in covalent compounds) whereas formula weight applies to both ionic and covalent compounds. Molar mass is the mass of one mole of the compound. It has the same value as the formula weight and is calculated in the exact same way, but it has different units of grams per mole (g\/mol) instead of amu. Thus a single carbon atom has an atomic mass of 12.011 amu, and a mole of carbon atoms will weigh 12.011 g. This is the reason for the bizarre value of Avogadro’s number...it’s the number of atoms needed to give an atom the same weight in grams as its atomic mass in atomic mass units.  So we can find the molar mass of an element from the periodic table by taking the atomic mass and appending units of g\/mol to it. If we can do this, then we can also figure out the molar mass of entire compounds by simply adding together the molar masses of each of the component elements.  Molar mass is used as a conversion factor to convert between grams and moles and vice-versa. When coupled with Avogadro’s number, we can convert between grams and numbers of things (like molecules). This is summed up in the diagram shown below.   Exercise 1    What is the molar mass of the following compounds?     Chlorine gas    70.906 g\/mole      Magnesium chloride    95.211g\/mole      NaCl    58.433 g\/mole      CH4    16.043 g\/mole      Magnesium nitrate    148.315 g\/mole       If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?    0.597 moles chlorine gas      How much does 0.375 moles of NaCl weigh in grams?    21.9 g      How many chlorine atoms are in 5.73 mg of magnesium chloride?    7.25E19      What is the mass of 3.33 x 1017 hydrogen atoms in nanograms?    557 ng     "
 },
@@ -7880,7 +7835,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-2-2",
   "type": "Exercise",
-  "number": "8.8.1",
+  "number": "8.7.1",
   "title": "",
   "body": "  Chlorine gas    70.906 g\/mole   "
 },
@@ -7889,7 +7844,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-2-3",
   "type": "Exercise",
-  "number": "8.8.2",
+  "number": "8.7.2",
   "title": "",
   "body": "  Magnesium chloride    95.211g\/mole   "
 },
@@ -7898,7 +7853,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-2-4",
   "type": "Exercise",
-  "number": "8.8.3",
+  "number": "8.7.3",
   "title": "",
   "body": "  NaCl    58.433 g\/mole   "
 },
@@ -7907,7 +7862,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-2-5",
   "type": "Exercise",
-  "number": "8.8.4",
+  "number": "8.7.4",
   "title": "",
   "body": "  CH4    16.043 g\/mole   "
 },
@@ -7916,7 +7871,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-2-6",
   "type": "Exercise",
-  "number": "8.8.5",
+  "number": "8.7.5",
   "title": "",
   "body": "  Magnesium nitrate    148.315 g\/mole   "
 },
@@ -7925,7 +7880,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-3",
   "type": "Exercise",
-  "number": "8.8.6",
+  "number": "8.7.6",
   "title": "",
   "body": "  If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?    0.597 moles chlorine gas   "
 },
@@ -7934,7 +7889,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-4",
   "type": "Exercise",
-  "number": "8.8.7",
+  "number": "8.7.7",
   "title": "",
   "body": "  How much does 0.375 moles of NaCl weigh in grams?    21.9 g   "
 },
@@ -7943,7 +7898,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-5",
   "type": "Exercise",
-  "number": "8.8.8",
+  "number": "8.7.8",
   "title": "",
   "body": "  How many chlorine atoms are in 5.73 mg of magnesium chloride?    7.25E19   "
 },
@@ -7952,7 +7907,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns8.html#sec-rxns8-5-6",
   "type": "Exercise",
-  "number": "8.8.9",
+  "number": "8.7.9",
   "title": "",
   "body": "  What is the mass of 3.33 x 1017 hydrogen atoms in nanograms?    557 ng   "
 },
@@ -7961,7 +7916,7 @@ var ptx_lunr_docs = [
   "level": "1",
   "url": "sec-rxns9.html",
   "type": "Section",
-  "number": "8.9",
+  "number": "8.8",
   "title": "Mole-mole relationships in chemical reactions",
   "body": " Mole-mole relationships in chemical reactions  We just learned how to convert between moles and numbers of atoms\/molecules. When we’re talking about chemical reactions, it is often very useful to be able to convert between moles of one substance in the reaction and moles of another. This allows chemists to determine how much reactant is needed for a reaction to proceed or to determine how much product can be produced. To do these calculations, we NEED to have a balanced chemical reaction. If one is not provided as a part of a question, then you need to make sure to write one.  The balanced chemical reaction is key because the coefficients in front of the chemical formulas will be used to determine a conversion factor called a mole-mole ratio. For instance, the mock formula: 2A + B → 3C implies that for every 2 moles of A, the reaction would require one mole of B and then produce 3 moles of C. We can write these relationships as conversion factors: 2 moles A 2 moles of A 1 mole of B or or 1 mole B 3 moles of C 3 moles of C  Which one we choose is determined by which information we’re given and what information we’re trying to attain. See the example and helpful hint below:  For the reaction below: if we have 3.0 moles of aluminum chloride, then a) how many moles of sodium hydroxide would be needed to completely react with the aluminum chloride and b) assuming that we have an excess of sodium hydroxide, how many moles of aluminum hydroxide could be produced?  AlCl3 (aq ) + 3NaOH (aq ) → Al(OH)3 (s) + 3 NaCl (aq) 3 moles NaOH a) 3.0 moles of AlCl3 ( 1 mole AlCl ) = 9.0 moles of NaOH 3 1 mole Al(OH) 3 b) 3.0 moles of AlCl3 ( 1 mole AlCl ) = 3.0 moles Al(OH)3 3  Helpful hint:  It can be helpful to think of more obvious examples of ‘reactions’ that we are familiar with in our everyday lives. The problem solving strategies that you employ can be similarly used in chemistry problem solving. For instance, we all know that a tricycle has 3 wheels. If I have 6 wheels, how many tricycles can I make? The answer is hopefully easy for you to determine...we can make 2 tricycles with 6 wheels. How did you solve this and could you instead use dimensional analysis and a balanced reaction to solve it?  Balanced reaction: 1 tricycle frame + 3 wheels → 1 tricycle 1 tricycle Conversion factor: 3 wheels  1 tricycle Math with the conversion factor: 6 wheels ( 3 wheels ) = 2 tricycles   Exercise 2    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3 1 mole S8 1 mole S8 12 moles O2 or or 12 moles O2 8 moles SO3 8 moles SO3      If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? 204 moles of oxygen gas 136 moles of sulfur trioxide      You are carrying out the reaction of iron metal plus chlorine gas to produce iron (III) chloride. If you require 6 moles of iron (III) chloride, how many moles of iron and how many moles of chlorine gas would you need?     Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction 2Fe (s) + 3Cl2 (g) → 2FeCl3 (s)      Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction 2H2 (g) + O2 (g ) → 2H2 O if we start with 2 grams of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve 6 moles of iron and 9 moles of chlorine gas are required      "
 },
@@ -7970,7 +7925,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns9.html#sec-rxns9-11-2",
   "type": "Exercise",
-  "number": "8.9.1",
+  "number": "8.8.1",
   "title": "",
   "body": "  Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3 1 mole S8 1 mole S8 12 moles O2 or or 12 moles O2 8 moles SO3 8 moles SO3   "
 },
@@ -7979,7 +7934,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns9.html#sec-rxns9-11-3",
   "type": "Exercise",
-  "number": "8.9.2",
+  "number": "8.8.2",
   "title": "",
   "body": "  If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? 204 moles of oxygen gas 136 moles of sulfur trioxide   "
 },
@@ -7988,7 +7943,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns9.html#sec-rxns9-11-4-2",
   "type": "Exercise",
-  "number": "8.9.3",
+  "number": "8.8.3",
   "title": "",
   "body": "  Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction 2Fe (s) + 3Cl2 (g) → 2FeCl3 (s)   "
 },
@@ -7997,9 +7952,54 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-rxns9.html#sec-rxns9-11-4-3",
   "type": "Exercise",
-  "number": "8.9.4",
+  "number": "8.8.4",
   "title": "",
   "body": "  Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction 2H2 (g) + O2 (g ) → 2H2 O if we start with 2 grams of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve 6 moles of iron and 9 moles of chlorine gas are required   "
+},
+{
+  "id": "sec-rxns7",
+  "level": "1",
+  "url": "sec-rxns7.html",
+  "type": "Section",
+  "number": "8.9",
+  "title": "Mass-mass relationships in chemical reactions",
+  "body": " Mass-mass relationships in chemical reactions  oxygen gas), we don’t get a mass of 2 grams of water; we get about 18 grams of water! Don’t the coefficients from the balanced reaction mean that for every 2 grams of hydrogen gas, we should get 2 grams of water?! No. The coefficients only apply when we’re counting things (numbers of molecules or moles of molecules); they do NOT apply to mass. Why not? The reason is that different molecules have different masses. We can illustrate this with a relatable example:  For the reaction, 4 tires + 1 car frame → 1 car, if each tire weighs 40 pounds, would you expect the car to weigh only 160 pounds? No. The reason is that the car frame adds mass. The car will have the mass of those tires, but also extra mass from the frame. Similarly, water has added mass from oxygen and thus the 2 grams of hydrogen gas end up producing a larger mass of water.  The previous section allows us to determine the number of moles of product that can be produced in a chemical reaction if we are given the number of moles of reactants. In a laboratory setting, we don’t have any tool that allows us to measure the number of moles of a reactant directly. Instead, we are able to determine the amount of reactants and products by measuring their mass. As we learned in the last lesson, we can easily convert between grams and moles using the molar mass of a substance. So if we are given a certain number of grams of reactant, we can determine the number of moles of that reactant. We can then convert that number of moles to moles of product using the balanced chemical reaction and the mole-mole conversion factor. Finally, we can convert between the number of moles of product and the number of grams of product by using the molar mass of that product. This procedure is summarized in the diagram below:   Exercise 3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide      For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams      For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams      For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?     "
+},
+{
+  "id": "sec-rxns7-5-2",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-2",
+  "type": "Exercise",
+  "number": "8.9.1",
+  "title": "",
+  "body": "  For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide   "
+},
+{
+  "id": "sec-rxns7-5-3",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-3",
+  "type": "Exercise",
+  "number": "8.9.2",
+  "title": "",
+  "body": "  For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams   "
+},
+{
+  "id": "sec-rxns7-5-4",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-4",
+  "type": "Exercise",
+  "number": "8.9.3",
+  "title": "",
+  "body": "  For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams   "
+},
+{
+  "id": "sec-rxns7-5-5",
+  "level": "2",
+  "url": "sec-rxns7.html#sec-rxns7-5-5",
+  "type": "Exercise",
+  "number": "8.9.4",
+  "title": "",
+  "body": "  For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?   "
 },
 {
   "id": "sec-rxns10",
