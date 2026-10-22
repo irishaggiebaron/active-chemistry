@@ -312,7 +312,7 @@
 					</li>
 			</ol>
 			
-		
+		</p>
 	</assemblage>
 
 	<exercises>
@@ -327,78 +327,78 @@
 
 			<exercise>
 				<statement>
-					<p>
-						Na (s) + Cl2 (g) → NaCl (s)
-					</p>
+					<>
+						Na (s) + Cl_2 (g) \rightarrow NaCl (s)
+					</m>
 				</statement>
 
 				<answer>
-					<p>
-						2Na (s) + Cl2 (g) → 2NaCl (s)
-					</p>
+					<m>
+						2Na (s) + Cl_2 (g) \rightarrow 2NaCl (s)
+					</m>
 				</answer>
 			</exercise>
 
 			<exercise>
 				<statement>
-					<p>
-						FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)
-					</p>
+					<m>
+						FeCl_3 (aq) + NaOH(aq) \rightarrow Fe(OH)_3 (s) + NaCl (aq)
+					</m>
 				</statement>
 
 				<answer>
-					<p>
-						FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)
-					</p>
+					<m>
+						FeCl_3 (aq) + 3NaOH(aq) \rightarrow Fe(OH)_3 (s) + 3NaCl (aq)
+					</m>
 				</answer>
 			</exercise>
 
 			<exercise>
 				<statement>
-					<p>
-						C2 H6 + O2 → H2 O + CO2
-					</p>
+					<m>
+						C_2H_6 + O_2 \rightarrow H_2O + CO_2
+					</m>
 				</statement>
 
 				<answer>
-					<p>
-						2C2 H6 + 7O2 → 6H2 O + 4CO2
-					</p>
+					<m>
+						2C_2H_6 + 7O_2 /rightarrow 6H_2O + 4CO_2
+					</m>
 				</answer>
 			</exercise>
 
 			<exercise>
 				<statement>
-					<p>
-						Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)
-					</p>
+					<m>
+						Cs (s) + H_2O (l) \rightarrow CsOH(aq) + H_2 (g)
+					</m>
 				</statement>
 
 				<answer>
-					<p>
+					<m>
 						2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)
-					</p>
+					</m>
 				</answer>
 			</exercise>
 
 			<exercise>
 				<statement>
-					<p>
-						MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)
-					</p>
+					<m>
+						MgCl_2 (aq) + AgNO_3 (aq) \rightarrow Mg(NO_3)_2 (aq) + AgCl(s)
+					</m>
 				</statement>
 
 				<answer>
-					<p>
-						MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)
-					</p>
+					<m>
+						MgCl_2 (aq) + 2AgNO_3 (aq) \rightarrow Mg(NO_3)_2 (aq) + 2AgCl(s)
+					</m>
 				</answer>
 			</exercise>
 		</exercisegroup>
 		<exercisegroup>
 			<introduction>
 				<p>
-					Write an equation for the following reactions and balance it
+					Write an equation for the following reactions and balance them
 				</p>
 			</introduction>
 
@@ -410,23 +410,23 @@
 				</statement>
 
 				<answer>
-					<p>
-						Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)
-					</p>
+					<m>
+						Na_2SO_4 (aq) + CaCl_2 (aq) \rightarrow 2NaCl(aq) + CaSO_4 (s)
+					</m>
 				</answer>
 			</exercise>
 
 			<exercise>
 				<statement>
 					<p>
-						Combustion of C7 H14
+						Combustion of <m>C_7H_{14}</m>
 					</p>
 				</statement>
 
 				<answer>
-					<p>
-						2C7 H14 + 21O2 → 14H2 O + 14CO2
-					</p>
+					<m>
+						2C_7H_{14} + 21O_2 \rightarrow 14H_2O + 14CO_2
+					</m>
 				</answer>
 			</exercise>
 		</exercisegroup>
