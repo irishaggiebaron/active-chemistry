@@ -7647,80 +7647,89 @@ var ptx_lunr_docs = [
   "url": "sec-rxns4.html",
   "type": "Section",
   "number": "8.4",
-  "title": "Balancing chemical reactions",
-  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well.  What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). Instead, we have to balance the reaction by adding in coefficients in front of the compounds.  To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reactions in this class):     Write the reaction with the correct chemical formulas of the reactants and products    Determine the number of atoms of each element on the reactants and products sides    If all of the elements are balanced, then you’re done      Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if all of the elements are balanced    Repeat step 3 with other elements that only appear in one compound in both the reactants and product.    Balance any remaining elements by changing\/adding coefficients    Check and recheck every element for balance    Simplify the coefficients    If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators    If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor       To see these steps in practice, see the example below:   Example: Balance the combustion reaction for     Since this is a combustion reaction, we know the other reactants ( ) and products ( and ) so the reaction is:     Check to see if the atoms are balanced on both sides of the reaction:       Element  Number on left side  Number on the right side    C  2  1    H  4  2    O  2  3    They aren’t, so we have to go to step 3.       We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown:     Let's check the balance of the elements again:     Element  Number on left side  Number on the right side    C  2  2    H  4  2    O  2  5     Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms.    Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:     Let's check the balance of the elements again:     Element  Number on left side  Number on the right side    C  2  2    H  4   4  O  2  6       We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas.     Let's check the balance of each element:     Element  Number on left side  Number on the right side    C  2  2    H  4   4  O  6  6     All of the elements are balanced and the coefficients are simplified. We are now done.       Exercise 2    Balance the following reactions by adding in the necessary coefficients:     Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)      FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)      C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2      Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)      MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)       Write an equation for the following reactions and balance it     Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)      Combustion of C7 H14    2C7 H14 + 21O2 → 14H2 O + 14CO2      "
+  "title": "Oxidation-Reduction reactions",
+  "body": " Oxidation-Reduction reactions  Another way of classifying reactions is by ones that result in a transfer of electrons from one substance to another, regardless of the number of reactants or products involved. These reactions that involve a transfer of electrons are known as oxidation-reduction reactions (also called redox reactions). In a redox reaction, one or more reactants will take electrons from one or more other reactants. If a reactant gained electrons then it got reduced. If a reactant loses electrons, then it gets oxidized. This can be remembered by the saying “LeO the lion says GeR”...Losing electrons is oxidation, gaining electrons is reduction. A slight amount of confusion enters in when we talk about oxidizing agents and reducing agents. These agents are causing the oxidation or reduction of some other substance, respectively. Therefore an oxidizing agent will cause the oxidation of something else (ie. cause something else to lose electrons). It can only do this by accepting the electrons itself. Therefore an oxidizing agent gets reduced in a chemical reaction. The opposite is true of reducing agents. A reducing agent causes the reduction of another substance (ie. causes something else to gain electrons) by providing the electrons itself. Therefore reducing agents get oxidized in chemical reactions.  When dealing with ionic compounds in a reaction, it is straightforward to determine if a redox reaction is occurring. All we need to do is look at the charge on the ion. A very important note: elements have a charge of zero when in their elemental form. So in ZnCl2 the zinc has a +2 charge and the chlorines each have a charge of zero. Let’s investigate the following reaction:  ZnCl2 (aq ) + 2Na (s) → Zn (s) + 2NaCl (aq)  In this case the zinc begins with a charge of +2. In the products, it is in its elemental form and thus has a charge of zero. How did the zinc change charge??? It gained two electrons! The negative charge of the two electrons cancels out the +2 charge, resulting in neutral zinc. Thus the zinc gained electrons and got reduced. In every redox reaction, something gets reduced and something gets oxidized. So in the example above, what is losing electrons? The chloride has a -1 charge in zinc chloride and still has a -1 charge in sodium chloride, so the chloride isn’t participating in the electron transfer. The sodium, on the other hand, begins in its elemental form with a charge of zero and then has a charge of +1 in the products. So the sodium is losing electrons. Each sodium loses one electron, but there are two sodium atoms present, so this adds up to 2 electrons being lost by the sodiums (which matches the two electrons being gained by the zinc; the number of electrons lost must always equal the number of electrons gained in the reaction).  Not every redox reaction involves ionic compounds. Redox reactions also happen with covalent compounds, but they aren’t as straightforward to understand, but there is a nice way to recognize them. If a covalent compound gets oxidized, then one of the atoms (usually a carbon) will lose a bond to hydrogen and gain a bond to something else (often an oxygen atom) instead. Reduction follows the exact opposite pattern, with one of the atoms losing a bond to something else and gaining a bond to hydrogen. The reason why these are redox reactions is that electrons are still being added or removed, but often in the form of another compound like hydrogen gas (hydrogen gas has 2 electrons that can be added to other molecules, often along with its hydrogen atoms). Because of this, there aren’t any changes in charge that we observe...instead we have to look for the patterns listed above. See the example below:  When CH3 OH gets turned into CH2 O, hydrogen gas (with its two electrons) is released. Therefore, the reactant CH3 OH got oxidized to CH2 O. We can recognize this because the carbon in the reactant lost a bond to hydrogen and gained a new bond to oxygen, indicating that it got oxidized. In this reaction the two hydrogen atoms that were lost from CH3 OH gained those two electrons and thus got reduced.  + H2  One special class of redox reaction involving covalent compounds is a combustion reaction. In a combustion reaction, a carbon containing compound reacts with oxygen gas (O2 ), producing carbon dioxide (CO2 ) and water (H2 O). Combustion reactions are carried out when we burn fossil fuels in our cars or in power plants. The reaction releases a lot of energy that can be harnessed for beneficial purposes. It is also very important to note that our bodies carry out combustion reactions when we break down sugars, fats, and proteins to get harvest energy. The chemical equation showing the breakdown of glucose is shown below:  C6 H12 O6 + 6O2 → 6CO2 + 6H2 O  It is a combustion reaction because a carbon compound reacts with oxygen gas to produce carbon dioxide and water. Also, the carbon atoms in the glucose compound end up losing bonds to hydrogen and gaining bonds to oxygen, indicating that they are getting oxidized. The oxygen atoms are losing a bond to the other oxygen and gaining new bonds to hydrogen and are thus getting reduced.   Exercise 1    For the following redox reactions, identify the substance being oxidized and the substance being reduced. Identify the oxidizing agent and the reducing agent. How many electrons are being transferred in each reaction?     Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)    Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)      2I − (aq ) + F2 (aq ) → 2F − (aq ) + I2 (aq)    Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas       For the following reactions (note: these are the reactions that you wrote ionic and net ionic equations for in exercise 3...looking at those equations may help you!) identify whether they are redox reactions or not. If they are redox reactions, identify what is being oxidized and what is being reduced.     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Not redox      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Not redox      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    redox, Cs gets oxidized, Fe(II) gets reduced      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    redox, Fluorine gas gets reduced, chloride ions get oxidized       In the following redox reactions, identify the species that is getting oxidized and the species that is getting reduced.                In the combustion of hexane (C6 H14 ), one of the reactants is hexane. What are the other reactants and what are the products? (don’t worry about how many of each should be in the reaction)     Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent      "
 },
 {
-  "id": "sec-rxns4-2",
+  "id": "sec-rxns4-12-2-2",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "law of conservation of mass "
-},
-{
-  "id": "sec-rxns4-8-2-2",
-  "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-2-2",
+  "url": "sec-rxns4.html#sec-rxns4-12-2-2",
   "type": "Exercise",
   "number": "8.4.1",
   "title": "",
-  "body": "  Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)   "
+  "body": "  Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)    Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)   "
 },
 {
-  "id": "sec-rxns4-8-2-3",
+  "id": "sec-rxns4-12-2-3",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-2-3",
+  "url": "sec-rxns4.html#sec-rxns4-12-2-3",
   "type": "Exercise",
   "number": "8.4.2",
   "title": "",
-  "body": "  FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)   "
+  "body": "  2I − (aq ) + F2 (aq ) → 2F − (aq ) + I2 (aq)    Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas   "
 },
 {
-  "id": "sec-rxns4-8-2-4",
+  "id": "sec-rxns4-12-3-2",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-2-4",
+  "url": "sec-rxns4.html#sec-rxns4-12-3-2",
   "type": "Exercise",
   "number": "8.4.3",
   "title": "",
-  "body": "  C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2   "
+  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Not redox   "
 },
 {
-  "id": "sec-rxns4-8-2-5",
+  "id": "sec-rxns4-12-3-3",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-2-5",
+  "url": "sec-rxns4.html#sec-rxns4-12-3-3",
   "type": "Exercise",
   "number": "8.4.4",
   "title": "",
-  "body": "  Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)   "
+  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Not redox   "
 },
 {
-  "id": "sec-rxns4-8-2-6",
+  "id": "sec-rxns4-12-3-4",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-2-6",
+  "url": "sec-rxns4.html#sec-rxns4-12-3-4",
   "type": "Exercise",
   "number": "8.4.5",
   "title": "",
-  "body": "  MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)   "
+  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    redox, Cs gets oxidized, Fe(II) gets reduced   "
 },
 {
-  "id": "sec-rxns4-8-3-2",
+  "id": "sec-rxns4-12-3-5",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-3-2",
+  "url": "sec-rxns4.html#sec-rxns4-12-3-5",
   "type": "Exercise",
   "number": "8.4.6",
   "title": "",
-  "body": "  Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)   "
+  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    redox, Fluorine gas gets reduced, chloride ions get oxidized   "
 },
 {
-  "id": "sec-rxns4-8-3-3",
+  "id": "sec-rxns4-12-4-2",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-8-3-3",
+  "url": "sec-rxns4.html#sec-rxns4-12-4-2",
   "type": "Exercise",
   "number": "8.4.7",
   "title": "",
-  "body": "  Combustion of C7 H14    2C7 H14 + 21O2 → 14H2 O + 14CO2   "
+  "body": "    "
+},
+{
+  "id": "sec-rxns4-12-4-3",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-12-4-3",
+  "type": "Exercise",
+  "number": "8.4.8",
+  "title": "",
+  "body": "    "
+},
+{
+  "id": "sec-rxns4-12-5-2",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-12-5-2",
+  "type": "Exercise",
+  "number": "8.4.9",
+  "title": "",
+  "body": "  Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent   "
 },
 {
   "id": "sec-rxns5",
@@ -7728,35 +7737,80 @@ var ptx_lunr_docs = [
   "url": "sec-rxns5.html",
   "type": "Section",
   "number": "8.5",
-  "title": "Moles",
-  "body": " Moles  In chemistry, we often have to deal with very large numbers of things (ex. atoms or molecules). For convenience, we can rely of scientific notation to help us out. We can also use the term mole to help us out. A mole is a word that represents a number of things (similar to how a dozen means 12 things). The number represented by a mole is Avogadro’s number and has a value of 6.022 × 1023 . Why this weird number? You’ll have to wait until the next section of this lesson to find out. We can use the definition of a mole as a conversion factor to convert between numbers of things (atoms\/molecules\/etc.) and moles:  1 mole 6.022 × 1023 or 6.022 × 1023 1 mole When carrying out calculations involving numbers of molecules and\/or atoms, it is VERY important to add labels to our units to specify what is being quantified. This can help us see if we need to use other conversion factors in our problems. See the example below.  How many molecules are in 3.0 moles of water? How many hydrogen atoms are in 3.0 moles of water?  1. We begin with 3.0 moles of water and want to determine the number of molecules of water. To do this we need to use Avogadro’s number as shown below: 6.022 × 1023 molecules 3.0 moles H2 O ( ) = 1.8 × 1024 molecules H2 O 1 mole 2. To convert from molecules of water to number of hydrogen atoms, we need to see that 1 water molecule contains 2 hydrogen atoms. This can be written as a conversion factor and used to solve the problem as shown: 2 hydrogen atoms 1.8 × 1024 molecules H2 O ( ) = 3.6 × 1024 hydrogen atoms 1 molecule H2 O  Hint to try and understand moles:  When faced with confusing concepts in chemistry, like a mole, it can sometimes be helpful to think of more familiar examples with simpler numbers. Recall that a mole is like a dozen; it is a word that represents a number.  If you have 2 dozen eggs, how many do you have? 24 of course. How did you get that? You took the 2 and multiplied it by the number represented by a dozen (12).  So if you have 2 moles of molecules, you’ll follow the same pattern: 2 times the number represented by a mole (6.022 x 1023).  Likewise if I have 48 eggs, how many dozen do I have? 4 dozen. You get this by taking the number of objects and dividing by the number represented by a dozen.  So...how would you determine how many moles of molecules you have if you have 432 molecules? Take that number and divide it by the number represented by a mole.   Exercise 3    How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons      If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules      If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen     "
+  "title": "Balancing chemical reactions",
+  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well.  What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). Instead, we have to balance the reaction by adding in coefficients in front of the compounds.  To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reactions in this class):     Write the reaction with the correct chemical formulas of the reactants and products    Determine the number of atoms of each element on the reactants and products sides    If all of the elements are balanced, then you’re done      Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if all of the elements are balanced    Repeat step 3 with other elements that only appear in one compound in both the reactants and product.    Balance any remaining elements by changing\/adding coefficients    Check and recheck every element for balance    Simplify the coefficients    If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators    If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor       To see these steps in practice, see the example below:   Example: Balance the combustion reaction for     Since this is a combustion reaction, we know the other reactants ( ) and products ( and ) so the reaction is:     Check to see if the atoms are balanced on both sides of the reaction:       Element  Number on left side  Number on the right side    C  2  1    H  4  2    O  2  3    They aren’t, so we have to go to step 3.       We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown:     Let's check the balance of the elements again:     Element  Number on left side  Number on the right side    C  2  2    H  4  2    O  2  5     Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms.    Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:     Let's check the balance of the elements again:     Element  Number on left side  Number on the right side    C  2  2    H  4   4  O  2  6       We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas.     Let's check the balance of each element:     Element  Number on left side  Number on the right side    C  2  2    H  4   4  O  6  6     All of the elements are balanced and the coefficients are simplified. We are now done.       Exercise 2    Balance the following reactions by adding in the necessary coefficients:                                              Write an equation for the following reactions and balance them     Aqueous sodium sulfate and aqueous calcium chloride are mixed         Combustion of          "
 },
 {
-  "id": "sec-rxns5-12-2",
+  "id": "sec-rxns5-2",
   "level": "2",
-  "url": "sec-rxns5.html#sec-rxns5-12-2",
+  "url": "sec-rxns5.html#sec-rxns5-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "law of conservation of mass "
+},
+{
+  "id": "sec-rxns5-8-2-2",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-8-2-2",
   "type": "Exercise",
   "number": "8.5.1",
   "title": "",
-  "body": "  How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons   "
+  "body": "       "
 },
 {
-  "id": "sec-rxns5-12-3",
+  "id": "sec-rxns5-8-2-3",
   "level": "2",
-  "url": "sec-rxns5.html#sec-rxns5-12-3",
+  "url": "sec-rxns5.html#sec-rxns5-8-2-3",
   "type": "Exercise",
   "number": "8.5.2",
   "title": "",
-  "body": "  If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules   "
+  "body": "       "
 },
 {
-  "id": "sec-rxns5-12-4",
+  "id": "sec-rxns5-8-2-4",
   "level": "2",
-  "url": "sec-rxns5.html#sec-rxns5-12-4",
+  "url": "sec-rxns5.html#sec-rxns5-8-2-4",
   "type": "Exercise",
   "number": "8.5.3",
   "title": "",
-  "body": "  If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen   "
+  "body": "       "
+},
+{
+  "id": "sec-rxns5-8-2-5",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-8-2-5",
+  "type": "Exercise",
+  "number": "8.5.4",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-rxns5-8-2-6",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-8-2-6",
+  "type": "Exercise",
+  "number": "8.5.5",
+  "title": "",
+  "body": "       "
+},
+{
+  "id": "sec-rxns5-8-3-2",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-8-3-2",
+  "type": "Exercise",
+  "number": "8.5.6",
+  "title": "",
+  "body": "  Aqueous sodium sulfate and aqueous calcium chloride are mixed      "
+},
+{
+  "id": "sec-rxns5-8-3-3",
+  "level": "2",
+  "url": "sec-rxns5.html#sec-rxns5-8-3-3",
+  "type": "Exercise",
+  "number": "8.5.7",
+  "title": "",
+  "body": "  Combustion of       "
 },
 {
   "id": "sec-rxns6",
@@ -7764,89 +7818,35 @@ var ptx_lunr_docs = [
   "url": "sec-rxns6.html",
   "type": "Section",
   "number": "8.6",
-  "title": "Oxidation-Reduction reactions",
-  "body": " Oxidation-Reduction reactions  Another way of classifying reactions is by ones that result in a transfer of electrons from one substance to another, regardless of the number of reactants or products involved. These reactions that involve a transfer of electrons are known as oxidation-reduction reactions (also called redox reactions). In a redox reaction, one or more reactants will take electrons from one or more other reactants. If a reactant gained electrons then it got reduced. If a reactant loses electrons, then it gets oxidized. This can be remembered by the saying “LeO the lion says GeR”...Losing electrons is oxidation, gaining electrons is reduction. A slight amount of confusion enters in when we talk about oxidizing agents and reducing agents. These agents are causing the oxidation or reduction of some other substance, respectively. Therefore an oxidizing agent will cause the oxidation of something else (ie. cause something else to lose electrons). It can only do this by accepting the electrons itself. Therefore an oxidizing agent gets reduced in a chemical reaction. The opposite is true of reducing agents. A reducing agent causes the reduction of another substance (ie. causes something else to gain electrons) by providing the electrons itself. Therefore reducing agents get oxidized in chemical reactions.  When dealing with ionic compounds in a reaction, it is straightforward to determine if a redox reaction is occurring. All we need to do is look at the charge on the ion. A very important note: elements have a charge of zero when in their elemental form. So in ZnCl2 the zinc has a +2 charge and the chlorines each have a charge of zero. Let’s investigate the following reaction:  ZnCl2 (aq ) + 2Na (s) → Zn (s) + 2NaCl (aq)  In this case the zinc begins with a charge of +2. In the products, it is in its elemental form and thus has a charge of zero. How did the zinc change charge??? It gained two electrons! The negative charge of the two electrons cancels out the +2 charge, resulting in neutral zinc. Thus the zinc gained electrons and got reduced. In every redox reaction, something gets reduced and something gets oxidized. So in the example above, what is losing electrons? The chloride has a -1 charge in zinc chloride and still has a -1 charge in sodium chloride, so the chloride isn’t participating in the electron transfer. The sodium, on the other hand, begins in its elemental form with a charge of zero and then has a charge of +1 in the products. So the sodium is losing electrons. Each sodium loses one electron, but there are two sodium atoms present, so this adds up to 2 electrons being lost by the sodiums (which matches the two electrons being gained by the zinc; the number of electrons lost must always equal the number of electrons gained in the reaction).  Not every redox reaction involves ionic compounds. Redox reactions also happen with covalent compounds, but they aren’t as straightforward to understand, but there is a nice way to recognize them. If a covalent compound gets oxidized, then one of the atoms (usually a carbon) will lose a bond to hydrogen and gain a bond to something else (often an oxygen atom) instead. Reduction follows the exact opposite pattern, with one of the atoms losing a bond to something else and gaining a bond to hydrogen. The reason why these are redox reactions is that electrons are still being added or removed, but often in the form of another compound like hydrogen gas (hydrogen gas has 2 electrons that can be added to other molecules, often along with its hydrogen atoms). Because of this, there aren’t any changes in charge that we observe...instead we have to look for the patterns listed above. See the example below:  When CH3 OH gets turned into CH2 O, hydrogen gas (with its two electrons) is released. Therefore, the reactant CH3 OH got oxidized to CH2 O. We can recognize this because the carbon in the reactant lost a bond to hydrogen and gained a new bond to oxygen, indicating that it got oxidized. In this reaction the two hydrogen atoms that were lost from CH3 OH gained those two electrons and thus got reduced.  + H2  One special class of redox reaction involving covalent compounds is a combustion reaction. In a combustion reaction, a carbon containing compound reacts with oxygen gas (O2 ), producing carbon dioxide (CO2 ) and water (H2 O). Combustion reactions are carried out when we burn fossil fuels in our cars or in power plants. The reaction releases a lot of energy that can be harnessed for beneficial purposes. It is also very important to note that our bodies carry out combustion reactions when we break down sugars, fats, and proteins to get harvest energy. The chemical equation showing the breakdown of glucose is shown below:  C6 H12 O6 + 6O2 → 6CO2 + 6H2 O  It is a combustion reaction because a carbon compound reacts with oxygen gas to produce carbon dioxide and water. Also, the carbon atoms in the glucose compound end up losing bonds to hydrogen and gaining bonds to oxygen, indicating that they are getting oxidized. The oxygen atoms are losing a bond to the other oxygen and gaining new bonds to hydrogen and are thus getting reduced.   Exercise 1    For the following redox reactions, identify the substance being oxidized and the substance being reduced. Identify the oxidizing agent and the reducing agent. How many electrons are being transferred in each reaction?     Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)    Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)      2I − (aq ) + F2 (aq ) → 2F − (aq ) + I2 (aq)    Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas       For the following reactions (note: these are the reactions that you wrote ionic and net ionic equations for in exercise 3...looking at those equations may help you!) identify whether they are redox reactions or not. If they are redox reactions, identify what is being oxidized and what is being reduced.     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Not redox      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Not redox      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    redox, Cs gets oxidized, Fe(II) gets reduced      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    redox, Fluorine gas gets reduced, chloride ions get oxidized       In the following redox reactions, identify the species that is getting oxidized and the species that is getting reduced.                In the combustion of hexane (C6 H14 ), one of the reactants is hexane. What are the other reactants and what are the products? (don’t worry about how many of each should be in the reaction)     Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent      "
+  "title": "Moles",
+  "body": " Moles  In chemistry, we often have to deal with very large numbers of things (ex. atoms or molecules). For convenience, we can rely of scientific notation to help us out. We can also use the term mole to help us out. A mole is a word that represents a number of things (similar to how a dozen means 12 things). The number represented by a mole is Avogadro’s number and has a value of 6.022 × 1023 . Why this weird number? You’ll have to wait until the next section of this lesson to find out. We can use the definition of a mole as a conversion factor to convert between numbers of things (atoms\/molecules\/etc.) and moles:  1 mole 6.022 × 1023 or 6.022 × 1023 1 mole When carrying out calculations involving numbers of molecules and\/or atoms, it is VERY important to add labels to our units to specify what is being quantified. This can help us see if we need to use other conversion factors in our problems. See the example below.  How many molecules are in 3.0 moles of water? How many hydrogen atoms are in 3.0 moles of water?  1. We begin with 3.0 moles of water and want to determine the number of molecules of water. To do this we need to use Avogadro’s number as shown below: 6.022 × 1023 molecules 3.0 moles H2 O ( ) = 1.8 × 1024 molecules H2 O 1 mole 2. To convert from molecules of water to number of hydrogen atoms, we need to see that 1 water molecule contains 2 hydrogen atoms. This can be written as a conversion factor and used to solve the problem as shown: 2 hydrogen atoms 1.8 × 1024 molecules H2 O ( ) = 3.6 × 1024 hydrogen atoms 1 molecule H2 O  Hint to try and understand moles:  When faced with confusing concepts in chemistry, like a mole, it can sometimes be helpful to think of more familiar examples with simpler numbers. Recall that a mole is like a dozen; it is a word that represents a number.  If you have 2 dozen eggs, how many do you have? 24 of course. How did you get that? You took the 2 and multiplied it by the number represented by a dozen (12).  So if you have 2 moles of molecules, you’ll follow the same pattern: 2 times the number represented by a mole (6.022 x 1023).  Likewise if I have 48 eggs, how many dozen do I have? 4 dozen. You get this by taking the number of objects and dividing by the number represented by a dozen.  So...how would you determine how many moles of molecules you have if you have 432 molecules? Take that number and divide it by the number represented by a mole.   Exercise 3    How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons      If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules      If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen     "
 },
 {
-  "id": "sec-rxns6-12-2-2",
+  "id": "sec-rxns6-12-2",
   "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-2-2",
+  "url": "sec-rxns6.html#sec-rxns6-12-2",
   "type": "Exercise",
   "number": "8.6.1",
   "title": "",
-  "body": "  Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)    Iron (III) gets reduced and is the oxidizing agent; Cu(I) gets oxidized and is the reducing agent; one electron is transferred from copper (I) to iron (III)   "
+  "body": "  How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons   "
 },
 {
-  "id": "sec-rxns6-12-2-3",
+  "id": "sec-rxns6-12-3",
   "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-2-3",
+  "url": "sec-rxns6.html#sec-rxns6-12-3",
   "type": "Exercise",
   "number": "8.6.2",
   "title": "",
-  "body": "  2I − (aq ) + F2 (aq ) → 2F − (aq ) + I2 (aq)    Fluorine gas gets reduced and is the oxidizing agent; iodide ions get oxidized and are the reducing agent; 2 electrons are transferred from two iodide ions to a molecule of fluorine gas   "
+  "body": "  If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules   "
 },
 {
-  "id": "sec-rxns6-12-3-2",
+  "id": "sec-rxns6-12-4",
   "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-3-2",
+  "url": "sec-rxns6.html#sec-rxns6-12-4",
   "type": "Exercise",
   "number": "8.6.3",
   "title": "",
-  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Not redox   "
-},
-{
-  "id": "sec-rxns6-12-3-3",
-  "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-3-3",
-  "type": "Exercise",
-  "number": "8.6.4",
-  "title": "",
-  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Not redox   "
-},
-{
-  "id": "sec-rxns6-12-3-4",
-  "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-3-4",
-  "type": "Exercise",
-  "number": "8.6.5",
-  "title": "",
-  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    redox, Cs gets oxidized, Fe(II) gets reduced   "
-},
-{
-  "id": "sec-rxns6-12-3-5",
-  "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-3-5",
-  "type": "Exercise",
-  "number": "8.6.6",
-  "title": "",
-  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    redox, Fluorine gas gets reduced, chloride ions get oxidized   "
-},
-{
-  "id": "sec-rxns6-12-4-2",
-  "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-4-2",
-  "type": "Exercise",
-  "number": "8.6.7",
-  "title": "",
-  "body": "    "
-},
-{
-  "id": "sec-rxns6-12-4-3",
-  "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-4-3",
-  "type": "Exercise",
-  "number": "8.6.8",
-  "title": "",
-  "body": "    "
-},
-{
-  "id": "sec-rxns6-12-5-2",
-  "level": "2",
-  "url": "sec-rxns6.html#sec-rxns6-12-5-2",
-  "type": "Exercise",
-  "number": "8.6.9",
-  "title": "",
-  "body": "  Which reactant gets oxidized? Which one gets reduced? Which is the oxidizing agent? Which is the reducing agent?    Hexane gets oxidized and is the reducing agent, oxygen gets reduced and is the oxidizing agent   "
+  "body": "  If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen   "
 },
 {
   "id": "sec-rxns8",
