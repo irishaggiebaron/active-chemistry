@@ -7495,7 +7495,25 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.3",
   "title": "Slightly more complex reactions",
-  "body": " Slightly more complex reactions  Type 3: Single-replacement reaction: One compound reacts with a pure element. The element swaps with an atom in the compound. Example:  A + BY → B + AY  Type 4: Double-replacement reaction: Two compounds react with one another. Atoms from both compounds swap with one another. Example:  AX + BY → AB + XY  One common type of double-replacement reaction is a precipitation reaction. In a precipitation reaction, both reactants are ionic compounds that are dissolved in water (ie. aqueous, aq). When the reactants are combined, one of the combinations of a cation and an anion results in a compound that is insoluble in water, meaning that it cannot be dissolved by water. As a result, crystals of that insoluble ionic compound form in the reaction. Why are some ionic compounds soluble and others aren’t? Basically, in order for an ionic compound to dissolve in water, its ions must separate from one another and form new interactions with the polar water molecules (through ion-dipole interactions or hydrogen bonding). If the interactions that the ions form with water are stronger than the interactions holding the ionic compound together, then water will “win” and the ionic compound will dissolve. If the bonds holding the ionic compound together are stronger than the interactions that the ions can form with water, then the ionic compound “wins” and the ionic compound will not dissolve in water.  There are some rules about solubility of ionic compounds that you’ll need to know. You need to apply these rules in this order!  1. Compounds containing ammonium, magnesium, or alkali metal cations (group I metals), and\/or nitrate, and acetate anions are soluble 2. Compounds containing the cation of silver, lead, or mercury are insoluble 3. Compounds containing the chloride, bromide, or iodide anions are soluble 4. Compounds containing the sulfate anion are soluble, except when paired with group 2 metals 5. Everything else is insoluble   Exercise 2    Predict whether the following compounds are soluble or insoluble in water.     Sodium phosphate    soluble      Potassium iodide    soluble      Silver bromide    insoluble      Iron (III) carbonate    insoluble      Magnesium sulfate    soluble      Copper (II) sulfate    soluble       Classify the following reactions are single replacement or double replacement:     Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Double replacement      K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Double replacement      2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Single replacement      F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Single replacement       Will the following reactions produce a precipitate? If so, what is its name and chemical formula?     Aqueous sodium chloride and aqueous copper (II) nitrate    No precipitate      Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate (NiHPO4 )      Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate, PbSO4      Strontium bromide and potassium sulfate    yes, strontium sulfate, SrSO4      "
+  "body": " Slightly more complex reactions  Type 3: Single-replacement reaction: One compound reacts with a pure element. The element swaps with an atom in the compound. Example:   Type 4: Double-replacement reaction: Two compounds react with one another. Atoms from both compounds swap with one another. Example:   One common type of double-replacement reaction is a precipitation reaction. In a precipitation reaction, both reactants are ionic compounds that are dissolved in water (ie. aqueous, aq). When the reactants are combined, one of the combinations of a cation and an anion results in a compound that is insoluble in water, meaning that it cannot be dissolved by water. As a result, crystals of that insoluble ionic compound form in the reaction. Why are some ionic compounds soluble and others aren’t? Basically, in order for an ionic compound to dissolve in water, its ions must separate from one another and form new interactions with the polar water molecules (through ion-dipole interactions or hydrogen bonding). If the interactions that the ions form with water are stronger than the interactions holding the ionic compound together, then water will “win” and the ionic compound will dissolve. If the bonds holding the ionic compound together are stronger than the interactions that the ions can form with water, then the ionic compound “wins” and the ionic compound will not dissolve in water.  There are some rules about solubility of ionic compounds that you’ll need to know. You need to apply these rules in this order!     Compounds containing ammonium, magnesium, or alkali metal cations (group I metals), and\/or nitrate, and acetate anions are soluble    Compounds containing the cation of silver, lead, or mercury are insoluble    Compounds containing the chloride, bromide, or iodide anions are soluble    Compounds containing the sulfate anion are soluble, except when paired with group 2 metals    Everything else is insoluble      Exercise 2    Predict whether the following compounds are soluble or insoluble in water.     Sodium phosphate    soluble      Potassium iodide    soluble      Silver bromide    insoluble      Iron (III) carbonate    insoluble      Calcium sulfate    insoluble      Copper (II) sulfate    soluble       Classify the following reactions are single replacement or double replacement:        Double replacement         Double replacement         Single replacement         Single replacement       Will the following reactions produce a precipitate? If so, what is its name and chemical formula?     Aqueous sodium chloride and aqueous copper (II) nitrate    No precipitate      Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate ( )      Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate,       Strontium bromide and potassium sulfate    yes, strontium sulfate,       "
+},
+{
+  "id": "sec-rxns3-2",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Single-replacement reaction: "
+},
+{
+  "id": "sec-rxns3-4",
+  "level": "2",
+  "url": "sec-rxns3.html#sec-rxns3-4",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Double-replacement reaction: "
 },
 {
   "id": "sec-rxns3-9-2-2",
@@ -7540,7 +7558,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.5",
   "title": "",
-  "body": "  Magnesium sulfate    soluble   "
+  "body": "  Calcium sulfate    insoluble   "
 },
 {
   "id": "sec-rxns3-9-2-7",
@@ -7558,7 +7576,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.7",
   "title": "",
-  "body": "  Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )    Double replacement   "
+  "body": "     Double replacement   "
 },
 {
   "id": "sec-rxns3-9-3-3",
@@ -7567,7 +7585,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.8",
   "title": "",
-  "body": "  K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )    Double replacement   "
+  "body": "     Double replacement   "
 },
 {
   "id": "sec-rxns3-9-3-4",
@@ -7576,7 +7594,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.9",
   "title": "",
-  "body": "  2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)    Single replacement   "
+  "body": "     Single replacement   "
 },
 {
   "id": "sec-rxns3-9-3-5",
@@ -7585,7 +7603,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.10",
   "title": "",
-  "body": "  F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)    Single replacement   "
+  "body": "     Single replacement   "
 },
 {
   "id": "sec-rxns3-9-4-2",
@@ -7603,7 +7621,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.12",
   "title": "",
-  "body": "  Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate (NiHPO4 )   "
+  "body": "  Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate ( )   "
 },
 {
   "id": "sec-rxns3-9-4-4",
@@ -7612,7 +7630,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.13",
   "title": "",
-  "body": "  Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate, PbSO4   "
+  "body": "  Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate,    "
 },
 {
   "id": "sec-rxns3-9-4-5",
@@ -7621,7 +7639,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.3.14",
   "title": "",
-  "body": "  Strontium bromide and potassium sulfate    yes, strontium sulfate, SrSO4   "
+  "body": "  Strontium bromide and potassium sulfate    yes, strontium sulfate,    "
 },
 {
   "id": "sec-rxns4",
@@ -7630,66 +7648,75 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.4",
   "title": "Balancing chemical reactions",
-  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well. What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). We have to balance the reaction by adding in coefficients in front of the compounds. To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reaction in this class):  1. Write the reaction with the correct chemical formulas of the reactants and products 2. Determine the number of atoms of each element on the reactants and products sides a. If all of the elements are balanced, then you’re done 3. Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if the elements are balanced 4. Repeat step 3 with other elements that only appear in one compound in both the reactants and product. 5. Balance any remaining elements by changing\/adding coefficients 6. Check and recheck every element for balance 7. Simplify the coefficients a. If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators b. If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor  To see these steps in practice, see the example below:  Example: Balance the combustion reaction for C2 H4.  1. Since this is a combustion reaction, we know the other reactants (O2 ) and products (H2O and CO2 ) so the reaction is C2 H4 + O2 → H2 O + CO2 2. Check to see if the atoms are balanced on both sides of the reaction:  Element Number on left side Number on the right side C 2 1 H 4 2 O 2 3 They aren’t, so we have to go to step 3.  3. We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown: C2 H4 + O2 → H2 O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 2 O 2 5 Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms. 4. Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:  C2 H4 + O2 → 2H2O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 4 O 2 6  5. We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas. C2 H4 + 3O2 → 2H2O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 4 O 6 6 6. All of the elements are balanced and the coefficients are simplified. We are now done.   Exercise 2    Balance the following reactions by adding in the necessary coefficients:     Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)      FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)      C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2      Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)      MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)       Write an equation for the following reactions and balance it     Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)      Combustion of C7 H14    2C7 H14 + 21O2 → 14H2 O + 14CO2      "
+  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well.  What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). Instead, we have to balance the reaction by adding in coefficients in front of the compounds.  To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reactions in this class):     Write the reaction with the correct chemical formulas of the reactants and products    Determine the number of atoms of each element on the reactants and products sides    If all of the elements are balanced, then you’re done      Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if all of the elements are balanced    Repeat step 3 with other elements that only appear in one compound in both the reactants and product.    Balance any remaining elements by changing\/adding coefficients    Check and recheck every element for balance    Simplify the coefficients    If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators    If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor       To see these steps in practice, see the example below:   Example: Balance the combustion reaction for     Since this is a combustion reaction, we know the other reactants ( ) and products ( and ) so the reaction is:     Check to see if the atoms are balanced on both sides of the reaction:      Element  Number on left side  Number on the right side   C  2  1    H  4  2    O  2  3    They aren’t, so we have to go to step 3.       We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown:        Element Number on left side Number on the right side C 2 2 H 4 2 O 2 5 Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms. 4. Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:  C2 H4 + O2 → 2H2O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 4 O 2 6  5. We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas. C2 H4 + 3O2 → 2H2O + 2CO2  Element Number on left side Number on the right side C 2 2 H 4 4 O 6 6 6. All of the elements are balanced and the coefficients are simplified. We are now done.    Exercise 2    Balance the following reactions by adding in the necessary coefficients:     Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)      FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)      C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2      Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)      MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)       Write an equation for the following reactions and balance it     Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)      Combustion of C7 H14    2C7 H14 + 21O2 → 14H2 O + 14CO2      "
 },
 {
-  "id": "sec-rxns4-14-2-2",
+  "id": "sec-rxns4-2",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-2-2",
+  "url": "sec-rxns4.html#sec-rxns4-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "law of conservation of mass "
+},
+{
+  "id": "sec-rxns4-8-2-2",
+  "level": "2",
+  "url": "sec-rxns4.html#sec-rxns4-8-2-2",
   "type": "Exercise",
   "number": "8.4.1",
   "title": "",
   "body": "  Na (s) + Cl2 (g) → NaCl (s)    2Na (s) + Cl2 (g) → 2NaCl (s)   "
 },
 {
-  "id": "sec-rxns4-14-2-3",
+  "id": "sec-rxns4-8-2-3",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-2-3",
+  "url": "sec-rxns4.html#sec-rxns4-8-2-3",
   "type": "Exercise",
   "number": "8.4.2",
   "title": "",
   "body": "  FeCl3 (aq ) + NaOH(aq ) → Fe(OH)3 (s) + NaCl (aq)    FeCl3 (aq ) + 3NaOH(aq ) → Fe(OH)3 (s) + 3NaCl (aq)   "
 },
 {
-  "id": "sec-rxns4-14-2-4",
+  "id": "sec-rxns4-8-2-4",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-2-4",
+  "url": "sec-rxns4.html#sec-rxns4-8-2-4",
   "type": "Exercise",
   "number": "8.4.3",
   "title": "",
   "body": "  C2 H6 + O2 → H2 O + CO2    2C2 H6 + 7O2 → 6H2 O + 4CO2   "
 },
 {
-  "id": "sec-rxns4-14-2-5",
+  "id": "sec-rxns4-8-2-5",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-2-5",
+  "url": "sec-rxns4.html#sec-rxns4-8-2-5",
   "type": "Exercise",
   "number": "8.4.4",
   "title": "",
   "body": "  Cs (s) + H2 O (l ) → CsOH(aq ) + H2 (g)    2Cs (s) + 2H2 O (l ) → 2CsOH(aq ) + H2 (g)   "
 },
 {
-  "id": "sec-rxns4-14-2-6",
+  "id": "sec-rxns4-8-2-6",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-2-6",
+  "url": "sec-rxns4.html#sec-rxns4-8-2-6",
   "type": "Exercise",
   "number": "8.4.5",
   "title": "",
   "body": "  MgCl2 (aq ) + AgNO3 (aq ) → Mg(NO3 )2 (aq ) + AgCl(s)    MgCl2 (aq ) + 2AgNO3 (aq ) → Mg(NO3 )2 (aq ) + 2AgCl(s)   "
 },
 {
-  "id": "sec-rxns4-14-3-2",
+  "id": "sec-rxns4-8-3-2",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-3-2",
+  "url": "sec-rxns4.html#sec-rxns4-8-3-2",
   "type": "Exercise",
   "number": "8.4.6",
   "title": "",
   "body": "  Aqueous sodium sulfate and aqueous calcium chloride are mixed    Na2 SO4 (aq ) + CaCl2 (aq ) → 2NaCl(aq ) + CaSO4 (s)   "
 },
 {
-  "id": "sec-rxns4-14-3-3",
+  "id": "sec-rxns4-8-3-3",
   "level": "2",
-  "url": "sec-rxns4.html#sec-rxns4-14-3-3",
+  "url": "sec-rxns4.html#sec-rxns4-8-3-3",
   "type": "Exercise",
   "number": "8.4.7",
   "title": "",
@@ -10636,7 +10663,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.         Nuclear fission: A nuclear reaction in which an unstable isotope breaks apart into multiple other isotopes. This process releases a tremendous amount of energy.         Chain reaction: The process by which a nuclear fission event produces neutrons which can in turn trigger additional nuclear fission events in adjacent atoms, which then release more neutrons, which leads to the sustaining or growth of the fission reaction         Tracer: A radioactive chemical that is used to track its position in the body         Becquerel: A unit of radiation emission that corresponds to 1 disintegration or decay per second         Curie: A unit of radiation emission that is named after Marie Curie. It is equivalent to          rad: A unit of radiation absoption. Rad stands for \"radiation absorbed dose\"         Gray: A unit of radiation absorption that is abbreviated Gy. 100 rad = 1 Gray         rem: A unit of biological radiation effect. It is an acronym that stands for \"radiation equivalent in man\".         Sievert: A unit of biological radiation effect. It is abbreviated Sv. 100 rem = 1 Sv.         Half life: The amount of time that it takes for half of the radioactive nuclei in a sample to decay.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8       Chemical reaction: The process of converting one or more pure substances into different pure substances         Addition reaction: A chemical reaction in which 2 or more pure substances combine to form one pure substance.         Decomposition reaction: A chemical reaction in which one compound breaks apart into 2 or more different pure substances.         Ionic equation: A chemical equation in which all ionic compounds that are dissolved into solution are represented as their component ions         Net ionic equation: An ionic equation in which the ions that don't react or change are removed from the equation      Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.         Nuclear fission: A nuclear reaction in which an unstable isotope breaks apart into multiple other isotopes. This process releases a tremendous amount of energy.         Chain reaction: The process by which a nuclear fission event produces neutrons which can in turn trigger additional nuclear fission events in adjacent atoms, which then release more neutrons, which leads to the sustaining or growth of the fission reaction         Tracer: A radioactive chemical that is used to track its position in the body         Becquerel: A unit of radiation emission that corresponds to 1 disintegration or decay per second         Curie: A unit of radiation emission that is named after Marie Curie. It is equivalent to          rad: A unit of radiation absoption. Rad stands for \"radiation absorbed dose\"         Gray: A unit of radiation absorption that is abbreviated Gy. 100 rad = 1 Gray         rem: A unit of biological radiation effect. It is an acronym that stands for \"radiation equivalent in man\".         Sievert: A unit of biological radiation effect. It is abbreviated Sv. 100 rem = 1 Sv.         Half life: The amount of time that it takes for half of the radioactive nuclei in a sample to decay.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8       Chemical reaction: The process of converting one or more pure substances into different pure substances         Addition reaction: A chemical reaction in which 2 or more pure substances combine to form one pure substance.         Decomposition reaction: A chemical reaction in which one compound breaks apart into 2 or more different pure substances.         Ionic equation: A chemical equation in which all ionic compounds that are dissolved into solution are represented as their component ions         Net ionic equation: An ionic equation in which the ions that don't react or change are removed from the equation         Single-replacement reaction: A chemical reaction in which an element and a compound react to produce a different element and a different compound.         Double-replacement reaction: A chemical reaction in which two compounds swap ions.         Law of conservation of mass: A law in chemistry that states that matter is neither created or destroyed in a chemical reaction. The numbers of each atom type should be the same on the reactants and products sides of a chemical equation.      Chapter 9    Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -11167,12 +11194,39 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
-  "body": "Chapter 9 "
+  "body": "Single-replacement reaction: "
 },
 {
   "id": "backmatter-2-61",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-61",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Double-replacement reaction: "
+},
+{
+  "id": "backmatter-2-62",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-62",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Law of conservation of mass: "
+},
+{
+  "id": "backmatter-2-63",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-63",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Chapter 9 "
+},
+{
+  "id": "backmatter-2-64",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-64",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
