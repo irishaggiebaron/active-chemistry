@@ -9,54 +9,77 @@
 		electrons from one substance to another, regardless of the number of reactants
 		or products involved.
 		These reactions that involve a transfer of electrons are known as
-		oxidation-reduction reactions (also called redox reactions).
+		<term><xref ref="def-oxidationreductionreactions" text="custom">oxidation-reduction reactions</xref></term>
+		(also called redox reactions).
 		In a redox reaction, one or more reactants will take electrons from one or
 		more other reactants.
-		If a reactant gained electrons then it got reduced.
-		If a reactant loses electrons, then it gets oxidized.
-		This can be remembered by the saying “LeO the lion says GeR”...Losing
-		electrons is oxidation, gaining electrons is reduction.
-		A slight amount of confusion enters in when we talk about oxidizing agents and
-		reducing agents.
-		These agents are causing the oxidation or reduction of some other substance,
-		respectively.
-		Therefore an oxidizing agent will cause the oxidation of something else (ie.
-		cause something else to lose electrons).
-		It can only do this by accepting the electrons itself.
-		Therefore an oxidizing agent gets reduced in a chemical reaction.
-		The opposite is true of reducing agents.
-		A reducing agent causes the reduction of another substance (ie.
-		causes something else to gain electrons) by providing the electrons itself.
-		Therefore reducing agents get oxidized in chemical reactions.
+		If a reactant gained electrons then it got reduced or underwent
+		<term><xref ref="def-reduction" text="custom">reduction</xref></term>.
+		If a reactant loses electrons, then it gets oxidized or underwent
+		<term><xref ref="def-oxidation" text="custom">oxidation</xref></term>.
 	</p>
 
+	<p>
+		This can be remembered by the saying “LeO the lion says GeR”...Losing
+		electrons is oxidation, gaining electrons is reduction...
+	</p>
+
+	<p>
+		or by the acronym "OIL RIG"...oxidation is loss, reduction is gain.
+	</p>
+
+	<p>
+		A slight amount of confusion can enter in when we talk about
+		<term><xref ref="def-oxidizingagents" text="custom">oxidizing agents</xref></term>
+		and
+		<term><xref ref="def-reducinggents" text="custom">reducing agents</xref></term>.
+		These <em>agents</em> are causing the oxidation or reduction of some other
+		substance, respectively.
+		Therefore an oxidizing agent is a chemical that causes the oxidation of
+		something else in the reaction (ie.
+		it causes something else to lose electrons).
+		It can only do this by accepting the electrons itself.
+		Therefore <em>an oxidizing agent gets reduced in a chemical reaction</em>.
+		The opposite is true of reducing agents.
+		A reducing agent causes the reduction of another substance (ie.
+		it causes something else to gain electrons) by providing the electrons itself.
+		Therefore <em>reducing agents get oxidized in chemical reactions</em>.
+	</p>
+<p>
+	<em>Redox reactions involving ionic compounds:</em>
+</p>
 	<p>
 		When dealing with ionic compounds in a reaction, it is straightforward to
 		determine if a redox reaction is occurring.
 		All we need to do is look at the charge on the ion.
 		A very important note: elements have a charge of zero when in their elemental
 		form.
-		So in ZnCl2 the zinc has a +2 charge and the chlorines each have a charge of
-		zero.
+		So in <m>ZnCl_2</m> the zinc has a +2 charge and the chlorines each have a
+		charge of zero.
 		Let’s investigate the following reaction:
 	</p>
-
-	<p>
-		ZnCl2 (aq ) + 2Na (s) → Zn (s) + 2NaCl (aq)
-	</p>
+	<me>
+		ZnCl_2 (aq) + 2Na (s) \rightarrow Zn (s) + 2NaCl (aq)
+	</me>
 
 	<p>
 		In this case the zinc begins with a charge of +2.
 		In the products, it is in its elemental form and thus has a charge of zero.
+	</p>
+
+	<p>
 		How did the zinc change charge???
 		It gained two electrons!
 		The negative charge of the two electrons cancels out the +2 charge, resulting
 		in neutral zinc.
 		Thus the zinc gained electrons and got reduced.
+	</p>
+
+	<p>
 		In every redox reaction, something gets reduced and something gets oxidized.
 		So in the example above, what is losing electrons?
 		The chloride has a -1 charge in zinc chloride and still has a -1 charge in
-		sodium chloride, so the chloride isn’t participating in the electron transfer.
+		sodium chloride, so the chloride isn’t participating in the electron transfer.</p><p>
 		The sodium, on the other hand, begins in its elemental form with a charge of
 		zero and then has a charge of +1 in the products.
 		So the sodium is losing electrons.
@@ -65,44 +88,54 @@
 		electrons being gained by the zinc; the number of electrons lost must always
 		equal the number of electrons gained in the reaction).
 	</p>
-
+<p>
+	<em>Redox reactions involving covalent compounds:</em>
+</p>
 	<p>
 		Not every redox reaction involves ionic compounds.
 		Redox reactions also happen with covalent compounds, but they aren’t as
 		straightforward to understand, but there is a nice way to recognize them.
-		If a covalent compound gets oxidized, then one of the atoms (usually a carbon)
+	</p>
+<assemblage>
+	<title>Rules for recognizing oxidation of a covalent compound</title>
+	<p>
+		When a covalent compound gets oxidized, one of the atoms (usually a carbon)
 		will lose a bond to hydrogen and gain a bond to something else (often an
-		oxygen atom) instead.
+		oxygen atom).
+	</p>
+</assemblage>		
 		Reduction follows the exact opposite pattern, with one of the atoms losing a
 		bond to something else and gaining a bond to hydrogen.
-		The reason why these are redox reactions is that electrons are still being
-		added or removed, but often in the form of another compound like hydrogen gas
+		The reason why these are redox reactions is that electrons might not be immediately clear.  In these reactions electrons are still being
+		added or removed from the compounds, but often in the form of another compound like hydrogen gas
 		(hydrogen gas has 2 electrons that can be added to other molecules, often
 		along with its hydrogen atoms).
-		Because of this, there aren’t any changes in charge that we observe...instead
+		Because of this, there often aren’t any changes in charge that we observe...instead
 		we have to look for the patterns listed above.
 		See the example below:
 	</p>
 
+	<assemblage>
+	<title>Example of a redox reaction involving covalent compounds</title>
+	
 	<p>
-		When CH3 OH gets turned into CH2 O, hydrogen gas (with its two electrons) is
+		When <m>CH_3OH</m> gets turned into <m>CH_2O</m>, hydrogen gas (with its two electrons) is
 		released.
-		Therefore, the reactant CH3 OH got oxidized to CH2 O.
+		Therefore, the carbon atom in the reactant <m>CH_3OH</m> got oxidized to <m>CH_2O</m>.
+		</p>
+		<p>
 		We can recognize this because the carbon in the reactant lost a bond to
 		hydrogen and gained a new bond to oxygen, indicating that it got oxidized.
-		In this reaction the two hydrogen atoms that were lost from CH3 OH gained
-		those two electrons and thus got reduced.
-	</p>
+		In this reaction the two hydrogen atoms that were lost from <m>CH_3OH</m> gained
+		those two electrons and thus got reduced.  This can also be determined by looking at the rule for covalent compound reduction:  the hydrogen atoms lost a bond to something else (a carbon or an oxygen atom, depending on which hydrogen atom you want to focus on) and they gained a bond to another hydrogen atom.
+		</p>
+	</assemblage>
 
-	<p>
-		+ H2
-	</p>
 
-	<p>
-		One special class of redox reaction involving covalent compounds is a
-		combustion reaction.
+	<p> 
+		One special class of redox reaction involving covalent compounds is a <term><xref ref="def-combustionreaction" text="custom">combustion reaction</xref></term>.
 		In a combustion reaction, a carbon containing compound reacts with oxygen gas
-		(O2 ), producing carbon dioxide (CO2 ) and water (H2 O).
+		(<m>O_2</m>), producing carbon dioxide (<m>CO_2</m>) and water (<m>H_2O</m>).
 		Combustion reactions are carried out when we burn fossil fuels in our cars or
 		in power plants.
 		The reaction releases a lot of energy that can be harnessed for beneficial
@@ -112,9 +145,9 @@
 		The chemical equation showing the breakdown of glucose is shown below:
 	</p>
 
-	<p>
-		C6 H12 O6 + 6O2 → 6CO2 + 6H2 O
-	</p>
+	<me>
+		C_6H_{12}O_6 + 6O_2 \rightarrow 6CO_2 + 6H_2O
+	</me>
 
 	<p>
 		It is a combustion reaction because a carbon compound reacts with oxygen gas
@@ -124,6 +157,7 @@
 		The oxygen atoms are losing a bond to the other oxygen and gaining new bonds
 		to hydrogen and are thus getting reduced.
 	</p>
+
 	<exercises>
 		<title>Exercise 1</title>
 
@@ -139,9 +173,9 @@
 
 			<exercise>
 				<statement>
-					<p>
-						Fe 3+ (aq ) + Cu+ (aq ) → Fe 2+ (aq ) + Cu2+ (aq)
-					</p>
+					<m>
+						Fe^{3+} (aq) + Cu^+ (aq) \rightarrow Fe^{2+} (aq) + Cu^{2+} (aq)
+					</>
 				</statement>
 
 				<answer>
