@@ -5,24 +5,26 @@
 	<title>Slightly more complex reactions</title>
 
 	<p>
-		Type 3: Single-replacement reaction: One compound reacts with a pure element.
+		Type 3:
+		<term><xref ref="def-singlereplacementreaction" text="custom">Single-replacement reaction:</xref></term>
+		One compound reacts with a pure element.
 		The element swaps with an atom in the compound.
 		Example:
 	</p>
+	<me>
+		A + BY \rightarrow B + AY
+	</me>
 
 	<p>
-		A + BY → B + AY
-	</p>
-
-	<p>
-		Type 4: Double-replacement reaction: Two compounds react with one another.
+		Type 4:
+		<term><xref ref="def-doublereplacementreaction" text="custom">Double-replacement reaction:</xref></term>
+		Two compounds react with one another.
 		Atoms from both compounds swap with one another.
 		Example:
 	</p>
-
-	<p>
-		AX + BY → AB + XY
-	</p>
+	<me>
+		AX + BY \rightarrow AB + XY
+	</me>
 
 	<p>
 		One common type of double-replacement reaction is a precipitation reaction.
@@ -52,15 +54,41 @@
 	</p>
 
 	<p>
-		1.
-		Compounds containing ammonium, magnesium, or alkali metal cations (group I
-		metals), and/or nitrate, and acetate anions are soluble 2.
-		Compounds containing the cation of silver, lead, or mercury are insoluble 3.
-		Compounds containing the chloride, bromide, or iodide anions are soluble 4.
-		Compounds containing the sulfate anion are soluble, except when paired with
-		group 2 metals 5.
-		Everything else is insoluble
+		<ol>
+			<li>
+				<p>
+					Compounds containing ammonium, magnesium, or alkali metal cations (group I
+					metals), and/or nitrate, and acetate anions are soluble
+				</p>
+			</li>
+
+			<li>
+				<p>
+					Compounds containing the cation of silver, lead, or mercury are insoluble
+				</p>
+			</li>
+
+			<li>
+				<p>
+					Compounds containing the chloride, bromide, or iodide anions are soluble
+				</p>
+			</li>
+
+			<li>
+				<p>
+					Compounds containing the sulfate anion are soluble, except when paired with
+					group 2 metals
+				</p>
+			</li>
+
+			<li>
+				<p>
+					Everything else is insoluble
+				</p>
+			</li>
+		</ol>
 	</p>
+
 	<exercises>
 		<title>Exercise 2</title>
 
@@ -130,13 +158,13 @@
 			<exercise>
 				<statement>
 					<p>
-						Magnesium sulfate
+						Calcium sulfate
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						soluble
+						insoluble
 					</p>
 				</answer>
 			</exercise>
@@ -165,9 +193,9 @@
 
 			<exercise>
 				<statement>
-					<p>
-						Na3 PO4 (aq ) + FeCl3 (aq ) → FePO4 (s) + 3NaCl (aq )
-					</p>
+					<m>
+						Na_3PO_4 (aq) + FeCl_3 (aq) \rightarrow FePO_4 (s) + 3NaCl (aq)
+					</m>
 				</statement>
 
 				<answer>
@@ -179,9 +207,9 @@
 
 			<exercise>
 				<statement>
-					<p>
-						K2 CO3 (aq ) + ZnBr2 (aq) → ZnCO3 (s) + 2KBr (aq )
-					</p>
+					<m>
+						K_2CO_3 (aq) + ZnBr_2 (aq) \rightarrow ZnCO_3 (s) + 2KBr (aq)
+					</m>
 				</statement>
 
 				<answer>
@@ -193,9 +221,9 @@
 
 			<exercise>
 				<statement>
-					<p>
-						2Cs(s) + FeCl2 (aq ) → 2CsCl(aq) + Fe(s)
-					</p>
+					<m>
+						2Cs(s) + FeCl_2 (aq) \rightarrow 2CsCl(aq) + Fe(s)
+					</m>
 				</statement>
 
 				<answer>
@@ -207,9 +235,9 @@
 
 			<exercise>
 				<statement>
-					<p>
-						F2 (g) + 2NaCl(aq ) → Cl2 (g) + 2NaF (aq)
-					</p>
+					<m>
+						F_2 (g) + 2NaCl(aq) \rightarrow Cl_2 (g) + 2NaF (aq)
+					</m>
 				</statement>
 
 				<answer>
@@ -250,7 +278,7 @@
 
 				<answer>
 					<p>
-						yes, nickel (II) hydrogen phosphate (NiHPO4 )
+						yes, nickel (II) hydrogen phosphate (<m>NiHPO_4</m> )
 					</p>
 				</answer>
 			</exercise>
@@ -264,7 +292,7 @@
 
 				<answer>
 					<p>
-						yes lead (II) sulfate, PbSO4
+						yes lead (II) sulfate, <m>PbSO_4</m>
 					</p>
 				</answer>
 			</exercise>
@@ -278,7 +306,7 @@
 
 				<answer>
 					<p>
-						yes, strontium sulfate, SrSO4
+						yes, strontium sulfate, <m>SrSO_4</m>
 					</p>
 				</answer>
 			</exercise>
