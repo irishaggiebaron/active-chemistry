@@ -1073,6 +1073,66 @@
       </definition>
     </p>
 
+         <p>
+      <definition xml:id="def-oxidationreductionreactions">
+        <statement>
+          <p>
+            <term>Oxidation-reduction reactions:</term> A chemical reaction that involves the transfer of one or more electrons betweeen atoms or molecules.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+         <p>
+      <definition xml:id="def-reduction">
+        <statement>
+          <p>
+            <term>Reduction:</term> The process of a chemical gaining electrons.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+         <p>
+      <definition xml:id="def-oxidation">
+        <statement>
+          <p>
+            <term>Oxidation:</term> The process of a chemical losing electrons.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+         <p>
+      <definition xml:id="def-oxidizingagents">
+        <statement>
+          <p>
+            <term>Oxidizing agents:</term> A chemical that oxidizes another chemical.  Oxidizing agents gain electrons and thus get reduced.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+         <p>
+      <definition xml:id="def-reducingagents">
+        <statement>
+          <p>
+            <term>Reducing agents:</term> A chemical that reduces another chemical.  A reducing agent must therefore provide the electrons for the reduction and therefore the reducing agent gets oxidized.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+     <p>
+      <definition xml:id="def-combustionreaction">
+        <statement>
+          <p>
+            <term>Combustion reaction:</term> A chemical reaction in which an organic molecule is burned in the presence of oxygen gas.  Carbon dioxide and water are the products.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
     <p>
       <term>Chapter 9</term>
     </p>
