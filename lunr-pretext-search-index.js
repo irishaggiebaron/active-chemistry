@@ -8205,395 +8205,80 @@ var ptx_lunr_docs = [
   "url": "sec-gas1.html",
   "type": "Section",
   "number": "9.1",
-  "title": "Basic gas laws",
-  "body": " Basic gas laws  The kinetic molecular theory of gases can give rise to our understanding of three basic gas laws: Boyle’s Law, Charles’s Law, and Gay-Lussac’s Law. These laws relate changes in pressure, temperature, and volume of a gas. Each law also has an associated equation that can be used to determine the effect of changing the pressure, volume, or temperature of a gas.  Boyle’s law states that pressure and volume are inversely proportional to one another if the temperature is kept constant. This means that as one goes up, the other must go down (ex. if the volume decreases then the pressure must increase). We can understand this quite easily if we reflect on the kinetic molecular theory of gases. If gas molecules are moving around with a certain speed, because the temperature is kept constant, and we shrink the container that the gas is trapped in, then the gas molecules will be impacting the walls of the container more frequently and thus the pressure exerted will increase. Most of us have probably experienced Boyle’s law if you’ve ever tried to squeeze a balloon. When you do that, you are attempting to reduce the volume of the gas, and as you do so, it gets harder and harder to squeeze. Since pressure and volume are inversely proportional, this can be described mathematically as P × V = c where c is a constant (the value of this constant isn’t important and actually varies depending on a number of factors). With that equation, if we increase pressure, then volume must decrease in order for the product to still equal c. This relationship hold true as long and the amount of gas and the temperature are kept constant...so under one set of conditions P1 × V1 = c and under a second set of pressure and volumes P2 × V2 = c. Since both of these equations equal c, we can set them equal to one another to get the equation for Boyle’s law:  P1 × V1 = P2 × V2  This equation can be used to determine the new pressure of a gas if the volume changes or to find the new volume if the pressure changes (again, assuming that the temperature and the amount of the gas are fixed).  Charles’s law relates the volume and temperature of a gas, stating that these two properties are directly proportional (assuming that the pressure and amount of gas are constant). This again agrees with kinetic molecular theory because if I increase the temperature of a gas, the molecules will move faster, this would cause them to impact the sides of the container with more force, thus increasing the pressure. If the pressure is being held constant, however, the only way to allow for this is to have the volume of the gas increase, causing the impacts of the gas on the sides of the container to become less frequent. Thus an increase in temperature causes an increase in volume and a decrease in temperature would cause a decrease in volume. Many of us have also seen Charles’s law in our lives. Charles’s law is used to inflate hot air balloons; the heat from the flame at the base of the balloon heats the gas inside causing the volume of the balloon to increase and V inflate. This relationship can be described mathematically by T = c where c is a constant. Like in Boyle’s law, this equation will hold under different conditions, so we can similarly derive the equation for Charle’s law:  V1 V2 = T1 T2 It is VERY important to note that this equation only works if the temperatures have units of Kelvin!!!! Using this equation we can predict the new volume of a gas if the temperature changes or the new temperature if the volume changes (assuming that the amount of gas and the pressure are constant)  The final law that we’ll cover in this section is Gay-Lussac’s Law. This law states that pressure and temperature are directly proportional if the volume and amount of gas are fixed. Gay-Lussac’s law can be understood if we realize that increasing the temperature causes the speed of molecules to increase. If the size of the container is kept the same, then those molecules will impact the sides with more force, thus increasing the pressure. Gay-Lussac’s law can be described with the formula: P1 P2 = T1 T2 This equation can be used to find the new pressure if the temperature of a gas changes or the new temperature if the pressure changes (again, assuming that the volume and amount of gas don’t change).   Exercise 2    Proportionality     For this exercise, we are going to examine an example of inverse proportionality using the equation a ∙ b = c, where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?      For this exercise, we are going to examine an example of direct a proportionality using the equation b = c, where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?       Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)     If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?       Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)     If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?      If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.      Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?       Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)     If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is the new pressure of the gas if the temperature doubles to 146.2 oC?      Did the pressure double when the temperature, measured in Celsius, doubled?      If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?      Did the pressure double when the temperature, measured in Kelvin, doubled?      If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?       Exercise 1        Faster      More force      Pressure would increase       5 psi     20 psi, higher pressure       Convert 1.72 atm of pressure to the following units using the conversion factors provided:     174,000 Pa      174 kPa      25.3 psi      1.74 bar       Exercise 2    Proportionality     1600      10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is 1⁄2 of the original starting value of 20) ii. a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)      4      40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20) ii. a decreases to 20. a decreases by the same factor as b       Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)     1.0 x 103 kPa      150 L      1.5 x 105 L       Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)     23.0 L      2550 K      2.55 K      62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.      You get a negative volume. Volume can’t be negative.       Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)     88.7 psi      No      146.4 psi      yes      If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?      7.2 K      "
+  "title": "Kinetic molecular theory of gases and pressure",
+  "body": " Kinetic molecular theory of gases and pressure  Gases are a state of matter. Gases are similar to liquids in that they adopt the shape of their containers, but are different in that they will spread out to occupy the entire volume of their container. Thus gases do NOT have a fixed volume or a fixed shape. To better understand these properties as well as other properties of gases that we’ll be learning abou in this chapter, scientists have developed the kinetic molecular theory of gases. This theory states that the properties of a gas can be understood by a model that assumes the following:  1. Gases consist of tiny particles that occupy only a small percentage of the total volume of the gas 2. The gas molecules are constantly moving with very high speeds 3. Gas molecules do not interact with one another at all due to their high speeds and the fact that they occupy such a small percentage of the volume of the gas 4. When gas molecules impact one another or the sides of their container, they bounce off, essentially losing none of their energy. 5. The average speed of the gas molecules is directly proportional to the temperature. So as temperature increases, the gas molecules move more quickly.  This information about gases will help us to understand other properties of gases as well as the gas laws that we’ll encounter later in the chapter. The first such property that we can begin to discuss is pressure. When a gas is near a surface (like air near our bodies) or trapped in a container, then the gas molecules will impact the surfaces that they’re exposed to with a certain amount of force. This force will push against that surface. When a force is being applied to a surface, we can measure the pressure being exerted. Pressure is simply the amount of force being applied divided by the area of the surface that it’s being applied to. This can be illustrated easily using everyday objects. If you place a large piece of wood on top of another piece of wood and hit it with a hammer, you’re unlikely to drive one piece of wood into the other. However if you place a nail on a piece of wood and hit it with a hammer, you can easily drive the nail into the wood. Why? The amount of force applied with the hammer was the exact same. However, in the first case, the amount of surface that the force was applied to was large, meaning that the pressure was small. In the case of the nail, that same amount of force is applied to the narrow point of a nail (a much smaller area) so the nail has a very high pressure and is able to easily penetrate the wood.  The idea of gas pressure is actually quite fascinating when you think about it. We know that we can inflate balloons by filling them with a gas and that this gas exerts a  certain amount of pressure (that we can easily feel if you try and squeeze the balloon). The bizarre thing about the balloon, though, is that the ballon is almost entirely empty. What keeps it inflated isn’t that it is ‘full of air’, it’s that the little bit of air inside is impacting the balloon surface with such force that it’s continually driving it outwards, keeping it inflated. In fact, each gas molecule inside of a helium balloon at room temperature is impacting the surface of the balloon with a speed of approximately 4000 miles per hour!!!  We can measure the pressure of a gas using various units. The SI unit for pressure is a Pascal (Pa), and like other SI units we can attach metric prefixes to it. Other units of pressure are commonly used also. These include atmospheres (atm), bars, inches (or millimeters) of mercury, and pounds per square inch. If you ever need to convert between these various units on an exam, a conversion factor will be provided.   Exercise 1    If you increase the temperature of a gas     Do the molecules move faster or slower?      Would the molecules impact the sides of the container with more force or less force?      If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?       Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 2 square inches (answer in units of pounds per square inch).     Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?       Convert 1.72 atm of pressure to the following units using the conversion factors provided:     Pa (1 atm=101,325 Pa)      kPa      pound per square inch (psi) (14.7 psi=1atm)      bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)      "
 },
 {
-  "id": "sec-gas1-9-2-2",
+  "id": "sec-gas1-8-2-2",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-2-2",
+  "url": "sec-gas1.html#sec-gas1-8-2-2",
   "type": "Exercise",
   "number": "9.1.1",
   "title": "",
-  "body": "  For this exercise, we are going to examine an example of inverse proportionality using the equation a ∙ b = c, where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?   "
+  "body": "  Do the molecules move faster or slower?   "
 },
 {
-  "id": "sec-gas1-9-2-3",
+  "id": "sec-gas1-8-2-3",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-2-3",
+  "url": "sec-gas1.html#sec-gas1-8-2-3",
   "type": "Exercise",
   "number": "9.1.2",
   "title": "",
-  "body": "  If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?   "
+  "body": "  Would the molecules impact the sides of the container with more force or less force?   "
 },
 {
-  "id": "sec-gas1-9-2-4",
+  "id": "sec-gas1-8-2-4",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-2-4",
+  "url": "sec-gas1.html#sec-gas1-8-2-4",
   "type": "Exercise",
   "number": "9.1.3",
   "title": "",
-  "body": "  For this exercise, we are going to examine an example of direct a proportionality using the equation b = c, where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?   "
+  "body": "  If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?   "
 },
 {
-  "id": "sec-gas1-9-2-5",
+  "id": "sec-gas1-8-3-2",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-2-5",
+  "url": "sec-gas1.html#sec-gas1-8-3-2",
   "type": "Exercise",
   "number": "9.1.4",
   "title": "",
-  "body": "  If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?   "
+  "body": "  Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?   "
 },
 {
-  "id": "sec-gas1-9-3-2",
+  "id": "sec-gas1-8-4-2",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-3-2",
+  "url": "sec-gas1.html#sec-gas1-8-4-2",
   "type": "Exercise",
   "number": "9.1.5",
   "title": "",
-  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?   "
+  "body": "  Pa (1 atm=101,325 Pa)   "
 },
 {
-  "id": "sec-gas1-9-3-3",
+  "id": "sec-gas1-8-4-3",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-3-3",
+  "url": "sec-gas1.html#sec-gas1-8-4-3",
   "type": "Exercise",
   "number": "9.1.6",
   "title": "",
-  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?   "
+  "body": "  kPa   "
 },
 {
-  "id": "sec-gas1-9-3-4",
+  "id": "sec-gas1-8-4-4",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-3-4",
+  "url": "sec-gas1.html#sec-gas1-8-4-4",
   "type": "Exercise",
   "number": "9.1.7",
   "title": "",
-  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?   "
+  "body": "  pound per square inch (psi) (14.7 psi=1atm)   "
 },
 {
-  "id": "sec-gas1-9-4-2",
+  "id": "sec-gas1-8-4-5",
   "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-4-2",
+  "url": "sec-gas1.html#sec-gas1-8-4-5",
   "type": "Exercise",
   "number": "9.1.8",
   "title": "",
-  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?   "
-},
-{
-  "id": "sec-gas1-9-4-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-4-3",
-  "type": "Exercise",
-  "number": "9.1.9",
-  "title": "",
-  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L   "
-},
-{
-  "id": "sec-gas1-9-4-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-4-4",
-  "type": "Exercise",
-  "number": "9.1.10",
-  "title": "",
-  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?   "
-},
-{
-  "id": "sec-gas1-9-4-5",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-4-5",
-  "type": "Exercise",
-  "number": "9.1.11",
-  "title": "",
-  "body": "  If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.   "
-},
-{
-  "id": "sec-gas1-9-4-6",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-4-6",
-  "type": "Exercise",
-  "number": "9.1.12",
-  "title": "",
-  "body": "  Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?   "
-},
-{
-  "id": "sec-gas1-9-5-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-5-2",
-  "type": "Exercise",
-  "number": "9.1.13",
-  "title": "",
-  "body": "  If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is the new pressure of the gas if the temperature doubles to 146.2 oC?   "
-},
-{
-  "id": "sec-gas1-9-5-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-5-3",
-  "type": "Exercise",
-  "number": "9.1.14",
-  "title": "",
-  "body": "  Did the pressure double when the temperature, measured in Celsius, doubled?   "
-},
-{
-  "id": "sec-gas1-9-5-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-5-4",
-  "type": "Exercise",
-  "number": "9.1.15",
-  "title": "",
-  "body": "  If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?   "
-},
-{
-  "id": "sec-gas1-9-5-5",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-5-5",
-  "type": "Exercise",
-  "number": "9.1.16",
-  "title": "",
-  "body": "  Did the pressure double when the temperature, measured in Kelvin, doubled?   "
-},
-{
-  "id": "sec-gas1-9-5-6",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-9-5-6",
-  "type": "Exercise",
-  "number": "9.1.17",
-  "title": "",
-  "body": "  If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?   "
-},
-{
-  "id": "sec-gas1-10-2-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-2-2",
-  "type": "Exercise",
-  "number": "9.1.1",
-  "title": "",
-  "body": "  Faster   "
-},
-{
-  "id": "sec-gas1-10-2-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-2-3",
-  "type": "Exercise",
-  "number": "9.1.2",
-  "title": "",
-  "body": "  More force   "
-},
-{
-  "id": "sec-gas1-10-2-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-2-4",
-  "type": "Exercise",
-  "number": "9.1.3",
-  "title": "",
-  "body": "  Pressure would increase   "
-},
-{
-  "id": "sec-gas1-10-3-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-3-2",
-  "type": "Exercise",
-  "number": "9.1.4",
-  "title": "",
-  "body": "  20 psi, higher pressure   "
-},
-{
-  "id": "sec-gas1-10-4-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-4-2",
-  "type": "Exercise",
-  "number": "9.1.5",
-  "title": "",
-  "body": "  174,000 Pa   "
-},
-{
-  "id": "sec-gas1-10-4-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-4-3",
-  "type": "Exercise",
-  "number": "9.1.6",
-  "title": "",
-  "body": "  174 kPa   "
-},
-{
-  "id": "sec-gas1-10-4-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-4-4",
-  "type": "Exercise",
-  "number": "9.1.7",
-  "title": "",
-  "body": "  25.3 psi   "
-},
-{
-  "id": "sec-gas1-10-4-5",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-10-4-5",
-  "type": "Exercise",
-  "number": "9.1.8",
-  "title": "",
-  "body": "  1.74 bar   "
-},
-{
-  "id": "sec-gas1-11-2-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-2-2",
-  "type": "Exercise",
-  "number": "9.1.1",
-  "title": "",
-  "body": "  1600   "
-},
-{
-  "id": "sec-gas1-11-2-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-2-3",
-  "type": "Exercise",
-  "number": "9.1.2",
-  "title": "",
-  "body": "  10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is 1⁄2 of the original starting value of 20) ii. a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)   "
-},
-{
-  "id": "sec-gas1-11-2-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-2-4",
-  "type": "Exercise",
-  "number": "9.1.3",
-  "title": "",
-  "body": "  4   "
-},
-{
-  "id": "sec-gas1-11-2-5",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-2-5",
-  "type": "Exercise",
-  "number": "9.1.4",
-  "title": "",
-  "body": "  40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20) ii. a decreases to 20. a decreases by the same factor as b   "
-},
-{
-  "id": "sec-gas1-11-3-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-3-2",
-  "type": "Exercise",
-  "number": "9.1.5",
-  "title": "",
-  "body": "  1.0 x 103 kPa   "
-},
-{
-  "id": "sec-gas1-11-3-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-3-3",
-  "type": "Exercise",
-  "number": "9.1.6",
-  "title": "",
-  "body": "  150 L   "
-},
-{
-  "id": "sec-gas1-11-3-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-3-4",
-  "type": "Exercise",
-  "number": "9.1.7",
-  "title": "",
-  "body": "  1.5 x 105 L   "
-},
-{
-  "id": "sec-gas1-11-4-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-4-2",
-  "type": "Exercise",
-  "number": "9.1.8",
-  "title": "",
-  "body": "  23.0 L   "
-},
-{
-  "id": "sec-gas1-11-4-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-4-3",
-  "type": "Exercise",
-  "number": "9.1.9",
-  "title": "",
-  "body": "  2550 K   "
-},
-{
-  "id": "sec-gas1-11-4-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-4-4",
-  "type": "Exercise",
-  "number": "9.1.10",
-  "title": "",
-  "body": "  2.55 K   "
-},
-{
-  "id": "sec-gas1-11-4-5",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-4-5",
-  "type": "Exercise",
-  "number": "9.1.11",
-  "title": "",
-  "body": "  62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.   "
-},
-{
-  "id": "sec-gas1-11-4-6",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-4-6",
-  "type": "Exercise",
-  "number": "9.1.12",
-  "title": "",
-  "body": "  You get a negative volume. Volume can’t be negative.   "
-},
-{
-  "id": "sec-gas1-11-5-2",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-5-2",
-  "type": "Exercise",
-  "number": "9.1.13",
-  "title": "",
-  "body": "  88.7 psi   "
-},
-{
-  "id": "sec-gas1-11-5-3",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-5-3",
-  "type": "Exercise",
-  "number": "9.1.14",
-  "title": "",
-  "body": "  No   "
-},
-{
-  "id": "sec-gas1-11-5-4",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-5-4",
-  "type": "Exercise",
-  "number": "9.1.15",
-  "title": "",
-  "body": "  146.4 psi   "
-},
-{
-  "id": "sec-gas1-11-5-5",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-5-5",
-  "type": "Exercise",
-  "number": "9.1.16",
-  "title": "",
-  "body": "  yes   "
-},
-{
-  "id": "sec-gas1-11-5-6",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-5-6",
-  "type": "Exercise",
-  "number": "9.1.17",
-  "title": "",
-  "body": "  If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?   "
-},
-{
-  "id": "sec-gas1-11-5-7",
-  "level": "2",
-  "url": "sec-gas1.html#sec-gas1-11-5-7",
-  "type": "Exercise",
-  "number": "9.1.18",
-  "title": "",
-  "body": "  7.2 K   "
+  "body": "  bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)   "
 },
 {
   "id": "sec-gas2",
@@ -8601,80 +8286,395 @@ var ptx_lunr_docs = [
   "url": "sec-gas2.html",
   "type": "Section",
   "number": "9.2",
-  "title": "Kinetic molecular theory of gases and pressure",
-  "body": " Kinetic molecular theory of gases and pressure  Gases are a state of matter. Gases are similar to liquids in that they adopt the shape of their containers, but are different in that they will spread out to occupy the entire volume of their container. Thus gases do NOT have a fixed volume or a fixed shape. To better understand these properties as well as other properties of gases that we’ll be learning abou in this chapter, scientists have developed the kinetic molecular theory of gases. This theory states that the properties of a gas can be understood by a model that assumes the following:  1. Gases consist of tiny particles that occupy only a small percentage of the total volume of the gas 2. The gas molecules are constantly moving with very high speeds 3. Gas molecules do not interact with one another at all due to their high speeds and the fact that they occupy such a small percentage of the volume of the gas 4. When gas molecules impact one another or the sides of their container, they bounce off, essentially losing none of their energy. 5. The average speed of the gas molecules is directly proportional to the temperature. So as temperature increases, the gas molecules move more quickly.  This information about gases will help us to understand other properties of gases as well as the gas laws that we’ll encounter later in the chapter. The first such property that we can begin to discuss is pressure. When a gas is near a surface (like air near our bodies) or trapped in a container, then the gas molecules will impact the surfaces that they’re exposed to with a certain amount of force. This force will push against that surface. When a force is being applied to a surface, we can measure the pressure being exerted. Pressure is simply the amount of force being applied divided by the area of the surface that it’s being applied to. This can be illustrated easily using everyday objects. If you place a large piece of wood on top of another piece of wood and hit it with a hammer, you’re unlikely to drive one piece of wood into the other. However if you place a nail on a piece of wood and hit it with a hammer, you can easily drive the nail into the wood. Why? The amount of force applied with the hammer was the exact same. However, in the first case, the amount of surface that the force was applied to was large, meaning that the pressure was small. In the case of the nail, that same amount of force is applied to the narrow point of a nail (a much smaller area) so the nail has a very high pressure and is able to easily penetrate the wood.  The idea of gas pressure is actually quite fascinating when you think about it. We know that we can inflate balloons by filling them with a gas and that this gas exerts a  certain amount of pressure (that we can easily feel if you try and squeeze the balloon). The bizarre thing about the balloon, though, is that the ballon is almost entirely empty. What keeps it inflated isn’t that it is ‘full of air’, it’s that the little bit of air inside is impacting the balloon surface with such force that it’s continually driving it outwards, keeping it inflated. In fact, each gas molecule inside of a helium balloon at room temperature is impacting the surface of the balloon with a speed of approximately 4000 miles per hour!!!  We can measure the pressure of a gas using various units. The SI unit for pressure is a Pascal (Pa), and like other SI units we can attach metric prefixes to it. Other units of pressure are commonly used also. These include atmospheres (atm), bars, inches (or millimeters) of mercury, and pounds per square inch. If you ever need to convert between these various units on an exam, a conversion factor will be provided.   Exercise 1    If you increase the temperature of a gas     Do the molecules move faster or slower?      Would the molecules impact the sides of the container with more force or less force?      If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?       Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 2 square inches (answer in units of pounds per square inch).     Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?       Convert 1.72 atm of pressure to the following units using the conversion factors provided:     Pa (1 atm=101,325 Pa)      kPa      pound per square inch (psi) (14.7 psi=1atm)      bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)      "
+  "title": "Basic gas laws",
+  "body": " Basic gas laws  The kinetic molecular theory of gases can give rise to our understanding of three basic gas laws: Boyle’s Law, Charles’s Law, and Gay-Lussac’s Law. These laws relate changes in pressure, temperature, and volume of a gas. Each law also has an associated equation that can be used to determine the effect of changing the pressure, volume, or temperature of a gas.  Boyle’s law states that pressure and volume are inversely proportional to one another if the temperature is kept constant. This means that as one goes up, the other must go down (ex. if the volume decreases then the pressure must increase). We can understand this quite easily if we reflect on the kinetic molecular theory of gases. If gas molecules are moving around with a certain speed, because the temperature is kept constant, and we shrink the container that the gas is trapped in, then the gas molecules will be impacting the walls of the container more frequently and thus the pressure exerted will increase. Most of us have probably experienced Boyle’s law if you’ve ever tried to squeeze a balloon. When you do that, you are attempting to reduce the volume of the gas, and as you do so, it gets harder and harder to squeeze. Since pressure and volume are inversely proportional, this can be described mathematically as P × V = c where c is a constant (the value of this constant isn’t important and actually varies depending on a number of factors). With that equation, if we increase pressure, then volume must decrease in order for the product to still equal c. This relationship hold true as long and the amount of gas and the temperature are kept constant...so under one set of conditions P1 × V1 = c and under a second set of pressure and volumes P2 × V2 = c. Since both of these equations equal c, we can set them equal to one another to get the equation for Boyle’s law:   This equation can be used to determine the new pressure of a gas if the volume changes or to find the new volume if the pressure changes (again, assuming that the temperature and the amount of the gas are fixed).  Charles’s law relates the volume and temperature of a gas, stating that these two properties are directly proportional (assuming that the pressure and amount of gas are constant). This again agrees with kinetic molecular theory because if I increase the temperature of a gas, the molecules will move faster, this would cause them to impact the sides of the container with more force, thus increasing the pressure. If the pressure is being held constant, however, the only way to allow for this is to have the volume of the gas increase, causing the impacts of the gas on the sides of the container to become less frequent. Thus an increase in temperature causes an increase in volume and a decrease in temperature would cause a decrease in volume. Many of us have also seen Charles’s law in our lives. Charles’s law is used to inflate hot air balloons; the heat from the flame at the base of the balloon heats the gas inside causing the volume of the balloon to increase and V inflate. This relationship can be described mathematically by   where c is a constant. Like in Boyle’s law, this equation will hold under different conditions, so we can similarly derive the equation for Charle’s law:   It is VERY important to note that this equation only works if the temperatures have units of Kelvin!!!! Using this equation we can predict the new volume of a gas if the temperature changes or the new temperature if the volume changes (assuming that the amount of gas and the pressure are constant)  The final law that we’ll cover in this section is Gay-Lussac’s Law. This law states that pressure and temperature are directly proportional if the volume and amount of gas are fixed. Gay-Lussac’s law can be understood if we realize that increasing the temperature causes the speed of molecules to increase. If the size of the container is kept the same, then those molecules will impact the sides with more force, thus increasing the pressure. Gay-Lussac’s law can be described with the formula: P1 P2 = T1 T2 This equation can be used to find the new pressure if the temperature of a gas changes or the new temperature if the pressure changes (again, assuming that the volume and amount of gas don’t change).   Exercise 2    Proportionality     For this exercise, we are going to examine an example of inverse proportionality using the equation a ∙ b = c, where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?      For this exercise, we are going to examine an example of direct a proportionality using the equation b = c, where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?      If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?       Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)     If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?      If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?       Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)     If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L      If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?      If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.      Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?       Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)     If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is the new pressure of the gas if the temperature doubles to 146.2 oC?      Did the pressure double when the temperature, measured in Celsius, doubled?      If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?      Did the pressure double when the temperature, measured in Kelvin, doubled?      If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?       Exercise 1        Faster      More force      Pressure would increase       5 psi     20 psi, higher pressure       Convert 1.72 atm of pressure to the following units using the conversion factors provided:     174,000 Pa      174 kPa      25.3 psi      1.74 bar       Exercise 2    Proportionality     1600      10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is 1⁄2 of the original starting value of 20) ii. a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)      4      40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20) ii. a decreases to 20. a decreases by the same factor as b       Boyle’s law (for the following problems, assume that the temperature and amount of gas do NOT change)     1.0 x 103 kPa      150 L      1.5 x 105 L       Charles’s Law (for the following problems, assume that the pressure and amount of gas do NOT change)     23.0 L      2550 K      2.55 K      62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.      You get a negative volume. Volume can’t be negative.       Gay-Lussac’s law (for the following problems, assume that the volume and amount of gas do NOT change)     88.7 psi      No      146.4 psi      yes      If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?      7.2 K      "
 },
 {
-  "id": "sec-gas2-8-2-2",
+  "id": "sec-gas2-12-2-2",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-2-2",
+  "url": "sec-gas2.html#sec-gas2-12-2-2",
   "type": "Exercise",
   "number": "9.2.1",
   "title": "",
-  "body": "  Do the molecules move faster or slower?   "
+  "body": "  For this exercise, we are going to examine an example of inverse proportionality using the equation a ∙ b = c, where a and b are the variables that are inversely proportional, and c is a constant. If a= 80 and b=20, then what does c equal?   "
 },
 {
-  "id": "sec-gas2-8-2-3",
+  "id": "sec-gas2-12-2-3",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-2-3",
+  "url": "sec-gas2.html#sec-gas2-12-2-3",
   "type": "Exercise",
   "number": "9.2.2",
   "title": "",
-  "body": "  Would the molecules impact the sides of the container with more force or less force?   "
+  "body": "  If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b decrease by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a increase by the same amount as b or by the same factor as b?   "
 },
 {
-  "id": "sec-gas2-8-2-4",
+  "id": "sec-gas2-12-2-4",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-2-4",
+  "url": "sec-gas2.html#sec-gas2-12-2-4",
   "type": "Exercise",
   "number": "9.2.3",
   "title": "",
-  "body": "  If the sides of the container remain the same size and surface area, would this cause the pressure to increase or decrease?   "
+  "body": "  For this exercise, we are going to examine an example of direct a proportionality using the equation b = c, where a and b are the variables that are directly proportional and c is a constant. If a= 80 and b=20, then what does c equal?   "
 },
 {
-  "id": "sec-gas2-8-3-2",
+  "id": "sec-gas2-12-2-5",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-3-2",
+  "url": "sec-gas2.html#sec-gas2-12-2-5",
   "type": "Exercise",
   "number": "9.2.4",
   "title": "",
-  "body": "  Calculate the pressure if 10.0 pounds of force are applied to an object with a surface area of 0.5 square inches (answer in units of pounds per square inch). Is this pressure higher or lower?   "
+  "body": "  If a doubles to 160, what is the new value of b (remember that c is the same as in the previous problem because it’s a constant). Does b increase or decrease? Does b increase by the same amount as a or by the same factor (ie. does it increase by 80 or does it double also)? ii. If b decreases to 1⁄4 of its original value, then what happens to a? Does a decrease by the same amount as b or by the same factor as b?   "
 },
 {
-  "id": "sec-gas2-8-4-2",
+  "id": "sec-gas2-12-3-2",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-4-2",
+  "url": "sec-gas2.html#sec-gas2-12-3-2",
   "type": "Exercise",
   "number": "9.2.5",
   "title": "",
-  "body": "  Pa (1 atm=101,325 Pa)   "
+  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new pressure if the volume is decreased to 17 L?   "
 },
 {
-  "id": "sec-gas2-8-4-3",
+  "id": "sec-gas2-12-3-3",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-4-3",
+  "url": "sec-gas2.html#sec-gas2-12-3-3",
   "type": "Exercise",
   "number": "9.2.6",
   "title": "",
-  "body": "  kPa   "
+  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 kPa?   "
 },
 {
-  "id": "sec-gas2-8-4-4",
+  "id": "sec-gas2-12-3-4",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-4-4",
+  "url": "sec-gas2.html#sec-gas2-12-3-4",
   "type": "Exercise",
   "number": "9.2.7",
   "title": "",
-  "body": "  pound per square inch (psi) (14.7 psi=1atm)   "
+  "body": "  If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new volume if the pressure is decreased to 110 Pa?   "
 },
 {
-  "id": "sec-gas2-8-4-5",
+  "id": "sec-gas2-12-4-2",
   "level": "2",
-  "url": "sec-gas2.html#sec-gas2-8-4-5",
+  "url": "sec-gas2.html#sec-gas2-12-4-2",
   "type": "Exercise",
   "number": "9.2.8",
   "title": "",
-  "body": "  bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)   "
+  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new volume of the gas if the temperature is increased to 761K?   "
+},
+{
+  "id": "sec-gas2-12-4-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-4-3",
+  "type": "Exercise",
+  "number": "9.2.9",
+  "title": "",
+  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is increased to 77.1 L   "
+},
+{
+  "id": "sec-gas2-12-4-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-4-4",
+  "type": "Exercise",
+  "number": "9.2.10",
+  "title": "",
+  "body": "  If a gas has a volume of 22.1 L and a temperature of 731 K, what is the new temperature of the gas if the volume is decreased to 77.1 mL?   "
+},
+{
+  "id": "sec-gas2-12-4-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-4-5",
+  "type": "Exercise",
+  "number": "9.2.11",
+  "title": "",
+  "body": "  If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.   "
+},
+{
+  "id": "sec-gas2-12-4-6",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-4-6",
+  "type": "Exercise",
+  "number": "9.2.12",
+  "title": "",
+  "body": "  Calculate this correctly, then calculate it without converting the temperatures to Kelvin. When you leave the temperatures in Celsius, what obvious problem do you notice?   "
+},
+{
+  "id": "sec-gas2-12-5-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-5-2",
+  "type": "Exercise",
+  "number": "9.2.13",
+  "title": "",
+  "body": "  If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is the new pressure of the gas if the temperature doubles to 146.2 oC?   "
+},
+{
+  "id": "sec-gas2-12-5-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-5-3",
+  "type": "Exercise",
+  "number": "9.2.14",
+  "title": "",
+  "body": "  Did the pressure double when the temperature, measured in Celsius, doubled?   "
+},
+{
+  "id": "sec-gas2-12-5-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-5-4",
+  "type": "Exercise",
+  "number": "9.2.15",
+  "title": "",
+  "body": "  If a gas has a pressure of 73.2 psi and a temperature of 73.1K, what is the new pressure of the gas if the temperature doubles to 146.2 K?   "
+},
+{
+  "id": "sec-gas2-12-5-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-5-5",
+  "type": "Exercise",
+  "number": "9.2.16",
+  "title": "",
+  "body": "  Did the pressure double when the temperature, measured in Kelvin, doubled?   "
+},
+{
+  "id": "sec-gas2-12-5-6",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-12-5-6",
+  "type": "Exercise",
+  "number": "9.2.17",
+  "title": "",
+  "body": "  If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?   "
+},
+{
+  "id": "sec-gas2-13-2-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-2-2",
+  "type": "Exercise",
+  "number": "9.2.1",
+  "title": "",
+  "body": "  Faster   "
+},
+{
+  "id": "sec-gas2-13-2-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-2-3",
+  "type": "Exercise",
+  "number": "9.2.2",
+  "title": "",
+  "body": "  More force   "
+},
+{
+  "id": "sec-gas2-13-2-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-2-4",
+  "type": "Exercise",
+  "number": "9.2.3",
+  "title": "",
+  "body": "  Pressure would increase   "
+},
+{
+  "id": "sec-gas2-13-3-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-3-2",
+  "type": "Exercise",
+  "number": "9.2.4",
+  "title": "",
+  "body": "  20 psi, higher pressure   "
+},
+{
+  "id": "sec-gas2-13-4-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-4-2",
+  "type": "Exercise",
+  "number": "9.2.5",
+  "title": "",
+  "body": "  174,000 Pa   "
+},
+{
+  "id": "sec-gas2-13-4-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-4-3",
+  "type": "Exercise",
+  "number": "9.2.6",
+  "title": "",
+  "body": "  174 kPa   "
+},
+{
+  "id": "sec-gas2-13-4-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-4-4",
+  "type": "Exercise",
+  "number": "9.2.7",
+  "title": "",
+  "body": "  25.3 psi   "
+},
+{
+  "id": "sec-gas2-13-4-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-13-4-5",
+  "type": "Exercise",
+  "number": "9.2.8",
+  "title": "",
+  "body": "  1.74 bar   "
+},
+{
+  "id": "sec-gas2-14-2-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-2-2",
+  "type": "Exercise",
+  "number": "9.2.1",
+  "title": "",
+  "body": "  1600   "
+},
+{
+  "id": "sec-gas2-14-2-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-2-3",
+  "type": "Exercise",
+  "number": "9.2.2",
+  "title": "",
+  "body": "  10, b decreases, b decreases by 10 which is not the same amount, b also decreases by a factor of 2 (it is 1⁄2 of the original starting value of 20) ii. a increases to 320, a increased by the same factor as b, not by the same amount (a increases by an amount of 240 but by a factor of 4)   "
+},
+{
+  "id": "sec-gas2-14-2-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-2-4",
+  "type": "Exercise",
+  "number": "9.2.3",
+  "title": "",
+  "body": "  4   "
+},
+{
+  "id": "sec-gas2-14-2-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-2-5",
+  "type": "Exercise",
+  "number": "9.2.4",
+  "title": "",
+  "body": "  40, b increases, b increases by the same factor as a (b and a increase by a factor of 2; whereas a increased by an amount of 80 whereas b only increased by 20) ii. a decreases to 20. a decreases by the same factor as b   "
+},
+{
+  "id": "sec-gas2-14-3-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-3-2",
+  "type": "Exercise",
+  "number": "9.2.5",
+  "title": "",
+  "body": "  1.0 x 103 kPa   "
+},
+{
+  "id": "sec-gas2-14-3-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-3-3",
+  "type": "Exercise",
+  "number": "9.2.6",
+  "title": "",
+  "body": "  150 L   "
+},
+{
+  "id": "sec-gas2-14-3-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-3-4",
+  "type": "Exercise",
+  "number": "9.2.7",
+  "title": "",
+  "body": "  1.5 x 105 L   "
+},
+{
+  "id": "sec-gas2-14-4-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-4-2",
+  "type": "Exercise",
+  "number": "9.2.8",
+  "title": "",
+  "body": "  23.0 L   "
+},
+{
+  "id": "sec-gas2-14-4-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-4-3",
+  "type": "Exercise",
+  "number": "9.2.9",
+  "title": "",
+  "body": "  2550 K   "
+},
+{
+  "id": "sec-gas2-14-4-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-4-4",
+  "type": "Exercise",
+  "number": "9.2.10",
+  "title": "",
+  "body": "  2.55 K   "
+},
+{
+  "id": "sec-gas2-14-4-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-4-5",
+  "type": "Exercise",
+  "number": "9.2.11",
+  "title": "",
+  "body": "  62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is the new volume if the temperature decreases to -15 oC.   "
+},
+{
+  "id": "sec-gas2-14-4-6",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-4-6",
+  "type": "Exercise",
+  "number": "9.2.12",
+  "title": "",
+  "body": "  You get a negative volume. Volume can’t be negative.   "
+},
+{
+  "id": "sec-gas2-14-5-2",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-5-2",
+  "type": "Exercise",
+  "number": "9.2.13",
+  "title": "",
+  "body": "  88.7 psi   "
+},
+{
+  "id": "sec-gas2-14-5-3",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-5-3",
+  "type": "Exercise",
+  "number": "9.2.14",
+  "title": "",
+  "body": "  No   "
+},
+{
+  "id": "sec-gas2-14-5-4",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-5-4",
+  "type": "Exercise",
+  "number": "9.2.15",
+  "title": "",
+  "body": "  146.4 psi   "
+},
+{
+  "id": "sec-gas2-14-5-5",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-5-5",
+  "type": "Exercise",
+  "number": "9.2.16",
+  "title": "",
+  "body": "  yes   "
+},
+{
+  "id": "sec-gas2-14-5-6",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-5-6",
+  "type": "Exercise",
+  "number": "9.2.17",
+  "title": "",
+  "body": "  If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the new temperature of the gas if the pressure is changed to 2.3 kPa (1 atm=101.325 kPa)?   "
+},
+{
+  "id": "sec-gas2-14-5-7",
+  "level": "2",
+  "url": "sec-gas2.html#sec-gas2-14-5-7",
+  "type": "Exercise",
+  "number": "9.2.18",
+  "title": "",
+  "body": "  7.2 K   "
 },
 {
   "id": "sec-gas3",
