@@ -27,17 +27,35 @@
 		When you do that, you are attempting to reduce the volume of the gas, and as
 		you do so, it gets harder and harder to squeeze.
 		Since pressure and volume are inversely proportional, this can be described
-		mathematically as P × V = c where c is a constant (the value of this constant
-		isn’t important and actually varies depending on a number of factors).
+		mathematically as
+	</p>
+	<me>
+		P \times V = c
+	</me>
+
+	<p>
+		where c is a constant (the value of this constant isn’t important and actually
+		varies depending on a number of factors).
 		With that equation, if we increase pressure, then volume must decrease in
 		order for the product to still equal c.
 		This relationship hold true as long and the amount of gas and the temperature
-		are kept constant...so under one set of conditions P1 × V1 = c and under a
-		second set of pressure and volumes P2 × V2 = c.
+		are kept constant...so under one set of conditions:
+	</p>
+	<me>
+		P_1 \times V_1 = c
+	</me>
+
+	<p>
+		and under a second set of pressure and volumes:
+	</p>
+	<me>
+		P_2 \times V_2 = c
+	</me>
+
+	<p>
 		Since both of these equations equal c, we can set them equal to one another to
 		get the equation for Boyle’s law:
 	</p>
-
 	<me>
 		P_1 \times V_1 = P_2 \times V_2
 	</me>
@@ -65,24 +83,27 @@
 		Charles’s law is used to inflate hot air balloons; the heat from the flame at
 		the base of the balloon heats the gas inside causing the volume of the balloon
 		to increase and V inflate.
-		This relationship can be described mathematically by </p>
-		<me>
+		This relationship can be described mathematically by
+	</p>
+	<me>
 		\frac{V}{T} = c
-		</me> 
-		<p>where c is a
-		constant.
+	</me>
+
+	<p>
+		where c is a constant.
 		Like in Boyle’s law, this equation will hold under different conditions, so we
 		can similarly derive the equation for Charle’s law:
 	</p>
-<me>
-\frac{V_1}{T_1} = \frac{V_2}{T_2} 
-</me>
+	<me>
+		\frac{V_1}{T_1} = \frac{V_2}{T_2}
+	</me>
+
 	<p>
 		It is VERY important to note that this equation only works if
-		the temperatures have units of Kelvin!!!!
-		Using this equation we can predict the new volume of a gas if the temperature
-		changes or the new temperature if the volume changes (assuming that the amount
-		of gas and the pressure are constant)
+		<em>the temperatures have units of Kelvin!!!!</em> Using this equation we can
+		predict the new volume of a gas if the temperature changes or the new
+		temperature if the volume changes (assuming that the amount of gas and the
+		pressure are constant)
 	</p>
 
 	<p>
@@ -93,11 +114,18 @@
 		temperature causes the speed of molecules to increase.
 		If the size of the container is kept the same, then those molecules will
 		impact the sides with more force, thus increasing the pressure.
-		Gay-Lussac’s law can be described with the formula: P1 P2 = T1 T2 This
-		equation can be used to find the new pressure if the temperature of a gas
+		Gay-Lussac’s law can be described with the formula:
+	</p>
+	<me>
+		\frac{P_1}{T_1} = \frac{P_2}{T_2}
+	</me>
+
+	<p>
+		This equation can be used to find the new pressure if the temperature of a gas
 		changes or the new temperature if the pressure changes (again, assuming that
 		the volume and amount of gas don’t change).
 	</p>
+
 	<exercises>
 		<title>Exercise 2</title>
 
@@ -112,8 +140,18 @@
 				<statement>
 					<p>
 						For this exercise, we are going to examine an example of inverse
-						proportionality using the equation a ∙ b = c, where a and b are the
-						variables that are inversely proportional, and c is a constant.
+						proportionality using the equation
+					</p>
+					<me>
+						a \dot b = c
+					</me>
+
+					<p>
+						where a and b are the variables that are inversely proportional, and c is
+						a constant.
+					</p>
+
+					<p>
 						If a= 80 and b=20, then what does c equal?
 					</p>
 				</statement>
@@ -304,6 +342,7 @@
 			</exercise>
 		</exercisegroup>
 	</exercises>
+
 	<exercises>
 		<title>Exercise 1</title>
 
@@ -392,6 +431,7 @@
 			</exercise>
 		</exercisegroup>
 	</exercises>
+
 	<exercises>
 		<title>Exercise 2</title>
 
