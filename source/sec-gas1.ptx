@@ -10,43 +10,67 @@
 		their container.
 		Thus gases do NOT have a fixed volume or a fixed shape.
 		To better understand these properties as well as other properties of gases
-		that we’ll be learning abou in this chapter, scientists have developed the
+		that we'll be learning about in this chapter, scientists have developed the
 		kinetic molecular theory of gases.
 		This theory states that the properties of a gas can be understood by a model
 		that assumes the following:
 	</p>
 
 	<p>
-		1.
-		Gases consist of tiny particles that occupy only a small percentage of the
-		total volume of the gas 2.
-		The gas molecules are constantly moving with very high speeds 3.
-		Gas molecules do not interact with one another at all due to their high speeds
-		and the fact that they occupy such a small percentage of the volume of the gas
-		4.
-		When gas molecules impact one another or the sides of their container, they
-		bounce off, essentially losing none of their energy.
-		5.
-		The average speed of the gas molecules is directly proportional to the
-		temperature.
-		So as temperature increases, the gas molecules move more quickly.
+		<ol>
+			<li>
+				<p>
+					Gases consist of tiny particles that occupy only a small percentage of the
+					total volume of the gas
+				</p>
+			</li>
+
+			<li>
+				<p>
+					The gas molecules are constantly moving with very high speeds
+				</p>
+			</li>
+
+			<li>
+				<p>
+					Gas molecules do not interact with one another at all due to their high
+					speeds and the fact that they occupy such a small percentage of the volume
+					of the gas
+				</p>
+			</li>
+
+			<li>
+				<p>
+					When gas molecules impact one another or the sides of their container, they
+					bounce off, essentially losing none of their energy.
+				</p>
+			</li>
+
+			<li>
+				<p>
+					The average speed of the gas molecules is directly proportional to the
+					temperature.
+					So as temperature increases, the gas molecules move more quickly.
+				</p>
+			</li>
+		</ol>
 	</p>
 
 	<p>
 		This information about gases will help us to understand other properties of
-		gases as well as the gas laws that we’ll encounter later in the chapter.
+		gases as well as the gas laws that we'll encounter later in the chapter.
 		The first such property that we can begin to discuss is pressure.
 		When a gas is near a surface (like air near our bodies) or trapped in a
-		container, then the gas molecules will impact the surfaces that they’re
+		container, then the gas molecules will impact the surfaces that they're
 		exposed to with a certain amount of force.
 		This force will push against that surface.
 		When a force is being applied to a surface, we can measure the pressure being
 		exerted.
 		Pressure is simply the amount of force being applied divided by the area of
-		the surface that it’s being applied to.
+		the surface that it's being applied to.
 		This can be illustrated easily using everyday objects.
 		If you place a large piece of wood on top of another piece of wood and hit it
-		with a hammer, you’re unlikely to drive one piece of wood into the other.
+		with a hammer, you're unlikely to drive one piece of wood into the other.
 		However if you place a nail on a piece of wood and hit it with a hammer, you
 		can easily drive the nail into the wood.
 		Why?
@@ -62,16 +86,12 @@
 		The idea of gas pressure is actually quite fascinating when you think about
 		it.
 		We know that we can inflate balloons by filling them with a gas and that this
-		gas exerts a
-	</p>
-
-	<p>
-		certain amount of pressure (that we can easily feel if you try and squeeze the
-		balloon).
+		gas exerts a certain amount of pressure (that we can easily feel if you try
+		and squeeze the balloon).
 		The bizarre thing about the balloon, though, is that the ballon is almost
 		entirely empty.
-		What keeps it inflated isn’t that it is ‘full of air’, it’s that the little
-		bit of air inside is impacting the balloon surface with such force that it’s
+		What keeps it inflated isn't that it is 'full of air', it's that the little
+		bit of air inside is impacting the balloon surface with such force that it's
 		continually driving it outwards, keeping it inflated.
 		In fact, each gas molecule inside of a helium balloon at room temperature is
 		impacting the surface of the balloon with a speed of approximately 4000 miles
@@ -88,6 +108,7 @@
 		If you ever need to convert between these various units on an exam, a
 		conversion factor will be provided.
 	</p>
+
 	<exercises>
 		<title>Exercise 1</title>
 
@@ -104,6 +125,12 @@
 						Do the molecules move faster or slower?
 					</p>
 				</statement>
+
+				<answer>
+					<p>
+						Faster
+					</p>
+				</answer>
 			</exercise>
 
 			<exercise>
@@ -113,6 +140,12 @@
 						less force?
 					</p>
 				</statement>
+
+				<answer>
+					<p>
+						More force
+					</p>
+				</answer>
 			</exercise>
 
 			<exercise>
@@ -122,14 +155,18 @@
 						this cause the pressure to increase or decrease?
 					</p>
 				</statement>
+
+				<answer>
+					<p>
+						Increase in pressure
+					</p>
+				</answer>
 			</exercise>
 		</exercisegroup>
 		<exercisegroup>
 			<introduction>
 				<p>
-					Calculate the pressure if 10.0 pounds of force are applied to an object
-					with a surface area of 2 square inches (answer in units of pounds per
-					square inch).
+					Pressure calculations
 				</p>
 			</introduction>
 
@@ -137,11 +174,31 @@
 				<statement>
 					<p>
 						Calculate the pressure if 10.0 pounds of force are applied to an object
-						with a surface area of 0.5 square inches (answer in units of pounds per
+						with a surface area of 2.00 square inches (answer in units of pounds per
+						square inch).
+					</p>
+				</statement>
+
+				<answer>
+					<p>5.00 psi (pounds per square inch)
+					<p/>
+				</answer>
+			</exercise>
+
+			<exercise>
+				<statement>
+					<p>
+						Calculate the pressure if 10.0 pounds of force are applied to an object
+						with a surface area of 0.500 square inches (answer in units of pounds per
 						square inch).
 						Is this pressure higher or lower?
 					</p>
 				</statement>
+				<answer>
+					<p>
+						20.0 psi.  This is a higher pressure because the same amount of force was applied over a smaller area
+					</p>
+				</answer>
 			</exercise>
 		</exercisegroup>
 		<exercisegroup>
@@ -151,13 +208,18 @@
 					factors provided:
 				</p>
 			</introduction>
-
+			
 			<exercise>
 				<statement>
 					<p>
 						Pa (1 atm=101,325 Pa)
 					</p>
 				</statement>
+				<answer>
+					<p>
+						
+					</p>
+				</answer>
 			</exercise>
 
 			<exercise>
@@ -166,6 +228,11 @@
 						kPa
 					</p>
 				</statement>
+				<answer>
+					<p>
+						
+					</p>
+				</answer>
 			</exercise>
 
 			<exercise>
@@ -174,6 +241,11 @@
 						pound per square inch (psi) (14.7 psi=1atm)
 					</p>
 				</statement>
+				<answer>
+					<p>
+						
+					</p>
+				</answer>
 			</exercise>
 
 			<exercise>
@@ -182,6 +254,11 @@
 						bar (1 atm=101,325 Pa and 1 bar=100,000 Pa)
 					</p>
 				</statement>
+				<answer>
+					<p>
+						
+					</p>
+				</answer>
 			</exercise>
 		</exercisegroup>
 	</exercises>
