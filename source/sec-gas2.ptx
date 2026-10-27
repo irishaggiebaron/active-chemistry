@@ -266,7 +266,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						<m>1.0 \times 10^3 kPa</m>
 					</p>
 				</answer>
 			</exercise>
@@ -280,7 +280,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						150 L
 					</p>
 				</answer>
 			</exercise>
@@ -289,12 +289,12 @@
 				<statement>
 					<p>
 						If a gas has a pressure of 740 kPa and a volume of 23 L, what is the new
-						volume if the pressure is decreased to 110 Pa?
+						volume if the pressure is decreased to 110 Pa? (note the absence of a prefix)
 					</p>
 				</statement>
 				<answer>
 					<p>
-						
+						<m>1.5 \times 10^5 L</m>
 					</p>
 				</answer>
 			</exercise>
@@ -316,7 +316,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						23.0 L
 					</p>
 				</answer>
 			</exercise>
@@ -330,7 +330,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						2550 K
 					</p>
 				</answer>
 			</exercise>
@@ -344,7 +344,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						2.55 K
 					</p>
 				</answer>
 			</exercise>
@@ -352,19 +352,9 @@
 			<exercise>
 				<statement>
 					<p>
-						If a gas has a volume of 73.5 mL at a temperature of 32 oC, then what is
-						the new volume if the temperature decreases to -15 oC.
+						If a gas has a volume of 73.5 mL at a temperature of <m>32 ^oC</m>, then what is
+						the new volume if the temperature decreases to <m>-15 ^oC</m>.
 					</p>
-				</statement>
-				<answer>
-					<p>
-						
-					</p>
-				</answer>
-			</exercise>
-
-			<exercise>
-				<statement>
 					<p>
 						Calculate this correctly, then calculate it without converting the
 						temperatures to Kelvin.
@@ -374,7 +364,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						62.2 mL;  If you don't convert to Kelvin you get a negative volume (and volume cannot be negative)
 					</p>
 				</answer>
 			</exercise>
@@ -390,13 +380,13 @@
 			<exercise>
 				<statement>
 					<p>
-						If a gas has a pressure of 73.2 psi and a temperature of 73.1 oC, what is
-						the new pressure of the gas if the temperature doubles to 146.2 oC?
+						If a gas has a pressure of 73.2 psi and a temperature of <m>73.1 ^oC</m>, what is
+						the new pressure of the gas if the temperature doubles to <m>146.2 ^oC</m>?
 					</p>
 				</statement>
 				<answer>
 					<p>
-						
+						88.7 psi
 					</p>
 				</answer>
 			</exercise>
@@ -410,7 +400,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						No
 					</p>
 				</answer>
 			</exercise>
@@ -424,7 +414,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						146 psi
 					</p>
 				</answer>
 			</exercise>
@@ -437,7 +427,7 @@
 				</statement>
 				<answer>
 					<p>
-						
+						Yes
 					</p>
 				</answer>
 			</exercise>
@@ -452,291 +442,11 @@
 				</statement>
 				<answer>
 					<p>
-						
+						7.2 K
 					</p>
 				</answer>
 			</exercise>
 		</exercisegroup>
-	</exercises>
 
-	<exercises>
-		<title>Exercise 1</title>
-
-		<exercisegroup>
-			<introduction>
-				<p/>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						Faster
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						More force
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						Pressure would increase
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
-		<exercisegroup>
-			<introduction>
-				<p>
-					5 psi
-				</p>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						20 psi, higher pressure
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
-		<exercisegroup>
-			<introduction>
-				<p>
-					Convert 1.72 atm of pressure to the following units using the conversion
-					factors provided:
-				</p>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						174,000 Pa
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						174 kPa
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						25.3 psi
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						1.74 bar
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
-	</exercises>
-
-	<exercises>
-		<title>Exercise 2</title>
-
-		<exercisegroup>
-			<introduction>
-				<p>
-					Proportionality
-				</p>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						1600
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						10, b decreases, b decreases by 10 which is not the same amount, b also
-						decreases by a factor of 2 (it is 1⁄2 of the original starting value of
-						20) ii.
-						a increases to 320, a increased by the same factor as b, not by the same
-						amount (a increases by an amount of 240 but by a factor of 4)
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						4
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						40, b increases, b increases by the same factor as a (b and a increase by
-						a factor of 2; whereas a increased by an amount of 80 whereas b only
-						increased by 20) ii.
-						a decreases to 20.
-						a decreases by the same factor as b
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
-		<exercisegroup>
-			<introduction>
-				<p>
-					Boyle’s law (for the following problems, assume that the temperature and
-					amount of gas do NOT change)
-				</p>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						1.0 x 103 kPa
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						150 L
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						1.5 x 105 L
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
-		<exercisegroup>
-			<introduction>
-				<p>
-					Charles’s Law (for the following problems, assume that the pressure and
-					amount of gas do NOT change)
-				</p>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						23.0 L
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						2550 K
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						2.55 K
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						62.2 mL If a gas has a volume of 73.5 mL at a temperature of 32 oC, then
-						what is the new volume if the temperature decreases to -15 oC.
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						You get a negative volume.
-						Volume can’t be negative.
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
-		<exercisegroup>
-			<introduction>
-				<p>
-					Gay-Lussac’s law (for the following problems, assume that the volume and
-					amount of gas do NOT change)
-				</p>
-			</introduction>
-
-			<exercise>
-				<statement>
-					<p>
-						88.7 psi
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						No
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						146.4 psi
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						yes
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						If a gas has a pressure of 2.3 atm and a temperature of 731 K, what is the
-						new temperature of the gas if the pressure is changed to 2.3 kPa (1
-						atm=101.325 kPa)?
-					</p>
-				</statement>
-			</exercise>
-
-			<exercise>
-				<statement>
-					<p>
-						7.2 K
-					</p>
-				</statement>
-			</exercise>
-		</exercisegroup>
 	</exercises>
 </section>
