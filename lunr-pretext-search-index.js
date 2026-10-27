@@ -8512,43 +8512,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.4",
   "title": "Avogadro’s law and molar volume",
-  "body": " Avogadro’s law and molar volume  All of the gas laws that we learned about in the last lesson allowed for changes in the pressure, volume, and\/or temperature of the gas. All of those laws had the stated assumption that the amount of the gas was fixed. Avogadro’s law is the first law that allows us to predict the effect of changing the amount of gas. Avogadro’s law relates the volume of a gas to the number of moles of the gas. It states that the volume of the gas and the number of moles are directly proportional to one another if pressure and temperature are kept constant. This means that if the number of moles of a gas increase, then the volume would be expected to increase as well. A real-world example of this is what happens when you blow into a balloon. You are increasing the amount of gas in the balloon and, as a result, its volume increases. Like our other gas laws, this proportionality can be shown by V an equation: n = c where n is the number of moles of gas and c is a constant. If we want to  predict the effect of changing the amount of gas on the volume, then we can use the form of Avogadro’s law shown below: V1 V2 = n1 n2  One consequence of Avogadro’s law is that one mole of a gas will always have the same volume, regardless of which gas we’re talking about, if the pressure and temperature are kept constant. At a standard temperature and pressure (STP, defined as 1 atm of pressure and 273.15 K) one mole of gas has a volume of 22.4 L. This is called the molar volume of a 1 mole gas. Molar volume can be used as a conversion factor ( 22.4 L ) to convert between volume and number of moles if the gas is at STP conditions.   Exercise 2    If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L      If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles      What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L      A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L     "
+  "body": " Avogadro's law and molar volume  All of the gas laws that we learned about in the last lesson allowed for changes in the pressure, volume, and\/or temperature of the gas. All of those laws had the stated assumption that the amount of the gas was fixed. Avogadro's law is the first law that allows us to predict the effect of changing the amount of gas. Avogadro's law relates the volume of a gas to the number of moles of the gas. It states that the volume of the gas and the number of moles are directly proportional to one another if pressure and temperature are kept constant. This means that if the number of moles of a gas increase, then the volume would be expected to increase as well. A real-world example of this is what happens when you blow into a balloon. You are increasing the amount of gas in the balloon and, as a result, its volume increases. Like our other gas laws, this proportionality can be shown by an equation: where n is the number of moles of gas and c is a constant. If we want to predict the effect of changing the amount of gas on the volume, then we can use the form of Avogadro's law shown below:   One consequence of Avogadro's law is that one mole of a gas will always have the same volume, regardless of which gas we're talking about, if the pressure and temperature are kept constant. At a standard temperature and pressure (STP, defined as 1 atm of pressure and 273.15 K) one mole of gas has a volume of 22.4 L. This is called the molar volume of a 1 mole gas. Molar volume can be used as a conversion factor to convert between volume and number of moles if the gas is at STP conditions.   Exercise 2    If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L      If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles      What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    You need to figure out the number of moles of oxygen gas molecules. Also, recall that oxygen gas has the chemical formula     11.9 L      A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    You need the molar mass of helium    15 L     "
 },
 {
-  "id": "sec-gas4-5-2",
+  "id": "sec-gas4-4-2",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-5-2",
+  "url": "sec-gas4.html#sec-gas4-4-2",
   "type": "Exercise",
   "number": "9.4.1",
   "title": "",
   "body": "  If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L   "
 },
 {
-  "id": "sec-gas4-5-3",
+  "id": "sec-gas4-4-3",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-5-3",
+  "url": "sec-gas4.html#sec-gas4-4-3",
   "type": "Exercise",
   "number": "9.4.2",
   "title": "",
   "body": "  If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles   "
 },
 {
-  "id": "sec-gas4-5-4",
+  "id": "sec-gas4-4-4",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-5-4",
+  "url": "sec-gas4.html#sec-gas4-4-4",
   "type": "Exercise",
   "number": "9.4.3",
   "title": "",
-  "body": "  What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L   "
+  "body": "  What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    You need to figure out the number of moles of oxygen gas molecules. Also, recall that oxygen gas has the chemical formula     11.9 L   "
 },
 {
-  "id": "sec-gas4-5-5",
+  "id": "sec-gas4-4-5",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-5-5",
+  "url": "sec-gas4.html#sec-gas4-4-5",
   "type": "Exercise",
   "number": "9.4.4",
   "title": "",
-  "body": "  A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L   "
+  "body": "  A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    You need the molar mass of helium    15 L   "
 },
 {
   "id": "sec-gas5",
