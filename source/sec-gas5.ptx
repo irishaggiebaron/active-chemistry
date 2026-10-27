@@ -12,11 +12,11 @@
 		Likewise, volume is directly proportional to both temperature (Charles' Law) and number of moles of a gas (Avogadro's Law)
 		<me>\frac{V}{T}=c  \ and \frac{V}{n}=c</me>
 		If we combine all of this information, we get the equation: 
-		<me>\frac{P\dot V}{n\dot T}=c</me>
+		<me>\frac{P\cdot V}{n\cdot T}=c</me>
 		 where c
 		is a constant.
 		In chemistry, we substitute the symbol R for this constant to give:
-		<me>\frac{P\dot V}{n\dot T}=R</me>
+		<me>\frac{P\cdot V}{n\cdot T}=R</me>
 		The equation shown above is called the Ideal Gas Law and is typically shown in the
 		rearranged form:
 	
@@ -30,31 +30,34 @@
 		equivalent...they have different values because
 	
 		they have different units of pressure or volume.
-		The value of R that uses SI units of Pa for pressure and L for volume is <m>8314 \frac{Pa\dot L}{mol\dot K}</m>.  Other values of R are shown in the table below:
+		The value of R that uses SI units of Pa for pressure and L for volume is <m>8314 \frac{Pa\cdot L}{mol\cdot K}</m>.  Other values of R are shown in the table below:
 		</p>
 <p>
 		<table>
 			<title>Various Values for the Gas Constant R</title>
+			<tabular>
+				
 			<row header="yes" bottom="major">
 				<cell halign="center">Value</cell>
 				<cell halign="center">Units</cell>
 				</row>
 				<row>
 					<cell halign="center">8314</cell>
-					<cell halign="center"><m>\frac{Pa\dot L}{mol\dot K}</m></cell>
+					<cell halign="center"><m>\frac{Pa\cdot L}{mol\cdot K}</m></cell>
 				</row>
 				<row>
 					<cell halign="center">0.082057</cell>
-					<cell halign="center"><m>\frac{L\dot atm}{mol\dot K}</m></cell>
+					<cell halign="center"><m>\frac{L\cdot atm}{mol\cdot K}</m></cell>
 				</row>	
 				<row>
 					<cell halign="center">0.0831446</cell>
-					<cell halign="center"><m>\frac{L\dot bar}{mol\dot K}</m></cell>
+					<cell halign="center"><m>\frac{L\cdot bar}{mol\cdot K}</m></cell>
 				</row>		
 <row>
 					<cell halign="center">1.21</cell>
-					<cell halign="center"><m>\frac{L\dot psi}{mol \dot K}</m></cell>
+					<cell halign="center"><m>\frac{L\cdot psi}{mol \cdot K}</m></cell>
 				</row>
+				</tabular>
 				</table>
 </p>		
 
