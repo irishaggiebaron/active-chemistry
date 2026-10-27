@@ -35,7 +35,7 @@
 <p>
 		<table>
 			<title>Various Values for the Gas Constant R</title>
-			<row header="yes" bottom= major>
+			<row header="yes" bottom="major">
 				<cell halign="center">Value</cell>
 				<cell halign="center">Units</cell>
 				</row>
