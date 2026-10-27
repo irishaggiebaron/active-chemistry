@@ -70,7 +70,7 @@
 
 	
 	<exercises>
-		<title>Exercise 3</title>
+		<title>Ideal Gas Law</title>
 
 		<exercise>
 			<statement>
@@ -93,13 +93,13 @@
 				<p>
 					Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L
 					and a pressure of 2.3 atm.
-					(1atm=101325 Pa)
+					(1 atm=101325 Pa)
 				</p>
 			</statement>
 
 			<answer>
 				<p>
-					4.0 x 102 K
+					<m>4.0 x 10^2 K</m>
 				</p>
 			</answer>
 		</exercise>
@@ -108,7 +108,7 @@
 			<statement>
 				<p>
 					What is the pressure of a gas in units of MPa if 2.3 moles of gas are
-					placed into a 6.7L container at 103 oC?
+					placed into a 6.7L container at <m>103 ^oC</m>?
 				</p>
 			</statement>
 
