@@ -10,49 +10,69 @@
 		to determine the pressure/volume/temperature of the products from the number
 		of moles.
 		This is displayed in the figure below.
-		Also, please see the sample calculation shown below.
 	</p>
-
-	<p>
-		Sample calculations:
+	<figure>
+		<caption>Flow Chart for Stoichiometry Problems Involving Gases</caption>
+		<image source="chapter8-lesson-3-source-figure-01.svg">
+			<shortdescription>A flow chart that shows multiple ways to solve stoichiometry problems by interconverting between moles and gas parameters or by converting from moles to grams</shortdescription>
+		</image>
+	</figure>
+		We can see various ways that this figure can be utilized in problem solving as shown in the sample problems below:
 	</p>
-
-	<p>
+<assemblage>
+	<title>Sample calculations</title>
+		<p>
 		A vessel with a volume of 1200 L contains 17 kg of nitrogen gas and exactly
-		the amount of hydrogen gas needed to react with it at a temperature of 500.0
-		oC.
+		the amount of hydrogen gas needed to react with it at a temperature of <m>773 K</m>.
 		The nitrogen and hydrogen gas react according to the equation shown below:
 	</p>
 
-	<p>
-		N2 (g) + 3H2 (g) → 2NH3 (g)
-	</p>
+	<me>
+		N_2 (g) + 3H_2 (g) \rightarrow 2NH_3 (g)
+	</me>
 
 	<p>
-		a.
-		How much hydrogen (in moles) is needed to react with the nitrogen gas?
-		b.
-		What is the starting pressure of the gases in the tank in units of psi?
-		0.082057(L∙atm) (R = and 1 atm = 14.7 psi) moles∙K c.
-		What is the pressure in the tank at the conclusion of the reaction in units of
+		<ol>
+			<li>
+				<p>
+					How much hydrogen (in moles) is needed to react with the nitrogen gas?
+				</p>
+			</li>
+			<li>
+				<p>
+					What is the starting pressure of the gases in the tank in units of psi?
+				</p>
+			</li>
+			<li>
+				<p>
+					What is the pressure in the tank at the conclusion of the reaction in units of
 		psi?
-	</p>
-
-	<p>
+				</p>
+			</li>
+		</ol>
+		
+		<p>
 		Solutions:
 	</p>
 
 	<p>
-		a.
-		We need to go from kg of nitrogen gas to moles of nitrogen gas using the molar
-		mass, then to moles of hydrogen gas using the mole-mole conversion factor.
-		1000g 1mole 17kg N2 ( )( ) = 606.7 moles N2 (we ′ ll need this for part b) 1kg
-		28.02g 3H2 606.7 moles N2 ( ) = 1820 moles H2 → Round to 1800 moles H2 1N2 b.
-		We are going to use the Ideal Gas Law and plug in the total number of moles of
-		nitrogen gas and hydrogen gas.
-		nRT PV = nRT → P = → V L ∙ atm (606.7 + 1820 moles) ∙ 0.082057 ∙ (500 +
-		273.15)K P= moles ∙K = 128.3 atm 1200 L 14.7psi 128.3 atm ( ) = 1886 psi →
-		round to 1900 psi 1atm c.
+		<em>To start all of the solutions:</em> We are given the initial mass of the nitrogen gas in kg.  The first step to solving any reaction stoichiometry problem is to first figure out the number of moles of the substance that you have information about.  So in this case, we have to convert from kg of nitrogen gas to moles of nitrogen gas using the molar
+		mass</p>
+		<me>17kg\ N_2\cdot\frac{1000g}{1kg}\cdot\frac{mole}{28.02g}=606.7 moles\ N_2</me>
+<p>We will use this number as the starting point for each of the other calculations</p>
+	<p><em>Solution to Problem 1:</em> We need to convert from moles of nitrogen gas to moles of hydrogen gas.  To convert from moles of one substance to moles of another in a chemical reaction, we need a mole-mole conversion factor:</p>
+		<me>\frac{3\ moles\ H_2}{1\ mole\ N_2}</me>
+		<p>We can then multiply our number of moles of nitrogen gas by this conversion factor as shown:</p>
+			<me>606.7\ moles\ N_2\cdot\frac{3\ moles\ H_2}{1\ mole\ N_2}=1800\ moles\ H_2</me>
+			<p><em>Solution to Problem 2:</em> We are going to use the Ideal Gas Law and plug in the total number of moles of
+		nitrogen gas and hydrogen gas.  We should add the number of moles together and then rearrange the Ideal Gas Law to solve for pressure</p>
+		<p>Total number of moles of gas:</p>
+		<me>606.7\ moles\ N_2\ + 1820\ moles\ H_2=2427\ moles\ gas</me>
+		<p>Rearranging the Ideal Gas Law:</p>
+			<me>PV=nRT\ \rightarrow\ \frac{PV}{V}=\frac{nRT}{V}/ /rightarrow\ P=\frac{nRT}{V}</me>
+			<p>We can now plug in the values from the problem to solve for P:</p>
+				<me>P=\frac{2427\ moles\cdot\ 1.21\frac{L\cdot psi}{mol\cdot K}\cdot\ 773K}{1200\ L}= 1886 psi\rightarrow\ 1900\ psi</me>
+				<p><em>Solution to Problem 3:</em>
 		We can borrow information from part a.
 		If we have moles of nitrogen gas, we can use a mole-mole conversion factor to
 		get the number of moles of NH 3.
@@ -61,6 +81,13 @@
 		(1213.4 moles ∙ 0.082057 ∙ (500 + 273.15)K) P= moles ∙K = 64.15 atm 1200L
 		14.7psi 64.15atm ( ) = 943.0psi → round to 940psi 1atm
 	</p>
+	
+</assemblage>
+	<p>
+		
+	</p>
+
+
 	<exercises>
 		<title>Exercise 1</title>
 

@@ -10,7 +10,7 @@
 		Pressure and volume are inversely proportional to one another (Boyle's Law):
 		<me>P\times V=c</me>
 		Likewise, volume is directly proportional to both temperature (Charles' Law) and number of moles of a gas (Avogadro's Law)
-		<me>\frac{V}{T}=c  \ and \frac{V}{n}=c</me>
+		<me>\frac{V}{T}=c</me> and <me>frac{V}{n}=c</me>
 		If we combine all of this information, we get the equation: 
 		<me>\frac{P\cdot V}{n\cdot T}=c</me>
 		 where c
