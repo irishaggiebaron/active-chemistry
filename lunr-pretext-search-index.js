@@ -8466,44 +8466,35 @@ var ptx_lunr_docs = [
   "url": "sec-gas3.html",
   "type": "Section",
   "number": "9.3",
-  "title": "Avogadro’s law and molar volume",
-  "body": " Avogadro’s law and molar volume  All of the gas laws that we learned about in the last lesson allowed for changes in the pressure, volume, and\/or temperature of the gas. All of those laws had the stated assumption that the amount of the gas was fixed. Avogadro’s law is the first law that allows us to predict the effect of changing the amount of gas. Avogadro’s law relates the volume of a gas to the number of moles of the gas. It states that the volume of the gas and the number of moles are directly proportional to one another if pressure and temperature are kept constant. This means that if the number of moles of a gas increase, then the volume would be expected to increase as well. A real-world example of this is what happens when you blow into a balloon. You are increasing the amount of gas in the balloon and, as a result, its volume increases. Like our other gas laws, this proportionality can be shown by V an equation: n = c where n is the number of moles of gas and c is a constant. If we want to  predict the effect of changing the amount of gas on the volume, then we can use the form of Avogadro’s law shown below: V1 V2 = n1 n2  One consequence of Avogadro’s law is that one mole of a gas will always have the same volume, regardless of which gas we’re talking about, if the pressure and temperature are kept constant. At a standard temperature and pressure (STP, defined as 1 atm of pressure and 273.15 K) one mole of gas has a volume of 22.4 L. This is called the molar volume of a 1 mole gas. Molar volume can be used as a conversion factor ( 22.4 L ) to convert between volume and number of moles if the gas is at STP conditions.   Exercise 2    If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L      If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles      What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L      A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L     "
+  "title": "Combined gas law",
+  "body": " Combined gas law  Since pressure and volume are inversely proportional volume and temperature are directly proportional and pressure and temperature are directly proportional we can describe these three relationships with a combined equation: Since this relationship T should hold under multiple conditions (assuming that the amount of gas doesn’t change), we can derive the combined gas law:    Exercise 1    Combined gas law (the following problems assume that the amount of gas doesn’t change)     If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...      the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K      If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K      "
 },
 {
-  "id": "sec-gas3-5-2",
+  "id": "sec-gas3-3-2-2",
   "level": "2",
-  "url": "sec-gas3.html#sec-gas3-5-2",
+  "url": "sec-gas3.html#sec-gas3-3-2-2",
   "type": "Exercise",
   "number": "9.3.1",
   "title": "",
-  "body": "  If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L   "
+  "body": "  If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...   "
 },
 {
-  "id": "sec-gas3-5-3",
+  "id": "sec-gas3-3-2-3",
   "level": "2",
-  "url": "sec-gas3.html#sec-gas3-5-3",
+  "url": "sec-gas3.html#sec-gas3-3-2-3",
   "type": "Exercise",
   "number": "9.3.2",
   "title": "",
-  "body": "  If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles   "
+  "body": "  the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K   "
 },
 {
-  "id": "sec-gas3-5-4",
+  "id": "sec-gas3-3-2-4",
   "level": "2",
-  "url": "sec-gas3.html#sec-gas3-5-4",
+  "url": "sec-gas3.html#sec-gas3-3-2-4",
   "type": "Exercise",
   "number": "9.3.3",
   "title": "",
-  "body": "  What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L   "
-},
-{
-  "id": "sec-gas3-5-5",
-  "level": "2",
-  "url": "sec-gas3.html#sec-gas3-5-5",
-  "type": "Exercise",
-  "number": "9.3.4",
-  "title": "",
-  "body": "  A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L   "
+  "body": "  If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K   "
 },
 {
   "id": "sec-gas4",
@@ -8511,35 +8502,44 @@ var ptx_lunr_docs = [
   "url": "sec-gas4.html",
   "type": "Section",
   "number": "9.4",
-  "title": "Combined gas law",
-  "body": " Combined gas law  Since pressure and volume are inversely proportional, volume and temperature are directly proportional, and pressure and temperature are directly proportional, we can P×V describe these three relationships with the equation = c. Since this relationship T should hold under multiple conditions (assuming that the amount of gas doesn’t change), we can derive the combined gas law: P1 × V1 P2 × V2 = T1 T2   Exercise 1    Combined gas law (the following problems assume that the amount of gas doesn’t change)     If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...      the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K      If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K      "
+  "title": "Avogadro’s law and molar volume",
+  "body": " Avogadro’s law and molar volume  All of the gas laws that we learned about in the last lesson allowed for changes in the pressure, volume, and\/or temperature of the gas. All of those laws had the stated assumption that the amount of the gas was fixed. Avogadro’s law is the first law that allows us to predict the effect of changing the amount of gas. Avogadro’s law relates the volume of a gas to the number of moles of the gas. It states that the volume of the gas and the number of moles are directly proportional to one another if pressure and temperature are kept constant. This means that if the number of moles of a gas increase, then the volume would be expected to increase as well. A real-world example of this is what happens when you blow into a balloon. You are increasing the amount of gas in the balloon and, as a result, its volume increases. Like our other gas laws, this proportionality can be shown by V an equation: n = c where n is the number of moles of gas and c is a constant. If we want to  predict the effect of changing the amount of gas on the volume, then we can use the form of Avogadro’s law shown below: V1 V2 = n1 n2  One consequence of Avogadro’s law is that one mole of a gas will always have the same volume, regardless of which gas we’re talking about, if the pressure and temperature are kept constant. At a standard temperature and pressure (STP, defined as 1 atm of pressure and 273.15 K) one mole of gas has a volume of 22.4 L. This is called the molar volume of a 1 mole gas. Molar volume can be used as a conversion factor ( 22.4 L ) to convert between volume and number of moles if the gas is at STP conditions.   Exercise 2    If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L      If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles      What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L      A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L     "
 },
 {
-  "id": "sec-gas4-3-2-2",
+  "id": "sec-gas4-5-2",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-3-2-2",
+  "url": "sec-gas4.html#sec-gas4-5-2",
   "type": "Exercise",
   "number": "9.4.1",
   "title": "",
-  "body": "  If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...   "
+  "body": "  If you have a 22.2 L ballon of gas containing 0.0311 moles of helium, what will the new volume be is an additional 0.0233 moles of helium are added?    38.8L   "
 },
 {
-  "id": "sec-gas4-3-2-3",
+  "id": "sec-gas4-5-3",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-3-2-3",
+  "url": "sec-gas4.html#sec-gas4-5-3",
   "type": "Exercise",
   "number": "9.4.2",
   "title": "",
-  "body": "  the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K   "
+  "body": "  If you have a 34.2 L sample of oxygen gas at STP, how many moles of oxygen gas do you have?    1.53 moles   "
 },
 {
-  "id": "sec-gas4-3-2-4",
+  "id": "sec-gas4-5-4",
   "level": "2",
-  "url": "sec-gas4.html#sec-gas4-3-2-4",
+  "url": "sec-gas4.html#sec-gas4-5-4",
   "type": "Exercise",
   "number": "9.4.3",
   "title": "",
-  "body": "  If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K   "
+  "body": "  What is the volume of 17.0 g of oxygen gas at STP? Hint: what information do we need to go from grams to moles of oxygen gas?    11.9 L   "
+},
+{
+  "id": "sec-gas4-5-5",
+  "level": "2",
+  "url": "sec-gas4.html#sec-gas4-5-5",
+  "type": "Exercise",
+  "number": "9.4.4",
+  "title": "",
+  "body": "  A 10.0L balloon has a contains 3.2 grams of helium gas. If 1.6 grams of helium gas is added, then what is the new volume? Hint: what information do we need to go from grams to moles of helium gas?    15 L   "
 },
 {
   "id": "sec-gas5",
