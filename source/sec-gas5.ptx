@@ -1,45 +1,74 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
+
+
 <section xml:id="sec-gas5" xmlns:xi="http://www.w3.org/2001/XInclude">
 	<title>Ideal gas law</title>
 
 	<p>
-		Avogadro’s law and the other gas laws can all be combined together.
-		Pressure and volume are inversely proportional.
-		Temperature and moles of gas are directly proportional to volume.
-		If we combine all of this information, we get the equation: PV =c nT where c
+		Avogadro's law and the other gas laws can all be combined together.
+		Pressure and volume are inversely proportional to one another (Boyle's Law):
+		<me>P\times V=c</me>
+		Likewise, volume is directly proportional to both temperature (Charles' Law) and number of moles of a gas (Avogadro's Law)
+		<me>\frac{V}{T}=c  \ and \frac{V}{n}=c</me>
+		If we combine all of this information, we get the equation: 
+		<me>\frac{P\dot V}{n\dot T}=c</me>
+		 where c
 		is a constant.
-		In chemistry, we substitute the symbol R for this constant to give: PV =R nT R
-		is a special constant in chemistry called the ideal gas constant.
+		In chemistry, we substitute the symbol R for this constant to give:
+		<me>\frac{P\dot V}{n\dot T}=R</me>
+		The equation shown above is called the Ideal Gas Law and is typically shown in the
+		rearranged form:
+	
+
+	<me>
+		PV = nRT
+	</me>
+	</p><p>
+		In the Ideal Gas Law, the constant R is known as the gas constant.
 		There are several different values for R which are all actually
 		equivalent...they have different values because
-	</p>
-
-	<p>
+	
 		they have different units of pressure or volume.
-		The value of R that uses SI units of Pa∙L pressure and volume is 8314 mol∙K .
-		The equation shown above is called the Ideal Gas Law and is often shown in the
-		rearranged form:
-	</p>
+		The value of R that uses SI units of Pa for pressure and L for volume is <m>8314 \frac{Pa\dot L}{mol\dot K}</m>.  Other values of R are shown in the table below:
+		</p>
+<p>
+		<table>
+			<title>Various Values for the Gas Constant R</title>
+			<row header="yes" bottom= major>
+				<cell halign="center">Value</cell>
+				<cell halign="center">Units</cell>
+				</row>
+				<row>
+					<cell halign="center">8314</cell>
+					<cell halign="center"><m>\frac{Pa\dot L}{mol\dot K}</m></cell>
+				</row>
+				<row>
+					<cell halign="center">0.082057</cell>
+					<cell halign="center"><m>\frac{L\dot atm}{mol\dot K}</m></cell>
+				</row>	
+				<row>
+					<cell halign="center">0.0831446</cell>
+					<cell halign="center"><m>\frac{L\dot bar}{mol\dot K}</m></cell>
+				</row>		
+<row>
+					<cell halign="center">1.21</cell>
+					<cell halign="center"><m>\frac{L\dot psi}{mol \dot K}</m></cell>
+				</row>
+				</table>
+</p>		
 
 	<p>
-		PV = nRT
-	</p>
-
-	<p>
-		The other laws that we learned about are useful for predicting the effect of
-		changing the conditions of a gas, either the pressure, volume, temperature, or
+		When should we make use of the Ideal Gas Law vs. the other laws.  The other laws that we learned about earlier in this chapter are useful for predicting the effect of
+		changing the conditions of a gas: either the pressure, volume, temperature, or
 		moles of gas.
-		The Ideal Gas Law allows us to calculate one unknown property of a gas if
-		we’re given the other 3 properties.
+		The Ideal Gas Law, on the other hand, allows us to calculate one unknown property of a gas if
+		we're given the other 3 properties.
 		For instance, if we know the pressure, volume, and temperature of a sample of
 		gas, we can calculate the number of moles of gas.
 	</p>
 
-	<p>
-		Various values for R: Pa ∙ L 8314 mol ∙ K L ∙ atm 0.082057 moles ∙ K L ∙ bar
-		0.0831446 mol ∙ K L ∙ psi 1.21 mol ∙ K
-	</p>
+	
 	<exercises>
 		<title>Exercise 3</title>
 
