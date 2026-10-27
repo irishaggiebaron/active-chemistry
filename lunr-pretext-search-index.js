@@ -8557,34 +8557,43 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.5",
   "title": "Ideal gas law",
-  "body": " Ideal gas law  Avogadro’s law and the other gas laws can all be combined together. Pressure and volume are inversely proportional. Temperature and moles of gas are directly proportional to volume. If we combine all of this information, we get the equation: PV =c nT where c is a constant. In chemistry, we substitute the symbol R for this constant to give: PV =R nT R is a special constant in chemistry called the ideal gas constant. There are several different values for R which are all actually equivalent...they have different values because  they have different units of pressure or volume. The value of R that uses SI units of Pa∙L pressure and volume is 8314 mol∙K . The equation shown above is called the Ideal Gas Law and is often shown in the rearranged form:  PV = nRT  The other laws that we learned about are useful for predicting the effect of changing the conditions of a gas, either the pressure, volume, temperature, or moles of gas. The Ideal Gas Law allows us to calculate one unknown property of a gas if we’re given the other 3 properties. For instance, if we know the pressure, volume, and temperature of a sample of gas, we can calculate the number of moles of gas.  Various values for R: Pa ∙ L 8314 mol ∙ K L ∙ atm 0.082057 moles ∙ K L ∙ bar 0.0831446 mol ∙ K L ∙ psi 1.21 mol ∙ K   Exercise 3    If a sample of gas contains 0.0300 moles of gas and has a pressure of 2300 Pa at a temperature of 273K, what would the volume of the gas be?    30. L      Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1atm=101325 Pa)    4.0 x 102 K      What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at 103 oC?    1.1 MPa     "
+  "body": " Ideal gas law  Avogadro's law and the other gas laws can all be combined together. Pressure and volume are inversely proportional to one another (Boyle's Law): Likewise, volume is directly proportional to both temperature (Charles' Law) and number of moles of a gas (Avogadro's Law) If we combine all of this information, we get the equation: where c is a constant. In chemistry, we substitute the symbol R for this constant to give: The equation shown above is called the Ideal Gas Law and is typically shown in the rearranged form:  In the Ideal Gas Law, the constant R is known as the gas constant. There are several different values for R which are all actually equivalent...they have different values because they have different units of pressure or volume. The value of R that uses SI units of Pa for pressure and L for volume is . Other values of R are shown in the table below:    Various Values for the Gas Constant R   Value  Units    8314     0.082057     0.0831446     1.21      When should we make use of the Ideal Gas Law vs. the other laws. The other laws that we learned about earlier in this chapter are useful for predicting the effect of changing the conditions of a gas: either the pressure, volume, temperature, or moles of gas. The Ideal Gas Law, on the other hand, allows us to calculate one unknown property of a gas if we're given the other 3 properties. For instance, if we know the pressure, volume, and temperature of a sample of gas, we can calculate the number of moles of gas.   Ideal Gas Law    If a sample of gas contains 0.0300 moles of gas and has a pressure of 2300 Pa at a temperature of 273K, what would the volume of the gas be?    30. L      Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1 atm=101325 Pa)           What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at ?    1.1 MPa     "
 },
 {
-  "id": "sec-gas5-7-2",
+  "id": "sec-gas5-4-1",
   "level": "2",
-  "url": "sec-gas5.html#sec-gas5-7-2",
+  "url": "sec-gas5.html#sec-gas5-4-1",
+  "type": "Table",
+  "number": "9.5.1",
+  "title": "Various Values for the Gas Constant R",
+  "body": " Various Values for the Gas Constant R   Value  Units    8314     0.082057     0.0831446     1.21    "
+},
+{
+  "id": "sec-gas5-6-2",
+  "level": "2",
+  "url": "sec-gas5.html#sec-gas5-6-2",
   "type": "Exercise",
   "number": "9.5.1",
   "title": "",
   "body": "  If a sample of gas contains 0.0300 moles of gas and has a pressure of 2300 Pa at a temperature of 273K, what would the volume of the gas be?    30. L   "
 },
 {
-  "id": "sec-gas5-7-3",
+  "id": "sec-gas5-6-3",
   "level": "2",
-  "url": "sec-gas5.html#sec-gas5-7-3",
+  "url": "sec-gas5.html#sec-gas5-6-3",
   "type": "Exercise",
   "number": "9.5.2",
   "title": "",
-  "body": "  Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1atm=101325 Pa)    4.0 x 102 K   "
+  "body": "  Calculate the temperature of a gas if 3.0 moles of gas have a volume of 43L and a pressure of 2.3 atm. (1 atm=101325 Pa)        "
 },
 {
-  "id": "sec-gas5-7-4",
+  "id": "sec-gas5-6-4",
   "level": "2",
-  "url": "sec-gas5.html#sec-gas5-7-4",
+  "url": "sec-gas5.html#sec-gas5-6-4",
   "type": "Exercise",
   "number": "9.5.3",
   "title": "",
-  "body": "  What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at 103 oC?    1.1 MPa   "
+  "body": "  What is the pressure of a gas in units of MPa if 2.3 moles of gas are placed into a 6.7L container at ?    1.1 MPa   "
 },
 {
   "id": "sec-gas6",
