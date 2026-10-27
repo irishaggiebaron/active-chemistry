@@ -8467,7 +8467,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.3",
   "title": "Combined gas law",
-  "body": " Combined gas law  Since pressure and volume are inversely proportional volume and temperature are directly proportional and pressure and temperature are directly proportional we can describe these three relationships with a combined equation: Since this relationship T should hold under multiple conditions (assuming that the amount of gas doesn’t change), we can derive the combined gas law:    Exercise 1    Combined gas law (the following problems assume that the amount of gas doesn’t change)     If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...      the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K      If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K      "
+  "body": " Combined gas law  Since pressure and volume are inversely proportional volume and temperature are directly proportional and pressure and temperature are directly proportional we can describe these three relationships with a combined equation: Since this relationship T should hold under multiple conditions (assuming that the amount of gas doesn’t change), we can derive the combined gas law:    Exercise 1    Combined gas law (the following problems assume that the amount of gas doesn’t change).  If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...     the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K?    36 atm      the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K?    0.263 L      the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L?    4280 K       If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K     "
 },
 {
   "id": "sec-gas3-3-2-2",
@@ -8476,7 +8476,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.1",
   "title": "",
-  "body": "  If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...    If a gas has a pressure of 17.0 atm, a volume of 1.05 L and a temperature of 302 K, what is...   "
+  "body": "  the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K?    36 atm   "
 },
 {
   "id": "sec-gas3-3-2-3",
@@ -8485,7 +8485,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.3.2",
   "title": "",
-  "body": "  the new pressure if the volume is decreased to 0.55 L and the temperature is increased to 331 K? ii. the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K? iii. the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L    36 atm ii. 0.263 L iii. 4280 K   "
+  "body": "  the new volume if the pressure is increased to 34.0 atm and the temperature decreases to 151 K?    0.263 L   "
 },
 {
   "id": "sec-gas3-3-2-4",
@@ -8493,6 +8493,15 @@ var ptx_lunr_docs = [
   "url": "sec-gas3.html#sec-gas3-3-2-4",
   "type": "Exercise",
   "number": "9.3.3",
+  "title": "",
+  "body": "  the new temperature if the pressure increases to 33.5 atm and the volume increases to 7.55 L?    4280 K   "
+},
+{
+  "id": "sec-gas3-3-3",
+  "level": "2",
+  "url": "sec-gas3.html#sec-gas3-3-3",
+  "type": "Exercise",
+  "number": "9.3.4",
   "title": "",
   "body": "  If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of 151 oC, what is the new temperature if the pressure decreases to 453 kPa and the volume increases to 1.55 kL?    879K   "
 },
