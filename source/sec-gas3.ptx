@@ -28,7 +28,7 @@
 	</p>
 
 	<exercises>
-		<title>Exercise 1</title>
+		<title>Combined Gas Law Exercises</title>
 
 		<exercisegroup>
 			<introduction>
@@ -93,7 +93,7 @@
 			<statement>
 				<p>
 					If a gas has a pressure of 1.52 MPa, a volume of 223 L and a temperature of
-					151 oC, what is the new temperature if the pressure decreases to 453 kPa
+					<m>151 ^oC</m>, what is the new temperature if the pressure decreases to 453 kPa
 					and the volume increases to 1.55 kL?
 				</p>
 			</statement>
