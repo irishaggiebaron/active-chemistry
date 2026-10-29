@@ -1,25 +1,34 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <section xml:id="sec-gas8" xmlns:xi="http://www.w3.org/2001/XInclude">
-	<title>Henry’s Law and Breathing</title>
+	<title>Henry's Law and Breathing</title>
 
 	<p>
-		Henry’s Law is our last gas law.
+		Henry's Law is our last gas law.
 		It deals with solubility.
 		Solubility is the amount of a material that can be dissolved into another; in
-		this case, we’re talking about how much gas can dissolve in water.
-		Henry’s law states that the solubility of a gas is directly proportional to
+		this case, we're talking about how much gas can dissolve in water.
+		Henry's law states that the solubility of a gas is directly proportional to
 		its partial pressure.
 		If the partial pressure of a gas is increased, it can press its way into the
 		liquid more easily, and thus more of that gas dissolves.
 	</p>
+<p>
+	You likely regularly witness Henry's Law in action in your day-to-day life.  Any time your open a new container of a carbonated beverage like a soda, you likely witness two related things: a hissing sound and bubbles forming.  The hiss sound occurs because the air inside of the container is under higher pressure than the outside environment; when you open the container, the trapped gas escapes by moving from an area of high pressure (the inside) to an area of low pressure (the outside).  This decreases the gas pressure on the soda.  Because the pressure decreases, so does the solubility of gases trapped inside the soda.  This causes the gases to begin to escape, often in the form of bubbles.
+</p>
+<figure>
+	<caption>Illustration of Henry's Law with a bottle of soda</caption>
+	<image source="henrys_law_infographic.svg">
+		<shortdescription>An image that shows a closed soda that contains a high concentration of dissolved gas and another open soda that shows the gas bubbles leaving due to the low pressure</shortdescription>
+	</image>
+</figure>
 
 	<p>
-		Now we’re going to do some practice problems dealing with gas laws and
+		Now we're going to do some practice problems dealing with gas laws and
 		breathing.
 	</p>
 	<exercises>
-		<title>Exercise 1</title>
+		<title>Exercises</title>
 
 		<exercisegroup>
 			<introduction>
@@ -41,7 +50,7 @@
 
 				<answer>
 					<p>
-						Pressure decreases, Boyle’s law
+						Pressure decreases, Boyle's law
 					</p>
 				</answer>
 			</exercise>
@@ -56,7 +65,7 @@
 
 				<answer>
 					<p>
-						Pressure increases, Boyle’s law
+						Pressure increases, Boyle's law
 					</p>
 				</answer>
 			</exercise>
