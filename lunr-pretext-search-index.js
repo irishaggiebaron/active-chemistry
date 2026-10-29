@@ -8782,75 +8782,75 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.9",
   "title": "Which Equation do I Need??",
-  "body": " Which Equation do I Need??  Each of the problems that you’ve done thus far is within a single section of the chapter, making it relatively easy to figure out what equation to use. On an exam, the problems are not organized in such a straightforward manner, and it falls on you to figure out which one(s) you need to use. Here are some tips:  1. In the problem, is something about the gas changing (pressure, volume, moles, temperature)? If so, then you want to use an equation with the subscript 1’s and 2’s...Boyle’s, Charles’s, Gay-Lussac’s, Combined Gas Law, Avogadro’s Law. 2. Are you trying to find a missing parameter about the gas, but nothing is changing...probably need the Ideal Gas Law.  3. Is your problem dealing with a reaction or mass of the gas? If so, you probably need to change to moles (using either molar mass or the Ideal Gas Law) 4. Partial pressures or gas mixtures? Then think Dalton’s Law 5. Find an equation that has the parameters that are provided and the one that you want. (if you are given a starting pressure and temperature of a gas, and the pressure is changed and you’re being asked for temperature, then Gay-Lussac’s should be used because it has only pressure and temperature in the equation)   Exercise 2    If you have 2.0 grams of argon gas in a 25L balloon, what will the new volume be if    63 L      0 grams of argon gas is added. Assume that the temperature and pressure do NOT change.    12 atm      If a gas has a pressure of 2.1 atm and a volume of 3.3 L, what will the new pressure be if the volume is expanded to 5.7 L?    1.2 atm      A gas at 271 K, 3.3 atm of pressure, and with a volume of 5.4 L is heated to 299K at the same time that its volume is decrease to 1.7 L. What is the new pressure?    12 atm      3.5 grams of gaseous water vapor is at a temperature of 452K in a volume of 150mL. What is the pressure of this gas in MPa?    4.9 MPa      2.5 moles of gas A completely reacts to form gases B and C according to the reaction below. The reaction takes place in a 15L vessel at 522K. 2A(g) → B(g) + 3C(g)     What is the pressure in units of Pa at the beginning of the reaction in MPa?    0.72 MPa      What is the partial pressure of B in the vessel at the end of the reaction in MPa?    0.36 MPa      What is the total pressure in the vessel at the end of the reaction in MPa?    1.4 MPa      "
+  "body": " Which Equation do I Need??  Each of the problems that you’ve done thus far is within a single section of the chapter, making it relatively easy to figure out what equation to use. On an exam, the problems are not organized in such a straightforward manner, and it falls on you to figure out which one(s) you need to use. Here are some tips:     In the problem, is something about the gas changing (pressure, volume, moles, temperature)? If so, then you want to use an equation with the subscript 1’s and 2’s...Boyle’s, Charles’s, Gay-Lussac’s, Combined Gas Law, Avogadro’s Law.    Are you trying to find a missing parameter about the gas, but nothing is changing...then you need either the Ideal Gas Law or you might be able to use the Standard Molar Volume.    Is your problem dealing with a reaction or mass of the gas? If so, you probably need to change to moles (using either molar mass or the Ideal Gas Law)    Partial pressures or gas mixtures? Then think Dalton’s Law    Does the question specify that the gas is at STP? If so, think about using the Standard Molar Volume.    Find an equation that has the parameters that are provided and the one that you want. (ex. if you are given a starting pressure and temperature of a gas, and the pressure is changed and you're being asked for temperature, then Gay-Lussac's should be used because it has only pressure and temperature in the equation)      Exercises    If you have 2.0 grams of argon gas in a 25L balloon, what will the new volume be if    63 L      0 grams of argon gas is added. Assume that the temperature and pressure do NOT change.    12 atm      If a gas has a pressure of 2.1 atm and a volume of 3.3 L, what will the new pressure be if the volume is expanded to 5.7 L?    1.2 atm      A gas at 271 K, 3.3 atm of pressure, and with a volume of 5.4 L is heated to 299K at the same time that its volume is decrease to 1.7 L. What is the new pressure?    12 atm      3.5 grams of gaseous water vapor is at a temperature of 452K in a volume of 150mL. What is the pressure of this gas in MPa?    4.9 MPa      2.5 moles of gas A completely reacts to form gases B and C according to the reaction below. The reaction takes place in a 15L vessel at 522K. 2A(g) → B(g) + 3C(g)     What is the pressure in units of Pa at the beginning of the reaction in MPa?    0.72 MPa      What is the partial pressure of B in the vessel at the end of the reaction in MPa?    0.36 MPa      What is the total pressure in the vessel at the end of the reaction in MPa?    1.4 MPa      "
 },
 {
-  "id": "sec-gas9-5-2",
+  "id": "sec-gas9-4-2",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-2",
+  "url": "sec-gas9.html#sec-gas9-4-2",
   "type": "Exercise",
   "number": "9.9.1",
   "title": "",
   "body": "  If you have 2.0 grams of argon gas in a 25L balloon, what will the new volume be if    63 L   "
 },
 {
-  "id": "sec-gas9-5-3",
+  "id": "sec-gas9-4-3",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-3",
+  "url": "sec-gas9.html#sec-gas9-4-3",
   "type": "Exercise",
   "number": "9.9.2",
   "title": "",
   "body": "  0 grams of argon gas is added. Assume that the temperature and pressure do NOT change.    12 atm   "
 },
 {
-  "id": "sec-gas9-5-4",
+  "id": "sec-gas9-4-4",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-4",
+  "url": "sec-gas9.html#sec-gas9-4-4",
   "type": "Exercise",
   "number": "9.9.3",
   "title": "",
   "body": "  If a gas has a pressure of 2.1 atm and a volume of 3.3 L, what will the new pressure be if the volume is expanded to 5.7 L?    1.2 atm   "
 },
 {
-  "id": "sec-gas9-5-5",
+  "id": "sec-gas9-4-5",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-5",
+  "url": "sec-gas9.html#sec-gas9-4-5",
   "type": "Exercise",
   "number": "9.9.4",
   "title": "",
   "body": "  A gas at 271 K, 3.3 atm of pressure, and with a volume of 5.4 L is heated to 299K at the same time that its volume is decrease to 1.7 L. What is the new pressure?    12 atm   "
 },
 {
-  "id": "sec-gas9-5-6",
+  "id": "sec-gas9-4-6",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-6",
+  "url": "sec-gas9.html#sec-gas9-4-6",
   "type": "Exercise",
   "number": "9.9.5",
   "title": "",
   "body": "  3.5 grams of gaseous water vapor is at a temperature of 452K in a volume of 150mL. What is the pressure of this gas in MPa?    4.9 MPa   "
 },
 {
-  "id": "sec-gas9-5-7-2",
+  "id": "sec-gas9-4-7-2",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-7-2",
+  "url": "sec-gas9.html#sec-gas9-4-7-2",
   "type": "Exercise",
   "number": "9.9.6",
   "title": "",
   "body": "  What is the pressure in units of Pa at the beginning of the reaction in MPa?    0.72 MPa   "
 },
 {
-  "id": "sec-gas9-5-7-3",
+  "id": "sec-gas9-4-7-3",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-7-3",
+  "url": "sec-gas9.html#sec-gas9-4-7-3",
   "type": "Exercise",
   "number": "9.9.7",
   "title": "",
   "body": "  What is the partial pressure of B in the vessel at the end of the reaction in MPa?    0.36 MPa   "
 },
 {
-  "id": "sec-gas9-5-7-4",
+  "id": "sec-gas9-4-7-4",
   "level": "2",
-  "url": "sec-gas9.html#sec-gas9-5-7-4",
+  "url": "sec-gas9.html#sec-gas9-4-7-4",
   "type": "Exercise",
   "number": "9.9.8",
   "title": "",
