@@ -66,7 +66,8 @@
 			<statement>
 				<p>
 					If you have 2.0 grams of argon gas in a 25L balloon, what will the new
-					volume be if
+					volume be if 3.0 grams of argon gas is added.
+					Assume that the temperature and pressure do NOT change.
 				</p>
 			</statement>
 
@@ -77,20 +78,6 @@
 			</answer>
 		</exercise>
 
-		<exercise>
-			<statement>
-				<p>
-					0 grams of argon gas is added.
-					Assume that the temperature and pressure do NOT change.
-				</p>
-			</statement>
-
-			<answer>
-				<p>
-					12 atm
-				</p>
-			</answer>
-		</exercise>
 
 		<exercise>
 			<statement>
@@ -144,7 +131,7 @@
 					2.5 moles of gas A completely reacts to form gases B and C according to the
 					reaction below.
 					The reaction takes place in a 15L vessel at 522K.
-					2A(g) → B(g) + 3C(g)
+					<me>2A(g) /rightarrow/ B(g)/ +/ 3C(g)</me>
 				</p>
 			</introduction>
 
