@@ -21,7 +21,7 @@
 
 		<li>
 			<p>
-				The gas molecules are constantly moving with very high speeds
+				The gas molecules are constantly moving with very high speeds and because of this they exert a significant force on the walls of their container.
 			</p>
 		</li>
 
@@ -39,12 +39,17 @@
 
 		<li>
 			<p>
-				The average speed of the gas molecules is directly proportional to the temperature. So as temperature increases, the gas molecules move more quickly.
+				The average speed of the gas molecules increases with increasing temperature. 
 			</p>
 		</li>
 
 	</ol></p>
-
+<figure>
+	<caption>Kinetic Molecular Theory of Gases</caption>
+	<image source="kinetic_molecular_theory_latest.svg">
+		<shortdescription>A multipanel figure that depicts each of the tenets of kinetic molecular theory of gases</shortdescription>
+	</image>
+</figure>
 	<p>
 		This information about gases will help us to understand other properties of gases as well as the gas laws that we’ll encounter later in the chapter. The first such property that we can begin to discuss is <term>pressure.</term> When a gas is near a surface (like air near our bodies) or trapped in a container, then the gas molecules will impact the surfaces that they’re exposed to with a certain amount of force. This force will push against that surface. When a force is being applied to a surface, we can measure the pressure being exerted. Pressure is simply the amount of force being applied divided by the area of the surface that it’s being applied to. This can be illustrated easily using everyday objects. If you place a large piece of wood on top of another piece of wood and hit it with a hammer, you’re unlikely to drive one piece of wood into the other. However if you place a nail on a piece of wood and hit it with a hammer, you can easily drive the nail into the wood. Why? The amount of force applied with the hammer was the exact same. However, in the first case, the amount of surface that the force was applied to was large, meaning that the pressure was small. In the case of the nail, that same amount of force is applied to the narrow point of a nail (a much smaller area) so the nail has a very high pressure and is able to easily penetrate the wood.
 	</p>
