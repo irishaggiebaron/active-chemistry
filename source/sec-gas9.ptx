@@ -12,31 +12,55 @@
 	</p>
 
 	<p>
-		1.
-		In the problem, is something about the gas changing (pressure, volume, moles,
+		<ol>
+			<li>
+				<p>
+					In the problem, is something about the gas changing (pressure, volume, moles,
 		temperature)?
 		If so, then you want to use an equation with the subscript 1’s and
 		2’s...Boyle’s, Charles’s, Gay-Lussac’s, Combined Gas Law, Avogadro’s Law.
-		2.
-		Are you trying to find a missing parameter about the gas, but nothing is
-		changing...probably need the Ideal Gas Law.
+				</p>
+			</li>
+			<li>
+				<p>
+					Are you trying to find a missing parameter about the gas, but nothing is
+		changing...then you need either the Ideal Gas Law or you might be able to use the Standard Molar Volume.
+				</p>
+			</li>
+			<li>
+				<p>
+					Is your problem dealing with a reaction or mass of the gas?
+		If so, you probably need to change to moles (using either molar mass or the
+		Ideal Gas Law) 
+				</p>
+			</li>
+			<li>
+				<p>
+					Partial pressures or gas mixtures?
+		Then think Dalton’s Law 
+				</p>
+			</li>
+			<li>
+				<p>
+					Does the question specify that the gas is at STP?  If so, think about using the Standard Molar Volume.
+				</p>
+			</li>
+			<li>
+				<p>
+					Find an equation that has the parameters that are provided and the one that
+		you want.
+		(ex. if you are given a starting pressure and temperature of a gas, and the
+		pressure is changed and you're being asked for temperature, then Gay-Lussac's
+		should be used because it has only pressure and temperature in the equation)
+				</p>
+			</li>
+		</ol>
+		
 	</p>
 
-	<p>
-		3.
-		Is your problem dealing with a reaction or mass of the gas?
-		If so, you probably need to change to moles (using either molar mass or the
-		Ideal Gas Law) 4.
-		Partial pressures or gas mixtures?
-		Then think Dalton’s Law 5.
-		Find an equation that has the parameters that are provided and the one that
-		you want.
-		(if you are given a starting pressure and temperature of a gas, and the
-		pressure is changed and you’re being asked for temperature, then Gay-Lussac’s
-		should be used because it has only pressure and temperature in the equation)
-	</p>
+	
 	<exercises>
-		<title>Exercise 2</title>
+		<title>Exercises</title>
 
 		<exercise>
 			<statement>
