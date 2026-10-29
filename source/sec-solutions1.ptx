@@ -7,6 +7,12 @@
 <p>
     In this chapter we're going to be learning about <term><xref ref="def-solutions" text="custom">solutions</xref></term>.  A solution is prepared by taking one substance and dissolving it in another substance.  The lesser substance, the one that gets dissolved into the other, is called the <term><xref ref="def-solute" text="custom">solute</xref></term>.  The more prevalent substance, which dissolves the solute into itself, is called the <term><xref ref="def-solvent" text="custom">solvent</xref></term>.
 </p>
+<figure>
+    <caption>Forming a solution</caption>
+    <image source="sugar_dissolving_in_water_diagram.svg">
+        <shortdescription>A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution</shortdescription>
+    </image>
+</figure>
     <p>
         <term><xref ref="def-solubility" text="custom">Solubility</xref></term>  is the a term that describes the amount of one compound that
         can dissolve into water.

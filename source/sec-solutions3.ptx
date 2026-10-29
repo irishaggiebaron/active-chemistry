@@ -7,18 +7,17 @@
     <p>
         When dealing with solutions, it is often very important to know how much
         solute is dissolved into a certain amount of volume of the solution.
-        This quantity is called the concentration of the solution.
+        This quantity is called the <term><xref ref="def-concentration" text="custom">concentration</xref></term> of the solution.
         We have several different ways of expressing concentration.
         The first way that we’ll learn about is percent composition.
         There are three different forms of percent composition, mass-mass
         percent composition (% m/m), mass- volume percent composition (% m/v),
         and volume-volume percent composition (% v/v).
-        The formulas for each is shown below: g of solute 1.
-        mass − mass percent = g of solution × 100 with units of % m/m g of
-        solute 2.
-        mass − volume percent = mL of solution × 100 with units of % m/v mL of
-        solute 3.
-        volume − volume percent = mL of solution × 100 with units of % v/v
+        The formulas for each is shown below: </p>
+        <p>
+        <me>mass-mass\ percent=\frac{g\ solute}{g\ solution}\times\ 100%</me>
+        <me>mass-volume/ percent=\frac{g\ solute}{mL\ solution}\times\ 100%</me>
+        <me>volume-volume\ percent=\frac{mL\ solute}{mL\ solution}\times\ 100%</me>
     </p>
 
     <p>

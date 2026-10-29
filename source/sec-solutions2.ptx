@@ -6,14 +6,14 @@
 
     <p>
         When we dissolve one substance into another to make a homogeneous
-        mixture, we’ve made a solution.
+        mixture, we've made a solution.
         The substance that there is less of is called the solute and the
         substance that there is more of is called the solvent.
         When discussing preparing a solution, we generally state that the solute
         is dissolved in the solvent (ex.
         sodium chloride is dissolved into water—the sodium chloride is the
         solute and water is the solvent).
-        For the most part in this course, we’re going to be considering cases
+        For the most part in this course, we're going to be considering cases
         where water is the solvent.
     </p>
 
@@ -26,14 +26,14 @@
         completely answer this question.
         Ultimately, though, a compound will dissolve if the bonds that the
         compound forms with water are stronger than the bonds that the compound
-        and water both had in their previous state.
+        and water both had in their separate states.
     </p>
 
     <p>
         To understand this, we must first understand what happens when a
         compound does successfully dissolve in water.
         If the compound is an ionic compound, then the compound will break apart
-        into its individual ions as we’ve learned previously.
+        into its individual ions as we've learned previously.
         Each of these ions will form new bonds with the polar water molecules
         that surround them.
         Recall that if a molecule is polar, that it has a partially negatively
@@ -46,17 +46,17 @@
         in water.
         Instead the covalent compound separates from other identical molecules
         and forms new bonds with water using the intermolecular forces we
-        learned about previously (dipole- dipole interactions, hydrogen bonding,
+        learned about previously (ionic bonds, dipole-dipole interactions, hydrogen bonding,
         and London dispersion forces).
     </p>
 
     <p>
-        Now that we understand what has to happen to dissolve a compound, let’s
-        draw some parallels to reaction energy diagrams that we’ve learned about
+        Now that we understand what has to happen to dissolve a compound, let's
+        draw some parallels to reaction energy diagrams that we've learned about
         in Chapter 7.
         We saw that we can indicate the energy levels of the reactants and
         products, and that the transition state separates them.
-        The same is true for a dissolving ‘reaction’ (we usually don’t actually
+        The same is true for a dissolving 'reaction' (we usually don't actually
         consider this to be a reaction since no new compound forms).
         In order for our starting compounds (reactants) to dissolve in one
         another (products), bonds must be broken (transition state) so new bonds
@@ -67,9 +67,16 @@
         If the energy of the starting compound and water is lower than the
         energy of them dissolved together, then the compound will not dissolve
         because the undissolved state is more stable.
+        
     </p>
+    <figure>
+        <caption>A comparison the energetics of dissolving for a soluble vs. insoluble compound</caption>
+        <image source="soluble_and_insoluble_energy_diagrams.svg">
+            <shortdescription>A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds</shortdescription>
+        </image>
+    </figure>
     <exercises>
-        <title>Exercise 1</title>
+        <title>Exercises</title>
 
         <exercisegroup>
             <introduction>
