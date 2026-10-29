@@ -9133,7 +9133,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Measuring concentration with percent composition",
-  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:       When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we’re using match the units in the formula...if they don’t we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution as shown below:  How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?  1. Create a conversion factor using the percent composition. Since the values are percents, the bottom will always have a value of 100: 65 mL ethanol 65% volume − volume = 100 mL solution 2. Use dimensional analysis: 65mL ethanol 250 mL solution ( ) = 162.5mL ethanol → 160 mL ethanol 100 mL solution   Exercise 3    Calculate the mass-mass percent for the following solutions     3 g NaCl dissolved in 55 g solution    5% m\/m      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m      0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m       Calculate the mass-volume percent for the following solutions     3 g NaCl dissolved in 45 mL of solution    7% m\/v      175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v       Calculate the volume-volume percent for the following solutions     32 mL of ethanol dissolved in 100 mL of solution    32% v\/v      165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v       How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    0.34 moles     "
+  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:       When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we're using match the units in the formula...if they don't we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution. To do this, we must turn the percent composition into a conversion factor. See the example below:   Example problem showing how to use a percent composition as a conversion factor   Problem: How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?   Solution:    Create a conversion factor using the percent composition.    Since the values are percents, the bottom will always have a value of 100    65% v\/v ethanol=      Use dimensional analysis              Exercises    Calculate the mass-mass percent for the following solutions     3 g NaCl dissolved in 55 g solution    5% m\/m      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m      0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m       Calculate the mass-volume percent for the following solutions     3 g NaCl dissolved in 45 mL of solution    7% m\/v      175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v       Calculate the volume-volume percent for the following solutions     32 mL of ethanol dissolved in 100 mL of solution    32% v\/v      165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v       How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    0.34 moles     "
 },
 {
   "id": "sec-solutions3-2",
@@ -9145,81 +9145,99 @@ var ptx_lunr_docs = [
   "body": "concentration "
 },
 {
-  "id": "sec-solutions3-8-2-2",
+  "id": "sec-solutions3-6-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-2-2",
+  "url": "sec-solutions3.html#sec-solutions3-6-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Problem: "
+},
+{
+  "id": "sec-solutions3-6-3",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-6-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solution: "
+},
+{
+  "id": "sec-solutions3-7-2-2",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-7-2-2",
   "type": "Exercise",
   "number": "10.3.1",
   "title": "",
   "body": "  3 g NaCl dissolved in 55 g solution    5% m\/m   "
 },
 {
-  "id": "sec-solutions3-8-2-3",
+  "id": "sec-solutions3-7-2-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-2-3",
+  "url": "sec-solutions3.html#sec-solutions3-7-2-3",
   "type": "Exercise",
   "number": "10.3.2",
   "title": "",
   "body": "  3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m   "
 },
 {
-  "id": "sec-solutions3-8-2-4",
+  "id": "sec-solutions3-7-2-4",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-2-4",
+  "url": "sec-solutions3.html#sec-solutions3-7-2-4",
   "type": "Exercise",
   "number": "10.3.3",
   "title": "",
   "body": "  0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m   "
 },
 {
-  "id": "sec-solutions3-8-3-2",
+  "id": "sec-solutions3-7-3-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-3-2",
+  "url": "sec-solutions3.html#sec-solutions3-7-3-2",
   "type": "Exercise",
   "number": "10.3.4",
   "title": "",
   "body": "  3 g NaCl dissolved in 45 mL of solution    7% m\/v   "
 },
 {
-  "id": "sec-solutions3-8-3-3",
+  "id": "sec-solutions3-7-3-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-3-3",
+  "url": "sec-solutions3.html#sec-solutions3-7-3-3",
   "type": "Exercise",
   "number": "10.3.5",
   "title": "",
   "body": "  175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v   "
 },
 {
-  "id": "sec-solutions3-8-4-2",
+  "id": "sec-solutions3-7-4-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-4-2",
+  "url": "sec-solutions3.html#sec-solutions3-7-4-2",
   "type": "Exercise",
   "number": "10.3.6",
   "title": "",
   "body": "  32 mL of ethanol dissolved in 100 mL of solution    32% v\/v   "
 },
 {
-  "id": "sec-solutions3-8-4-3",
+  "id": "sec-solutions3-7-4-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-4-3",
+  "url": "sec-solutions3.html#sec-solutions3-7-4-3",
   "type": "Exercise",
   "number": "10.3.7",
   "title": "",
   "body": "  165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v   "
 },
 {
-  "id": "sec-solutions3-8-5",
+  "id": "sec-solutions3-7-5",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-5",
+  "url": "sec-solutions3.html#sec-solutions3-7-5",
   "type": "Exercise",
   "number": "10.3.8",
   "title": "",
   "body": "  How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g   "
 },
 {
-  "id": "sec-solutions3-8-6",
+  "id": "sec-solutions3-7-6",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-8-6",
+  "url": "sec-solutions3.html#sec-solutions3-7-6",
   "type": "Exercise",
   "number": "10.3.9",
   "title": "",
