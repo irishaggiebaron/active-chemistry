@@ -22,31 +22,60 @@
 
     <p>
         When calculating a percent composition, we simply have to use the
-        formulas above, but we must make sure that the units that we’re using
-        match the units in the formula...if they don’t we need to do some unit
+        formulas above, but we must make sure that the units that we're using
+        match the units in the formula...if they don't we need to do some unit
         conversions first.
     </p>
 
     <p>
         We can also use percent composition to figure out how much solute is
-        dissolved in a certain volume (or mass) of solution as shown below:
+        dissolved in a certain volume (or mass) of solution.  To do this, we must turn the percent composition into a conversion factor. See the example below:
     </p>
-
+<assemblage>
+    <title>Example problem showing how to use a percent composition as a conversion factor</title>
     <p>
-        How many grams of mL of ethanol are in a 250mL bottle that contains a
+        <term> Problem:  </term>How many grams of mL of ethanol are in a 250mL bottle that contains a
         65% v/v solution?
     </p>
 
     <p>
-        1.
-        Create a conversion factor using the percent composition.
-        Since the values are percents, the bottom will always have a value of
-        100: 65 mL ethanol 65% volume − volume = 100 mL solution 2.
-        Use dimensional analysis: 65mL ethanol 250 mL solution ( ) = 162.5mL
-        ethanol → 160 mL ethanol 100 mL solution
+        <term>Solution:</term>
+        <ol>
+            <li>
+                <p>
+                    Create a conversion factor using the percent composition.
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            Since the values are percents, the bottom will always have a value of
+        100
+                        </p>
+                    </li>
+                    <li>
+                        <p>
+                            65% v/v ethanol= <m>\frac{65mL\ ethanol}{100mL\ solution}</m>
+                        </p>
+                    </li>
+                </ol>
+            </li>
+            <li><p>Use dimensional analysis
+                </p>
+                <ol>
+                    <li>
+                        <p>
+                            <m>250mL\ solution\cdot\frac{65mL\ ethanol}{100mL\ solution}=162.5mL\ ethanol\rightarrow 160mL ethanol</m>
+                        </p>
+                    </li>
+                </ol>
+                </li>
+        </ol>
+    
     </p>
+</assemblage>
+    
     <exercises>
-        <title>Exercise 3</title>
+        <title>Exercises</title>
 
         <exercisegroup>
             <introduction>
