@@ -8710,57 +8710,66 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.8",
   "title": "Henry’s Law and Breathing",
-  "body": " Henry’s Law and Breathing  Henry’s Law is our last gas law. It deals with solubility. Solubility is the amount of a material that can be dissolved into another; in this case, we’re talking about how much gas can dissolve in water. Henry’s law states that the solubility of a gas is directly proportional to its partial pressure. If the partial pressure of a gas is increased, it can press its way into the liquid more easily, and thus more of that gas dissolves.  Now we’re going to do some practice problems dealing with gas laws and breathing.   Exercise 1    The lungs inflate and deflate because of the action of a muscle called the diaphragm. This muscle causes the lung volume to expand and contract.     If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?    Pressure decreases, Boyle’s law      If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?    Pressure increases, Boyle’s law      Air will spontaneously move from areas of high pressure to areas of low pressure. For a and b above, which corresponds to inhaling, and which corresponds to exhaling?    A is inhaling, B is exhaling       In our lungs our cells are exposed to air that has a high partial pressure of oxygen gas. Would the solubility of oxygen in our blood in the lungs be high or low?    High solubility of oxygen      When blood travels through our peripheral tissues, the amount of oxygen gas decreases because it gets taken up by our tissues. This __________(decreases\/increases) the partial pressure of oxygen that the blood is exposed to and thus ___________(increases\/decreases) the solubility of oxygen in the blood. Explain how this makes it easier for muscles to obtain oxygen from the bloodstream.    Decreases, decreases. Since the blood has a lower solubility of oxygen due to Henry’s Law, this causes even more oxygen to leave the blood for the tissues to use, ultimately removing almost all of the oxygen from the blood for use by tissues in the body.      Carbon dioxide is made in our peripheral tissues and is only a small component of our atmosphere. As a result the partial pressure of carbon dioxide is __________(high\/low) in our peripheral tissues, meaning that its solubility in our blood is ______ (high\/low). When blood travels to the lungs, due to the low amount of carbon dioxide in the atmosphere, its partial pressure is ____(high\/low). This _______(increases\/decreases) the solubility of carbon dioxide in the blood, allowing it to be eliminated from the body.    High, high, low, decreases     "
+  "body": " Henry's Law and Breathing  Henry's Law is our last gas law. It deals with solubility. Solubility is the amount of a material that can be dissolved into another; in this case, we're talking about how much gas can dissolve in water. Henry's law states that the solubility of a gas is directly proportional to its partial pressure. If the partial pressure of a gas is increased, it can press its way into the liquid more easily, and thus more of that gas dissolves.  You likely regularly witness Henry's Law in action in your day-to-day life. Any time your open a new container of a carbonated beverage like a soda, you likely witness two related things: a hissing sound and bubbles forming. The hiss sound occurs because the air inside of the container is under higher pressure than the outside environment; when you open the container, the trapped gas escapes by moving from an area of high pressure (the inside) to an area of low pressure (the outside). This decreases the gas pressure on the soda. Because the pressure decreases, so does the solubility of gases trapped inside the soda. This causes the gases to begin to escape, often in the form of bubbles.   Illustration of Henry's Law with a bottle of soda   An image that shows a closed soda that contains a high concentration of dissolved gas and another open soda that shows the gas bubbles leaving due to the low pressure    Now we're going to do some practice problems dealing with gas laws and breathing.   Exercises    The lungs inflate and deflate because of the action of a muscle called the diaphragm. This muscle causes the lung volume to expand and contract.     If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?    Pressure decreases, Boyle's law      If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?    Pressure increases, Boyle's law      Air will spontaneously move from areas of high pressure to areas of low pressure. For a and b above, which corresponds to inhaling, and which corresponds to exhaling?    A is inhaling, B is exhaling       In our lungs our cells are exposed to air that has a high partial pressure of oxygen gas. Would the solubility of oxygen in our blood in the lungs be high or low?    High solubility of oxygen      When blood travels through our peripheral tissues, the amount of oxygen gas decreases because it gets taken up by our tissues. This __________(decreases\/increases) the partial pressure of oxygen that the blood is exposed to and thus ___________(increases\/decreases) the solubility of oxygen in the blood. Explain how this makes it easier for muscles to obtain oxygen from the bloodstream.    Decreases, decreases. Since the blood has a lower solubility of oxygen due to Henry’s Law, this causes even more oxygen to leave the blood for the tissues to use, ultimately removing almost all of the oxygen from the blood for use by tissues in the body.      Carbon dioxide is made in our peripheral tissues and is only a small component of our atmosphere. As a result the partial pressure of carbon dioxide is __________(high\/low) in our peripheral tissues, meaning that its solubility in our blood is ______ (high\/low). When blood travels to the lungs, due to the low amount of carbon dioxide in the atmosphere, its partial pressure is ____(high\/low). This _______(increases\/decreases) the solubility of carbon dioxide in the blood, allowing it to be eliminated from the body.    High, high, low, decreases     "
 },
 {
-  "id": "sec-gas8-4-2-2",
+  "id": "sec-gas8-4",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-4-2-2",
+  "url": "sec-gas8.html#sec-gas8-4",
+  "type": "Figure",
+  "number": "9.8.1",
+  "title": "",
+  "body": " Illustration of Henry's Law with a bottle of soda   An image that shows a closed soda that contains a high concentration of dissolved gas and another open soda that shows the gas bubbles leaving due to the low pressure   "
+},
+{
+  "id": "sec-gas8-6-2-2",
+  "level": "2",
+  "url": "sec-gas8.html#sec-gas8-6-2-2",
   "type": "Exercise",
   "number": "9.8.1",
   "title": "",
-  "body": "  If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?    Pressure decreases, Boyle’s law   "
+  "body": "  If the volume of the lungs increases, what happens to the air pressure inside of the lungs? Which law dictates this?    Pressure decreases, Boyle's law   "
 },
 {
-  "id": "sec-gas8-4-2-3",
+  "id": "sec-gas8-6-2-3",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-4-2-3",
+  "url": "sec-gas8.html#sec-gas8-6-2-3",
   "type": "Exercise",
   "number": "9.8.2",
   "title": "",
-  "body": "  If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?    Pressure increases, Boyle’s law   "
+  "body": "  If the volume of the lungs decreases, what happens to the air pressure inside of the lungs?    Pressure increases, Boyle's law   "
 },
 {
-  "id": "sec-gas8-4-2-4",
+  "id": "sec-gas8-6-2-4",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-4-2-4",
+  "url": "sec-gas8.html#sec-gas8-6-2-4",
   "type": "Exercise",
   "number": "9.8.3",
   "title": "",
   "body": "  Air will spontaneously move from areas of high pressure to areas of low pressure. For a and b above, which corresponds to inhaling, and which corresponds to exhaling?    A is inhaling, B is exhaling   "
 },
 {
-  "id": "sec-gas8-4-3",
+  "id": "sec-gas8-6-3",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-4-3",
+  "url": "sec-gas8.html#sec-gas8-6-3",
   "type": "Exercise",
   "number": "9.8.4",
   "title": "",
   "body": "  In our lungs our cells are exposed to air that has a high partial pressure of oxygen gas. Would the solubility of oxygen in our blood in the lungs be high or low?    High solubility of oxygen   "
 },
 {
-  "id": "sec-gas8-4-4",
+  "id": "sec-gas8-6-4",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-4-4",
+  "url": "sec-gas8.html#sec-gas8-6-4",
   "type": "Exercise",
   "number": "9.8.5",
   "title": "",
   "body": "  When blood travels through our peripheral tissues, the amount of oxygen gas decreases because it gets taken up by our tissues. This __________(decreases\/increases) the partial pressure of oxygen that the blood is exposed to and thus ___________(increases\/decreases) the solubility of oxygen in the blood. Explain how this makes it easier for muscles to obtain oxygen from the bloodstream.    Decreases, decreases. Since the blood has a lower solubility of oxygen due to Henry’s Law, this causes even more oxygen to leave the blood for the tissues to use, ultimately removing almost all of the oxygen from the blood for use by tissues in the body.   "
 },
 {
-  "id": "sec-gas8-4-5",
+  "id": "sec-gas8-6-5",
   "level": "2",
-  "url": "sec-gas8.html#sec-gas8-4-5",
+  "url": "sec-gas8.html#sec-gas8-6-5",
   "type": "Exercise",
   "number": "9.8.6",
   "title": "",
