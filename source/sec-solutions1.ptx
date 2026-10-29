@@ -4,8 +4,11 @@
 <section xml:id="sec-solutions1" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Solubility and temperature effects</title>
 
+<p>
+    In this chapter we're going to be learning about <term><xref ref="def-solutions" text="custom">solutions</xref></term>.  A solution is prepared by taking one substance and dissolving it in another substance.  The lesser substance, the one that gets dissolved into the other, is called the <term><xref ref="def-solute" text="custom">solute</xref></term>.  The more prevalent substance, which dissolves the solute into itself, is called the <term><xref ref="def-solvent" text="custom">solvent</xref></term>.
+</p>
     <p>
-        Solubility is the a term that describes the amount of one compound that
+        <term><xref ref="def-solubility" text="custom">Solubility</xref></term>  is the a term that describes the amount of one compound that
         can dissolve into water.
         For instance, at 20 degrees Celsius, the solubility of NaCl is
         approximately 35g/100g water.
@@ -15,30 +18,29 @@
         will dissolve, forming a solution.
         We could still dissolve more sodium chloride into that solution because
         it is not yet saturated.
-        A saturated solution is one where the maximum
-    </p>
-
-    <p>
-        possible amount of solute has dissolved into water.
+</p>
+<p>
+        A <term><xref ref="def-saturatedsolution" text="custom">saturated solution</xref></term>  is one where the maximum possible amount of solute has dissolved into water.
         In the example above where we tried to dissolve 17g of sodium chloride
-        into 100 g of water, it was easy to determine that it wasn’t saturated
+        into 100 g of water, it was easy to determine that it wasn't saturated
         because 17g NaCl/100g water is clearly less than the solubility of 35g
         NaCl/100g water since the amount of water is the same.
         However, could we dissolve 17.5 g of NaCl into 43 g of water???
         To determine this we want to convert this ratio into one that has 100 g
         of water in it, allowing us to compare it to the solubility of NaCl in
         water.
-        We do this as shown below: 17.5g NaCl x = 43 g water 100g water
+        We do this as shown below: </p>
+        <p><me>\frac{17.5\ g\ NaCl}{43\ g\ water} = /frac{x}{100\ g\ water}</me>
     </p>
 
     <p>
-        x = 40.7 g NaCl
+        <me>x = 40.7\ g\ NaCl</me>
     </p>
 
     <p>
         Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of
         water, this amount of sodium chloride would not completely dissolve and
-        we’d end up with a saturated solution with some undissolved solid sodium
+        we'd end up with a saturated solution with some undissolved solid sodium
         chloride left over.
     </p>
 
@@ -46,14 +48,15 @@
         Changing the temperature often has an impact on how much of a compound
         can dissolve in water.
         The effect differs depending on whether the compound that is being
-        dissolved is a solid or a gas.
+        dissolved is a solid or a gas.</p>
+        <p>
         For most solids, the solubility of a solid increases as the temperature
         increases.
         Thus we can dissolve more solute at higher temperatures.
         If a saturated solution is prepared at high temperatures and the
         temperature is then decreased, we can end up in a situation where we
         have more solid dissolved in water than the solubility limit allows for
-        and this is called a supersaturated solution.
+        and this is called a <term><xref ref="def-supersaturatedsolution" text="custom">supersaturated solution</xref></term>.
         These solutions are unstable and will spontaneously eject solid from the
         solution causing it to crystallize and reform the solid.
     </p>
@@ -66,7 +69,7 @@
         refrigerator but rapidly goes flat if kept warm.
     </p>
     <exercises>
-        <title>Exercise 2</title>
+        <title>Exercises</title>
 
         <exercisegroup>
             <introduction>
@@ -114,7 +117,7 @@
 
                 <answer>
                     <p>
-                        44 g sodium nitrate in 50 g water--yes
+                        44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes
                     </p>
                 </answer>
             </exercise>
@@ -128,7 +131,7 @@
 
                 <answer>
                     <p>
-                        57 g sodium nitrate in 72 g water--yes
+                        57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes
                     </p>
                 </answer>
             </exercise>
@@ -142,7 +145,7 @@
 
                 <answer>
                     <p>
-                        5 g sodium nitrate in 9 g water--yes
+                        5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes
                     </p>
                 </answer>
             </exercise>

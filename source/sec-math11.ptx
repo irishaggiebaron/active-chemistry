@@ -26,10 +26,7 @@
 		The exact amount of a drug that should be given to a certain patient
 	</p></fn>
 		of the drug to administer to them.
-		Additionally, many drugs are available as <term>solutions</term>
-		<fn>	<p>
-		A solution is a mixture of substances where one is dissolved in another. Frequently a solid is dissolved into a liquid in a solution. An example is salt water.
-	</p></fn>,
+		Additionally, many drugs are available as <term><xref ref="def-solutions" text="custom">solutions</xref></term>,
 		where a certain amount of drug is dissolved in a specific amount of liquid.
 		The amount of drug that is present in a given amount of liquid is called the
 		<term>concentration</term>

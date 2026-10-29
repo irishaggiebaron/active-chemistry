@@ -496,6 +496,16 @@
           </statement>
         </definition>
       </p>
+
+        <p>
+        <definition xml:id="def-solutions">
+          <statement>
+            <p>
+              <term>Solution:</term> a mixture of substances in which one substance is dissolved into another one.
+            </p>
+          </statement>
+        </definition>
+      </p>
     </p>
 
     <p>
@@ -1135,6 +1145,56 @@
 
     <p>
       <term>Chapter 9</term>
+    </p>
+
+    <p>
+      <definition xml:id="def-solute">
+        <statement>
+          <p>
+            <term>Solute</term> The substance that there is less of in a solution.  It's the substance that gets dissolved into the solvent.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+<p>
+      <definition xml:id="def-solvent">
+        <statement>
+          <p>
+            <term>Solvent:</term> The substance that there is more of in a solution.  The solvent dissolves the solute.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-solubility">
+        <statement>
+          <p>
+            <term>Solubility:</term> The amount of solute that can be dissolved in a certain amount of solvent.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
+      <definition xml:id="def-saturatedsolution">
+        <statement>
+          <p>
+            <term>Saturated solution:</term> A solution that contains the maximum possible amount of solute.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+<p>
+      <definition xml:id="def-supersaturatedsolution">
+        <statement>
+          <p>
+            <term>Supersaturated solution:</term> An unstable solution that temporarily contains more solute than is possible at a given temperature.  Supersaturated solutions are prone to having their excess solute crystalize and leave the solution.
+          </p>
+        </statement>
+      </definition>
     </p>
 
     <p>
