@@ -8647,7 +8647,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "9.7",
   "title": "Partial Pressures and Dalton’s Law",
-  "body": " Partial Pressures and Dalton’s Law  All of the gas laws that we’ve dealt with thus far assume that we are dealing with a pure sample of one gas. What is we’re dealing with a mixture of gases, like air? If we have a mixture of gases in a container, then we can measure the volume of the mixture and its temperature and those values will apply to each of the individual gases within the mixture as well, because each of the individual gases will occupy the entirety of the volume and have the same amount of kinetic energy as all of the other gases in the mixture. However, the gas particles of an individual gas in a mixture of gases will NOT have the same pressure as the mixture. This is because each individual gas is impacting the sides of the container with only a portion of the total pressure being exerted by the mixture itself. We have a term for the amount of pressure that an individual gas exerts within a mixture and it is called the partial pressure of that gas.  Dalton’s Law deals with the partial pressure of gases within a mixture, and it’s an intuitive law when you think about it. Daltons law says the pressure of a mixture of gases is equal to the sum of the partial pressures of the individual gases that make up the mixture. This is because each individual gas impacts the sides of the container with a certain force. The total force is simply the sum of the forces of each of the gases. Since they are all impacting the same surface area, the pressures should also be additive. Dalton’s Law is summarized by the following formula:  PT = P1 + P2 + P3 ...   Exercise 2    If the partial pressure of gas A is 34 psi and the partial pressure of gas B is 44 psi in the same container, what is the combined pressure of the gases?    78 psi      If a mixture of gases has a pressure of 4.0 atm, and it contains 3 gases. Gas A has a partial pressure of 2.7 atm, gas B has a partial pressure of 0.4 atm. What is the partial pressure of gas C?     If the chamber has a volume of 3.0 L and the temperature is 298K, then how L∙atm many moles of each gas are in the chamber? (R = 0.082057 mol∙K)    0.33 moles       Water can undergo an electrolysis reaction shown below: 2H2 O (l) → O2 (g) + 2H2 (g) If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then...     What will the partial pressure of hydrogen gas be in the chamber at the end of the reaction in MPa?    2.3 MPa      What will the partial pressure of oxygen gas be in the chamber at the end of the reaction in MPa?    1.1 MPa      What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer in Exercise 3 Question 2.    3.4 MPa      "
+  "body": " Partial Pressures and Dalton’s Law  All of the gas laws that we've dealt with thus far assume that we are dealing with a pure sample of one gas. What is we're dealing with a mixture of gases, like air? If we have a mixture of gases in a container, then we can measure the volume of the mixture and its temperature and those values will apply to each of the individual gases within the mixture as well, because each of the individual gases will occupy the entirety of the volume and have the same amount of kinetic energy as all of the other gases in the mixture. However, the gas particles of an individual gas in a mixture of gases will NOT have the same pressure as the mixture. This is because each individual gas is impacting the sides of the container with only a portion of the total pressure being exerted by the mixture itself. We have a term for the amount of pressure that an individual gas exerts within a mixture and it is called the partial pressure of that gas.  Dalton's Law deals with the partial pressure of gases within a mixture, and it's an intuitive law when you think about it. Dalton's law says the pressure of a mixture of gases is equal to the sum of the partial pressures of the individual gases that make up the mixture. This is because each individual gas impacts the sides of the container with a certain force. The total force is simply the sum of the forces of each of the gases. Since they are all impacting the same surface area, the pressures should also be additive. Dalton's Law is summarized by the following formula:      Exercises    If the partial pressure of gas A is 34 psi and the partial pressure of gas B is 44 psi in the same container, what is the combined pressure of the gases?    78 psi      If a mixture of gases has a pressure of 4.0 atm, and it contains 3 gases. Gas A has a partial pressure of 2.7 atm, gas B has a partial pressure of 0.4 atm.     What is the partial pressure of gas C?    0.9 atm      If the chamber has a volume of 3.0 L and the temperature is 298K, then how many moles of each gas are in the chamber?    0.33 moles of gas A, 0.05 moles of gas B, and 0.1 moles of gas C       Water can undergo an electrolysis reaction shown below:   If 33 g of water undergoes this reaction in a sealed chamber with a volume of 2.0 L at a temperature of 301K, then...     What will the partial pressure of hydrogen gas be in the chamber at the end of the reaction in MPa?    2.3 MPa      What will the partial pressure of oxygen gas be in the chamber at the end of the reaction in MPa?    1.1 MPa      What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer to Question 2 in the Exercises in Section 9.6.    3.4 MPa; the answer is the same      "
 },
 {
   "id": "sec-gas7-5-2",
@@ -8665,14 +8665,23 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "9.7.2",
   "title": "",
-  "body": "  If the chamber has a volume of 3.0 L and the temperature is 298K, then how L∙atm many moles of each gas are in the chamber? (R = 0.082057 mol∙K)    0.33 moles   "
+  "body": "  What is the partial pressure of gas C?    0.9 atm   "
+},
+{
+  "id": "sec-gas7-5-3-3",
+  "level": "2",
+  "url": "sec-gas7.html#sec-gas7-5-3-3",
+  "type": "Exercise",
+  "number": "9.7.3",
+  "title": "",
+  "body": "  If the chamber has a volume of 3.0 L and the temperature is 298K, then how many moles of each gas are in the chamber?    0.33 moles of gas A, 0.05 moles of gas B, and 0.1 moles of gas C   "
 },
 {
   "id": "sec-gas7-5-4-2",
   "level": "2",
   "url": "sec-gas7.html#sec-gas7-5-4-2",
   "type": "Exercise",
-  "number": "9.7.3",
+  "number": "9.7.4",
   "title": "",
   "body": "  What will the partial pressure of hydrogen gas be in the chamber at the end of the reaction in MPa?    2.3 MPa   "
 },
@@ -8681,7 +8690,7 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-gas7.html#sec-gas7-5-4-3",
   "type": "Exercise",
-  "number": "9.7.4",
+  "number": "9.7.5",
   "title": "",
   "body": "  What will the partial pressure of oxygen gas be in the chamber at the end of the reaction in MPa?    1.1 MPa   "
 },
@@ -8690,9 +8699,9 @@ var ptx_lunr_docs = [
   "level": "2",
   "url": "sec-gas7.html#sec-gas7-5-4-4",
   "type": "Exercise",
-  "number": "9.7.5",
+  "number": "9.7.6",
   "title": "",
-  "body": "  What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer in Exercise 3 Question 2.    3.4 MPa   "
+  "body": "  What is the combined pressure of the gases in the chamber at the end of the reaction in MPa? Use your answers in a and b to answer this. Compare this answer to your answer to Question 2 in the Exercises in Section 9.6.    3.4 MPa; the answer is the same   "
 },
 {
   "id": "sec-gas8",
