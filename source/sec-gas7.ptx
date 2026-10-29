@@ -4,9 +4,9 @@
 	<title>Partial Pressures and Dalton’s Law</title>
 
 	<p>
-		All of the gas laws that we’ve dealt with thus far assume that we are dealing
+		All of the gas laws that we've dealt with thus far assume that we are dealing
 		with a pure sample of one gas.
-		What is we’re dealing with a mixture of gases, like air?
+		What is we're dealing with a mixture of gases, like air?
 		If we have a mixture of gases in a container, then we can measure the volume
 		of the mixture and its temperature and those values will apply to each of the
 		individual gases within the mixture as well, because each of the individual
@@ -21,23 +21,23 @@
 	</p>
 
 	<p>
-		Dalton’s Law deals with the partial pressure of gases within a mixture, and
-		it’s an intuitive law when you think about it.
-		Daltons law says the pressure of a mixture of gases is equal to the sum of the
+		Dalton's Law deals with the partial pressure of gases within a mixture, and
+		it's an intuitive law when you think about it.
+		Dalton's law says the pressure of a mixture of gases is equal to the sum of the
 		partial pressures of the individual gases that make up the mixture.
 		This is because each individual gas impacts the sides of the container with a
 		certain force.
 		The total force is simply the sum of the forces of each of the gases.
 		Since they are all impacting the same surface area, the pressures should also
 		be additive.
-		Dalton’s Law is summarized by the following formula:
+		Dalton's Law is summarized by the following formula:
 	</p>
 
 	<p>
-		PT = P1 + P2 + P3 ...
+		<me>P_{Total} = P_1 + P_2 + P_3 ...</me>
 	</p>
 	<exercises>
-		<title>Exercise 2</title>
+		<title>Exercises</title>
 
 		<exercise>
 			<statement>
@@ -57,25 +57,34 @@
 		<exercisegroup>
 			<introduction>
 				<p>
-					If a mixture of gases has a pressure of 4.0 atm, and it contains 3 gases.
-					Gas A has a partial pressure of 2.7 atm, gas B has a partial pressure of
+					If a mixture of gases has a pressure of 4.0 atm, and it contains 3 gases.  Gas A has a partial pressure of 2.7 atm, gas B has a partial pressure of
 					0.4 atm.
-					What is the partial pressure of gas C?
 				</p>
 			</introduction>
-
+<exercise>
+	<statement>
+		<p>
+			
+					What is the partial pressure of gas C?
+		</p>
+	</statement>
+	<answer>
+		<p>
+			0.9 atm
+		</p>
+	</answer>
+</exercise>
 			<exercise>
 				<statement>
 					<p>
 						If the chamber has a volume of 3.0 L and the temperature is 298K, then how
-						L∙atm many moles of each gas are in the chamber?
-						(R = 0.082057 mol∙K)
+						many moles of each gas are in the chamber?
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						0.33 moles
+						0.33 moles of gas A, 0.05 moles of gas B, and 0.1 moles of gas C
 					</p>
 				</answer>
 			</exercise>
@@ -83,8 +92,10 @@
 		<exercisegroup>
 			<introduction>
 				<p>
-					Water can undergo an electrolysis reaction shown below: 2H2 O (l) → O2 (g)
-					+ 2H2 (g) If 33 g of water undergoes this reaction in a sealed chamber with
+					Water can undergo an electrolysis reaction shown below:</p>
+					<p><me>2_H2O\ (l)\ \rightarrow\ O_2\ (g)\
+					+\ 2H_2\ (g)</me></p>
+					<p> If 33 g of water undergoes this reaction in a sealed chamber with
 					a volume of 2.0 L at a temperature of 301K, then...
 				</p>
 			</introduction>
@@ -125,13 +136,13 @@
 						What is the combined pressure of the gases in the chamber at the end of
 						the reaction in MPa?
 						Use your answers in a and b to answer this.
-						Compare this answer to your answer in Exercise 3 Question 2.
+						Compare this answer to your answer to Question 2 in the Exercises in Section 9.6.
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						3.4 MPa
+						3.4 MPa; the answer is the same
 					</p>
 				</answer>
 			</exercise>

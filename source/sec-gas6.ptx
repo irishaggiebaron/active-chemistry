@@ -11,94 +11,192 @@
 		of moles.
 		This is displayed in the figure below.
 	</p>
+
 	<figure>
 		<caption>Flow Chart for Stoichiometry Problems Involving Gases</caption>
-		<image source="chapter8-lesson-3-source-figure-01.svg">
-			<shortdescription>A flow chart that shows multiple ways to solve stoichiometry problems by interconverting between moles and gas parameters or by converting from moles to grams</shortdescription>
+		<image source="chapter-8-lesson-3-source-figure-01.svg">
+			<shortdescription>
+				A flow chart that shows multiple ways to solve stoichiometry problems by
+				interconverting between moles and gas parameters or by converting from moles
+				to grams
+			</shortdescription>
 		</image>
 	</figure>
+
 	<p>
-		We can see various ways that this figure can be utilized in problem solving as shown in the sample problems below:
+		We can see various ways that this figure can be utilized in problem solving as
+		shown in the sample problems below:
 	</p>
-<assemblage>
-	<title>Sample calculations</title>
+
+	<assemblage>
+		<title>Sample calculations</title>
+
 		<p>
-		A vessel with a volume of 1200 L contains 17 kg of nitrogen gas and exactly
-		the amount of hydrogen gas needed to react with it at a temperature of <m>773 K</m>.
-		The nitrogen and hydrogen gas react according to the equation shown below:
-	</p>
+			A vessel with a volume of 1200 L contains 17 kg of nitrogen gas and exactly
+			the amount of hydrogen gas needed to react with it at a temperature of
+			<m>773 K</m>.
+			The nitrogen and hydrogen gas react according to the equation shown below:
+		</p>
 
-	<me>
-		N_2 (g) + 3H_2 (g) \rightarrow 2NH_3 (g)
-	</me>
-
-	<p>
-		<ol>
-			<li>
-				<p>
-					How much hydrogen (in moles) is needed to react with the nitrogen gas?
-				</p>
-			</li>
-			<li>
-				<p>
-					What is the starting pressure of the gases in the tank in units of psi?
-				</p>
-			</li>
-			<li>
-				<p>
-					What is the pressure in the tank at the conclusion of the reaction in units of
-		psi?
-				</p>
-			</li>
-		</ol>
-	</p>	
 		<p>
-		Solutions:
-	</p>
+			<me>
+				N_2\ (g)\ +\ 3H_2\ (g)\ \rightarrow\ 2NH_3\ (g)\
+			</me>
+		</p>
 
-	<p>
-		<em>To start all of the solutions:</em> We are given the initial mass of the nitrogen gas in kg.  The first step to solving any reaction stoichiometry problem is to first figure out the number of moles of the substance that you have information about.  So in this case, we have to convert from kg of nitrogen gas to moles of nitrogen gas using the molar
-		mass</p>
-		<me>17kg\ N_2\cdot\frac{1000g}{1kg}\cdot\frac{mole}{28.02g}=606.7 moles\ N_2</me>
-<p>We will use this number as the starting point for each of the other calculations</p>
-	<p><em>Solution to Problem 1:</em> We need to convert from moles of nitrogen gas to moles of hydrogen gas.  To convert from moles of one substance to moles of another in a chemical reaction, we need a mole-mole conversion factor:</p>
-		<me>\frac{3\ moles\ H_2}{1\ mole\ N_2}</me>
-		<p>We can then multiply our number of moles of nitrogen gas by this conversion factor as shown:</p>
-			<me>606.7\ moles\ N_2\cdot\frac{3\ moles\ H_2}{1\ mole\ N_2}=1800\ moles\ H_2</me>
-			<p><em>Solution to Problem 2:</em> We are going to use the Ideal Gas Law and plug in the total number of moles of
-		nitrogen gas and hydrogen gas.  We should add the number of moles together and then rearrange the Ideal Gas Law to solve for pressure</p>
-		<p>Total number of moles of gas:</p>
-		<me>606.7\ moles\ N_2\ + 1820\ moles\ H_2=2427\ moles\ gas</me>
-		<p>Rearranging the Ideal Gas Law:</p>
-			<me>PV=nRT\ \rightarrow\ \frac{PV}{V}=\frac{nRT}{V}/ /rightarrow\ P=\frac{nRT}{V}</me>
-			<p>We can now plug in the values from the problem to solve for P:</p>
-				<me>P=\frac{2427\ moles\cdot\ 1.21\frac{L\cdot psi}{mol\cdot K}\cdot\ 773K}{1200\ L}= 1886 psi\rightarrow\ 1900\ psi</me>
-				<p><em>Solution to Problem 3:</em>
-		We can borrow information from part a.
-		If we have moles of nitrogen gas, we can use a mole-mole conversion factor to
-		get the number of moles of NH 3.
-		We can then use the Ideal Gas Law to calculate the pressure.
-		2NH3 606.7 moles N2 ( ) = 1213.4 moles NH3 1N2 nRT PV = nRT → P = → V L ∙ atm
-		(1213.4 moles ∙ 0.082057 ∙ (500 + 273.15)K) P= moles ∙K = 64.15 atm 1200L
-		14.7psi 64.15atm ( ) = 943.0psi → round to 940psi 1atm
-	</p>
-	
-</assemblage>
-	<p>
-		
-	</p>
+		<p>
+			<ol>
+				<li>
+					<p>
+						How much hydrogen (in moles) is needed to react with the nitrogen gas?
+					</p>
+				</li>
 
+				<li>
+					<p>
+						What is the starting pressure of the gases in the tank in units of psi?
+					</p>
+				</li>
 
+				<li>
+					<p>
+						What is the pressure in the tank at the conclusion of the reaction in
+						units of psi?
+					</p>
+				</li>
+			</ol>
+		</p>
+
+		<p>
+			<term>Solutions:</term>
+		</p>
+
+		<p>
+			<em>To start all of the solutions:</em> We are given the initial mass of the
+			nitrogen gas in kg.
+			The first step to solving any reaction stoichiometry problem is to first
+			figure out the number of moles of the substance that you have information
+			about.
+			So in this case, we have to convert from kg of nitrogen gas to moles of
+			nitrogen gas using the molar mass
+		</p>
+
+		<p>
+			<me>
+				17kg\ N_2\cdot\frac{1000g}{1kg}\cdot\frac{mole}{28.02g}=606.7 moles\ N_2
+			</me>
+		</p>
+
+		<p>
+			We will use this number as the starting point for each of the other
+			calculations
+		</p>
+
+		<p>
+			<em>Solution to Problem 1:</em> We need to convert from moles of nitrogen gas
+			to moles of hydrogen gas.
+			To convert from moles of one substance to moles of another in a chemical
+			reaction, we need a mole-mole conversion factor:
+		</p>
+
+		<p>
+			<me>
+				\frac{3\ moles\ H_2}{1\ mole\ N_2}
+			</me>
+		</p>
+
+		<p>
+			We can then multiply our number of moles of nitrogen gas by this conversion
+			factor as shown:
+		</p>
+
+		<p>
+			<me>
+				606.7\ moles\ N_2\cdot\frac{3\ moles\ H_2}{1\ mole\ N_2}=1800\ moles\ H_2
+			</me>
+		</p>
+
+		<p>
+			<em>Solution to Problem 2:</em> We are going to use the Ideal Gas Law and
+			plug in the total number of moles of nitrogen gas and hydrogen gas.
+			We should add the number of moles together and then rearrange the Ideal Gas
+			Law to solve for pressure
+		</p>
+
+		<p>
+			Total number of moles of gas:
+		</p>
+
+		<p>
+			<me>
+				606.7\ moles\ N_2\ + 1820\ moles\ H_2=2427\ moles\ gas
+			</me>
+		</p>
+
+		<p>
+			Rearranging the Ideal Gas Law:
+		</p>
+
+		<p>
+			<me>
+				PV=nRT\ \rightarrow\ \frac{PV}{V}=\frac{nRT}{V}/ /rightarrow\ P=\frac{nRT}{V}
+			</me>
+		</p>
+
+		<p>
+			We can now plug in the values from the problem to solve for P:
+		</p>
+
+		<p>
+			<me>
+				P=\frac{2427\ moles\cdot\ 1.21\frac{L\cdot psi}{mol\cdot K}\cdot\ 773K}{1200\ L}= 1886 psi\rightarrow\ 1900\ psi
+			</me>
+		</p>
+
+		<p>
+			<em>Solution to Problem 3:</em>
+		</p>
+
+		<p>
+			We can start with the moles of nitrogen gas that we've already calculated.
+			If we have moles of nitrogen gas, we can use a mole-mole conversion factor to
+			get the number of moles of <m>NH_3</m>.
+			_ We can then use the Ideal Gas Law to calculate the pressure.
+		</p>
+
+		<p>
+			<me>
+				606.7\ moles\ N_2\cdot\frac{2\ moles\ NH_3}{1\ mole\ N_2} = 1213.4\ moles\ NH_3
+			</me>
+		</p>
+
+		<p>
+			<me>
+				PV=nRT\rightarrow P=\frac{nRT}{V}\rightarrow P=\frac{1213.4\ moles\cdot\ 1.21\frac{L\cdot psi}{moles\cdot K}\cdot\ 773K}{1200\ L}=943\ psi\rightarrow\ 940 psi
+			</me>
+		</p>
+	</assemblage>
+
+	<p/>
 	<exercises>
-		<title>Exercise 1</title>
+		<title>Exercises</title>
 
 		<exercise>
 			<statement>
 				<p>
-					When our bodies ‘burn’ glucose (C6 H12 O6 ), they do so according to the
-					following reaction: C6 H12 O6 (g) + 6O2 (g) → 6CO2 (g) + 6H2 O (l) If a
-					person consumes a soda with 42 g of glucose, what volume of carbon dioxide
-					will they emit at STP once they’ve burned all that glucose?
+					When our bodies 'burn' glucose ( <m>C_6H_{12}O_6</m> ), they do so
+					according to the following reaction:
+				</p>
+
+				<p>
+					<me>
+						C_6H_{12}O_6\ (g)\ +\ 6O_2\ (g)\ \rightarrow\ 6CO_2\ (g)\ +\ 6H_2O/ (l)
+					</me>
+				</p>
+
+				<p>
+					If a person consumes a soda with 42 g of glucose, what volume of carbon
+					dioxide will they emit at STP once they've burned all that glucose?
 				</p>
 			</statement>
 
@@ -112,10 +210,20 @@
 		<exercise>
 			<statement>
 				<p>
-					Water can undergo an electrolysis reaction shown below: 2H2 O (l) → O2 (g)
-					+ 2H2 (g) If 33 g of water undergoes this reaction in a sealed chamber with
-					a volume of 2.0 L at a temperature of 301K, then what will the pressure be
-					in the chamber at the end of the reaction in MPa?
+					Water can undergo an electrolysis reaction shown below:
+				</p>
+
+				<p>
+					<me>
+						2H_2O\ (l)\ \rightarrow\ O_2\ (g)\
+					 		+\ 2H_2\ (g)
+					</me>
+				</p>
+
+				<p>
+					If 33 g of water undergoes this reaction in a sealed chamber with a volume
+					of 2.0 L at a temperature of 301K, then what will the pressure be in the
+					chamber at the end of the reaction in MPa?
 				</p>
 			</statement>
 
