@@ -8854,7 +8854,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.1",
   "title": "Solubility and temperature effects",
-  "body": " Solubility and temperature effects  In this chapter we're going to be learning about solutions . A solution is prepared by taking one substance and dissolving it in another substance. The lesser substance, the one that gets dissolved into the other, is called the solute . The more prevalent substance, which dissolves the solute into itself, is called the solvent .   Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated.  A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn't saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:       Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we'd end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas.  For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercises    If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?     75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes      57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes      5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes       The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.     How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g      "
+  "body": " Solubility and temperature effects  In this chapter we're going to be learning about solutions . A solution is prepared by taking one substance and dissolving it in another substance. The lesser substance, the one that gets dissolved into the other, is called the solute . The more prevalent substance, which dissolves the solute into itself, is called the solvent .   Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution     Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated.  A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn't saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:       Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we'd end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas.  For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercises    If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?     75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes      57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes      5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes       The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.     How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g      "
 },
 {
   "id": "sec-solutions1-2",
@@ -8869,10 +8869,10 @@ var ptx_lunr_docs = [
   "id": "sec-solutions1-3",
   "level": "2",
   "url": "sec-solutions1.html#sec-solutions1-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "type": "Figure",
+  "number": "10.1.1",
   "title": "",
-  "body": "Solubility "
+  "body": " Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution   "
 },
 {
   "id": "sec-solutions1-4",
@@ -8881,84 +8881,93 @@ var ptx_lunr_docs = [
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
+  "body": "Solubility "
+},
+{
+  "id": "sec-solutions1-5",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-5",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
   "body": "saturated solution "
 },
 {
-  "id": "sec-solutions1-9",
+  "id": "sec-solutions1-10",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-9",
+  "url": "sec-solutions1.html#sec-solutions1-10",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
   "body": "supersaturated solution "
 },
 {
-  "id": "sec-solutions1-11-2-2",
+  "id": "sec-solutions1-12-2-2",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-2-2",
+  "url": "sec-solutions1.html#sec-solutions1-12-2-2",
   "type": "Exercise",
   "number": "10.1.1",
   "title": "",
   "body": "  75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions1-11-2-3",
+  "id": "sec-solutions1-12-2-3",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-2-3",
+  "url": "sec-solutions1.html#sec-solutions1-12-2-3",
   "type": "Exercise",
   "number": "10.1.2",
   "title": "",
   "body": "  95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no   "
 },
 {
-  "id": "sec-solutions1-11-2-4",
+  "id": "sec-solutions1-12-2-4",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-2-4",
+  "url": "sec-solutions1.html#sec-solutions1-12-2-4",
   "type": "Exercise",
   "number": "10.1.3",
   "title": "",
   "body": "  44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions1-11-2-5",
+  "id": "sec-solutions1-12-2-5",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-2-5",
+  "url": "sec-solutions1.html#sec-solutions1-12-2-5",
   "type": "Exercise",
   "number": "10.1.4",
   "title": "",
   "body": "  57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes   "
 },
 {
-  "id": "sec-solutions1-11-2-6",
+  "id": "sec-solutions1-12-2-6",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-2-6",
+  "url": "sec-solutions1.html#sec-solutions1-12-2-6",
   "type": "Exercise",
   "number": "10.1.5",
   "title": "",
   "body": "  5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions1-11-3-2",
+  "id": "sec-solutions1-12-3-2",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-3-2",
+  "url": "sec-solutions1.html#sec-solutions1-12-3-2",
   "type": "Exercise",
   "number": "10.1.6",
   "title": "",
   "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g   "
 },
 {
-  "id": "sec-solutions1-11-3-3",
+  "id": "sec-solutions1-12-3-3",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-3-3",
+  "url": "sec-solutions1.html#sec-solutions1-12-3-3",
   "type": "Exercise",
   "number": "10.1.7",
   "title": "",
   "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g   "
 },
 {
-  "id": "sec-solutions1-11-3-4",
+  "id": "sec-solutions1-12-3-4",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-11-3-4",
+  "url": "sec-solutions1.html#sec-solutions1-12-3-4",
   "type": "Exercise",
   "number": "10.1.8",
   "title": "",
@@ -8971,138 +8980,147 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.2",
   "title": "Solutions with covalent vs. ionic compounds",
-  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we’ve made a solution. The substance that there is less of is called the solute and the substance that there is more of is called the solvent. When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we’re going to be considering cases where water is the solvent.  Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their previous state.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we’ve learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (dipole- dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let’s draw some parallels to reaction energy diagrams that we’ve learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving ‘reaction’ (we usually don’t actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   Exercise 1    Will the following compounds break apart into ions or remain intact when dissolved in water?     CH4    No      CH2 O    No      KBr    Yes      NH4 Cl    Yes      CuSO4    Yes      CH3 NH2    No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?     CH4    London dispersion      H2 O    London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
+  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we've made a solution. The substance that there is less of is called the solute and the substance that there is more of is called the solvent. When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we're going to be considering cases where water is the solvent.  Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their separate states.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we've learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (ionic bonds, dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let's draw some parallels to reaction energy diagrams that we've learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving 'reaction' (we usually don't actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds     Exercises    Will the following compounds break apart into ions or remain intact when dissolved in water?     CH4    No      CH2 O    No      KBr    Yes      NH4 Cl    Yes      CuSO4    Yes      CH3 NH2    No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?     CH4    London dispersion      H2 O    London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
 },
 {
-  "id": "sec-solutions2-6-2-2",
+  "id": "sec-solutions2-6",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-2-2",
+  "url": "sec-solutions2.html#sec-solutions2-6",
+  "type": "Figure",
+  "number": "10.2.1",
+  "title": "",
+  "body": " A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds   "
+},
+{
+  "id": "sec-solutions2-7-2-2",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-7-2-2",
   "type": "Exercise",
   "number": "10.2.1",
   "title": "",
   "body": "  CH4    No   "
 },
 {
-  "id": "sec-solutions2-6-2-3",
+  "id": "sec-solutions2-7-2-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-2-3",
+  "url": "sec-solutions2.html#sec-solutions2-7-2-3",
   "type": "Exercise",
   "number": "10.2.2",
   "title": "",
   "body": "  CH2 O    No   "
 },
 {
-  "id": "sec-solutions2-6-2-4",
+  "id": "sec-solutions2-7-2-4",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-2-4",
+  "url": "sec-solutions2.html#sec-solutions2-7-2-4",
   "type": "Exercise",
   "number": "10.2.3",
   "title": "",
   "body": "  KBr    Yes   "
 },
 {
-  "id": "sec-solutions2-6-2-5",
+  "id": "sec-solutions2-7-2-5",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-2-5",
+  "url": "sec-solutions2.html#sec-solutions2-7-2-5",
   "type": "Exercise",
   "number": "10.2.4",
   "title": "",
   "body": "  NH4 Cl    Yes   "
 },
 {
-  "id": "sec-solutions2-6-2-6",
+  "id": "sec-solutions2-7-2-6",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-2-6",
+  "url": "sec-solutions2.html#sec-solutions2-7-2-6",
   "type": "Exercise",
   "number": "10.2.5",
   "title": "",
   "body": "  CuSO4    Yes   "
 },
 {
-  "id": "sec-solutions2-6-2-7",
+  "id": "sec-solutions2-7-2-7",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-2-7",
+  "url": "sec-solutions2.html#sec-solutions2-7-2-7",
   "type": "Exercise",
   "number": "10.2.6",
   "title": "",
   "body": "  CH3 NH2    No   "
 },
 {
-  "id": "sec-solutions2-6-3-2",
+  "id": "sec-solutions2-7-3-2",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-3-2",
+  "url": "sec-solutions2.html#sec-solutions2-7-3-2",
   "type": "Exercise",
   "number": "10.2.7",
   "title": "",
   "body": "  A compound that will dissolve    A compound that will dissolve   "
 },
 {
-  "id": "sec-solutions2-6-3-3",
+  "id": "sec-solutions2-7-3-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-3-3",
+  "url": "sec-solutions2.html#sec-solutions2-7-3-3",
   "type": "Exercise",
   "number": "10.2.8",
   "title": "",
   "body": "  A compound that won’t dissolve    A compound that won’t dissolve   "
 },
 {
-  "id": "sec-solutions2-6-4-2",
+  "id": "sec-solutions2-7-4-2",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-4-2",
+  "url": "sec-solutions2.html#sec-solutions2-7-4-2",
   "type": "Exercise",
   "number": "10.2.9",
   "title": "",
   "body": "  CH4    London dispersion   "
 },
 {
-  "id": "sec-solutions2-6-4-3",
+  "id": "sec-solutions2-7-4-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-4-3",
+  "url": "sec-solutions2.html#sec-solutions2-7-4-3",
   "type": "Exercise",
   "number": "10.2.10",
   "title": "",
   "body": "  H2 O    London dispersion, dipole-dipole, hydrogen bonds   "
 },
 {
-  "id": "sec-solutions2-6-5-2",
+  "id": "sec-solutions2-7-5-2",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-5-2",
+  "url": "sec-solutions2.html#sec-solutions2-7-5-2",
   "type": "Exercise",
   "number": "10.2.11",
   "title": "",
   "body": "  What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces   "
 },
 {
-  "id": "sec-solutions2-6-5-3",
+  "id": "sec-solutions2-7-5-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-5-3",
+  "url": "sec-solutions2.html#sec-solutions2-7-5-3",
   "type": "Exercise",
   "number": "10.2.12",
   "title": "",
   "body": "  What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds   "
 },
 {
-  "id": "sec-solutions2-6-5-4",
+  "id": "sec-solutions2-7-5-4",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-5-4",
+  "url": "sec-solutions2.html#sec-solutions2-7-5-4",
   "type": "Exercise",
   "number": "10.2.13",
   "title": "",
   "body": "  Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).   "
 },
 {
-  "id": "sec-solutions2-6-5-5",
+  "id": "sec-solutions2-7-5-5",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-5-5",
+  "url": "sec-solutions2.html#sec-solutions2-7-5-5",
   "type": "Exercise",
   "number": "10.2.14",
   "title": "",
   "body": "  Based on this diagram, would this compound dissolve or not?    Will not dissolve   "
 },
 {
-  "id": "sec-solutions2-6-5-6",
+  "id": "sec-solutions2-7-5-6",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6-5-6",
+  "url": "sec-solutions2.html#sec-solutions2-7-5-6",
   "type": "Exercise",
   "number": "10.2.15",
   "title": "",
@@ -9115,84 +9133,93 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Measuring concentration with percent composition",
-  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below: g of solute 1. mass − mass percent = g of solution × 100 with units of % m\/m g of solute 2. mass − volume percent = mL of solution × 100 with units of % m\/v mL of solute 3. volume − volume percent = mL of solution × 100 with units of % v\/v  When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we’re using match the units in the formula...if they don’t we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution as shown below:  How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?  1. Create a conversion factor using the percent composition. Since the values are percents, the bottom will always have a value of 100: 65 mL ethanol 65% volume − volume = 100 mL solution 2. Use dimensional analysis: 65mL ethanol 250 mL solution ( ) = 162.5mL ethanol → 160 mL ethanol 100 mL solution   Exercise 3    Calculate the mass-mass percent for the following solutions     3 g NaCl dissolved in 55 g solution    5% m\/m      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m      0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m       Calculate the mass-volume percent for the following solutions     3 g NaCl dissolved in 45 mL of solution    7% m\/v      175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v       Calculate the volume-volume percent for the following solutions     32 mL of ethanol dissolved in 100 mL of solution    32% v\/v      165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v       How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    0.34 moles     "
+  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:       When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we’re using match the units in the formula...if they don’t we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution as shown below:  How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?  1. Create a conversion factor using the percent composition. Since the values are percents, the bottom will always have a value of 100: 65 mL ethanol 65% volume − volume = 100 mL solution 2. Use dimensional analysis: 65mL ethanol 250 mL solution ( ) = 162.5mL ethanol → 160 mL ethanol 100 mL solution   Exercise 3    Calculate the mass-mass percent for the following solutions     3 g NaCl dissolved in 55 g solution    5% m\/m      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m      0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m       Calculate the mass-volume percent for the following solutions     3 g NaCl dissolved in 45 mL of solution    7% m\/v      175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v       Calculate the volume-volume percent for the following solutions     32 mL of ethanol dissolved in 100 mL of solution    32% v\/v      165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v       How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    0.34 moles     "
 },
 {
-  "id": "sec-solutions3-7-2-2",
+  "id": "sec-solutions3-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-2-2",
+  "url": "sec-solutions3.html#sec-solutions3-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "concentration "
+},
+{
+  "id": "sec-solutions3-8-2-2",
+  "level": "2",
+  "url": "sec-solutions3.html#sec-solutions3-8-2-2",
   "type": "Exercise",
   "number": "10.3.1",
   "title": "",
   "body": "  3 g NaCl dissolved in 55 g solution    5% m\/m   "
 },
 {
-  "id": "sec-solutions3-7-2-3",
+  "id": "sec-solutions3-8-2-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-2-3",
+  "url": "sec-solutions3.html#sec-solutions3-8-2-3",
   "type": "Exercise",
   "number": "10.3.2",
   "title": "",
   "body": "  3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m   "
 },
 {
-  "id": "sec-solutions3-7-2-4",
+  "id": "sec-solutions3-8-2-4",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-2-4",
+  "url": "sec-solutions3.html#sec-solutions3-8-2-4",
   "type": "Exercise",
   "number": "10.3.3",
   "title": "",
   "body": "  0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m   "
 },
 {
-  "id": "sec-solutions3-7-3-2",
+  "id": "sec-solutions3-8-3-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-3-2",
+  "url": "sec-solutions3.html#sec-solutions3-8-3-2",
   "type": "Exercise",
   "number": "10.3.4",
   "title": "",
   "body": "  3 g NaCl dissolved in 45 mL of solution    7% m\/v   "
 },
 {
-  "id": "sec-solutions3-7-3-3",
+  "id": "sec-solutions3-8-3-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-3-3",
+  "url": "sec-solutions3.html#sec-solutions3-8-3-3",
   "type": "Exercise",
   "number": "10.3.5",
   "title": "",
   "body": "  175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v   "
 },
 {
-  "id": "sec-solutions3-7-4-2",
+  "id": "sec-solutions3-8-4-2",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-4-2",
+  "url": "sec-solutions3.html#sec-solutions3-8-4-2",
   "type": "Exercise",
   "number": "10.3.6",
   "title": "",
   "body": "  32 mL of ethanol dissolved in 100 mL of solution    32% v\/v   "
 },
 {
-  "id": "sec-solutions3-7-4-3",
+  "id": "sec-solutions3-8-4-3",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-4-3",
+  "url": "sec-solutions3.html#sec-solutions3-8-4-3",
   "type": "Exercise",
   "number": "10.3.7",
   "title": "",
   "body": "  165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v   "
 },
 {
-  "id": "sec-solutions3-7-5",
+  "id": "sec-solutions3-8-5",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-5",
+  "url": "sec-solutions3.html#sec-solutions3-8-5",
   "type": "Exercise",
   "number": "10.3.8",
   "title": "",
   "body": "  How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g   "
 },
 {
-  "id": "sec-solutions3-7-6",
+  "id": "sec-solutions3-8-6",
   "level": "2",
-  "url": "sec-solutions3.html#sec-solutions3-7-6",
+  "url": "sec-solutions3.html#sec-solutions3-8-6",
   "type": "Exercise",
   "number": "10.3.9",
   "title": "",
@@ -10564,7 +10591,7 @@ var ptx_lunr_docs = [
   "type": "Appendix",
   "number": "A",
   "title": "Definitions",
-  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.         Solution: a mixture of substances in which one substance is dissolved into another one.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.         Nuclear fission: A nuclear reaction in which an unstable isotope breaks apart into multiple other isotopes. This process releases a tremendous amount of energy.         Chain reaction: The process by which a nuclear fission event produces neutrons which can in turn trigger additional nuclear fission events in adjacent atoms, which then release more neutrons, which leads to the sustaining or growth of the fission reaction         Tracer: A radioactive chemical that is used to track its position in the body         Becquerel: A unit of radiation emission that corresponds to 1 disintegration or decay per second         Curie: A unit of radiation emission that is named after Marie Curie. It is equivalent to          rad: A unit of radiation absoption. Rad stands for \"radiation absorbed dose\"         Gray: A unit of radiation absorption that is abbreviated Gy. 100 rad = 1 Gray         rem: A unit of biological radiation effect. It is an acronym that stands for \"radiation equivalent in man\".         Sievert: A unit of biological radiation effect. It is abbreviated Sv. 100 rem = 1 Sv.         Half life: The amount of time that it takes for half of the radioactive nuclei in a sample to decay.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8       Chemical reaction: The process of converting one or more pure substances into different pure substances         Addition reaction: A chemical reaction in which 2 or more pure substances combine to form one pure substance.         Decomposition reaction: A chemical reaction in which one compound breaks apart into 2 or more different pure substances.         Ionic equation: A chemical equation in which all ionic compounds that are dissolved into solution are represented as their component ions         Net ionic equation: An ionic equation in which the ions that don't react or change are removed from the equation         Single-replacement reaction: A chemical reaction in which an element and a compound react to produce a different element and a different compound.         Double-replacement reaction: A chemical reaction in which two compounds swap ions.         Law of conservation of mass: A law in chemistry that states that matter is neither created or destroyed in a chemical reaction. The numbers of each atom type should be the same on the reactants and products sides of a chemical equation.         Oxidation-reduction reactions: A chemical reaction that involves the transfer of one or more electrons betweeen atoms or molecules.         Reduction: The process of a chemical gaining electrons.         Oxidation: The process of a chemical losing electrons.         Oxidizing agents: A chemical that oxidizes another chemical. Oxidizing agents gain electrons and thus get reduced.         Reducing agents: A chemical that reduces another chemical. A reducing agent must therefore provide the electrons for the reduction and therefore the reducing agent gets oxidized.         Combustion reaction: A chemical reaction in which an organic molecule is burned in the presence of oxygen gas. Carbon dioxide and water are the products.      Chapter 9       Solute The substance that there is less of in a solution. It's the substance that gets dissolved into the solvent.         Solvent: The substance that there is more of in a solution. The solvent dissolves the solute.         Solubility: The amount of solute that can be dissolved in a certain amount of solvent.         Saturated solution: A solution that contains the maximum possible amount of solute.         Supersaturated solution: An unstable solution that temporarily contains more solute than is possible at a given temperature. Supersaturated solutions are prone to having their excess solute crystalize and leave the solution.      Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
+  "body": " Definitions   Chapter 1      Natural world: Everything that comprises our universe. The natural world are those things that we can see and touch. The natural world can be explored through science.         Supernatural: Those things that are outside of nature or the laws of physics. We can learn about supernatural things by logical reasoning, philosophy, and theology.         Potency: Potency is the potential to change in some specific way. Natural things have the potency of motion. They aren’t necessarily moving initially, but after the potential of motion is actualized by something else, the thing is now moving.         Actuality: Actuality is the ability to bring forth potency. For instance, a spark has the ability to cause a paper to start on fire. The spark possesses the property of being able to actualize the fire. The paper possesses the potency of burning.         Actus Purus: Actus Purus means pure actuality. It is something that possesses the property of actuality without any potency. Actus Purus can cause change in other things but cannot be changed itself.         Superstition: Superstitition is a sin of excess excess religion. Often superstition involves a person seeking to control the supernatural by means of magic, sorcery, the occult, etc.         Scandal: an attitude or behavior that leads another to do evil.         Holistic: emphasizing the whole and showing concern about each of the component parts of a thing.         Science: a method for systematically studying the observable world.         Scientific method: A process that allows us to develop explanations for the observations about the natural world. The core steps are observe, hypothesize, and experiment.         Laws: statements that express a repeated pattern of behavior in nature. Laws do NOT seek to explain the cause of the behavior.         Hypothesis: A statement that seeks to explain observations of nature.         Variables: The parameter or condition that is changed within an experiment.         Control groups: The groups within an experiment where the variable is unchanged. Positive controls attempt to cause the behavior to ensure that it can be observed. Negative controls often withhold the variable to allow for observation of what the behavior is in the absence of the variable.         Experimental groups: Experimental groups include the variable and often involve changing it in some way (ex. amount of the variable, exposure time to the variable, etc.).         Theory: A hypothesis that has substantial experimental support. Theories can never be proven. They can be supported to greater and greater degrees, but they can never reach absolute certainty.         Correlation: Correlation is when we observe a pattern or relationship between changing a variable and the observed response. For instance, if increasing the amount of an antibiotic leads to greater observation of bacterial cell death, we’d say that the antibiotic amount correlates with bacterial cell death.         Deify: Deify means to treat something like a God. In this case, I mean that science has begun to replace God in the minds of many people in today’s society. People look to science for solutions to all of their problems. People also look to science to find explanations about humanity’s purpose and dignity (or lack thereof) within the context of nature.         Consensus: A consensus is a general belief amongst scientists that a particular theory is true. This is arrived at by comparing the quality of experiments and their conclusions throughout the scientific community as well as the number of studies that support a particular conclusion.         Bias: A preference that prevents fair judgment.         Engineering: Engineering seeks to solve problems by creating solutions. It relies of science to explain how things work so that engineering can figure out how to use them to solve a problem.         Politics: Politics is not a major focus of this course. However, politics is related to science an engineering because politics should seek the welfare of the people in society. Politics can encourage the use of engineering to solve problems and can encourage scientific discovery, both of which can be used for political goals.         Activists: One who tries to influence public opinion. Scientists can potentially do this in ethical ways or unethical ways.         Chemistry: Chemistry studies the properties of matter. This includes how matter interacts with energy, how matter is structures, how matter behaves in a variety of conditions, etc.         Matter: Matter is difficult to define exactly. Our definition is that matter must have mass and occupy space. It is essentially the “stuff” that is in the universe.         Mass: Mass is difficult to define in physics. If something has inertia (the ability to resist changes in movement) or exerts gravitational attraction to other objects, then that object has mass. Mass can be quantified to determine the extent to which an object has inertia or can exhibit gravitational attraction.       Chapter 2      Numerator: the top of a fraction.         Denominator: the bottom of a fraction.         Dividend: the number that is being divided.         Divisor: the number of parts that the dividend is being divided into.         Coefficient: the leading part of scientific notation. It should always be a number between 1 and 10 and should be written as a decimal.         Base: follows the coefficient in scientific notation. The coefficient is multiplied by the base. The base is always 10 raised to some integer power.         Exact number: a value that is countable, a definition, or a desired quantity. Exact numbers have an infinite number of significant figures.         Measured number: a value that was measured and thus isn't known exactly. Every measured number has a non-zero amount of uncertainty.         Significant figures: the digits in a number that both convey its quantity and that are known reliably.         Analog: An analog device is one that uses markings to measure a value. An example would be a clock with hand and markings for the hours and minutes.         Digital: A digital device is one that displays a measurement using digits only.         Conversion factors: Conversion factors are ratios between two different quantities. They are expressed as a fraction and are used as factors in dimensional analysis problems.         Solution: a mixture of substances in which one substance is dissolved into another one.       Chapter 3    Chapter 4       Atom: The smallest unit of an element.         Subatomic particles: Particles that make up an atom.         Electron: A negatively charged particle found in the electron cloud of an atom. They have mass, but their mass is often rounded to 0 amu.         Atomic mass units: Atomic mass units are units of mass that are used for very small masses like the mass of an atom.         Protons: Positively charged particles found in the nucleus of an atom. They have a mass of approximately 1 amu.         Nucleus: The small dense collection of protons and neutrons that is found at the center of an atom.         Neutron: An uncharged particle found in the nucleus of an atom. They have a mass of approximately 1 amu.         Atomic number: The number of protons in an atom.         Mass number: The sum of the number of protons and neutrons in an atom.         Isotopes: Atoms of an element that have different mass numbers.         Periods: Rows in the periodic table.         Groups: Columns in the periodic table. Elements in the same group usually have similar chemical and physical properties.         Atomic mass: The weighted average of the masses of the isotopes found in nature. The weighting is based on the natural abundance of each isotope.         Weighted average: A way of averaging that takes into account how frequently a value occurs in the sampling.         Electron shells: Energy levels that can be occupied by electrons within an atom.         Orbitals: Regions of an atom where there is a high probability of finding an electron.         Valence electrons: Electrons that are in the outermost (or highest energy) electron shell of an atom.      Chapter 5       Radiation: Electromagnetic waves or particles that are emitted from an object         Radioactivity: A property of a substance that contains isotopes that decay and emit radiation.         Gamma rays: A very high energy form of electromagnetic radiation         Alpha particles: A form of radiation that consists of two protons and two neutrons; it is the same as a helium nucleus         Beta particles: An electron that is emitted from the nucleus of a radioactive atom.         Positron: A positively charged electron that is emitted from the nucleus of a radioactive atom         Antimatter: A substance that annihilates matter when it comes into contact with it         Annihilate: When matter and antimatter come into contact, are completely converted into energy.         Metastable state: A state that isn't temporarily stable, but that can decay. A metastable nucleus can produce gamma rays without the destruction of any of the particles in the nucleus.         Nuclear fission: A nuclear reaction in which an unstable isotope breaks apart into multiple other isotopes. This process releases a tremendous amount of energy.         Chain reaction: The process by which a nuclear fission event produces neutrons which can in turn trigger additional nuclear fission events in adjacent atoms, which then release more neutrons, which leads to the sustaining or growth of the fission reaction         Tracer: A radioactive chemical that is used to track its position in the body         Becquerel: A unit of radiation emission that corresponds to 1 disintegration or decay per second         Curie: A unit of radiation emission that is named after Marie Curie. It is equivalent to          rad: A unit of radiation absoption. Rad stands for \"radiation absorbed dose\"         Gray: A unit of radiation absorption that is abbreviated Gy. 100 rad = 1 Gray         rem: A unit of biological radiation effect. It is an acronym that stands for \"radiation equivalent in man\".         Sievert: A unit of biological radiation effect. It is abbreviated Sv. 100 rem = 1 Sv.         Half life: The amount of time that it takes for half of the radioactive nuclei in a sample to decay.      Chapter 6       Ion A charged chemical species. The ion may have positive charge(s), negative charge(s), or both.         Electrostatic forces The attractive force between ions that have opposite charges or the repulsive force between ions that have the same charge.         Cation: a positively charged ion         Anion: a negatively charged ion         Monoatomic ion: An ion that consists of only one atom         Polyatomic ion: An ion that consists of two or more atoms that are joined by covalent bonds         Intermolecular forces: The forces that exist between atoms, ions, or molecules.         Molecules: The basic unit of a covalent compound. Molecules consist of two or more atoms that are joined by the sharing of electrons, which is called a covalent bond.         Octet rule: A rule that states that atoms like to obtain electron configurations that are the same as a noble gas. This principle governs how many electrons atoms are likely to gain or lose when forming ions as well as how many bonds atoms will form in covalent compounds.      Chapter 7    Chapter 8       Chemical reaction: The process of converting one or more pure substances into different pure substances         Addition reaction: A chemical reaction in which 2 or more pure substances combine to form one pure substance.         Decomposition reaction: A chemical reaction in which one compound breaks apart into 2 or more different pure substances.         Ionic equation: A chemical equation in which all ionic compounds that are dissolved into solution are represented as their component ions         Net ionic equation: An ionic equation in which the ions that don't react or change are removed from the equation         Single-replacement reaction: A chemical reaction in which an element and a compound react to produce a different element and a different compound.         Double-replacement reaction: A chemical reaction in which two compounds swap ions.         Law of conservation of mass: A law in chemistry that states that matter is neither created or destroyed in a chemical reaction. The numbers of each atom type should be the same on the reactants and products sides of a chemical equation.         Oxidation-reduction reactions: A chemical reaction that involves the transfer of one or more electrons betweeen atoms or molecules.         Reduction: The process of a chemical gaining electrons.         Oxidation: The process of a chemical losing electrons.         Oxidizing agents: A chemical that oxidizes another chemical. Oxidizing agents gain electrons and thus get reduced.         Reducing agents: A chemical that reduces another chemical. A reducing agent must therefore provide the electrons for the reduction and therefore the reducing agent gets oxidized.         Combustion reaction: A chemical reaction in which an organic molecule is burned in the presence of oxygen gas. Carbon dioxide and water are the products.      Chapter 9       Solute The substance that there is less of in a solution. It's the substance that gets dissolved into the solvent.         Solvent: The substance that there is more of in a solution. The solvent dissolves the solute.         Solubility: The amount of solute that can be dissolved in a certain amount of solvent.         Saturated solution: A solution that contains the maximum possible amount of solute.         Supersaturated solution: An unstable solution that temporarily contains more solute than is possible at a given temperature. Supersaturated solutions are prone to having their excess solute crystalize and leave the solution.         Concentration: A measure of the amount of solute that is contained in a specified amount of solution.      Chapter 10      Hydronium ion: A cation that forms when acids react with water. It has the formula          Buffer: Substances that can be added to water that help the solution resist changes in pH. Buffers are mixtures of weak acids and their conjugate base.         Buffering capacity: The amount of strong acid or strong base that a buffer can neutralize.         Titration: The process of using a chemical reaction to figure out the concentration or amount of an unknown sample.      "
 },
 {
   "id": "backmatter-2-2",
@@ -11227,6 +11254,15 @@ var ptx_lunr_docs = [
   "id": "backmatter-2-75",
   "level": "2",
   "url": "backmatter-2.html#backmatter-2-75",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Concentration: "
+},
+{
+  "id": "backmatter-2-76",
+  "level": "2",
+  "url": "backmatter-2.html#backmatter-2-76",
   "type": "Paragraph (with a defined term)",
   "number": "",
   "title": "",
