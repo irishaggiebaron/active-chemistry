@@ -20,18 +20,18 @@
     </p>
 
     <p>
-        C1 V1 = C2 V2
+       <me> C_1\cdot V_1 = C_2\cdot V_2</me>
     </p>
 
     <p>
-        The C’s are concentration and the V’s are volume.
-        C1 and V1 represent the concentration of the starting solution and the
+        The C's are concentration and the V's are volume.
+        <m>C_1</m> and <m>V_1</m> represent the concentration of the starting solution and the
         volume of it that was diluted.
-        C2 and V2 represent the concentration of the final diluted solution and
+        <m>C_2</m> and <m>V_2</m> represent the concentration of the final diluted solution and
         the volume of the final diluted solution.
         The units on the volumes can be any volume units, as long as the units
-        of V1 and V2 are the same.
-        Likewise, the units on C1 and C2 can be any concentration unit, as long
+        of <m>V_1</m> and <m>V_2</m> are the same.
+        Likewise, the units on <m>C_1</m> and <m>C_2</m> can be any concentration unit, as long
         as the units are the same.
     </p>
     <exercises>
