@@ -1208,6 +1208,16 @@
     </p>
 
     <p>
+      <definition xml:id="def-molarity">
+        <statement>
+          <p>
+            <term>Molarity:</term> A measure of concentration with the symbol M.  Molarity is the number of moles of solute in 1 L of solution.
+          </p>
+        </statement>
+      </definition>
+    </p>
+
+    <p>
       <term>Chapter 10</term>
       <p>
         <definition xml:id="def-hydroniumion">
