@@ -9412,7 +9412,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.6",
   "title": "Measuring equivalents of charge in solution",
-  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have: We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:   Sample calculation   Problem: Calculate the number of equivalents in 2 moles of potassium sulfate.   Solution:      Figure out the chemical formula if not provided           Figure out the number of moles and charge for each of the ions    Potassium:    Charge: +1    Ratio:       Sulfate:    Charge: -2    Ratio:         Figure out the number of moles of each of the ions    Potassium:     Sulfate:       Figure out the number of equivalents of each of the ions    Potassium:     Sulfate:       Add the number of equivalents for each ion together.             Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution (Eq\/L). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It's important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L (mEq\/L). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:   Sample calculation   Problem: If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.   Solution:      Figure out the formula for the compound           Convert from grams to moles    Determine the molar mass of potassium phosphate                Calculate the charge and moles of each ion    Calculate the Eq of each ion and then add them together    Convert from Eq to mEq    Convert from mL to L    Divide mEq by L       K3 PO4 ( ) = 0.07067 moles K + 1 mole K3 PO4 1 mole PO43− Moles PO43− = 0.02356 moles K3 PO4 ( ) = 0.02356 moles PO43− 1 mole K3 PO4 4. Calculate the Eq of each ion and then add them together Eq of K + = 0.07067 × |1| = 0.07067 Eq Eq of PO43− = 0.02356 × |−3| = 0.07067 Eq Total Eq = 0.07067 Eq + 0.07067 Eq = 0.1413 Eq 5. Convert from Eq to mEq 1mEq 0.1413 Eq ( −3 ) = 141.3 mEq 10 Eq 6. Convert from mL to L 10−3 L 150mL ( ) = 0.15L 1 mL 7. Divide mEq by L 141.3 mEq 942 mEq 940 mEq = → 0.15L L L   Exercises    How many Eq of K+ do you have if you have 0.150 moles of KCl    0.150 Eq      How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq      Calculate the number of mEq of calcium ions in 0.050 moles of Ca(NO3 )2    100 mEq      How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34mEq      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L     "
+  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have: We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:   Sample calculation   Problem: Calculate the number of equivalents in 2 moles of potassium sulfate.   Solution:      Figure out the chemical formula if not provided           Figure out the number of moles and charge for each of the ions    Potassium:    Charge: +1    Ratio:       Sulfate:    Charge: -2    Ratio:         Figure out the number of moles of each of the ions    Potassium:     Sulfate:       Figure out the number of equivalents of each of the ions    Potassium:     Sulfate:       Add the number of equivalents for each ion together.             Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution (Eq\/L). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It's important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L (mEq\/L). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:   Sample calculation   Problem: If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.   Solution:      Figure out the formula for the compound           Convert from grams to moles    Determine the molar mass of potassium phosphate                Calculate the charge and moles of each ion    Potassium:    Charge: +1    Moles:       Phosphate:    Charge: -3             Calculate the Eq of each ion and then add them together    Potassium:           Phosphate:           Sum:       Convert from Eq to mEq           Convert from mL to L           Divide mEq by L              Exercises    How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq      How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq      Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq      How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L     "
 },
 {
   "id": "sec-solutions6-5-2",
@@ -9451,54 +9451,54 @@ var ptx_lunr_docs = [
   "body": "Solution: "
 },
 {
-  "id": "sec-solutions6-10-2",
+  "id": "sec-solutions6-8-2",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-10-2",
+  "url": "sec-solutions6.html#sec-solutions6-8-2",
   "type": "Exercise",
   "number": "10.6.1",
   "title": "",
-  "body": "  How many Eq of K+ do you have if you have 0.150 moles of KCl    0.150 Eq   "
+  "body": "  How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq   "
 },
 {
-  "id": "sec-solutions6-10-3",
+  "id": "sec-solutions6-8-3",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-10-3",
+  "url": "sec-solutions6.html#sec-solutions6-8-3",
   "type": "Exercise",
   "number": "10.6.2",
   "title": "",
   "body": "  How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq   "
 },
 {
-  "id": "sec-solutions6-10-4",
+  "id": "sec-solutions6-8-4",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-10-4",
+  "url": "sec-solutions6.html#sec-solutions6-8-4",
   "type": "Exercise",
   "number": "10.6.3",
   "title": "",
-  "body": "  Calculate the number of mEq of calcium ions in 0.050 moles of Ca(NO3 )2    100 mEq   "
+  "body": "  Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq   "
 },
 {
-  "id": "sec-solutions6-10-5",
+  "id": "sec-solutions6-8-5",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-10-5",
+  "url": "sec-solutions6.html#sec-solutions6-8-5",
   "type": "Exercise",
   "number": "10.6.4",
   "title": "",
-  "body": "  How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34mEq   "
+  "body": "  How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq   "
 },
 {
-  "id": "sec-solutions6-10-6",
+  "id": "sec-solutions6-8-6",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-10-6",
+  "url": "sec-solutions6.html#sec-solutions6-8-6",
   "type": "Exercise",
   "number": "10.6.5",
   "title": "",
   "body": "  If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L   "
 },
 {
-  "id": "sec-solutions6-10-7",
+  "id": "sec-solutions6-8-7",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-10-7",
+  "url": "sec-solutions6.html#sec-solutions6-8-7",
   "type": "Exercise",
   "number": "10.6.6",
   "title": "",
