@@ -42,13 +42,14 @@
         mass using the molar mass or to molarity using the volume.
         See the figure and example below.
     </p>
-
+<assemblage>
+    <title>Sample problem</title>
     <p>
-        Example.
-        If 23.5mL of 0.988 M NaOH is needed to neutralize (fully react with)
+        <term>Problem:</term> If 23.5mL of 0.988 M NaOH is needed to neutralize (fully react with)
         7.50 mL of HCl, then what is the molarity of that HCl solution?
     </p>
-
+</assemblage>
+    
     <p>
         HCl(aq) + NaOH(aq) → NaCl(aq) + H2 O(l)
     </p>
@@ -72,7 +73,7 @@
         0.00750 L
     </p>
     <exercises>
-        <title>Exercise 3</title>
+        <title>Exercise</stitle>
 
         <exercise>
             <statement>
