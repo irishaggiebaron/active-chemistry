@@ -246,6 +246,43 @@
                     <p>
                         Calculate the charge and moles of each ion
                     </p>
+                    <ol>
+                        <li>
+                            <p>
+                                Potassium: 
+                            </p>
+                            <ol>
+                                <li>
+                                    <p>
+                                        Charge: +1
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        Moles: <m>0.02355\ moles\ K_3PO_4\ \times\ \frac{3\ moles\ K^+}{1\ mole\ K_3PO_4}=0.07065\ moles\ K^+</m>
+                                    </p>
+                                </li>
+                            </ol>
+                        </li>
+                        <li>
+                            <p>
+                                Phosphate:
+                            </p>
+                            <ol>
+                                <li>
+                                    <p>
+                                        Charge: -3
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        Moles: 0.02355\ moles\ K_3PO_4\ \times\ \frac{1\ mole\ PO_4^{3-}}{1\ mole\ K_3_PO_4}= 0.02355\ moles\ PO_4^{3-}</m>
+                                                            
+                                    </p>
+                                </li>
+                            </ol>
+                        </li>
+                    </ol>
                 </li>
 
                 <li>
