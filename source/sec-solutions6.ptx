@@ -289,41 +289,81 @@
                     <p>
                         Calculate the Eq of each ion and then add them together
                     </p>
+                    <ol>
+                        <li>
+                            <p>
+                                Potassium:
+                            </p>
+                            <ol>
+                                <li>
+                                    <p>
+                                        <m>0.07065\ moles\ times \lvert +1\rvert=0.07065\ Eq</m>
+                                    </p>
+                                </li>
+                            </ol>
+                        </li>
+                        <li>
+                            <p>
+                                Phosphate:
+                            </p>
+                            <ol>
+                                <li>
+                                    <p>
+                                        <m>0.02355\ moles\ \times \lvert -3\vert=0.07065\ Eq</m>
+                                    </p>
+                                </li>
+                            </ol>
+                
+                        </li>
+                        <li>
+                            <p>
+                                Sum: <m>0.07065\ Eq+0.07065\ Eq=0.1413\ Eq</m>
+                            </p>
+                        </li>
+                    </ol>
                 </li>
 
                 <li>
                     <p>
                         Convert from Eq to mEq
                     </p>
+                    <ol>
+                        <li>
+                            <p>
+                                <m>0.1413\ Eq\times\ \frac{1\ mEq}{10^{-3}\ Eq}=141.3\ mEq</m>
+                            </p>
+                        </li>
+                    </ol>
                 </li>
 
                 <li>
                     <p>
                         Convert from mL to L
                     </p>
+                    <ol>
+                        <li>
+                            <p>
+                                <m>150\ mL\times\frac{10^{-3}\ L}{1\ mL}=0.15\ L</m>
+                            </p>
+                        </li>
+                    </ol>
                 </li>
 
                 <li>
                     <p>
                         Divide mEq by L
                     </p>
+                    <ol>
+                        <li>
+                            <p>
+                                <m>\frac{141.2\ mEq}{0.15\ L}= 942\ Meq/L\rightarrow 940\ mEq/L</m>
+                            </p>
+                        </li>
+                    </ol>
                 </li>
             </ol>
         </p>
     </assemblage>
-
-    <p/>
-    <p>
-        K3 PO4 ( ) = 0.07067 moles K + 1 mole K3 PO4 1 mole PO43−
-        Moles PO43− = 0.02356 moles K3 PO4 ( ) = 0.02356 moles PO43− 1 mole K3
-        PO4 4.
-        Calculate the Eq of each ion and then add them together Eq of K + =
-        0.07067 × |1| = 0.07067 Eq Eq of PO43− = 0.02356 × |−3| = 0.07067 Eq
-        Total Eq = 0.07067 Eq + 0.07067 Eq = 0.1413 Eq 5.
-        Convert from Eq to mEq 1mEq 0.1413 Eq ( −3 ) = 141.3 mEq 10 Eq 6.
-        Convert from mL to L 10−3 L 150mL ( ) = 0.15L 1 mL 7.
-        Divide mEq by L 141.3 mEq 942 mEq 940 mEq = → 0.15L L L
-    </p>
 
     <exercises>
         <title>Exercises</title>
@@ -331,7 +371,7 @@
         <exercise>
             <statement>
                 <p>
-                    How many Eq of K+ do you have if you have 0.150 moles of KCl
+                    How many Eq of potassium ions do you have if you have 0.150 moles of KCl
                 </p>
             </statement>
 
@@ -360,7 +400,7 @@
             <statement>
                 <p>
                     Calculate the number of mEq of calcium ions in 0.050 moles
-                    of Ca(NO3 )2
+                    of <m>Ca(NO_3)_2</m>
                 </p>
             </statement>
 
@@ -381,7 +421,7 @@
 
             <answer>
                 <p>
-                    34mEq
+                    34 mEq
                 </p>
             </answer>
         </exercise>
