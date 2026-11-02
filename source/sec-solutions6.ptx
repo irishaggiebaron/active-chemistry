@@ -163,6 +163,53 @@
         <term>Problem:</term> If 5.0g of potassium phosphate is dissolved into 150mL of water, what is
         the concentration of potassium phosphate in mEq/L.
     </p>
+    <p><term>Solution:</term></p>
+        <p>
+            <ol>
+                <li>
+                    <p>
+                        Figure out the formula for the compound
+                    </p>
+                    <ol>
+                        <li>
+                            <p>
+                                <m>K_3PO_4</m>
+                            </p>
+                        </li>
+                    </ol>
+                </li>
+                <li>
+                    <p>
+                        Convert from grams to moles
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Calculate the charge and moles of each ion
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Calculate the Eq of each ion and then add them together
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Convert from Eq to mEq
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Convert from mL to L
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        Divide mEq by L
+                    </p>
+                </li>
+            </ol>
+        </p>
 </assemblage>
     <p>
         
@@ -170,7 +217,7 @@
 
     <p>
         1.
-        Figure out the formula for the compound K3 PO4 2.
+         K3 PO4 2.
         Convert from grams to moles mole 5.0g K3 PO4 ( ) = 0.02356 moles K3 PO4
         212.265g 3.
         Calculate the charge and moles of each ion + 3 moles K + Moles K =
