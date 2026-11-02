@@ -13,22 +13,26 @@
     </p>
 
     <p>
-        Eq = moles × |charge|
+        <me>Eq\ =\ moles\ \times \lvert charge\rvert</me>
     </p>
 
     <p>
-        So if you have 2 moles of sulfate ions, then you have 2 × |−2| = 2 × 2 =
-        4 Eq of sulfate.
+        So if you have 2 moles of sulfate ions, then you have:
+        <me>2\ \times \lvert -2\rvert\ =\ 2\ \times\ 2\ =\
+        4\ Eq\ sulfate</me>
         We can speak about the equivalents of a single ion or about the
         equivalents from a compound.
         If we are concerned about an ionic compound, then we calculate the
         equivalents of charge for each of the ions and then add them together.
         See the example below:
     </p>
-
+<assemblage>
+    <title>Sample calculation</title>
     <p>
-        Calculate the number of equivalents in 2 moles of potassium sulfate.
+         <term>Problem:</term>Calculate the number of equivalents in 2 moles of potassium sulfate.
     </p>
+</assemblage>
+   
 
     <p>
         1.
