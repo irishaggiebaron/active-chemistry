@@ -6,7 +6,7 @@
 
     <p>
         It is common for solutions to become diluted in science and medicine.
-        Dilution is what happens when more solvent is added to an existing
+        <term><xref ref="def-dilution" text="custom">Dilution</xref></term> is what happens when more solvent is added to an existing
         solution.
         The solute amount remains the same, but the amount of solvent increases,
         and thus the concentration of the solute in the new solution is lower
