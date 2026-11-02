@@ -139,7 +139,7 @@
 
 		<p>
 			<me>
-				PV=nRT\ \rightarrow\ \frac{PV}{V}=\frac{nRT}{V}/ /rightarrow\ P=\frac{nRT}{V}
+				PV=nRT\ \rightarrow\ \frac{PV}{V}=\frac{nRT}{V}\ \rightarrow\ P=\frac{nRT}{V}
 			</me>
 		</p>
 
@@ -172,7 +172,7 @@
 
 		<p>
 			<me>
-				PV=nRT\rightarrow P=\frac{nRT}{V}\rightarrow P=\frac{1213.4\ moles\cdot\ 1.21\frac{L\cdot psi}{moles\cdot K}\cdot\ 773K}{1200\ L}=943\ psi\rightarrow\ 940 psi
+				PV=nRT\rightarrow P=\frac{nRT}{V}\rightarrow P=\frac{1213.4\ moles\cdot\ 1.21\frac{L\cdot psi}{moles\cdot K}\cdot\ 773K}{1200\ L}</me><me>=943\ psi\rightarrow\ 940 psi
 			</me>
 		</p>
 	</assemblage>
