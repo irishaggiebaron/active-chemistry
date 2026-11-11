@@ -8853,8 +8853,8 @@ var ptx_lunr_docs = [
   "url": "sec-solutions1.html",
   "type": "Section",
   "number": "10.1",
-  "title": "Solubility and temperature effects",
-  "body": " Solubility and temperature effects  In this chapter we're going to be learning about solutions . A solution is prepared by taking one substance and dissolving it in another substance. The lesser substance, the one that gets dissolved into the other, is called the solute . The more prevalent substance, which dissolves the solute into itself, is called the solvent .   Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution     Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated.  A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn't saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:       Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we'd end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas.  For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercises    If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?     75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes      57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes      5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes       The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.     How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g      "
+  "title": "Solutions with covalent vs. ionic compounds",
+  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we've made a solutions . The substance that there is less of is called the solute and the substance that there is more of is called the solvent . When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we're going to be considering cases where water is the solvent.   Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution    Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their separate states.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we've learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (ionic bonds, dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let's draw some parallels to reaction energy diagrams that we've learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving 'reaction' (we usually don't actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds     Exercises    Will the following compounds break apart into ions or remain intact when dissolved in water?     CH4    No      CH2 O    No      KBr    Yes      NH4 Cl    Yes      CuSO4    Yes      CH3 NH2    No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?     CH4    London dispersion      H2 O    London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
 },
 {
   "id": "sec-solutions1-2",
@@ -8875,103 +8875,148 @@ var ptx_lunr_docs = [
   "body": " Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution   "
 },
 {
-  "id": "sec-solutions1-4",
+  "id": "sec-solutions1-7",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-4",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "url": "sec-solutions1.html#sec-solutions1-7",
+  "type": "Figure",
+  "number": "10.1.2",
   "title": "",
-  "body": "Solubility "
+  "body": " A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds   "
 },
 {
-  "id": "sec-solutions1-5",
+  "id": "sec-solutions1-8-2-2",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-5",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "saturated solution "
-},
-{
-  "id": "sec-solutions1-10",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-10",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "supersaturated solution "
-},
-{
-  "id": "sec-solutions1-12-2-2",
-  "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-2-2",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-2",
   "type": "Exercise",
   "number": "10.1.1",
   "title": "",
-  "body": "  75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes   "
+  "body": "  CH4    No   "
 },
 {
-  "id": "sec-solutions1-12-2-3",
+  "id": "sec-solutions1-8-2-3",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-2-3",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-3",
   "type": "Exercise",
   "number": "10.1.2",
   "title": "",
-  "body": "  95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no   "
+  "body": "  CH2 O    No   "
 },
 {
-  "id": "sec-solutions1-12-2-4",
+  "id": "sec-solutions1-8-2-4",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-2-4",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-4",
   "type": "Exercise",
   "number": "10.1.3",
   "title": "",
-  "body": "  44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes   "
+  "body": "  KBr    Yes   "
 },
 {
-  "id": "sec-solutions1-12-2-5",
+  "id": "sec-solutions1-8-2-5",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-2-5",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-5",
   "type": "Exercise",
   "number": "10.1.4",
   "title": "",
-  "body": "  57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes   "
+  "body": "  NH4 Cl    Yes   "
 },
 {
-  "id": "sec-solutions1-12-2-6",
+  "id": "sec-solutions1-8-2-6",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-2-6",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-6",
   "type": "Exercise",
   "number": "10.1.5",
   "title": "",
-  "body": "  5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes   "
+  "body": "  CuSO4    Yes   "
 },
 {
-  "id": "sec-solutions1-12-3-2",
+  "id": "sec-solutions1-8-2-7",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-3-2",
+  "url": "sec-solutions1.html#sec-solutions1-8-2-7",
   "type": "Exercise",
   "number": "10.1.6",
   "title": "",
-  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g   "
+  "body": "  CH3 NH2    No   "
 },
 {
-  "id": "sec-solutions1-12-3-3",
+  "id": "sec-solutions1-8-3-2",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-3-3",
+  "url": "sec-solutions1.html#sec-solutions1-8-3-2",
   "type": "Exercise",
   "number": "10.1.7",
   "title": "",
-  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g   "
+  "body": "  A compound that will dissolve    A compound that will dissolve   "
 },
 {
-  "id": "sec-solutions1-12-3-4",
+  "id": "sec-solutions1-8-3-3",
   "level": "2",
-  "url": "sec-solutions1.html#sec-solutions1-12-3-4",
+  "url": "sec-solutions1.html#sec-solutions1-8-3-3",
   "type": "Exercise",
   "number": "10.1.8",
   "title": "",
-  "body": "  If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g   "
+  "body": "  A compound that won’t dissolve    A compound that won’t dissolve   "
+},
+{
+  "id": "sec-solutions1-8-4-2",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-4-2",
+  "type": "Exercise",
+  "number": "10.1.9",
+  "title": "",
+  "body": "  CH4    London dispersion   "
+},
+{
+  "id": "sec-solutions1-8-4-3",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-4-3",
+  "type": "Exercise",
+  "number": "10.1.10",
+  "title": "",
+  "body": "  H2 O    London dispersion, dipole-dipole, hydrogen bonds   "
+},
+{
+  "id": "sec-solutions1-8-5-2",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-5-2",
+  "type": "Exercise",
+  "number": "10.1.11",
+  "title": "",
+  "body": "  What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces   "
+},
+{
+  "id": "sec-solutions1-8-5-3",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-5-3",
+  "type": "Exercise",
+  "number": "10.1.12",
+  "title": "",
+  "body": "  What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds   "
+},
+{
+  "id": "sec-solutions1-8-5-4",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-5-4",
+  "type": "Exercise",
+  "number": "10.1.13",
+  "title": "",
+  "body": "  Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).   "
+},
+{
+  "id": "sec-solutions1-8-5-5",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-5-5",
+  "type": "Exercise",
+  "number": "10.1.14",
+  "title": "",
+  "body": "  Based on this diagram, would this compound dissolve or not?    Will not dissolve   "
+},
+{
+  "id": "sec-solutions1-8-5-6",
+  "level": "2",
+  "url": "sec-solutions1.html#sec-solutions1-8-5-6",
+  "type": "Exercise",
+  "number": "10.1.15",
+  "title": "",
+  "body": "  Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more   "
 },
 {
   "id": "sec-solutions2",
@@ -8979,152 +9024,107 @@ var ptx_lunr_docs = [
   "url": "sec-solutions2.html",
   "type": "Section",
   "number": "10.2",
-  "title": "Solutions with covalent vs. ionic compounds",
-  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we've made a solution. The substance that there is less of is called the solute and the substance that there is more of is called the solvent. When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we're going to be considering cases where water is the solvent.  Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their separate states.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we've learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (ionic bonds, dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let's draw some parallels to reaction energy diagrams that we've learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving 'reaction' (we usually don't actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds     Exercises    Will the following compounds break apart into ions or remain intact when dissolved in water?     CH4    No      CH2 O    No      KBr    Yes      NH4 Cl    Yes      CuSO4    Yes      CH3 NH2    No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?     CH4    London dispersion      H2 O    London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
+  "title": "Solubility and temperature effects",
+  "body": " Solubility and temperature effects   Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated.  A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn't saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:       Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we'd end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas.  For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercises    If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?     75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes      57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes      5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes       The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.     How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g      "
 },
 {
-  "id": "sec-solutions2-6",
+  "id": "sec-solutions2-2",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-6",
-  "type": "Figure",
-  "number": "10.2.1",
+  "url": "sec-solutions2.html#sec-solutions2-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": " A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds   "
+  "body": "Solubility "
 },
 {
-  "id": "sec-solutions2-7-2-2",
+  "id": "sec-solutions2-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-2-2",
+  "url": "sec-solutions2.html#sec-solutions2-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "saturated solution "
+},
+{
+  "id": "sec-solutions2-8",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-8",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "supersaturated solution "
+},
+{
+  "id": "sec-solutions2-10-2-2",
+  "level": "2",
+  "url": "sec-solutions2.html#sec-solutions2-10-2-2",
   "type": "Exercise",
   "number": "10.2.1",
   "title": "",
-  "body": "  CH4    No   "
+  "body": "  75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions2-7-2-3",
+  "id": "sec-solutions2-10-2-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-2-3",
+  "url": "sec-solutions2.html#sec-solutions2-10-2-3",
   "type": "Exercise",
   "number": "10.2.2",
   "title": "",
-  "body": "  CH2 O    No   "
+  "body": "  95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no   "
 },
 {
-  "id": "sec-solutions2-7-2-4",
+  "id": "sec-solutions2-10-2-4",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-2-4",
+  "url": "sec-solutions2.html#sec-solutions2-10-2-4",
   "type": "Exercise",
   "number": "10.2.3",
   "title": "",
-  "body": "  KBr    Yes   "
+  "body": "  44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions2-7-2-5",
+  "id": "sec-solutions2-10-2-5",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-2-5",
+  "url": "sec-solutions2.html#sec-solutions2-10-2-5",
   "type": "Exercise",
   "number": "10.2.4",
   "title": "",
-  "body": "  NH4 Cl    Yes   "
+  "body": "  57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes   "
 },
 {
-  "id": "sec-solutions2-7-2-6",
+  "id": "sec-solutions2-10-2-6",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-2-6",
+  "url": "sec-solutions2.html#sec-solutions2-10-2-6",
   "type": "Exercise",
   "number": "10.2.5",
   "title": "",
-  "body": "  CuSO4    Yes   "
+  "body": "  5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes   "
 },
 {
-  "id": "sec-solutions2-7-2-7",
+  "id": "sec-solutions2-10-3-2",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-2-7",
+  "url": "sec-solutions2.html#sec-solutions2-10-3-2",
   "type": "Exercise",
   "number": "10.2.6",
   "title": "",
-  "body": "  CH3 NH2    No   "
+  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g   "
 },
 {
-  "id": "sec-solutions2-7-3-2",
+  "id": "sec-solutions2-10-3-3",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-3-2",
+  "url": "sec-solutions2.html#sec-solutions2-10-3-3",
   "type": "Exercise",
   "number": "10.2.7",
   "title": "",
-  "body": "  A compound that will dissolve    A compound that will dissolve   "
+  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g   "
 },
 {
-  "id": "sec-solutions2-7-3-3",
+  "id": "sec-solutions2-10-3-4",
   "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-3-3",
+  "url": "sec-solutions2.html#sec-solutions2-10-3-4",
   "type": "Exercise",
   "number": "10.2.8",
   "title": "",
-  "body": "  A compound that won’t dissolve    A compound that won’t dissolve   "
-},
-{
-  "id": "sec-solutions2-7-4-2",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-4-2",
-  "type": "Exercise",
-  "number": "10.2.9",
-  "title": "",
-  "body": "  CH4    London dispersion   "
-},
-{
-  "id": "sec-solutions2-7-4-3",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-4-3",
-  "type": "Exercise",
-  "number": "10.2.10",
-  "title": "",
-  "body": "  H2 O    London dispersion, dipole-dipole, hydrogen bonds   "
-},
-{
-  "id": "sec-solutions2-7-5-2",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-5-2",
-  "type": "Exercise",
-  "number": "10.2.11",
-  "title": "",
-  "body": "  What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces   "
-},
-{
-  "id": "sec-solutions2-7-5-3",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-5-3",
-  "type": "Exercise",
-  "number": "10.2.12",
-  "title": "",
-  "body": "  What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds   "
-},
-{
-  "id": "sec-solutions2-7-5-4",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-5-4",
-  "type": "Exercise",
-  "number": "10.2.13",
-  "title": "",
-  "body": "  Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).   "
-},
-{
-  "id": "sec-solutions2-7-5-5",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-5-5",
-  "type": "Exercise",
-  "number": "10.2.14",
-  "title": "",
-  "body": "  Based on this diagram, would this compound dissolve or not?    Will not dissolve   "
-},
-{
-  "id": "sec-solutions2-7-5-6",
-  "level": "2",
-  "url": "sec-solutions2.html#sec-solutions2-7-5-6",
-  "type": "Exercise",
-  "number": "10.2.15",
-  "title": "",
-  "body": "  Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more   "
+  "body": "  If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g   "
 },
 {
   "id": "sec-solutions3",
@@ -9348,62 +9348,98 @@ var ptx_lunr_docs = [
   "url": "sec-solutions5.html",
   "type": "Section",
   "number": "10.5",
-  "title": "Dilution calculations",
-  "body": " Dilution calculations  It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:     The C's are concentration and the V's are volume. and represent the concentration of the starting solution and the volume of it that was diluted. and represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of and are the same. Likewise, the units on and can be any concentration unit, as long as the units are the same.   Exercises    17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M      28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v      75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL      You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L      You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.     "
-},
-{
-  "id": "sec-solutions5-2",
-  "level": "2",
-  "url": "sec-solutions5.html#sec-solutions5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Dilution "
+  "title": "Measuring equivalents of charge in solution",
+  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have: We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:   Sample calculation   Problem: Calculate the number of equivalents in 2 moles of potassium sulfate.   Solution:      Figure out the chemical formula if not provided           Figure out the number of moles and charge for each of the ions    Potassium:    Charge: +1    Ratio:       Sulfate:    Charge: -2    Ratio:         Figure out the number of moles of each of the ions    Potassium:     Sulfate:       Figure out the number of equivalents of each of the ions    Potassium:     Sulfate:       Add the number of equivalents for each ion together.             Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution (Eq\/L). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It's important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L (mEq\/L). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:   Sample calculation   Problem: If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.   Solution:      Figure out the formula for the compound           Convert from grams to moles    Determine the molar mass of potassium phosphate                Calculate the charge and moles of each ion    Potassium:    Charge: +1    Moles:       Phosphate:    Charge: -3             Calculate the Eq of each ion and then add them together    Potassium:           Phosphate:           Sum:       Convert from Eq to mEq           Convert from mL to L           Divide mEq by L              Exercises    How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq      How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq      Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq      How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L     "
 },
 {
   "id": "sec-solutions5-5-2",
   "level": "2",
   "url": "sec-solutions5.html#sec-solutions5-5-2",
-  "type": "Exercise",
-  "number": "10.5.1",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
   "title": "",
-  "body": "  17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M   "
+  "body": "Problem: "
 },
 {
   "id": "sec-solutions5-5-3",
   "level": "2",
   "url": "sec-solutions5.html#sec-solutions5-5-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solution: "
+},
+{
+  "id": "sec-solutions5-7-2",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-7-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Problem: "
+},
+{
+  "id": "sec-solutions5-7-3",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-7-3",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Solution: "
+},
+{
+  "id": "sec-solutions5-8-2",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-8-2",
+  "type": "Exercise",
+  "number": "10.5.1",
+  "title": "",
+  "body": "  How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq   "
+},
+{
+  "id": "sec-solutions5-8-3",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-8-3",
   "type": "Exercise",
   "number": "10.5.2",
   "title": "",
-  "body": "  28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v   "
+  "body": "  How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq   "
 },
 {
-  "id": "sec-solutions5-5-4",
+  "id": "sec-solutions5-8-4",
   "level": "2",
-  "url": "sec-solutions5.html#sec-solutions5-5-4",
+  "url": "sec-solutions5.html#sec-solutions5-8-4",
   "type": "Exercise",
   "number": "10.5.3",
   "title": "",
-  "body": "  75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL   "
+  "body": "  Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq   "
 },
 {
-  "id": "sec-solutions5-5-5",
+  "id": "sec-solutions5-8-5",
   "level": "2",
-  "url": "sec-solutions5.html#sec-solutions5-5-5",
+  "url": "sec-solutions5.html#sec-solutions5-8-5",
   "type": "Exercise",
   "number": "10.5.4",
   "title": "",
-  "body": "  You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L   "
+  "body": "  How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq   "
 },
 {
-  "id": "sec-solutions5-5-6",
+  "id": "sec-solutions5-8-6",
   "level": "2",
-  "url": "sec-solutions5.html#sec-solutions5-5-6",
+  "url": "sec-solutions5.html#sec-solutions5-8-6",
   "type": "Exercise",
   "number": "10.5.5",
   "title": "",
-  "body": "  You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.   "
+  "body": "  If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L   "
+},
+{
+  "id": "sec-solutions5-8-7",
+  "level": "2",
+  "url": "sec-solutions5.html#sec-solutions5-8-7",
+  "type": "Exercise",
+  "number": "10.5.6",
+  "title": "",
+  "body": "  Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L   "
 },
 {
   "id": "sec-solutions6",
@@ -9411,98 +9447,62 @@ var ptx_lunr_docs = [
   "url": "sec-solutions6.html",
   "type": "Section",
   "number": "10.6",
-  "title": "Measuring equivalents of charge in solution",
-  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have: We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:   Sample calculation   Problem: Calculate the number of equivalents in 2 moles of potassium sulfate.   Solution:      Figure out the chemical formula if not provided           Figure out the number of moles and charge for each of the ions    Potassium:    Charge: +1    Ratio:       Sulfate:    Charge: -2    Ratio:         Figure out the number of moles of each of the ions    Potassium:     Sulfate:       Figure out the number of equivalents of each of the ions    Potassium:     Sulfate:       Add the number of equivalents for each ion together.             Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution (Eq\/L). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It's important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L (mEq\/L). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:   Sample calculation   Problem: If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.   Solution:      Figure out the formula for the compound           Convert from grams to moles    Determine the molar mass of potassium phosphate                Calculate the charge and moles of each ion    Potassium:    Charge: +1    Moles:       Phosphate:    Charge: -3             Calculate the Eq of each ion and then add them together    Potassium:           Phosphate:           Sum:       Convert from Eq to mEq           Convert from mL to L           Divide mEq by L              Exercises    How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq      How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq      Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq      How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L     "
+  "title": "Dilution calculations",
+  "body": " Dilution calculations  It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:     The C's are concentration and the V's are volume. and represent the concentration of the starting solution and the volume of it that was diluted. and represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of and are the same. Likewise, the units on and can be any concentration unit, as long as the units are the same.   Exercises    17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M      28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v      75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL      You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L      You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.     "
+},
+{
+  "id": "sec-solutions6-2",
+  "level": "2",
+  "url": "sec-solutions6.html#sec-solutions6-2",
+  "type": "Paragraph (with a defined term)",
+  "number": "",
+  "title": "",
+  "body": "Dilution "
 },
 {
   "id": "sec-solutions6-5-2",
   "level": "2",
   "url": "sec-solutions6.html#sec-solutions6-5-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
+  "type": "Exercise",
+  "number": "10.6.1",
   "title": "",
-  "body": "Problem: "
+  "body": "  17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M   "
 },
 {
   "id": "sec-solutions6-5-3",
   "level": "2",
   "url": "sec-solutions6.html#sec-solutions6-5-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Solution: "
-},
-{
-  "id": "sec-solutions6-7-2",
-  "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-7-2",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Problem: "
-},
-{
-  "id": "sec-solutions6-7-3",
-  "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-7-3",
-  "type": "Paragraph (with a defined term)",
-  "number": "",
-  "title": "",
-  "body": "Solution: "
-},
-{
-  "id": "sec-solutions6-8-2",
-  "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-8-2",
-  "type": "Exercise",
-  "number": "10.6.1",
-  "title": "",
-  "body": "  How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq   "
-},
-{
-  "id": "sec-solutions6-8-3",
-  "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-8-3",
   "type": "Exercise",
   "number": "10.6.2",
   "title": "",
-  "body": "  How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq   "
+  "body": "  28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v   "
 },
 {
-  "id": "sec-solutions6-8-4",
+  "id": "sec-solutions6-5-4",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-8-4",
+  "url": "sec-solutions6.html#sec-solutions6-5-4",
   "type": "Exercise",
   "number": "10.6.3",
   "title": "",
-  "body": "  Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq   "
+  "body": "  75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL   "
 },
 {
-  "id": "sec-solutions6-8-5",
+  "id": "sec-solutions6-5-5",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-8-5",
+  "url": "sec-solutions6.html#sec-solutions6-5-5",
   "type": "Exercise",
   "number": "10.6.4",
   "title": "",
-  "body": "  How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq   "
+  "body": "  You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L   "
 },
 {
-  "id": "sec-solutions6-8-6",
+  "id": "sec-solutions6-5-6",
   "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-8-6",
+  "url": "sec-solutions6.html#sec-solutions6-5-6",
   "type": "Exercise",
   "number": "10.6.5",
   "title": "",
-  "body": "  If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L   "
-},
-{
-  "id": "sec-solutions6-8-7",
-  "level": "2",
-  "url": "sec-solutions6.html#sec-solutions6-8-7",
-  "type": "Exercise",
-  "number": "10.6.6",
-  "title": "",
-  "body": "  Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L   "
+  "body": "  You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.   "
 },
 {
   "id": "sec-solutions7",
