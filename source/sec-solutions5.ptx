@@ -22,7 +22,7 @@
         So if you have 2 moles of sulfate ions, then you have:
         <me>
             2\ \times \lvert -2\rvert\ =\ 2\ \times\ 2\ =\
-        4\ Eq\ sulfate
+        4\ Eq\ SO_4^{2-}
         </me>
         We can speak about the equivalents of a single ion or about the
         equivalents from a compound.
@@ -102,7 +102,7 @@
                                 <li>
                                     <p>
                                         Ratio:
-                                        <m>\frac{1\ mole\ sulfate}{1\ mole\ K_2SO_4}</m>
+                                        <m>\frac{1\ mole\ SO_4^{2-}}{1\ mole\ K_2SO_4}</m>
                                     </p>
                                 </li>
                             </ol>
@@ -126,7 +126,7 @@
                         <li>
                             <p>
                                 Sulfate:
-                                <m>2\ moles\ K_2SO_4\ \times\ \frac{1\ moles\ sulfate}{1\ mole\ K_2SO_4}\ =\ 2\ moles\ sulfate</m>
+                                <m>2\ moles\ K_2SO_4\ \times\ \frac{1\ moles\ SO_4^{2-}}{1\ mole\ K_2SO_4}\ =\ 2\ moles\ </m>
                             </p>
                         </li>
                     </ol>
@@ -162,7 +162,7 @@
                     <ol>
                         <li>
                             <p>
-                                <m>4\ Eq\ potassium\ +\ 4\ Eq\ sulfate\ =\ 8\ Eq</m>
+                                <m>4\ Eq\ K^+\ +\ 4\ Eq\ SO_4^{2-}\ =\ 8\ Eq</m>
                             </p>
                         </li>
                     </ol>
@@ -276,7 +276,7 @@
                                 </li>
                                 <li>
                                     <p>
-                                        <m>Moles: 0.02355\ moles\ K_3PO_4\ \times\ \frac{1\ mole\ PO_4^{3-}}{1\ mole\ K_3_PO_4}= 0.02355\ moles\ PO_4^{3-}</m>
+                                        <m>Moles: 0.02355\ moles\ K_3PO_4\ \times\ \frac{1\ mole\ PO_4^{3-}}{1\ mole\ K_3PO_4}= 0.02355\ moles\ PO_4^{3-}</m>
                                                             
                                     </p>
                                 </li>
@@ -356,7 +356,7 @@
                     <ol>
                         <li>
                             <p>
-                                <m>\frac{141.2\ mEq}{0.15\ L}= 942\ Meq/L\rightarrow 940\ mEq/L</m>
+                                <m>\frac{141.2\ mEq}{0.15\ L}= 942\ mEq/L\xrightarrow{Sig. Figs.} 940\ mEq/L</m>
                             </p>
                         </li>
                     </ol>

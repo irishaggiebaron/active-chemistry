@@ -6,9 +6,9 @@
 
     <p>
         When we dissolve one substance into another to make a homogeneous
-        mixture, we've made a solution.
-        The substance that there is less of is called the solute and the
-        substance that there is more of is called the solvent.
+        mixture, we've made a <term><xref ref="def-solutions" text="custom">solutions</xref></term>.
+        The substance that there is less of is called the <term><xref ref="def-solute" text="custom">solute</xref></term> and the
+        substance that there is more of is called the <term><xref ref="def-solvent" text="custom">solvent</xref></term>.
         When discussing preparing a solution, we generally state that the solute
         is dissolved in the solvent (ex.
         sodium chloride is dissolved into water—the sodium chloride is the
@@ -16,7 +16,12 @@
         For the most part in this course, we're going to be considering cases
         where water is the solvent.
     </p>
-
+<figure>
+    <caption>Forming a solution</caption>
+    <image source="sugar_dissolving_in_water_diagram.svg">
+        <shortdescription>A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution</shortdescription>
+    </image>
+</figure>
     <p>
         Some compounds are capable of dissolving in water, whereas others
         cannot.
