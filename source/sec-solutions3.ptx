@@ -16,8 +16,8 @@
         The formulas for each is shown below: </p>
         <p>
         <me>\text{mass-mass percent}=\frac{\text{g solute}}{\text{g solution}}\times\ 100%</me>
-        <me>mass-volume/ percent=\frac{g\ solute}{mL\ solution}\times\ 100%</me>
-        <me>volume-volume\ percent=\frac{mL\ solute}{mL\ solution}\times\ 100%</me>
+        <me>\text{mass-volume percent}=\frac{\text{g solute}}{\text{mL solution}}\times\ 100%</me>
+        <me>\text{volume-volume percent}=\frac{\text{mL solute}}{\text{mL solution}}\times\ 100%</me>
     </p>
 
     <p>
@@ -54,7 +54,7 @@
                     </li>
                     <li>
                         <p>
-                            65% v/v ethanol= <m>\frac{65mL\ ethanol}{100mL\ solution}</m>
+                            65% v/v ethanol= <m>\frac{65\ \text{mL ethanol}}{100\ \text{mL solution}}</m>
                         </p>
                     </li>
                 </ol>
@@ -64,7 +64,7 @@
                 <ol>
                     <li>
                         <p>
-                            <m>250mL\ solution\cdot\frac{65mL\ ethanol}{100mL\ solution}=162.5mL\ ethanol\rightarrow 160mL ethanol</m>
+                            <m>250\ \text{mL solution}\cdot\frac{65\ \text{mL ethanol}}{100\ \text{mL solution}}=162.5\ \text{mL ethanol}\xrightarrow{Sig. Figs.} 160\ \text{mL ethanol}</m>
                         </p>
                     </li>
                 </ol>
