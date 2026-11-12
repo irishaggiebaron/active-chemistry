@@ -6585,8 +6585,8 @@ var ptx_lunr_docs = [
   "url": "sec-covcompounds7.html",
   "type": "Section",
   "number": "7.7",
-  "title": "Naming Diatomic Covalent Compounds",
-  "body": " Naming Diatomic Covalent Compounds  For this lesson, covalent naming is limited to binary compounds containing only two atom types. The first element is named first, and the second element name is changed to end in -ide. Numerical prefixes indicate how many atoms of each element are present. The prefix mono- is not used on the first word when only one atom is present.     Number  Prefix    1  mono (not used on the first word)    2  di    3  tri    4  tetra    5  penta    6  hexa    7  hepta    8  octa    9  nona    10  deca      Exercises:    Write the formula for each compound.     Carbon dioxide    CO₂      Nitrogen trihydride    NH₃      Disulfur dichloride    S₂Cl₂      Triphosphorous pentafluoride    P₃F₅       Name each compound.     CO    Carbon monoxide      C₃H₈    Tricarbon octahydride      N₄I₄    Tetranitrogen tetraiodide      CH₄    Carbon tetrahydride      "
+  "title": "Naming Binary Covalent Compounds",
+  "body": " Naming Binary Covalent Compounds  For this lesson, covalent naming is limited to binary compounds containing only two atom types. The first element is named first, and the second element name is changed to end in -ide. Numerical prefixes indicate how many atoms of each element are present. The prefix mono- is not used on the first word when only one atom is present.     Number  Prefix    1  mono (not used on the first word)    2  di    3  tri    4  tetra    5  penta    6  hexa    7  hepta    8  octa    9  nona    10  deca      Exercises:    Write the formula for each compound.     Carbon dioxide    CO₂      Nitrogen trihydride    NH₃      Disulfur dichloride    S₂Cl₂      Triphosphorous pentafluoride    P₃F₅       Name each compound.     CO    Carbon monoxide      C₃H₈    Tricarbon octahydride      N₄I₄    Tetranitrogen tetraiodide      CH₄    Carbon tetrahydride      "
 },
 {
   "id": "sec-covcompounds7-3",
