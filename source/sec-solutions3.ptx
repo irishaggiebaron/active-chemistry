@@ -15,7 +15,7 @@
         and volume-volume percent composition (% v/v).
         The formulas for each is shown below: </p>
         <p>
-        <me>mass-mass\ percent=\frac{g\ solute}{g\ solution}\times\ 100%</me>
+        <me>\text{mass-mass percent}=\frac{\text{g solute}}{\text{g solution}}\times\ 100%</me>
         <me>mass-volume/ percent=\frac{g\ solute}{mL\ solution}\times\ 100%</me>
         <me>volume-volume\ percent=\frac{mL\ solute}{mL\ solution}\times\ 100%</me>
     </p>
