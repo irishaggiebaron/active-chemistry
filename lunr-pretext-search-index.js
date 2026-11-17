@@ -9682,84 +9682,93 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.1",
   "title": "What is an acid\/base?",
-  "body": " What is an acid\/base?  There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:  Name Definition of an acid Definition of a base Arrhenius definition Produces H+ Produces OH- Brønstead-Lowry definition Donates H+ Accepts H+  Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing H+ and Cl-. Because HCl produces H+ in water, it fits the definition of an Arrhenius acid. However, H+ doesn’t exist for very long in water. It rapidly reacts with water to product hydronium ion, H3O+. Thus the HCl actually donated an H+ to water in this reaction, fitting the Brønstead-Lowry definition of an acid  HCl → H + + Cl −  H + + H2 O → H3 O+  HCl + H2 O → H3 O+ + Cl −  Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, Na+ and OH-. As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a H+ forming water.  NaOH → Na + + OH −  OH − + HOH → HOH + OH −  (Note how the black H + is accepted by the red hydroxide from water)  Acids and bases don’t just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:  NH3 (aq) + CH3 CO2 H(aq) → NH4+ (aq) + CH3 CO2− (aq)  In this reaction, the NH3 (ammonia) accepts an H+ from CH3CO2H (acetic acid). Thus ammonia is acting as a base and acetic acid is an acid because it donates an H+.  What about the chemical structure of a molecule make it into an acid or a base? Why is CH4 not an acid while HCl is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.   Exercise 1    Identify the acid and base in the following reactions     HI(aq) + NaOH (aq) → H2 O(l) + NaI (aq)    HI acid + NaOH base      NH3 (aq) + HCl(aq) → NH4+ (aq) + Cl − (aq)    NH3 base + HCl acid      NH4+ (aq) + Cl − (aq) → NH3 (aq) + HCl (aq)    NH4+ acid + Cl − base      C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense    Water can be both an acid and a base      CH3 NH2 (aq) + CH3 CH2 CH2 CO2 H(aq) → CH3 NH3+ (aq) + CH3 CH2 CH2 CO2− (aq)    CH3 NH2 base + CH3 CH2 CH2 CO2 H acid      H2 SO4 (aq) + H2 O(l) → HSO4− (aq) + H3 O+ (aq)    H2 SO4 (aq)acid + H2 O(l) base      NH3 (aq) + H2 O(l) → NH4+ (aq) + OH − (aq)    NH3 (aq)base + H2 O(l)acid      Compare your answers in E and F, focusing on water. What interesting property does water possess?    Water can be both an acid and a base       Draw the Lewis structure of hydronium ion.    Structure is in the reading     "
+  "body": " What is an acid\/base?  There are multiple definitions of acids and bases which all generally say the same things, but with different ways of looking at it. These definitions are summarized in the table below:   Definitions of acids and bases    Name  Definition of acid  Definition of base    Arrhenius  Produces ions  Produces ions    Brønstead-Lowry  Donates ions  Accepts ions     Compounds like HCl are acids because they are ionic compounds and when we place them into water, the ions will dissociate producing and . Because HCl produces in water, it fits the definition of an Arrhenius acid. However, doesn't exist for very long in water. It rapidly reacts with water to product hydronium ion, . Thus the HCl actually donated an to water in this reaction, fitting the Brønstead-Lowry definition of an acid.  HCl is an acid according to the Arrehenius definition: and according to the Brønstead-Lowry definition:   Sodium hydroxide fits the definition of a base. When it is dissolved in water, it quickly dissociates into ions, and . As a result, it fits the definition of an Arrhenius base since the concentration of hydroxide increases. It also fits the definition of a Brønstead-Lowry base, but this takes a bit more effort to see. This is because the hydroxide that is produced can accept a forming water.  Sodium hydroxide fits the Arrhenius definition of a base: Sodium hydroxide also fits the Brønstead-Lowry definition of a base since the hydroxide accepts a from water: (Note how the red is accepted by the blue hydroxide to form water)  Acids and bases don't just react with water, they can be mixed allowing them to react with one another. In these cases, often the Brønstead-Lowry definition is easier to use to identify an acid from a base. Consider the reaction shown below:   In this reaction, the (ammonia) accepts an from (acetic acid). Thus ammonia is acting as a base (because it accepts an ) and acetic acid is an acid (because it donates an ).  What about the chemical structure of a molecule make it into an acid or a base? Why is not an acid while is? Hold that question for now. It will be discussed more in the conjugate acids and bases section later in this lesson.   Exercise 1    Identify the acid and base in the following reactions          HI is the acid and NaOH is the base            is the base and HCl is the acid      NH4+ (aq) + Cl − (aq) → NH3 (aq) + HCl (aq)    NH4+ acid + Cl − base      C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense    Water can be both an acid and a base      CH3 NH2 (aq) + CH3 CH2 CH2 CO2 H(aq) → CH3 NH3+ (aq) + CH3 CH2 CH2 CO2− (aq)    CH3 NH2 base + CH3 CH2 CH2 CO2 H acid      H2 SO4 (aq) + H2 O(l) → HSO4− (aq) + H3 O+ (aq)    H2 SO4 (aq)acid + H2 O(l) base      NH3 (aq) + H2 O(l) → NH4+ (aq) + OH − (aq)    NH3 (aq)base + H2 O(l)acid      Compare your answers in E and F, focusing on water. What interesting property does water possess?    Water can be both an acid and a base       Draw the Lewis structure of hydronium ion.    Structure is in the reading     "
 },
 {
-  "id": "sec-acidsbases1-16-2-2",
+  "id": "sec-acidsbases1-3",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-3",
+  "type": "Table",
+  "number": "11.1.1",
+  "title": "Definitions of acids and bases",
+  "body": " Definitions of acids and bases    Name  Definition of acid  Definition of base    Arrhenius  Produces ions  Produces ions    Brønstead-Lowry  Donates ions  Accepts ions    "
+},
+{
+  "id": "sec-acidsbases1-11-2-2",
+  "level": "2",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-2",
   "type": "Exercise",
   "number": "11.1.1",
   "title": "",
-  "body": "  HI(aq) + NaOH (aq) → H2 O(l) + NaI (aq)    HI acid + NaOH base   "
+  "body": "       HI is the acid and NaOH is the base   "
 },
 {
-  "id": "sec-acidsbases1-16-2-3",
+  "id": "sec-acidsbases1-11-2-3",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-3",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-3",
   "type": "Exercise",
   "number": "11.1.2",
   "title": "",
-  "body": "  NH3 (aq) + HCl(aq) → NH4+ (aq) + Cl − (aq)    NH3 base + HCl acid   "
+  "body": "        is the base and HCl is the acid   "
 },
 {
-  "id": "sec-acidsbases1-16-2-4",
+  "id": "sec-acidsbases1-11-2-4",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-4",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-4",
   "type": "Exercise",
   "number": "11.1.3",
   "title": "",
   "body": "  NH4+ (aq) + Cl − (aq) → NH3 (aq) + HCl (aq)    NH4+ acid + Cl − base   "
 },
 {
-  "id": "sec-acidsbases1-16-2-5",
+  "id": "sec-acidsbases1-11-2-5",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-5",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-5",
   "type": "Exercise",
   "number": "11.1.4",
   "title": "",
   "body": "  C is the reverse reaction of B. The nitrogen containing compound in b was a\/an _______(acid\/base). In the reverse reaction, the nitrogen compound was a\/an ______(acid\/base). Explain why this makes sense    Water can be both an acid and a base   "
 },
 {
-  "id": "sec-acidsbases1-16-2-6",
+  "id": "sec-acidsbases1-11-2-6",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-6",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-6",
   "type": "Exercise",
   "number": "11.1.5",
   "title": "",
   "body": "  CH3 NH2 (aq) + CH3 CH2 CH2 CO2 H(aq) → CH3 NH3+ (aq) + CH3 CH2 CH2 CO2− (aq)    CH3 NH2 base + CH3 CH2 CH2 CO2 H acid   "
 },
 {
-  "id": "sec-acidsbases1-16-2-7",
+  "id": "sec-acidsbases1-11-2-7",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-7",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-7",
   "type": "Exercise",
   "number": "11.1.6",
   "title": "",
   "body": "  H2 SO4 (aq) + H2 O(l) → HSO4− (aq) + H3 O+ (aq)    H2 SO4 (aq)acid + H2 O(l) base   "
 },
 {
-  "id": "sec-acidsbases1-16-2-8",
+  "id": "sec-acidsbases1-11-2-8",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-8",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-8",
   "type": "Exercise",
   "number": "11.1.7",
   "title": "",
   "body": "  NH3 (aq) + H2 O(l) → NH4+ (aq) + OH − (aq)    NH3 (aq)base + H2 O(l)acid   "
 },
 {
-  "id": "sec-acidsbases1-16-2-9",
+  "id": "sec-acidsbases1-11-2-9",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-2-9",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-2-9",
   "type": "Exercise",
   "number": "11.1.8",
   "title": "",
   "body": "  Compare your answers in E and F, focusing on water. What interesting property does water possess?    Water can be both an acid and a base   "
 },
 {
-  "id": "sec-acidsbases1-16-3",
+  "id": "sec-acidsbases1-11-3",
   "level": "2",
-  "url": "sec-acidsbases1.html#sec-acidsbases1-16-3",
+  "url": "sec-acidsbases1.html#sec-acidsbases1-11-3",
   "type": "Exercise",
   "number": "11.1.9",
   "title": "",
