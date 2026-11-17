@@ -10,32 +10,46 @@
 		These definitions are summarized in the table below:
 	</p>
 
-	<p>
-		Name Definition of an acid Definition of a base Arrhenius definition Produces
-		H+ Produces OH- Brønstead-Lowry definition Donates H+ Accepts H+
-	</p>
+<table>
+	<title>Definitions of acids and bases</title>
+	<tabular>
+		<row halign="center" bottom="major">
+			<cell>Name</cell>
+			<cell>Definition of acid</cell>
+			<cell>Definition of base</cell>
+		</row>
+		<row halign="center">
+			<cell>Arrhenius</cell>
+			<cell>Produces <m>H^+</m> ions</cell>
+			<cell>Produces <m>OH^-</m> ions</cell>
+		</row>
+		<row halign="center">
+			<cell>Brønstead-Lowry</cell>
+			<cell>Donates <m>H^+</m> ions</cell>
+			<cell>Accepts <m>H^+</m> ions</cell>
+
+	</tabular>
+</table>
+
 
 	<p>
 		Compounds like HCl are acids because they are ionic compounds and when we
-		place them into water, the ions will dissociate producing H+ and Cl-.
-		Because HCl produces H+ in water, it fits the definition of an Arrhenius acid.
-		However, H+ doesn’t exist for very long in water.
-		It rapidly reacts with water to product hydronium ion, H3O+.
-		Thus the HCl actually donated an H+ to water in this reaction, fitting the
-		Brønstead-Lowry definition of an acid
+		place them into water, the ions will dissociate producing <m>H^+</m> and <m>Cl^-</m>.
+		Because HCl produces <m>H^+</m> in water, it fits the definition of an Arrhenius acid.
+		However, <m>H^+</m> doesn't exist for very long in water.
+		It rapidly reacts with water to product hydronium ion, <m>H_3O^+</m>.
+		Thus the HCl actually donated an <m>H^+</m> to water in this reaction, fitting the
+		Brønstead-Lowry definition of an acid.
+	</p>
+<p> HCl is an acid according to the Arrehenius definition:
+	<me>
+		\HCl\ \xrightarrow{H_2O}\ H^+(aq)\ +\ Cl^-(aq)
+	</me>
+
+	and according to the Brønstead-Lowry definition:
+		<me>HCl(g)\ +\ H_2O(l)\ \rightarrow\ H_3O^+(aq)\ +\ Cl^-(aq)</me>
 	</p>
 
-	<p>
-		HCl → H + + Cl −
-	</p>
-
-	<p>
-		H + + H2 O → H3 O+
-	</p>
-
-	<p>
-		HCl + H2 O → H3 O+ + Cl −
-	</p>
 
 	<p>
 		Sodium hydroxide fits the definition of a base.
