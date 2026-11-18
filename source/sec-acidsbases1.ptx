@@ -184,13 +184,13 @@
 			<exercise>
 				<statement>
 					<p>
-						H2 SO4 (aq) + H2 O(l) → HSO4− (aq) + H3 O+ (aq)
+						<m>H_2SO_4 (aq) + H_2O(l) \rightarrow HSO_4^- (aq) + H_3O^+ (aq)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						H2 SO4 (aq)acid + H2 O(l) base
+						<m>H_2SO_4</m> is an acid + <m>H_2O(l)</m> is a base
 					</p>
 				</answer>
 			</exercise>
@@ -198,13 +198,13 @@
 			<exercise>
 				<statement>
 					<p>
-						NH3 (aq) + H2 O(l) → NH4+ (aq) + OH − (aq)
+						<m>NH_3 (aq) + H_2O(l) \rightarrow NH_4^+ (aq) + OH^- (aq)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						NH3 (aq)base + H2 O(l)acid
+						<m>NH_3</m> is the base and <m>H_2O</m> is the acid
 					</p>
 				</answer>
 			</exercise>
@@ -212,7 +212,7 @@
 			<exercise>
 				<statement>
 					<p>
-						Compare your answers in E and F, focusing on water.
+						Compare your answers in questions 6 and 7, focusing on water.
 						What interesting property does water possess?
 					</p>
 				</statement>
@@ -233,9 +233,9 @@
 			</statement>
 
 			<answer>
-				<p>
-					Structure is in the reading
-				</p>
+				<image source="hydronium.svg">
+					<shortdescription>A Lewis dot structure of hydronium.  One oxygen is singly bound to 3 hydrogen atoms.  The oxygen also has a lone pair of electrons and a positive charge</shortdescription>
+				</image>
 			</answer>
 		</exercise>
 	</exercises>
