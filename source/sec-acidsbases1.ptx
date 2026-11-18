@@ -45,7 +45,7 @@
 	</p>
 <p> HCl is an acid according to the Arrehenius definition:
 	<me>
-		\HCl\ \xrightarrow{H_2O}\ H^+(aq)\ +\ Cl^-(aq)
+		HCl\ \xrightarrow{H_2O}\ H^+(aq)\ +\ Cl^-(aq)
 	</me>
 
 	and according to the Brønstead-Lowry definition:
@@ -67,7 +67,7 @@
 		Sodium hydroxide fits the Arrhenius definition of a base:
 		<me>NaOH\ \xrightarrow{H_2O}\ Na^+(aq) +\ OH^-(aq)</me>
 		Sodium hydroxide also fits the Brønstead-Lowry definition of a base since the hydroxide accepts a <m>H^+</m> from water:
-		<me>\textcolor{blue}{OH^-}(aq)\ +\ \textcolor{red}{H_2O}(l)\ \rightarrow\ \textcolor{red}{H}\textcolor{blue}OH(l)\ +\ \textcolor{red}{OH^-}</me>
+		<me>\textcolor{blue}{OH^-}(aq)\ +\ \textcolor{red}{H_2O}(l)\ \rightarrow\ \textcolor{red}{H}\textcolor{blue}{OH}(l)\ +\ \textcolor{red}{OH^-}(aq)</me>
 	
 		(Note how the red <m>H^+</m> is accepted by the blue hydroxide to form water)</p>
 	
