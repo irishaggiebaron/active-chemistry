@@ -7,7 +7,7 @@
 	<title>What is an acid/base?</title>
 
 	<p>
-		There are multiple definitions of acids and bases which all generally say the
+		There are multiple definitions of <term><xref ref="def-acids" text="custom">acids</xref></term> and <term><xref ref="def-bases" text="custom">bases</xref></term> which all generally say the
 		same things, but with different ways of looking at it.
 		These definitions are summarized in the table below:
 	</p>

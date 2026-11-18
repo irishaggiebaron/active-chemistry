@@ -1229,7 +1229,28 @@
 
     <p>
       <term>Chapter 10</term>
-      <p>
+       <p>
+        <definition xml:id="def-acids">
+          <statement>
+            <p>
+              <term>Acids:</term> A compound that increases the amount of <m>H^+</m> ions in aqueous solution.  Acids also donate <m>H^+</m> to bases.
+            </p>
+          </statement>
+        </definition>
+      </p>
+  
+       <p>
+        <definition xml:id="def-bases">
+          <statement>
+            <p>
+              <term>Bases:</term> A compound that increases the amount of <m>OH^-</m> ions in aqueous solution.  Bases also accept <m>H^+</m> from acids.
+            </p>
+          </statement>
+        </definition>
+      </p>
+    
+       
+       <p>
         <definition xml:id="def-hydroniumion">
           <statement>
             <p>
