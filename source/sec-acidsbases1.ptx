@@ -35,9 +35,9 @@
 
 
 	<p>
-		Compounds like HCl are acids because they are ionic compounds and when we
+		Compounds like <m>HCl</m> are acids because they are ionic compounds and when we
 		place them into water, the ions will dissociate producing <m>H^+</m> and <m>Cl^-</m>.
-		Because HCl produces <m>H^+</m> in water, it fits the definition of an Arrhenius acid.
+		Because <m>HCl</m> produces <m>H^+</m> in water, it fits the definition of an Arrhenius acid.
 		However, <m>H^+</m> doesn't exist for very long in water.
 		It rapidly reacts with water to product hydronium ion, <m>H_3O^+</m>.
 		Thus the HCl actually donated an <m>H^+</m> to water in this reaction, fitting the
@@ -137,13 +137,13 @@
 			<exercise>
 				<statement>
 					<p>
-						NH4+ (aq) + Cl − (aq) → NH3 (aq) + HCl (aq)
+						<m>NH_4^+ (aq) + Cl^- (aq) \rightarrow NH_3 (aq) + HCl (aq)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						NH4+ acid + Cl − base
+						<m>NH_4^+</m> is an acid and <m>Cl^-</m> is a base
 					</p>
 				</answer>
 			</exercise>
@@ -151,16 +151,17 @@
 			<exercise>
 				<statement>
 					<p>
-						C is the reverse reaction of B.
-						The nitrogen containing compound in b was a/an _______(acid/base).
+						The reaction in question 3 is the reverse reaction that is seen in question 2.
+						The nitrogen containing compound in question 2 was a/an _______(acid/base).
 						In the reverse reaction, the nitrogen compound was a/an ______(acid/base).
-						Explain why this makes sense
+						Explain why this makes sense.
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						Water can be both an acid and a base
+						base, acid.
+						After a base has acquired an <m>H^+</m> it now has an extra one that it can lose.  Bases become acids after accepting an <m>H^+</m>
 					</p>
 				</answer>
 			</exercise>
@@ -168,14 +169,14 @@
 			<exercise>
 				<statement>
 					<p>
-						CH3 NH2 (aq) + CH3 CH2 CH2 CO2 H(aq) → CH3 NH3+ (aq) + CH3 CH2 CH2 CO2−
-						(aq)
+						<m>CH_3NH_2 (aq) + CH_3CH_2CH_2CO_2H(aq) \rightarrow CH_3NH_3^+ (aq) + CH_3CH_2CH_2CO_2^-
+						(aq)</m>
 					</p>
 				</statement>
 
 				<answer>
 					<p>
-						CH3 NH2 base + CH3 CH2 CH2 CO2 H acid
+						<m>CH_3NH_2</m> is a base and <m>CH_3CH_2CH_2CO_2H</m> is the acid
 					</p>
 				</answer>
 			</exercise>
