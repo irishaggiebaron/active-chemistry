@@ -4,14 +4,14 @@
     <title>Acids and Bases</title>
 
     <xi:include href="sec-acidsbases1.ptx" />
-    <xi:include href="sec-acidsbases2.ptx" />
-    <xi:include href="sec-acidsbases3.ptx" />
-    <xi:include href="sec-acidsbases4.ptx" />
-    <xi:include href="sec-acidsbases5.ptx" />
-    <xi:include href="sec-acidsbases6.ptx" />
-    <xi:include href="sec-acidsbases7.ptx" />
-    <xi:include href="sec-acidsbases8.ptx" />
-    <xi:include href="sec-acidsbases9.ptx" />
+    <xi:include href="sec-acidsbases2_revised.ptx" />
+    <xi:include href="sec-acidsbases3_revised.ptx" />
+    <xi:include href="sec-acidsbases4_revised.ptx" />
+    <xi:include href="sec-acidsbases5_revised.ptx" />
+    <xi:include href="sec-acidsbases6_revised.ptx" />
+    <xi:include href="sec-acidsbases7_revised.ptx" />
+    <xi:include href="sec-acidsbases8_revised.ptx" />
+    <xi:include href="sec-acidsbases9_revised.ptx" />
     
 
 </chapter>
