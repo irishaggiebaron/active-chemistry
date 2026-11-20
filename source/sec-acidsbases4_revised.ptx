@@ -74,7 +74,7 @@
 
             </row>
             <row halign="center">
-                <cell>Acids must have an <m>H^+></m>*</cell>
+                <cell>Acids must have an <m>H^+</m>*</cell>
 <cell>Bases must have a lone pair of electrons</cell>
                 </row>
                 <row halign="center">
@@ -94,23 +94,24 @@
             <row halign="center" bottom="major">
                 <cell>Questions to ask (yes answers indicate stability)</cell>
             </row>
-            <row halign="center">
-               <cell>Is it something you've seen before?</cell>
+            <row halign="left">
+               <cell>1. Is it something you've seen before?</cell>
                 </row>
-                <row halign="center">
-               <cell>Can you draw a valid Lewis structure of it?</cell>
+                <row halign="left">
+               <cell>2. Can you draw a valid Lewis structure of it?</cell>
                 </row>
-                <row halign="center">
-               <cell>Are the negative charges (if any) on an electronegative atom like oxygen, sulfur, or halogen?</cell>
+                <row halign="left">
+               <cell>3. Are the negative charges (if any) on an electronegative atom like oxygen, sulfur, or halogen?</cell>
                 </row>
-                <row halign="center">
-               <cell>Are the positive charges (if any) on a nitrogen (or rarely on an oxygen)?</cell>
+                <row halign="left">
+               <cell>4. Are the positive charges (if any) on a nitrogen (or rarely on an oxygen)?</cell>
+                </row>
+                <row halign="left">
+               <cell>*There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.?</cell>
                 </row>
         </tabular>
     </table>
-    <p>
-        *There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.
-    </p>
+  
     <exercises>
         <title>Exercises</title>
 
