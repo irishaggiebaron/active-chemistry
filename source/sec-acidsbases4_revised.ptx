@@ -79,7 +79,7 @@
 
             <row halign="center">
                 <cell right="major">
-                    <tn>There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.?</tn>Acids
+                    <tn>There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.</tn>Acids
                     must have an <m>H^+</m>
                 </cell>
                 <cell>Bases must have a lone pair of electrons</cell>
@@ -127,7 +127,7 @@
                 <cell>
                     4.
                     Are the positive charges (if any) on a nitrogen (or rarely
-                    on an oxygen)?
+                    on an oxygen<tn>Hydronium ion is really the only example of this in this course</tn>)?
                 </cell>
             </row>
         </tabular>
