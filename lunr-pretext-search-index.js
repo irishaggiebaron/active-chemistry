@@ -7351,7 +7351,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.1",
   "title": "Classes of chemical reactions",
-  "body": " Classes of chemical reactions  A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:     In this example, compounds AX and BY are the reactants. AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:     In this example, the reactants and _are reacting to form water ( )_. In front of the chemical formulas, there are sometimes additional numbers called coefficients. These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:   Type 1: Addition reaction (sometimes called a combination reaction): Two or more pure substances combine to make one. Example:      Type 2: Decomposition reaction: One substance breaks apart into two or more substances. Example:     An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:      Exercise 1    Classify the following reactions as addition (combination) reactions or decomposition reactions:          Addition           Decomposition       Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:     Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water           Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.           One molecule of nitrogen gas combines with three molecules of hydrogen gas to produce two molecules of gaseous nitrogen trihydride           "
+  "body": " Classes of chemical reactions  A chemical reaction is the process of converting one or more pure substances into others. In order to do this, nature does not create or destroy atoms (that only happens in nuclear reactions, as is covered in chapter 5). Instead, atoms are swapped between compounds. Bonds in the reactant compounds are broken and new bonds are formed to create the product compounds. See the example below:   In this example, compounds AX and BY are the reactants. AB and XY are the products of the reaction. Chemical reactions are always written with the reactants on the left, products on the right, and a reaction arrow separating them. In the example above, the bonds between A and X and B and Y are broken so that A can form a new bond with B and X with Y.  In chemical reactions, in addition to the chemical formulas of the reactants and products, we see additional numbers and symbols. See the example below:   In this example, the reactants and _are reacting to form water ( )_. In front of the chemical formulas, there are sometimes additional numbers called coefficients. These numbers are used to tell how many of those elements or compounds are required for the reaction to be balanced (more on this in another lesson). After the formulas for the elements or compounds, it is quite common to see either (g), (l), (s), or (aq) listed. These symbols state whether the substance is a gas (g), liquid (l), or solid (s) or can indicate that the substance is dissolved in water (aq) (this stands for “aqueous”).  When learning about chemical reactions, it can be very helpful to classify the reactions. This allow us to begin to recognize patterns that we can use to predict what will happen in other chemical reactions. We’ll learn several different ways of classifying reactions, beginning in this exercise where we will classify reactions by the numbers of reactants\/products and whether the reactants\/products are elements or compounds. We’ll start with the simplest types of reactions:   Type 1: Addition reaction (sometimes called a combination reaction): Two or more pure substances combine to make one. Example:    Type 2: Decomposition reaction: One substance breaks apart into two or more substances. Example:   An important note to be aware of: recall that some elements exist as diatomic compounds. This is very common with non-metals and they are typically gasses (with a few exaceptions) at room temperature. You need to know that the following elements exist as diatomic compounds:    Exercise 1    Classify the following reactions as addition (combination) reactions or decomposition reactions:          Addition           Decomposition       Write the following reactions using chemical formulas and coefficients. Indicate the state of the substance using the symbols learned above:     Two units of solid iron (III) hydroxide decompose into one unit of solid iron (III) oxide and three molecules of liquid water           Two units of solid silver bromide decay into two atoms of silver metal and one molecule of liquid bromine.           One molecule of nitrogen gas combines with three molecules of hydrogen gas to produce two molecules of gaseous nitrogen trihydride           "
 },
 {
   "id": "sec-rxns1-2",
@@ -7432,7 +7432,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.2",
   "title": "Ionic equations and Net Ionic equations",
-  "body": " Ionic equations and Net Ionic equations  When the reactants in a reaction are aqueous, the standard way of writing a reaction works, but depending on what we’re trying to show, we can sometimes do better. For instance, writing NaCl (aq) in a reaction tells us that sodium chloride is dissolved in water. It doesn’t show us what has happened to the sodium chloride through. When ionic compounds dissolve in water, they dissociate into their ions, with both the cations and anions forming bonds with the dipole of water. A better way of depicting this in a chemical reaction would be to instead write NaCl (aq) as . This is what we do when we write an ionic equation ; all of the reactants and products that are aqueous are instead written as their ions that are dissolved in water. Two important notes:  1. If there is more than one ion, then this is specified with a coefficient in front of the ion...NOT with a subscript after it. 2. Polyatomic ions will not break apart  Both of these rules are illustrated when we write as .  A net ionic equation is an ionic equation that only lists the ions that actually react in the reaction. In order to write a net ionic equation we begin with an ionic equation and then delete any ions that are aqueous in both the reactants and products. These ions are called spectator ions because they don’t participate in the reaction themselves. See the example below:  Standard reaction equation:   Ionic equation:   Net ionic equation:    Exercise 3    Write ionic and net ionic equations for the following reactions          Ionic equation:   Net ionic:            Ionic equation:   Net ionic:             Ionic equation:   Net ionic:                 Net ionic:        "
+  "body": " Ionic equations and Net Ionic equations  When the reactants in a reaction are aqueous, the standard way of writing a reaction works, but depending on what we’re trying to show, we can sometimes do better. For instance, writing in a reaction tells us that sodium chloride is dissolved in water. It doesn’t show us what has happened to the sodium chloride through. When ionic compounds dissolve in water, they dissociate into their ions, with both the cations and anions forming bonds with the dipole of water. A better way of depicting this in a chemical reaction would be to instead write as . This is what we do when we write an ionic equation ; all of the reactants and products that are aqueous are instead written as their ions that are dissolved in water. Two important notes:  1. If there is more than one ion, then this is specified with a coefficient in front of the ion...NOT with a subscript after it. 2. Polyatomic ions will not break apart  Both of these rules are illustrated when we write as .  A net ionic equation is an ionic equation that only lists the ions that actually react in the reaction. In order to write a net ionic equation we begin with an ionic equation and then delete any ions that are aqueous in both the reactants and products. These ions are called spectator ions because they don’t participate in the reaction themselves. See the example below:  Standard reaction equation:   Ionic equation:   Net ionic equation:    Exercise 3    Write ionic and net ionic equations for the following reactions          Ionic equation:   Net ionic:            Ionic equation:   Net ionic:            Ionic equation:  Net ionic:            Ionic equation:  Net ionic:       "
 },
 {
   "id": "sec-rxns2-2",
@@ -7453,40 +7453,40 @@ var ptx_lunr_docs = [
   "body": "net ionic equation "
 },
 {
-  "id": "sec-rxns2-9-2-2",
+  "id": "sec-rxns2-12-2-2",
   "level": "2",
-  "url": "sec-rxns2.html#sec-rxns2-9-2-2",
+  "url": "sec-rxns2.html#sec-rxns2-12-2-2",
   "type": "Exercise",
   "number": "8.2.1",
   "title": "",
   "body": "       Ionic equation:   Net ionic:    "
 },
 {
-  "id": "sec-rxns2-9-2-3",
+  "id": "sec-rxns2-12-2-3",
   "level": "2",
-  "url": "sec-rxns2.html#sec-rxns2-9-2-3",
+  "url": "sec-rxns2.html#sec-rxns2-12-2-3",
   "type": "Exercise",
   "number": "8.2.2",
   "title": "",
   "body": "       Ionic equation:   Net ionic:    "
 },
 {
-  "id": "sec-rxns2-9-2-4",
+  "id": "sec-rxns2-12-2-4",
   "level": "2",
-  "url": "sec-rxns2.html#sec-rxns2-9-2-4",
+  "url": "sec-rxns2.html#sec-rxns2-12-2-4",
   "type": "Exercise",
   "number": "8.2.3",
   "title": "",
-  "body": "        Ionic equation:   Net ionic:     "
+  "body": "       Ionic equation:  Net ionic:    "
 },
 {
-  "id": "sec-rxns2-9-2-5",
+  "id": "sec-rxns2-12-2-5",
   "level": "2",
-  "url": "sec-rxns2.html#sec-rxns2-9-2-5",
+  "url": "sec-rxns2.html#sec-rxns2-12-2-5",
   "type": "Exercise",
   "number": "8.2.4",
   "title": "",
-  "body": "           Net ionic:     "
+  "body": "       Ionic equation:  Net ionic:    "
 },
 {
   "id": "sec-rxns3",
@@ -7495,7 +7495,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.3",
   "title": "Slightly more complex reactions",
-  "body": " Slightly more complex reactions  Type 3: Single-replacement reaction: One compound reacts with a pure element. The element swaps with an atom in the compound. Example:   Type 4: Double-replacement reaction: Two compounds react with one another. Atoms from both compounds swap with one another. Example:   One common type of double-replacement reaction is a precipitation reaction. In a precipitation reaction, both reactants are ionic compounds that are dissolved in water (ie. aqueous, aq). When the reactants are combined, one of the combinations of a cation and an anion results in a compound that is insoluble in water, meaning that it cannot be dissolved by water. As a result, crystals of that insoluble ionic compound form in the reaction. Why are some ionic compounds soluble and others aren’t? Basically, in order for an ionic compound to dissolve in water, its ions must separate from one another and form new interactions with the polar water molecules (through ion-dipole interactions or hydrogen bonding). If the interactions that the ions form with water are stronger than the interactions holding the ionic compound together, then water will “win” and the ionic compound will dissolve. If the bonds holding the ionic compound together are stronger than the interactions that the ions can form with water, then the ionic compound “wins” and the ionic compound will not dissolve in water.  There are some rules about solubility of ionic compounds that you’ll need to know. You need to apply these rules in this order!     Compounds containing ammonium, magnesium, or alkali metal cations (group I metals), and\/or nitrate, and acetate anions are soluble    Compounds containing the cation of silver, lead, or mercury are insoluble    Compounds containing the chloride, bromide, or iodide anions are soluble    Compounds containing the sulfate anion are soluble, except when paired with group 2 metals    Everything else is insoluble      Exercise 2    Predict whether the following compounds are soluble or insoluble in water.     Sodium phosphate    soluble      Potassium iodide    soluble      Silver bromide    insoluble      Iron (III) carbonate    insoluble      Calcium sulfate    insoluble      Copper (II) sulfate    soluble       Classify the following reactions are single replacement or double replacement:        Double replacement         Double replacement         Single replacement         Single replacement       Will the following reactions produce a precipitate? If so, what is its name and chemical formula?     Aqueous sodium chloride and aqueous copper (II) nitrate    No precipitate      Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate ( )      Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate,       Strontium bromide and potassium sulfate    yes, strontium sulfate,       "
+  "body": " Slightly more complex reactions  Type 3: Single-replacement reaction: One compound reacts with a pure element. The element swaps with an atom in the compound. Example:   Type 4: Double-replacement reaction: Two compounds react with one another. Atoms from both compounds swap with one another. Example:   One common type of double-replacement reaction is a precipitation reaction. In a precipitation reaction, both reactants are ionic compounds that are dissolved in water (ie. aqueous, aq). When the reactants are combined, one of the combinations of a cation and an anion results in a compound that is insoluble in water, meaning that it cannot be dissolved by water. As a result, crystals of that insoluble ionic compound form in the reaction. Why are some ionic compounds soluble and others aren’t? Basically, in order for an ionic compound to dissolve in water, its ions must separate from one another and form new interactions with the polar water molecules (through ion-dipole interactions or hydrogen bonding). If the interactions that the ions form with water are stronger than the interactions holding the ionic compound together, then water will “win” and the ionic compound will dissolve. If the bonds holding the ionic compound together are stronger than the interactions that the ions can form with water, then the ionic compound “wins” and the ionic compound will not dissolve in water.  There are some rules about solubility of ionic compounds that you’ll need to know. You need to apply these rules in this order!    Compounds containing ammonium, magnesium, or alkali metal cations (group I metals), and\/or nitrate, and acetate anions are soluble    Compounds containing the cation of silver, lead, or mercury are insoluble    Compounds containing the chloride, bromide, or iodide anions are soluble    Compounds containing the sulfate anion are soluble, except when paired with group 2 metals    Everything else is insoluble     Exercise 2    Predict whether the following compounds are soluble or insoluble in water.     Sodium phosphate    soluble      Potassium iodide    soluble      Silver bromide    insoluble      Iron (III) carbonate    insoluble      Calcium sulfate    insoluble      Copper (II) sulfate    soluble       Classify the following reactions are single replacement or double replacement:        Double replacement         Double replacement         Single replacement         Single replacement       Will the following reactions produce a precipitate? If so, what is its name and chemical formula?     Aqueous sodium chloride and aqueous copper (II) nitrate    No precipitate      Aqueous sodium hydrogen phosphate and aqueous nickel (II) chloride    yes, nickel (II) hydrogen phosphate ( )      Ammonium sulfate and lead (II) nitrate    yes lead (II) sulfate,       Strontium bromide and potassium sulfate    yes, strontium sulfate,       "
 },
 {
   "id": "sec-rxns3-2",
@@ -7774,7 +7774,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.5",
   "title": "Balancing chemical reactions",
-  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well.  What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). Instead, we have to balance the reaction by adding in coefficients in front of the compounds.  To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reactions in this class):     Write the reaction with the correct chemical formulas of the reactants and products    Determine the number of atoms of each element on the reactants and products sides    If all of the elements are balanced, then you’re done      Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if all of the elements are balanced    Repeat step 3 with other elements that only appear in one compound in both the reactants and product.    Balance any remaining elements by changing\/adding coefficients    Check and recheck every element for balance    Simplify the coefficients    If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators    If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor       To see these steps in practice, see the example below:   Example: Balance the combustion reaction for     Since this is a combustion reaction, we know the other reactants ( ) and products ( and ) so the reaction is:     Check to see if the atoms are balanced on both sides of the reaction:       Element  Number on left side  Number on the right side    C  2  1    H  4  2    O  2  3    They aren’t, so we have to go to step 3.       We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown:     Let's check the balance of the elements again:     Element  Number on left side  Number on the right side    C  2  2    H  4  2    O  2  5     Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms.    Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:     Let's check the balance of the elements again:     Element  Number on left side  Number on the right side    C  2  2    H  4  4  4  O  2  6       We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas.     Let's check the balance of each element:     Element  Number on left side  Number on the right side    C  2  2    H  4  4  4  O  6  6     All of the elements are balanced and the coefficients are simplified. We are now done.       Exercise 2    Balance the following reactions by adding in the necessary coefficients:                                              Write an equation for the following reactions and balance them     Aqueous sodium sulfate and aqueous calcium chloride are mixed         Combustion of          "
+  "body": " Balancing chemical reactions  In chemical reactions, the law of conservation of mass applies. This law states that matter cannot be created or destroyed by chemical reactions. The consequence of this law is that when writing chemical reactions, we need to make sure that the number of each type of atom in the reaction is the same on both sides of the reaction arrow. So if there are three nitrogen atoms in the reactants, then the products side must have 3 nitrogen atoms as well.  What if the numbers of atoms are not balanced? We cannot change the number of atoms in the compounds without changing the identity of that compound (ie. do NOT change the subscripts). Instead, we have to balance the reaction by adding in coefficients in front of the compounds.  To do this, we’re going to follow the following steps that will work for any simple reaction (we won’t deal with more complex reactions in this class):    Write the reaction with the correct chemical formulas of the reactants and products    Determine the number of atoms of each element on the reactants and products sides    If all of the elements are balanced, then you’re done      Select one element that appears in only one compound in both the reactants and the products. Balance it by adding in necessary coefficients in front of the compounds. Then check to see if all of the elements are balanced    Repeat step 3 with other elements that only appear in one compound in both the reactants and product.    Balance any remaining elements by changing\/adding coefficients    Check and recheck every element for balance    Simplify the coefficients    If you have any fractional coefficients, multiply ALL of the coefficients by numbers found in the denominators    If all of the coefficients have a common factor (ex. 4, 8, and 2 all have a common factor of 2), then divide them all by that common factor      To see these steps in practice, see the example below:   Example: Balance the combustion reaction for    Since this is a combustion reaction, we know the other reactants ( ) and products ( and ) so the reaction is:     Check to see if the atoms are balanced on both sides of the reaction:      Element  Number on left side  Number on the right side    C  2  1    H  4  2    O  2  3    They aren’t, so we have to go to step 3.      We should balance either hydrogen or carbon first because they are only found in one compound in the reactants and products. Oxygen is found in two spots in the products and is thus harder to balance. Lets start with carbon. We need to have two carbons on the right side, so lets as a coefficient of 2 in front of the carbon dioxide as shown:     Let's check the balance of the elements again:    Element  Number on left side  Number on the right side    C  2  2    H  4  2    O  2  5    Notice that the number of oxygens in the products also changed...changing coefficients often changes the amount of numerous atoms.    Now that carbon is balanced, let’s balance hydrogen. We need to increase the number of hydrogens on the right side. Adding a coefficient of 2 in front of the water will give us 4 hydrogens since each of the two water molecules has 2 hydrogens:     Let's check the balance of the elements again:    Element  Number on left side  Number on the right side    C  2  2    H  4  4    O  2  6      We can now move on to oxygen. There are 6 on the right and 2 on the left. We can fix this by adding a 3 as a coefficient in front of the oxygen gas.     Let's check the balance of each element:    Element  Number on left side  Number on the right side    C  2  2    H  4  4    O  6  6    All of the elements are balanced and the coefficients are simplified. We are now done.      Exercise 2    Balance the following reactions by adding in the necessary coefficients:                                              Write an equation for the following reactions and balance them     Aqueous sodium sulfate and aqueous calcium chloride are mixed         Combustion of          "
 },
 {
   "id": "sec-rxns5-2",
@@ -7855,7 +7855,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.6",
   "title": "Moles",
-  "body": " Moles  In chemistry, we often have to deal with very large numbers of things (ex. atoms or molecules). For convenience, we can rely of scientific notation to help us out. We can also use the term mole to help us out. A mole is a word that represents a number of things (similar to how a dozen means 12 things). The number represented by a mole is Avogadro’s number and has a value of 6.022 × 1023 . Why this weird number? You’ll have to wait until the next section of this lesson to find out. We can use the definition of a mole as a conversion factor to convert between numbers of things (atoms\/molecules\/etc.) and moles:  1 mole 6.022 × 1023 or 6.022 × 1023 1 mole When carrying out calculations involving numbers of molecules and\/or atoms, it is VERY important to add labels to our units to specify what is being quantified. This can help us see if we need to use other conversion factors in our problems. See the example below.  How many molecules are in 3.0 moles of water? How many hydrogen atoms are in 3.0 moles of water?  1. We begin with 3.0 moles of water and want to determine the number of molecules of water. To do this we need to use Avogadro’s number as shown below: 6.022 × 1023 molecules 3.0 moles H2 O ( ) = 1.8 × 1024 molecules H2 O 1 mole 2. To convert from molecules of water to number of hydrogen atoms, we need to see that 1 water molecule contains 2 hydrogen atoms. This can be written as a conversion factor and used to solve the problem as shown: 2 hydrogen atoms 1.8 × 1024 molecules H2 O ( ) = 3.6 × 1024 hydrogen atoms 1 molecule H2 O  Hint to try and understand moles:  When faced with confusing concepts in chemistry, like a mole, it can sometimes be helpful to think of more familiar examples with simpler numbers. Recall that a mole is like a dozen; it is a word that represents a number.  If you have 2 dozen eggs, how many do you have? 24 of course. How did you get that? You took the 2 and multiplied it by the number represented by a dozen (12).  So if you have 2 moles of molecules, you’ll follow the same pattern: 2 times the number represented by a mole (6.022 x 1023).  Likewise if I have 48 eggs, how many dozen do I have? 4 dozen. You get this by taking the number of objects and dividing by the number represented by a dozen.  So...how would you determine how many moles of molecules you have if you have 432 molecules? Take that number and divide it by the number represented by a mole.   Exercise 3    How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons      If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules      If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen     "
+  "body": " Moles  In chemistry, we often have to deal with very large numbers of things (ex. atoms or molecules). For convenience, we can rely of scientific notation to help us out. We can also use the term mole to help us out. A mole is a word that represents a number of things (similar to how a dozen means 12 things). The number represented by a mole is Avogadro’s number and has a value of . Why this weird number? You’ll have to wait until the next section of this lesson to find out. We can use the definition of a mole as a conversion factor to convert between numbers of things (atoms\/molecules\/etc.) and moles:    or  When carrying out calculations involving numbers of molecules and\/or atoms, it is VERY important to add labels to our units to specify what is being quantified. This can help us see if we need to use other conversion factors in our problems. See the example below.  How many molecules are in of water? How many hydrogen atoms are in of water?  1. We begin with of water and want to determine the number of molecules of water. To do this we need to use Avogadro’s number as shown below: molecules  ( ) = molecules  2. To convert from molecules of water to number of hydrogen atoms, we need to see that 1 water molecule contains 2 hydrogen atoms. This can be written as a conversion factor and used to solve the problem as shown: 2 hydrogen atoms molecules ( ) = hydrogen atoms    Hint to try and understand moles:  When faced with confusing concepts in chemistry, like a mole, it can sometimes be helpful to think of more familiar examples with simpler numbers. Recall that a mole is like a dozen; it is a word that represents a number.  If you have 2 dozen eggs, how many do you have? 24 of course. How did you get that? You took the 2 and multiplied it by the number represented by a dozen (12).  So if you have of molecules, you’ll follow the same pattern: 2 times the number represented by a mole ( ).  Likewise if I have 48 eggs, how many dozen do I have? 4 dozen. You get this by taking the number of objects and dividing by the number represented by a dozen.  So...how would you determine how many moles of molecules you have if you have ? Take that number and divide it by the number represented by a mole.   Exercise 3    How many molecules are in of carbon dioxide? How many carbon atoms? How many atoms? How many protons?     molecules, carbon atoms, atoms, protons      If you have hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of , then how many molecules of do you have? How many moles of molecules do you have?     H atoms, H atoms,  molecules      If of carbon dioxide are mixed with of water, how many moles of oxygen atoms are there? How many atoms of oxygen?     oxygen atoms, atoms of oxygen     "
 },
 {
   "id": "sec-rxns6-12-2",
@@ -7864,7 +7864,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.6.1",
   "title": "",
-  "body": "  How many molecules are in 0.366 moles of carbon dioxide? How many carbon atoms? How many atoms? How many protons?    2.20E23 molecules, 2.20E23 carbon atoms, 6.61E23 atoms, 4.85E24 protons   "
+  "body": "  How many molecules are in of carbon dioxide? How many carbon atoms? How many atoms? How many protons?     molecules, carbon atoms, atoms, protons   "
 },
 {
   "id": "sec-rxns6-12-3",
@@ -7873,7 +7873,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.6.2",
   "title": "",
-  "body": "  If you have 7.33 × 1026 hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of H2 , then how many molecules of H2 do you have? How many moles of H2 molecules do you have?    1220 moles H atoms, 3.67 x 1026 H atoms, 609 moles H2 molecules   "
+  "body": "  If you have hydrogen atoms, then how many moles of atoms do you have. If those hydrogen atoms are in the form of , then how many molecules of do you have? How many moles of molecules do you have?     H atoms, H atoms,  molecules   "
 },
 {
   "id": "sec-rxns6-12-4",
@@ -7882,7 +7882,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.6.3",
   "title": "",
-  "body": "  If 3.0 moles of carbon dioxide are mixed with 4.5 moles of water, how many moles of oxygen atoms are there? How many atoms of oxygen?    10.5 moles oxygen atoms, 6.32E24 atoms of oxygen   "
+  "body": "  If of carbon dioxide are mixed with of water, how many moles of oxygen atoms are there? How many atoms of oxygen?     oxygen atoms, atoms of oxygen   "
 },
 {
   "id": "sec-rxns8",
@@ -7891,7 +7891,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.7",
   "title": "Molar Mass and its use in chemistry",
-  "body": " Molar Mass and its use in chemistry  We’ve previously learned about atomic mass. Recall that it’s the average of the masses of the naturally occurring isotopes weighted according to their abundance. The value of the atomic mass can be found in the periodic table under the element symbol. By adding together the atomic masses of all of the elements in a compound, we can determine the molecular weight (for covalent compounds) or formula weight (for all compounds) of the compound in units of amu. Molecular weight and formula weight are calculated in the same way, but they apply to different compounds; molecular weight only applies to molecules (which only exist in covalent compounds) whereas formula weight applies to both ionic and covalent compounds. Molar mass is the mass of one mole of the compound. It has the same value as the formula weight and is calculated in the exact same way, but it has different units of grams per mole (g\/mol) instead of amu. Thus a single carbon atom has an atomic mass of 12.011 amu, and a mole of carbon atoms will weigh 12.011 g. This is the reason for the bizarre value of Avogadro’s number...it’s the number of atoms needed to give an atom the same weight in grams as its atomic mass in atomic mass units.  So we can find the molar mass of an element from the periodic table by taking the atomic mass and appending units of g\/mol to it. If we can do this, then we can also figure out the molar mass of entire compounds by simply adding together the molar masses of each of the component elements.  Molar mass is used as a conversion factor to convert between grams and moles and vice-versa. When coupled with Avogadro’s number, we can convert between grams and numbers of things (like molecules). This is summed up in the diagram shown below.   Exercise 1    What is the molar mass of the following compounds?     Chlorine gas    70.906 g\/mole      Magnesium chloride    95.211g\/mole      NaCl    58.433 g\/mole      CH4    16.043 g\/mole      Magnesium nitrate    148.315 g\/mole       If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?    0.597 moles chlorine gas      How much does 0.375 moles of NaCl weigh in grams?    21.9 g      How many chlorine atoms are in 5.73 mg of magnesium chloride?    7.25E19      What is the mass of 3.33 x 1017 hydrogen atoms in nanograms?    557 ng     "
+  "body": " Molar Mass and its use in chemistry  We’ve previously learned about atomic mass. Recall that it’s the average of the masses of the naturally occurring isotopes weighted according to their abundance. The value of the atomic mass can be found in the periodic table under the element symbol. By adding together the atomic masses of all of the elements in a compound, we can determine the molecular weight (for covalent compounds) or formula weight (for all compounds) of the compound in units of amu. Molecular weight and formula weight are calculated in the same way, but they apply to different compounds; molecular weight only applies to molecules (which only exist in covalent compounds) whereas formula weight applies to both ionic and covalent compounds. Molar mass is the mass of one mole of the compound. It has the same value as the formula weight and is calculated in the exact same way, but it has different units of grams per mole (g\/mol) instead of amu. Thus a single carbon atom has an atomic mass of , and a mole of carbon atoms will weigh 12.011 g. This is the reason for the bizarre value of Avogadro’s number...it’s the number of atoms needed to give an atom the same weight in grams as its atomic mass in atomic mass units.  So we can find the molar mass of an element from the periodic table by taking the atomic mass and appending units of g\/mol to it. If we can do this, then we can also figure out the molar mass of entire compounds by simply adding together the molar masses of each of the component elements.  Molar mass is used as a conversion factor to convert between grams and moles and vice-versa. When coupled with Avogadro’s number, we can convert between grams and numbers of things (like molecules). This is summed up in the diagram shown below.   Exercise 1    What is the molar mass of the following compounds?     Chlorine gas           Magnesium chloride                                   Magnesium nitrate            If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?     chlorine gas      How much does of weigh in grams?    21.9 g      How many chlorine atoms are in of magnesium chloride?           What is the mass of hydrogen atoms in nanograms?          "
 },
 {
   "id": "sec-rxns8-5-2-2",
@@ -7900,7 +7900,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.1",
   "title": "",
-  "body": "  Chlorine gas    70.906 g\/mole   "
+  "body": "  Chlorine gas        "
 },
 {
   "id": "sec-rxns8-5-2-3",
@@ -7909,7 +7909,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.2",
   "title": "",
-  "body": "  Magnesium chloride    95.211g\/mole   "
+  "body": "  Magnesium chloride        "
 },
 {
   "id": "sec-rxns8-5-2-4",
@@ -7918,7 +7918,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.3",
   "title": "",
-  "body": "  NaCl    58.433 g\/mole   "
+  "body": "           "
 },
 {
   "id": "sec-rxns8-5-2-5",
@@ -7927,7 +7927,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.4",
   "title": "",
-  "body": "  CH4    16.043 g\/mole   "
+  "body": "           "
 },
 {
   "id": "sec-rxns8-5-2-6",
@@ -7936,7 +7936,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.5",
   "title": "",
-  "body": "  Magnesium nitrate    148.315 g\/mole   "
+  "body": "  Magnesium nitrate        "
 },
 {
   "id": "sec-rxns8-5-3",
@@ -7945,7 +7945,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.6",
   "title": "",
-  "body": "  If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?    0.597 moles chlorine gas   "
+  "body": "  If you have 42.3 g of chlorine gas, how many moles of chlorine gas do you have?     chlorine gas   "
 },
 {
   "id": "sec-rxns8-5-4",
@@ -7954,7 +7954,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.7",
   "title": "",
-  "body": "  How much does 0.375 moles of NaCl weigh in grams?    21.9 g   "
+  "body": "  How much does of weigh in grams?    21.9 g   "
 },
 {
   "id": "sec-rxns8-5-5",
@@ -7963,7 +7963,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.8",
   "title": "",
-  "body": "  How many chlorine atoms are in 5.73 mg of magnesium chloride?    7.25E19   "
+  "body": "  How many chlorine atoms are in of magnesium chloride?        "
 },
 {
   "id": "sec-rxns8-5-6",
@@ -7972,7 +7972,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.7.9",
   "title": "",
-  "body": "  What is the mass of 3.33 x 1017 hydrogen atoms in nanograms?    557 ng   "
+  "body": "  What is the mass of hydrogen atoms in nanograms?        "
 },
 {
   "id": "sec-rxns9",
@@ -7981,7 +7981,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.8",
   "title": "Mole-mole relationships in chemical reactions",
-  "body": " Mole-mole relationships in chemical reactions  We just learned how to convert between moles and numbers of atoms\/molecules. When we’re talking about chemical reactions, it is often very useful to be able to convert between moles of one substance in the reaction and moles of another. This allows chemists to determine how much reactant is needed for a reaction to proceed or to determine how much product can be produced. To do these calculations, we NEED to have a balanced chemical reaction. If one is not provided as a part of a question, then you need to make sure to write one.  The balanced chemical reaction is key because the coefficients in front of the chemical formulas will be used to determine a conversion factor called a mole-mole ratio. For instance, the mock formula: 2A + B → 3C implies that for every 2 moles of A, the reaction would require one mole of B and then produce 3 moles of C. We can write these relationships as conversion factors: 2 moles A 2 moles of A 1 mole of B or or 1 mole B 3 moles of C 3 moles of C  Which one we choose is determined by which information we’re given and what information we’re trying to attain. See the example and helpful hint below:  For the reaction below: if we have 3.0 moles of aluminum chloride, then a) how many moles of sodium hydroxide would be needed to completely react with the aluminum chloride and b) assuming that we have an excess of sodium hydroxide, how many moles of aluminum hydroxide could be produced?  AlCl3 (aq ) + 3NaOH (aq ) → Al(OH)3 (s) + 3 NaCl (aq) 3 moles NaOH a) 3.0 moles of AlCl3 ( 1 mole AlCl ) = 9.0 moles of NaOH 3 1 mole Al(OH) 3 b) 3.0 moles of AlCl3 ( 1 mole AlCl ) = 3.0 moles Al(OH)3 3  Helpful hint:  It can be helpful to think of more obvious examples of ‘reactions’ that we are familiar with in our everyday lives. The problem solving strategies that you employ can be similarly used in chemistry problem solving. For instance, we all know that a tricycle has 3 wheels. If I have 6 wheels, how many tricycles can I make? The answer is hopefully easy for you to determine...we can make 2 tricycles with 6 wheels. How did you solve this and could you instead use dimensional analysis and a balanced reaction to solve it?  Balanced reaction: 1 tricycle frame + 3 wheels → 1 tricycle 1 tricycle Conversion factor: 3 wheels  1 tricycle Math with the conversion factor: 6 wheels ( 3 wheels ) = 2 tricycles   Exercise 2    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3 1 mole S8 1 mole S8 12 moles O2 or or 12 moles O2 8 moles SO3 8 moles SO3      If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? 204 moles of oxygen gas 136 moles of sulfur trioxide      You are carrying out the reaction of iron metal plus chlorine gas to produce iron (III) chloride. If you require 6 moles of iron (III) chloride, how many moles of iron and how many moles of chlorine gas would you need?     Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction 2Fe (s) + 3Cl2 (g) → 2FeCl3 (s)      Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction 2H2 (g) + O2 (g ) → 2H2 O if we start with 2 grams of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve 6 moles of iron and 9 moles of chlorine gas are required      "
+  "body": " Mole-mole relationships in chemical reactions  We just learned how to convert between moles and numbers of atoms\/molecules. When we’re talking about chemical reactions, it is often very useful to be able to convert between moles of one substance in the reaction and moles of another. This allows chemists to determine how much reactant is needed for a reaction to proceed or to determine how much product can be produced. To do these calculations, we NEED to have a balanced chemical reaction. If one is not provided as a part of a question, then you need to make sure to write one.  The balanced chemical reaction is key because the coefficients in front of the chemical formulas will be used to determine a conversion factor called a mole-mole ratio. For instance, the mock formula: implies that for every of A, the reaction would require one mole of B and then produce of C. We can write these relationships as conversion factors: A of A of B or or B of C of C  Which one we choose is determined by which information we’re given and what information we’re trying to attain. See the example and helpful hint below:  For the reaction below: if we have of aluminum chloride, then a) how many moles of sodium hydroxide would be needed to completely react with the aluminum chloride and b) assuming that we have an excess of sodium hydroxide, how many moles of aluminum hydroxide could be produced?     a) of ( AlCl ) = of 3 Al(OH) 3 b) of ( AlCl ) =  3  Helpful hint:  It can be helpful to think of more obvious examples of ‘reactions’ that we are familiar with in our everyday lives. The problem solving strategies that you employ can be similarly used in chemistry problem solving. For instance, we all know that a tricycle has 3 wheels. If I have 6 wheels, how many tricycles can I make? The answer is hopefully easy for you to determine...we can make 2 tricycles with 6 wheels. How did you solve this and could you instead use dimensional analysis and a balanced reaction to solve it?  Balanced reaction: 1 tricycle Conversion factor: 3 wheels  1 tricycle Math with the conversion factor: 6 wheels ( 3 wheels ) = 2 tricycles   Exercise 2    Write three mole-mole conversion factors based on the reaction shown below:     Write three mole-mole conversion factors based on the reaction shown below:       or or            If you have of , how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have of , how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? of oxygen gas of sulfur trioxide      You are carrying out the reaction of iron metal plus chlorine gas to produce iron (III) chloride. If you require of iron (III) chloride, how many moles of iron and how many moles of chlorine gas would you need?     Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction       Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction if we start with of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve of iron and of chlorine gas are required      "
 },
 {
   "id": "sec-rxns9-11-2",
@@ -7990,7 +7990,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.1",
   "title": "",
-  "body": "  Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3    Write three mole-mole conversion factors based on the reaction shown below: S8 + 12O2 → 8SO3 1 mole S8 1 mole S8 12 moles O2 or or 12 moles O2 8 moles SO3 8 moles SO3   "
+  "body": "  Write three mole-mole conversion factors based on the reaction shown below:     Write three mole-mole conversion factors based on the reaction shown below:       or or         "
 },
 {
   "id": "sec-rxns9-11-3",
@@ -7999,7 +7999,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.2",
   "title": "",
-  "body": "  If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have 17 moles of S8, how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? 204 moles of oxygen gas 136 moles of sulfur trioxide   "
+  "body": "  If you have of , how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form?    If you have of , how many moles of oxygen gas are required to completely react with it? If you have that much oxygen gas, then how many moles of sulfur trioxide can you possibly form? of oxygen gas of sulfur trioxide   "
 },
 {
   "id": "sec-rxns9-11-4-2",
@@ -8008,7 +8008,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.3",
   "title": "",
-  "body": "  Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction 2Fe (s) + 3Cl2 (g) → 2FeCl3 (s)   "
+  "body": "  Write a balanced chemical equation for this reaction    Write a balanced chemical equation for this reaction    "
 },
 {
   "id": "sec-rxns9-11-4-3",
@@ -8017,7 +8017,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.8.4",
   "title": "",
-  "body": "  Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction 2H2 (g) + O2 (g ) → 2H2 O if we start with 2 grams of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve 6 moles of iron and 9 moles of chlorine gas are required   "
+  "body": "  Figure out the mole-mole conversion factors that you need and solve Theoretical yield in chemical reactions In a chemical reaction, it is often surprising to students that the mass of the reactants does not match up with the mass of the products. The law of conservation of mass states that the total mass of all of the reactants must equal the mass of all of the products, but the masses of individual reactants or products often differ. For instance, in the reaction if we start with of hydrogen gas (and excess    Figure out the mole-mole conversion factors that you need and solve of iron and of chlorine gas are required   "
 },
 {
   "id": "sec-rxns7",
@@ -8026,7 +8026,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.9",
   "title": "Mass-mass relationships in chemical reactions",
-  "body": " Mass-mass relationships in chemical reactions  oxygen gas), we don’t get a mass of 2 grams of water; we get about 18 grams of water! Don’t the coefficients from the balanced reaction mean that for every 2 grams of hydrogen gas, we should get 2 grams of water?! No. The coefficients only apply when we’re counting things (numbers of molecules or moles of molecules); they do NOT apply to mass. Why not? The reason is that different molecules have different masses. We can illustrate this with a relatable example:  For the reaction, 4 tires + 1 car frame → 1 car, if each tire weighs 40 pounds, would you expect the car to weigh only 160 pounds? No. The reason is that the car frame adds mass. The car will have the mass of those tires, but also extra mass from the frame. Similarly, water has added mass from oxygen and thus the 2 grams of hydrogen gas end up producing a larger mass of water.  The previous section allows us to determine the number of moles of product that can be produced in a chemical reaction if we are given the number of moles of reactants. In a laboratory setting, we don’t have any tool that allows us to measure the number of moles of a reactant directly. Instead, we are able to determine the amount of reactants and products by measuring their mass. As we learned in the last lesson, we can easily convert between grams and moles using the molar mass of a substance. So if we are given a certain number of grams of reactant, we can determine the number of moles of that reactant. We can then convert that number of moles to moles of product using the balanced chemical reaction and the mole-mole conversion factor. Finally, we can convert between the number of moles of product and the number of grams of product by using the molar mass of that product. This procedure is summarized in the diagram below:   Exercise 3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide      For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams      For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams      For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?     "
+  "body": " Mass-mass relationships in chemical reactions  oxygen gas), we don’t get a mass of of water; we get about of water! Don’t the coefficients from the balanced reaction mean that for every of hydrogen gas, we should get of water?! No. The coefficients only apply when we’re counting things (numbers of molecules or moles of molecules); they do NOT apply to mass. Why not? The reason is that different molecules have different masses. We can illustrate this with a relatable example:  For the reaction, , if each tire weighs 40 pounds, would you expect the car to weigh only 160 pounds? No. The reason is that the car frame adds mass. The car will have the mass of those tires, but also extra mass from the frame. Similarly, water has added mass from oxygen and thus the of hydrogen gas end up producing a larger mass of water.  The previous section allows us to determine the number of moles of product that can be produced in a chemical reaction if we are given the number of moles of reactants. In a laboratory setting, we don’t have any tool that allows us to measure the number of moles of a reactant directly. Instead, we are able to determine the amount of reactants and products by measuring their mass. As we learned in the last lesson, we can easily convert between grams and moles using the molar mass of a substance. So if we are given a certain number of grams of reactant, we can determine the number of moles of that reactant. We can then convert that number of moles to moles of product using the balanced chemical reaction and the mole-mole conversion factor. Finally, we can convert between the number of moles of product and the number of grams of product by using the molar mass of that product. This procedure is summarized in the diagram below:   Exercise 3    For the reaction shown below, if you have of and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form?     For the reaction shown below, if you have of and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form?  of sulfur trioxide      For the reaction shown above, how many grams of oxygen gas would be required to react with of ?           For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?        For the reaction in #3, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?     "
 },
 {
   "id": "sec-rxns7-5-2",
@@ -8035,7 +8035,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.9.1",
   "title": "",
-  "body": "  For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3    For the reaction shown below, if you have 5.0 grams of S8 and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form? S8 + 12O2 → 8SO3 12 grams of sulfur trioxide   "
+  "body": "  For the reaction shown below, if you have of and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form?     For the reaction shown below, if you have of and an unlimited amount of oxygen gas, how many grams of sulfur trioxide could you theoretically form?  of sulfur trioxide   "
 },
 {
   "id": "sec-rxns7-5-3",
@@ -8044,7 +8044,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.9.2",
   "title": "",
-  "body": "  For the reaction shown above, how many grams of oxygen gas would be required to react with 5.0 grams of S8?    4 grams   "
+  "body": "  For the reaction shown above, how many grams of oxygen gas would be required to react with of ?        "
 },
 {
   "id": "sec-rxns7-5-4",
@@ -8053,7 +8053,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.9.3",
   "title": "",
-  "body": "  For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from 3.00 moles of potassium hydroxide and an unlimited amount of iron (II) chloride? 2KOH + FeCl2 → Fe(OH)2 + 2KCl 135 grams   "
+  "body": "  For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction of potassium hydroxide with iron (II) chloride, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?     "
 },
 {
   "id": "sec-rxns7-5-5",
@@ -8062,7 +8062,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "8.9.4",
   "title": "",
-  "body": "  For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from 3.0 grams of potassium hydroxide and an unlimited amount of iron (II) chloride?   "
+  "body": "  For the reaction in #3, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?    For the reaction in #3, how many grams of iron (II) hydroxide could form from of potassium hydroxide and an unlimited amount of iron (II) chloride?   "
 },
 {
   "id": "sec-rxns10",
@@ -8071,48 +8071,48 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.10",
   "title": "Reaction energetics: kinetics and thermodynamics",
-  "body": " Reaction energetics: kinetics and thermodynamics  In chemistry, it is often very helpful to know how fast reactions occur. Within our bodies, chemical reactions drive a wide range of different processes ranging from DNA replication, to movement, to nerve firing. Each of these processes must be carefully controlled. For instance, a nerve firing too quickly could disrupt muscle contractions leading to seizures or cardiac arrest. So in chemistry, what controls the speed of a reaction? The answer is that both the speed and extent of a reaction are controlled by the energetics of that reaction. Some reactions that we regard as impossible (ex. helium, a noble gas, reacting with oxygen) aren’t actually impossible...they’d just require a LOT of energy in order to make them occur. Energy similarly controls the speed of a chemical reaction.  How are we to understand the energetics of chemical reactions? Reaction energy diagrams can be very useful in this. A reaction energy diagram displays the energy level of the reactants and products of a reaction as well as the energy of the transition state. The transition state is a point that is midway between reactants and products. In most chemical reactions, bonds have to be broken before new bonds can form. The transition state generally represents a point at which the old bonds have been broken and the atoms  are positioned so that new bonds can form (see the figure below that depicts the formation of water from hydrogen gas and oxygen gas).  Reaction energy diagrams, like the one shown below, depict the difference between the energy level of the reactants and the transition state, a quantity known as the activation energy of the reaction. Activation energy is directly proportional to the speed or kinetics of a reaction. The higher the activation energy, the slower the reaction; the lower the activation energy, the faster the reaction. This is because as the activation energy of a  reaction increases, it becomes less and less probable that a given reactant molecule will have enough energy to transform from reactants into products. The less likely this is, the slower the reaction proceeds. Reactions can be sped up by adding in more energy (ie. by increasing the temperature) or by adding in catalysts. A catalyst is a substance that is able to speed up a reaction by decreasing the energy of the transition state. Importantly, a catalyst does this without being consumed by the reaction. A catalyst also does not affect the energies of the reactants or products.  Reaction energy diagrams also depict the relative energies of the reactants and products. The relationship between the reactants and products will determine which one is favored in the reaction, with nature always favoring the one that has the lowest energy (ie. the one that is the most stable). Reactions where the products are lower in energy than the reactants are called exergonic reactions. These reactions will proceed in the forward direction and will release energy. Reactions where the reactants are lower in energy than the products are called endergonic reactions. In those reactions, the reaction would tend to proceed in the reverse direction, creating more reactants from the products. In order to get the reaction to proceed in the forward direction, energy would have to be put into the reaction, often by applying heat. This is similar to how you have to expend energy to push an object uphill. It is important to understand that whether a reaction is exergonic or endergonic predicts the directionality of a reaction and whether or not there will be more reactants or products when the reaction finishes. It does NOT determine how fast a reaction occurs; that is only determined by the activation energy.  Sample reaction energy diagrams:  Transition Transition state state  Activation Energy Activation Energy energy energy Products Reactants  Reactants Products  Endergonic reaction Exergonic reaction  Transition state without a catalyst  Transition state with a catalyst  Energy Reactants  Products   Exercise 1    Enzymes are proteins that speed up chemical reactions in our bodies. Enzymes are not used up in chemical reactions. Thus enzymes are acting as __________ in the chemical reactions that they carryout.    Catalysts      Draw a reaction energy diagram that is exergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.     Draw a second diagram on top of this one that has the same reactants and products but that would occur faster       Draw a reaction energy diagram that is neither exergonic or endergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.     What would you expect the relative amounts of reactants and products to be at the conclusion of this reaction?    The amounts of products and reactants should be the same at the end       Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.    Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.      If we add heat to a reaction, the speed of the reaction will _____________(increase\/decrease)    Increase     "
+  "body": " Reaction energetics: kinetics and thermodynamics  In chemistry, it is often very helpful to know how fast reactions occur. Within our bodies, chemical reactions drive a wide range of different processes ranging from DNA replication, to movement, to nerve firing. Each of these processes must be carefully controlled. For instance, a nerve firing too quickly could disrupt muscle contractions leading to seizures or cardiac arrest. So in chemistry, what controls the speed of a reaction? The answer is that both the speed and extent of a reaction are controlled by the energetics of that reaction. Some reactions that we regard as impossible (ex. helium, a noble gas, reacting with oxygen) aren’t actually impossible...they’d just require a LOT of energy in order to make them occur. Energy similarly controls the speed of a chemical reaction.  How are we to understand the energetics of chemical reactions? Reaction energy diagrams can be very useful in this. A reaction energy diagram displays the energy level of the reactants and products of a reaction as well as the energy of the transition state. The transition state is a point that is midway between reactants and products. In most chemical reactions, bonds have to be broken before new bonds can form. The transition state generally represents a point at which the old bonds have been broken and the atoms are positioned so that new bonds can form (see the figure below that depicts the formation of water from hydrogen gas and oxygen gas).  Reaction energy diagrams, like the one shown below, depict the difference between the energy level of the reactants and the transition state, a quantity known as the activation energy of the reaction. Activation energy is directly proportional to the speed or kinetics of a reaction. The higher the activation energy, the slower the reaction; the lower the activation energy, the faster the reaction. This is because as the activation energy of a reaction increases, it becomes less and less probable that a given reactant molecule will have enough energy to transform from reactants into products. The less likely this is, the slower the reaction proceeds. Reactions can be sped up by adding in more energy (ie. by increasing the temperature) or by adding in catalysts. A catalyst is a substance that is able to speed up a reaction by decreasing the energy of the transition state. Importantly, a catalyst does this without being consumed by the reaction. A catalyst also does not affect the energies of the reactants or products.  Reaction energy diagrams also depict the relative energies of the reactants and products. The relationship between the reactants and products will determine which one is favored in the reaction, with nature always favoring the one that has the lowest energy (ie. the one that is the most stable). Reactions where the products are lower in energy than the reactants are called exergonic reactions. These reactions will proceed in the forward direction and will release energy. Reactions where the reactants are lower in energy than the products are called endergonic reactions. In those reactions, the reaction would tend to proceed in the reverse direction, creating more reactants from the products. In order to get the reaction to proceed in the forward direction, energy would have to be put into the reaction, often by applying heat. This is similar to how you have to expend energy to push an object uphill. It is important to understand that whether a reaction is exergonic or endergonic predicts the directionality of a reaction and whether or not there will be more reactants or products when the reaction finishes. It does NOT determine how fast a reaction occurs; that is only determined by the activation energy.  Sample reaction energy diagrams:  Transition Transition state state  Activation Energy Activation Energy energy energy Products Reactants  Reactants Products  Endergonic reaction Exergonic reaction  Transition state without a catalyst  Transition state with a catalyst  Energy Reactants  Products   Exercise 1    Enzymes are proteins that speed up chemical reactions in our bodies. Enzymes are not used up in chemical reactions. Thus enzymes are acting as __________ in the chemical reactions that they carryout.    Catalysts      Draw a reaction energy diagram that is exergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.     Draw a second diagram on top of this one that has the same reactants and products but that would occur faster       Draw a reaction energy diagram that is neither exergonic or endergonic. Label the reactants and products and transition state and mark the activation energy on the diagram.     What would you expect the relative amounts of reactants and products to be at the conclusion of this reaction?    The amounts of products and reactants should be the same at the end       Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.    Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.      If we add heat to a reaction, the speed of the reaction will _____________(increase\/decrease)    Increase     "
 },
 {
-  "id": "sec-rxns10-17-2",
+  "id": "sec-rxns10-15-2",
   "level": "2",
-  "url": "sec-rxns10.html#sec-rxns10-17-2",
+  "url": "sec-rxns10.html#sec-rxns10-15-2",
   "type": "Exercise",
   "number": "8.10.1",
   "title": "",
   "body": "  Enzymes are proteins that speed up chemical reactions in our bodies. Enzymes are not used up in chemical reactions. Thus enzymes are acting as __________ in the chemical reactions that they carryout.    Catalysts   "
 },
 {
-  "id": "sec-rxns10-17-3-2",
+  "id": "sec-rxns10-15-3-2",
   "level": "2",
-  "url": "sec-rxns10.html#sec-rxns10-17-3-2",
+  "url": "sec-rxns10.html#sec-rxns10-15-3-2",
   "type": "Exercise",
   "number": "8.10.2",
   "title": "",
   "body": "  Draw a second diagram on top of this one that has the same reactants and products but that would occur faster   "
 },
 {
-  "id": "sec-rxns10-17-4-2",
+  "id": "sec-rxns10-15-4-2",
   "level": "2",
-  "url": "sec-rxns10.html#sec-rxns10-17-4-2",
+  "url": "sec-rxns10.html#sec-rxns10-15-4-2",
   "type": "Exercise",
   "number": "8.10.3",
   "title": "",
   "body": "  What would you expect the relative amounts of reactants and products to be at the conclusion of this reaction?    The amounts of products and reactants should be the same at the end   "
 },
 {
-  "id": "sec-rxns10-17-5",
+  "id": "sec-rxns10-15-5",
   "level": "2",
-  "url": "sec-rxns10.html#sec-rxns10-17-5",
+  "url": "sec-rxns10.html#sec-rxns10-15-5",
   "type": "Exercise",
   "number": "8.10.4",
   "title": "",
   "body": "  Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.    Draw a reaction energy diagram where the reactants would almost entirely be converted to products, but where the reaction is also extremely slow.   "
 },
 {
-  "id": "sec-rxns10-17-6",
+  "id": "sec-rxns10-15-6",
   "level": "2",
-  "url": "sec-rxns10.html#sec-rxns10-17-6",
+  "url": "sec-rxns10.html#sec-rxns10-15-6",
   "type": "Exercise",
   "number": "8.10.5",
   "title": "",
@@ -8125,7 +8125,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "8.11",
   "title": "Reaction equilibrium and Le Chatelier’s principle",
-  "body": " Reaction equilibrium and Le Chatelier’s principle  Our discussion of reaction energy diagrams and energetics revealed that chemical reactions are reversible. Chemical reactions, once started proceed both in the forward and reverse directions, however it’s often the case that one direction is preferred over the other. For the purposes of this discussion, let’s assume that the forward direction is preferred over the reverse direction (ie. the reaction is exergonic). The net reaction initially proceeds in the forward direction because the forward reaction is occurring faster than the reverse reaction. However, as time goes on, the reactants begin to run out, slowing down the forward reaction, while the reverse reaction begins to speed up. The reaction finally stops once it reaches equilibrium. At this point, the amount of reactants and products is no longer changing because the speed of the forward reaction is equal to the speed of the reverse reaction. Once reactions reach equilibrium, the net reaction can once again proceed (either in the forward or reverse direction) if the equilibrium is disturbed. We can predict the outcome of this disturbance by applying Le Chatelier’s principle. Le Chatelier’s principle states that a reaction at equilibrium will respond to changes by trying to restore the equilibrium. This can be easily illustrated by viewing chemical reactions as a seesaw. A reaction at equilibrium can be thought of as a balanced seesaw; once a disturbance occurs, then the balance of the seesaw is broken. In order to restore the equilibrium, reactants must either convert to products or products must convert to reactants until the balance is once again restored.  Progress of a reaction towards equilibrium:  Reactants Products Reactants Products Reactants Products  To begin, there is a lot of As the reaction proceeds, the Eventually, the rate of the reactants and not a lot of amount of reactants forward reaction equals the products. Thus, the forward decreases and the amount of rate of the reverse reaction. reaction is more likely to products increases. The At this point, the reaction has occur and occurs faster forward reaction slows down reached equilibrium and the and the reverse reaction concentration of reactants speeds up. and products no longer changes.  A useful model for understanding Le Chatelier’s Principle:  Products  Reactants Products Reactants  We can depict a reaction at equilibrium as In this example, reactants were added to a balanced seesaw. the reaction. This weighs down the reactant side of the seesaw. In order to restore balance (equilibrium) reactants must convert to products. Thus, the net reaction will proceed in the forward direction.   Exercise 2    For a given chemical reaction, if the forward reaction has a rate of 4 and the reverse reaction has a rate of 6, then what is the direction and net rate of the reaction?     What will happen to the forward and reverse rates as the reaction approaches equilibrium?    The reverse rate will slow down as the products are used up. The forward rate will speed up as reactants are created       Consider the following reaction that has reached equilibrium: 2NaOH(aq) + CaCl2 (aq) → Ca(OH)2 (s) + 2NaCl(aq) + heat Which direction would you expect the net reaction to proceed in if:     Sodium chloride is added to the reaction    Toward reactants (reverse)      The precipitate is removed from the reaction    Towards products (forward)      The reaction is cooled    Towards products (forward)      The reaction is heated    Towards reactants (reverse)      Sodium hydroxide is added to the reaction    Towards products (forward)      Calcium chloride is added to the reaction    Towards products (forward)       In chemical manufacturing, in order to maximize the amount of product formed, the product is often removed from the reaction as the reaction proceeds. Why does this help?    Removing product causes the reaction to shift towards products by Le Chatelier’s principle     "
+  "body": " Reaction equilibrium and Le Chatelier’s principle  Our discussion of reaction energy diagrams and energetics revealed that chemical reactions are reversible. Chemical reactions, once started proceed both in the forward and reverse directions, however it’s often the case that one direction is preferred over the other. For the purposes of this discussion, let’s assume that the forward direction is preferred over the reverse direction (ie. the reaction is exergonic). The net reaction initially proceeds in the forward direction because the forward reaction is occurring faster than the reverse reaction. However, as time goes on, the reactants begin to run out, slowing down the forward reaction, while the reverse reaction begins to speed up. The reaction finally stops once it reaches equilibrium. At this point, the amount of reactants and products is no longer changing because the speed of the forward reaction is equal to the speed of the reverse reaction. Once reactions reach equilibrium, the net reaction can once again proceed (either in the forward or reverse direction) if the equilibrium is disturbed. We can predict the outcome of this disturbance by applying Le Chatelier’s principle. Le Chatelier’s principle states that a reaction at equilibrium will respond to changes by trying to restore the equilibrium. This can be easily illustrated by viewing chemical reactions as a seesaw. A reaction at equilibrium can be thought of as a balanced seesaw; once a disturbance occurs, then the balance of the seesaw is broken. In order to restore the equilibrium, reactants must either convert to products or products must convert to reactants until the balance is once again restored.  Progress of a reaction towards equilibrium:  Reactants Products Reactants Products Reactants Products  To begin, there is a lot of As the reaction proceeds, the Eventually, the rate of the reactants and not a lot of amount of reactants forward reaction equals the products. Thus, the forward decreases and the amount of rate of the reverse reaction. reaction is more likely to products increases. The At this point, the reaction has occur and occurs faster forward reaction slows down reached equilibrium and the and the reverse reaction concentration of reactants speeds up. and products no longer changes.  A useful model for understanding Le Chatelier’s Principle:  Products  Reactants Products Reactants  We can depict a reaction at equilibrium as In this example, reactants were added to a balanced seesaw. the reaction. This weighs down the reactant side of the seesaw. In order to restore balance (equilibrium) reactants must convert to products. Thus, the net reaction will proceed in the forward direction.   Exercise 2    For a given chemical reaction, if the forward reaction has a rate of 4 and the reverse reaction has a rate of 6, then what is the direction and net rate of the reaction?     What will happen to the forward and reverse rates as the reaction approaches equilibrium?    The reverse rate will slow down as the products are used up. The forward rate will speed up as reactants are created       Consider the following reaction that has reached equilibrium: Which direction would you expect the net reaction to proceed in if:     Sodium chloride is added to the reaction    Toward reactants (reverse)      The precipitate is removed from the reaction    Towards products (forward)      The reaction is cooled    Towards products (forward)      The reaction is heated    Towards reactants (reverse)      Sodium hydroxide is added to the reaction    Towards products (forward)      Calcium chloride is added to the reaction    Towards products (forward)       In chemical manufacturing, in order to maximize the amount of product formed, the product is often removed from the reaction as the reaction proceeds. Why does this help?    Removing product causes the reaction to shift towards products by Le Chatelier’s principle     "
 },
 {
   "id": "sec-rxns11-10-2-2",
@@ -8854,7 +8854,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.1",
   "title": "Solutions with covalent vs. ionic compounds",
-  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we've made a solutions . The substance that there is less of is called the solute and the substance that there is more of is called the solvent . When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we're going to be considering cases where water is the solvent.   Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution    Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their separate states.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we've learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (ionic bonds, dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let's draw some parallels to reaction energy diagrams that we've learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving 'reaction' (we usually don't actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds     Exercises    Will the following compounds break apart into ions or remain intact when dissolved in water?     CH4    No      CH2 O    No      KBr    Yes      NH4 Cl    Yes      CuSO4    Yes      CH3 NH2    No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?     CH4    London dispersion      H2 O    London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
+  "body": " Solutions with covalent vs. ionic compounds  When we dissolve one substance into another to make a homogeneous mixture, we've made a solutions . The substance that there is less of is called the solute and the substance that there is more of is called the solvent . When discussing preparing a solution, we generally state that the solute is dissolved in the solvent (ex. sodium chloride is dissolved into water—the sodium chloride is the solute and water is the solvent). For the most part in this course, we're going to be considering cases where water is the solvent.   Forming a solution   A figure showing sugar (the solute) being dissolved in water (the solvent) to form a solution    Some compounds are capable of dissolving in water, whereas others cannot. Why is it that some compounds are able to dissolve in water and others are not? There are a few considerations that we need to take into account to completely answer this question. Ultimately, though, a compound will dissolve if the bonds that the compound forms with water are stronger than the bonds that the compound and water both had in their separate states.  To understand this, we must first understand what happens when a compound does successfully dissolve in water. If the compound is an ionic compound, then the compound will break apart into its individual ions as we've learned previously. Each of these ions will form new bonds with the polar water molecules that surround them. Recall that if a molecule is polar, that it has a partially negatively charged end and a partially positively charged end. Thus the partially negatively charged end of water is attracted to cations from the ionic compound and the partially positively charged end of water is attracted to anions from the ionic compound. These types of interactions are called ion-dipole interactions. Covalent compounds, on the other hand, do NOT break apart when dissolved in water. Instead the covalent compound separates from other identical molecules and forms new bonds with water using the intermolecular forces we learned about previously (ionic bonds, dipole-dipole interactions, hydrogen bonding, and London dispersion forces).  Now that we understand what has to happen to dissolve a compound, let's draw some parallels to reaction energy diagrams that we've learned about in Chapter 7. We saw that we can indicate the energy levels of the reactants and products, and that the transition state separates them. The same is true for a dissolving 'reaction' (we usually don't actually consider this to be a reaction since no new compound forms). In order for our starting compounds (reactants) to dissolve in one another (products), bonds must be broken (transition state) so new bonds can form. If the energy of the products is lower than the energy of the reactants, then the compound will dissolve because the dissolved state is more stable than the starting point. If the energy of the starting compound and water is lower than the energy of them dissolved together, then the compound will not dissolve because the undissolved state is more stable.   A comparison the energetics of dissolving for a soluble vs. insoluble compound   A diagram that shows that the energy of the products is lower than the reactants for soluble compounds, but that the energy of the products is higher than the reactants for insoluble compounds     Exercises    Will the following compounds break apart into ions or remain intact when dissolved in water?          No           No           Yes           Yes           Yes           No       Draw a reaction energy diagram for     A compound that will dissolve    A compound that will dissolve      A compound that won’t dissolve    A compound that won’t dissolve       What types of intermolecular forces would hold together the following covalent molecules?          London dispersion           London dispersion, dipole-dipole, hydrogen bonds       In the previous problem if you try to dissolve the compound in part a into water (part b)...     What new types of bonds would form between the compound in a and the compound in part b?    London dispersion forces      What types of bonds would you have to break (hint: think about 3a and 3b)    London dispersion forces, dipole-dipole, hydrogen bonds      Draw a reaction energy diagram showing what would happen. (If you have to break strong bonds, then you go up a large amount to reach the transition state, but a small amount for weak bonds. If you form strong bonds, then you descend a large amount from the transition state, but for weak bonds then you only descend a small amount).      Based on this diagram, would this compound dissolve or not?    Will not dissolve      Was the compound is 3a polar or non-polar? Is water polar or non-polar? Do you think polar or non-polar covalent compounds are more likely to dissolve in water? Why?    Non-polar, polar, water will dissolve polar things because it can make stronger bonds with polar solutes than it can with non-polar solutes, thus stabilizing the products more      "
 },
 {
   "id": "sec-solutions1-2",
@@ -8890,7 +8890,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.1",
   "title": "",
-  "body": "  CH4    No   "
+  "body": "       No   "
 },
 {
   "id": "sec-solutions1-8-2-3",
@@ -8899,7 +8899,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.2",
   "title": "",
-  "body": "  CH2 O    No   "
+  "body": "       No   "
 },
 {
   "id": "sec-solutions1-8-2-4",
@@ -8908,7 +8908,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.3",
   "title": "",
-  "body": "  KBr    Yes   "
+  "body": "       Yes   "
 },
 {
   "id": "sec-solutions1-8-2-5",
@@ -8917,7 +8917,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.4",
   "title": "",
-  "body": "  NH4 Cl    Yes   "
+  "body": "       Yes   "
 },
 {
   "id": "sec-solutions1-8-2-6",
@@ -8926,7 +8926,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.5",
   "title": "",
-  "body": "  CuSO4    Yes   "
+  "body": "       Yes   "
 },
 {
   "id": "sec-solutions1-8-2-7",
@@ -8935,7 +8935,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.6",
   "title": "",
-  "body": "  CH3 NH2    No   "
+  "body": "       No   "
 },
 {
   "id": "sec-solutions1-8-3-2",
@@ -8962,7 +8962,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.9",
   "title": "",
-  "body": "  CH4    London dispersion   "
+  "body": "       London dispersion   "
 },
 {
   "id": "sec-solutions1-8-4-3",
@@ -8971,7 +8971,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.1.10",
   "title": "",
-  "body": "  H2 O    London dispersion, dipole-dipole, hydrogen bonds   "
+  "body": "       London dispersion, dipole-dipole, hydrogen bonds   "
 },
 {
   "id": "sec-solutions1-8-5-2",
@@ -9025,7 +9025,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.2",
   "title": "Solubility and temperature effects",
-  "body": " Solubility and temperature effects   Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at 20 degrees Celsius, the solubility of NaCl is approximately 35g\/100g water. This means that 100 g of water can dissolve up to 38 g of sodium chloride. If we try to dissolve 17 g of sodium chloride into 100 g of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated.  A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve 17g of sodium chloride into 100 g of water, it was easy to determine that it wasn't saturated because 17g NaCl\/100g water is clearly less than the solubility of 35g NaCl\/100g water since the amount of water is the same. However, could we dissolve 17.5 g of NaCl into 43 g of water??? To determine this we want to convert this ratio into one that has 100 g of water in it, allowing us to compare it to the solubility of NaCl in water. We do this as shown below:       Since 40.7 g is more than the solubility of 35g of NaCl in 100 g of water, this amount of sodium chloride would not completely dissolve and we'd end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas.  For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercises    If the solubility of sodium nitrate is 88 g sodium nitrate\/100 g water, then would it be possible to dissolve the following?     75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes      95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no      44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes      57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes      5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes       The solubility listed above is the solubility of sodium nitrate at 20 degrees Celsius. At 80 degrees Celsius the solubility of sodium nitrate is 148 g sodium nitrate\/100 g water.     How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g      How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g      If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g      "
+  "body": " Solubility and temperature effects   Solubility is the a term that describes the amount of one compound that can dissolve into water. For instance, at , the solubility of is approximately . This means that of water can dissolve up to of sodium chloride. If we try to dissolve of sodium chloride into of water, it will dissolve, forming a solution. We could still dissolve more sodium chloride into that solution because it is not yet saturated.  A saturated solution is one where the maximum possible amount of solute has dissolved into water. In the example above where we tried to dissolve of sodium chloride into of water, it was easy to determine that it wasn't saturated because is clearly less than the solubility of since the amount of water is the same. However, could we dissolve of into of water??? To determine this we want to convert this ratio into one that has of water in it, allowing us to compare it to the solubility of in water. We do this as shown below:       Since is more than the solubility of of in of water, this amount of sodium chloride would not completely dissolve and we'd end up with a saturated solution with some undissolved solid sodium chloride left over.  Changing the temperature often has an impact on how much of a compound can dissolve in water. The effect differs depending on whether the compound that is being dissolved is a solid or a gas.  For most solids, the solubility of a solid increases as the temperature increases. Thus we can dissolve more solute at higher temperatures. If a saturated solution is prepared at high temperatures and the temperature is then decreased, we can end up in a situation where we have more solid dissolved in water than the solubility limit allows for and this is called a supersaturated solution . These solutions are unstable and will spontaneously eject solid from the solution causing it to crystallize and reform the solid.  The solubility of gases, on the other hand, decreases with increasing temperature. As the temperature rises, less gas can remain dissolved in water. This is part of the reason why opened soda remains carbonated in the refrigerator but rapidly goes flat if kept warm.   Exercises    If the solubility of sodium nitrate is sodium nitrate\/ water, then would it be possible to dissolve the following?      sodium nitrate in water     sodium nitrate in water--yes       sodium nitrate in water     sodium nitrate in water--no       sodium nitrate in water     sodium nitrate in water is equivalent to sodium nitrate in water--yes       sodium nitrate in water     sodium nitrate in water is equivalent to of sodium nitrate in of water--yes       sodium nitrate in water     sodium nitrate in water is equivalent to sodium nitrate in water--yes       The solubility listed above is the solubility of sodium nitrate at . At the solubility of sodium nitrate is .     How many grams of sodium nitrate could dissolve in of water at ?           How many grams of sodium nitrate could dissolve in of water at            If you prepared the saturated solution in part a and then cooled it to , how much solid sodium nitrate would you expect to crystalize?           "
 },
 {
   "id": "sec-solutions2-2",
@@ -9061,7 +9061,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.1",
   "title": "",
-  "body": "  75 g sodium nitrate in 100 g water    75 g sodium nitrate in 100 g water--yes   "
+  "body": "   sodium nitrate in water     sodium nitrate in water--yes   "
 },
 {
   "id": "sec-solutions2-10-2-3",
@@ -9070,7 +9070,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.2",
   "title": "",
-  "body": "  95 g sodium nitrate in 100 g water    95 g sodium nitrate in 100 g water--no   "
+  "body": "   sodium nitrate in water     sodium nitrate in water--no   "
 },
 {
   "id": "sec-solutions2-10-2-4",
@@ -9079,7 +9079,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.3",
   "title": "",
-  "body": "  44 g sodium nitrate in 50 g water    44 g sodium nitrate in 50 g water is equivalent to 88 g sodium nitrate in 100 g water--yes   "
+  "body": "   sodium nitrate in water     sodium nitrate in water is equivalent to sodium nitrate in water--yes   "
 },
 {
   "id": "sec-solutions2-10-2-5",
@@ -9088,7 +9088,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.4",
   "title": "",
-  "body": "  57 g sodium nitrate in 72 g water    57 g sodium nitrate in 72 g water is equivalent to 79 g of sodium nitrate in 100 g of water--yes   "
+  "body": "   sodium nitrate in water     sodium nitrate in water is equivalent to of sodium nitrate in of water--yes   "
 },
 {
   "id": "sec-solutions2-10-2-6",
@@ -9097,7 +9097,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.5",
   "title": "",
-  "body": "  5 g sodium nitrate in 9 g water    5 g sodium nitrate in 9 g water is equivalent to 56 g sodium nitrate in 100 g water--yes   "
+  "body": "   sodium nitrate in water     sodium nitrate in water is equivalent to sodium nitrate in water--yes   "
 },
 {
   "id": "sec-solutions2-10-3-2",
@@ -9106,7 +9106,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.6",
   "title": "",
-  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 80 degrees Celsius?    59.2 g   "
+  "body": "  How many grams of sodium nitrate could dissolve in of water at ?        "
 },
 {
   "id": "sec-solutions2-10-3-3",
@@ -9115,7 +9115,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.7",
   "title": "",
-  "body": "  How many grams of sodium nitrate could dissolve in 40.0 g of water at 20 degrees Celsius    35.2 g   "
+  "body": "  How many grams of sodium nitrate could dissolve in of water at         "
 },
 {
   "id": "sec-solutions2-10-3-4",
@@ -9124,7 +9124,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.2.8",
   "title": "",
-  "body": "  If you prepared the saturated solution in part a and then cooled it to 20 degrees Celsius, how much solid sodium nitrate would you expect to crystalize?    59.2-35.2=24.0 g   "
+  "body": "  If you prepared the saturated solution in part a and then cooled it to , how much solid sodium nitrate would you expect to crystalize?        "
 },
 {
   "id": "sec-solutions3",
@@ -9133,7 +9133,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.3",
   "title": "Measuring concentration with percent composition",
-  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:       When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we're using match the units in the formula...if they don't we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution. To do this, we must turn the percent composition into a conversion factor. See the example below:   Example problem showing how to use a percent composition as a conversion factor   Problem: How many grams of mL of ethanol are in a 250mL bottle that contains a 65% v\/v solution?   Solution:    Create a conversion factor using the percent composition.    Since the values are percents, the bottom will always have a value of 100    65% v\/v ethanol=      Use dimensional analysis              Exercises    Calculate the mass-mass percent for the following solutions     3 g NaCl dissolved in 55 g solution    5% m\/m      3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m      0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m       Calculate the mass-volume percent for the following solutions     3 g NaCl dissolved in 45 mL of solution    7% m\/v      175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v       Calculate the volume-volume percent for the following solutions     32 mL of ethanol dissolved in 100 mL of solution    32% v\/v      165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v       How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g      How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    Use the mass-volume percentage to find the number of grams of NaCl. Then, how do we go from grams to moles?    0.34 moles     "
+  "body": " Measuring concentration with percent composition  When dealing with solutions, it is often very important to know how much solute is dissolved into a certain amount of volume of the solution. This quantity is called the concentration of the solution. We have several different ways of expressing concentration. The first way that we’ll learn about is percent composition. There are three different forms of percent composition, mass-mass percent composition (% m\/m), mass- volume percent composition (% m\/v), and volume-volume percent composition (% v\/v). The formulas for each is shown below:       When calculating a percent composition, we simply have to use the formulas above, but we must make sure that the units that we're using match the units in the formula...if they don't we need to do some unit conversions first.  We can also use percent composition to figure out how much solute is dissolved in a certain volume (or mass) of solution. To do this, we must turn the percent composition into a conversion factor. See the example below:   Example problem showing how to use a percent composition as a conversion factor   Problem: How many grams of mL of ethanol are in a bottle that contains a solution?   Solution:     Create a conversion factor using the percent composition.    Since the values are percents, the bottom will always have a value of 100     ethanol=      Use dimensional analysis             Exercises    Calculate the mass-mass percent for the following solutions       dissolved in solution             dissolved in of water (note that this is NOT the grams of solution!)            of ethanol dissolved in of solution            Calculate the mass-volume percent for the following solutions       dissolved in of solution             dissolved in of solution            Calculate the volume-volume percent for the following solutions      of ethanol dissolved in of solution            of ethanol dissolved in of solution            How many grams of are in of a solution?           How many moles of are in of a solution?    Use the mass-volume percentage to find the number of grams of . Then, how do we go from grams to moles?          "
 },
 {
   "id": "sec-solutions3-2",
@@ -9169,7 +9169,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.1",
   "title": "",
-  "body": "  3 g NaCl dissolved in 55 g solution    5% m\/m   "
+  "body": "    dissolved in solution        "
 },
 {
   "id": "sec-solutions3-7-2-3",
@@ -9178,7 +9178,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.2",
   "title": "",
-  "body": "  3g NaCl dissolved in 44 g of water (note that this is NOT the grams of solution!)    6% m\/m   "
+  "body": "    dissolved in of water (note that this is NOT the grams of solution!)        "
 },
 {
   "id": "sec-solutions3-7-2-4",
@@ -9187,7 +9187,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.3",
   "title": "",
-  "body": "  0.30kg of ethanol dissolved in 4300 g of solution    7.0 % m\/m   "
+  "body": "   of ethanol dissolved in of solution        "
 },
 {
   "id": "sec-solutions3-7-3-2",
@@ -9196,7 +9196,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.4",
   "title": "",
-  "body": "  3 g NaCl dissolved in 45 mL of solution    7% m\/v   "
+  "body": "    dissolved in of solution        "
 },
 {
   "id": "sec-solutions3-7-3-3",
@@ -9205,7 +9205,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.5",
   "title": "",
-  "body": "  175 mg NaCl dissolved in 5.0 mL of solution    3.5 % m\/v   "
+  "body": "    dissolved in of solution        "
 },
 {
   "id": "sec-solutions3-7-4-2",
@@ -9214,7 +9214,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.6",
   "title": "",
-  "body": "  32 mL of ethanol dissolved in 100 mL of solution    32% v\/v   "
+  "body": "   of ethanol dissolved in of solution        "
 },
 {
   "id": "sec-solutions3-7-4-3",
@@ -9223,7 +9223,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.7",
   "title": "",
-  "body": "  165 μL of ethanol dissolved in 2.50 mL of solution    6.60% v\/v   "
+  "body": "   of ethanol dissolved in of solution        "
 },
 {
   "id": "sec-solutions3-7-5",
@@ -9232,7 +9232,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.8",
   "title": "",
-  "body": "  How many grams of NaCl are in 35 mL of a 1.0 % m\/v solution?    0.35 g   "
+  "body": "  How many grams of are in of a solution?        "
 },
 {
   "id": "sec-solutions3-7-6",
@@ -9241,7 +9241,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.3.9",
   "title": "",
-  "body": "  How many moles of NaCl are in 1.0L of a 2.0 % m\/v solution?    Use the mass-volume percentage to find the number of grams of NaCl. Then, how do we go from grams to moles?    0.34 moles   "
+  "body": "  How many moles of are in of a solution?    Use the mass-volume percentage to find the number of grams of . Then, how do we go from grams to moles?        "
 },
 {
   "id": "sec-solutions4",
@@ -9250,7 +9250,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.4",
   "title": "Molarity",
-  "body": " Molarity  Chemists often use a different unit of concentration because it's often helpful to know the number of moles of solute dissolved in solution (because knowing the number of moles is critical if we're doing any calculations involving chemical reactions). This unit of concentration is called molarity . Molarity has a symbol of capital M, which is a shorthand abbreviation for moles\/L. When reading concentrations that use molarity, the symbol M is typically read as 'molar'; so a 3.0 M solution of sodium chloride is often said to be a 3.0 molar solution of sodium chloride. Thus a 3.0 M solution of sodium chloride has 3.0 moles of sodium chloride dissolved in 1 L of solution. This can be expressed using the following formula:    A dad joke to increase your 'concentration'...   A chemistry teacher telling his embarrassed students a dad joke: Why should chemistry students always tell the truth? Because they have high 'molarity' standards.   This image and joke were made with the help of ChatGPT.   Thus, if 1.5 moles of solute is dissolved in 0.50 L of solution, the molarity can be calculated as follows:   We can also append the metric prefixes on molarity (ex. mM; read as millimolar). The prefix pertains to the number of moles of solute. So mM means   Many times in chemistry, molarity must be used as a conversion factor. If we want to convert between liters of solution and moles of solute, molarity is the perfect conversion factor to use. To do this, we simply take the molarity and write it as that many moles of solute in 1 L of solution. See the example below:   See the example problem below where molarity is used as a conversion factor   Using molarity as a conversion factor   Problem: How many grams of sodium hydroxide are contained in a 150 mL of a 500.0 mM solution of sodium hydroxide.   Solution:    Convert volume and molarity to their base units. Volume should be in liters and we want to remove prefixes from molarity                Write molarity as a conversion factor           Do dimensional analysis:         Once we know the number of moles, we can calculate the number of grams using the molar mass of sodium hydroxide (NaOH)              Exercises    Calculate the molarity of the following solutions:     0.15 moles of NaCl dissolved in 0.37 L of solution    0.41M      0.070 moles of NaCl dissolved in 175 mL of solution    0.40 M      17 g of NaCl dissolved in 570 mL of solution    0.51 M       How many moles of sodium chloride are needed to prepare 45 mL of a 3.0M solution?    0.14 moles      How many grams of sodium chloride are needed to prepare 45 mL of a 3.0 M solution?    7.9g      How many mg of sodium chloride are contained in 1.00 mL of a 175 mM solution of sodium chloride?    10.2 mg     "
+  "body": " Molarity  Chemists often use a different unit of concentration because it's often helpful to know the number of moles of solute dissolved in solution (because knowing the number of moles is critical if we're doing any calculations involving chemical reactions). This unit of concentration is called molarity . Molarity has a symbol of capital M, which is a shorthand abbreviation for . When reading concentrations that use molarity, the symbol M is typically read as 'molar'; so a solution of sodium chloride is often said to be a 3.0 molar solution of sodium chloride. Thus a solution of sodium chloride has of sodium chloride dissolved in of solution. This can be expressed using the following formula:    A dad joke to increase your 'concentration'...   A chemistry teacher telling his embarrassed students a dad joke: Why should chemistry students always tell the truth? Because they have high 'molarity' standards.   This image and joke were made with the help of ChatGPT.   Thus, if of solute is dissolved in of solution, the molarity can be calculated as follows:   We can also append the metric prefixes on molarity (ex. mM; read as millimolar). The prefix pertains to the number of moles of solute. So mM means   Many times in chemistry, molarity must be used as a conversion factor. If we want to convert between liters of solution and moles of solute, molarity is the perfect conversion factor to use. To do this, we simply take the molarity and write it as that many moles of solute in of solution. See the example below:   See the example problem below where molarity is used as a conversion factor   Using molarity as a conversion factor   Problem: How many grams of sodium hydroxide are contained in a of a solution of sodium hydroxide.   Solution:     Convert volume and molarity to their base units. Volume should be in liters and we want to remove prefixes from molarity                Write molarity as a conversion factor           Do dimensional analysis:         Once we know the number of moles, we can calculate the number of grams using the molar mass of sodium hydroxide ( )             Exercises    Calculate the molarity of the following solutions:      of dissolved in of solution            of dissolved in of solution            of dissolved in of solution            How many moles of sodium chloride are needed to prepare of a solution?           How many grams of sodium chloride are needed to prepare of a solution?           How many mg of sodium chloride are contained in of a solution of sodium chloride?          "
 },
 {
   "id": "sec-solutions4-2",
@@ -9295,7 +9295,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.1",
   "title": "",
-  "body": "  0.15 moles of NaCl dissolved in 0.37 L of solution    0.41M   "
+  "body": "   of dissolved in of solution        "
 },
 {
   "id": "sec-solutions4-11-2-3",
@@ -9304,7 +9304,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.2",
   "title": "",
-  "body": "  0.070 moles of NaCl dissolved in 175 mL of solution    0.40 M   "
+  "body": "   of dissolved in of solution        "
 },
 {
   "id": "sec-solutions4-11-2-4",
@@ -9313,7 +9313,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.3",
   "title": "",
-  "body": "  17 g of NaCl dissolved in 570 mL of solution    0.51 M   "
+  "body": "   of dissolved in of solution        "
 },
 {
   "id": "sec-solutions4-11-3",
@@ -9322,7 +9322,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.4",
   "title": "",
-  "body": "  How many moles of sodium chloride are needed to prepare 45 mL of a 3.0M solution?    0.14 moles   "
+  "body": "  How many moles of sodium chloride are needed to prepare of a solution?        "
 },
 {
   "id": "sec-solutions4-11-4",
@@ -9331,7 +9331,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.5",
   "title": "",
-  "body": "  How many grams of sodium chloride are needed to prepare 45 mL of a 3.0 M solution?    7.9g   "
+  "body": "  How many grams of sodium chloride are needed to prepare of a solution?        "
 },
 {
   "id": "sec-solutions4-11-5",
@@ -9340,7 +9340,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.4.6",
   "title": "",
-  "body": "  How many mg of sodium chloride are contained in 1.00 mL of a 175 mM solution of sodium chloride?    10.2 mg   "
+  "body": "  How many mg of sodium chloride are contained in of a solution of sodium chloride?        "
 },
 {
   "id": "sec-solutions5",
@@ -9349,7 +9349,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.5",
   "title": "Measuring equivalents of charge in solution",
-  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have 2 moles of sulfate ions, then you have: We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:   Sample calculation   Problem: Calculate the number of equivalents in 2 moles of potassium sulfate.   Solution:      Figure out the chemical formula if not provided           Figure out the number of moles and charge for each of the ions    Potassium:    Charge: +1    Ratio:       Sulfate:    Charge: -2    Ratio:         Figure out the number of moles of each of the ions    Potassium:     Sulfate:       Figure out the number of equivalents of each of the ions    Potassium:     Sulfate:       Add the number of equivalents for each ion together.             Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution (Eq\/L). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It's important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L (mEq\/L). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:   Sample calculation   Problem: If 5.0g of potassium phosphate is dissolved into 150mL of water, what is the concentration of potassium phosphate in mEq\/L.   Solution:      Figure out the formula for the compound           Convert from grams to moles    Determine the molar mass of potassium phosphate                Calculate the charge and moles of each ion    Potassium:    Charge: +1    Moles:       Phosphate:    Charge: -3             Calculate the Eq of each ion and then add them together    Potassium:           Phosphate:           Sum:       Convert from Eq to mEq           Convert from mL to L           Divide mEq by L              Exercises    How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq      How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq      Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq      How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq      If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L      Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L     "
+  "body": " Measuring equivalents of charge in solution  In medicine, the concentration of some solutions is measured using units of equivalents (Eq). Equivalents is a way of measuring the amount of charge in a sample of chemical. Equivalents can be calculated as follows:     So if you have of sulfate ions, then you have: We can speak about the equivalents of a single ion or about the equivalents from a compound. If we are concerned about an ionic compound, then we calculate the equivalents of charge for each of the ions and then add them together. See the example below:   Sample calculation   Problem: Calculate the number of equivalents in of potassium sulfate.   Solution:     Figure out the chemical formula if not provided           Figure out the number of moles and charge for each of the ions    Potassium:    Charge:     Ratio:       Sulfate:    Charge:     Ratio:         Figure out the number of moles of each of the ions    Potassium:     Sulfate:       Figure out the number of equivalents of each of the ions    Potassium:     Sulfate:       Add the number of equivalents for each ion together.            Equivalents if often used along with the volume of a solution as a measure of the concentration of charge in a solution ( ). This is an important unit of concentration that is used when administering fluids or drugs intravenously (IV). It's important to be aware of the amount of charges present in the bloodstream because imbalances can have disastrous consequences for patients. Because the ion concentrations in blood are so low, the units that are often used are milliequivalents per L ( ). To determine the concentration of a solution in units of mEq per liter, we need to first calculate the number of equivalents, then convert this to mEq, and finally divide by the volume, measured in liters. See the example below:   Sample calculation   Problem: If of potassium phosphate is dissolved into of water, what is the concentration of potassium phosphate in .   Solution:     Figure out the formula for the compound           Convert from grams to moles    Determine the molar mass of potassium phosphate                Calculate the charge and moles of each ion    Potassium:    Charge:     Moles:       Phosphate:    Charge:              Calculate the Eq of each ion and then add them together    Potassium:           Phosphate:           Sum:       Convert from Eq to mEq           Convert from mL to L           Divide mEq by L             Exercises    How many Eq of potassium ions do you have if you have of            How many Eq of oxide are in of            Calculate the number of mEq of calcium ions in of            How many mEq of magnesium chloride in of magnesium chloride           If of sodium carbonate is dissolved in of water, what is the concentration of the sodium carbonate in ?           Calculate the concentration of sodium chloride in if is dissolved into           "
 },
 {
   "id": "sec-solutions5-5-2",
@@ -9394,7 +9394,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.1",
   "title": "",
-  "body": "  How many Eq of potassium ions do you have if you have 0.150 moles of KCl    0.150 Eq   "
+  "body": "  How many Eq of potassium ions do you have if you have of         "
 },
 {
   "id": "sec-solutions5-8-3",
@@ -9403,7 +9403,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.2",
   "title": "",
-  "body": "  How many Eq of oxide are in 2.0 moles of K2 O    4.0 Eq   "
+  "body": "  How many Eq of oxide are in of         "
 },
 {
   "id": "sec-solutions5-8-4",
@@ -9412,7 +9412,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.3",
   "title": "",
-  "body": "  Calculate the number of mEq of calcium ions in 0.050 moles of     100 mEq   "
+  "body": "  Calculate the number of mEq of calcium ions in of         "
 },
 {
   "id": "sec-solutions5-8-5",
@@ -9421,7 +9421,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.4",
   "title": "",
-  "body": "  How many mEq of magnesium chloride in 0.077 L of 0.110 M magnesium chloride    34 mEq   "
+  "body": "  How many mEq of magnesium chloride in of magnesium chloride        "
 },
 {
   "id": "sec-solutions5-8-6",
@@ -9430,7 +9430,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.5",
   "title": "",
-  "body": "  If 0.011 moles of sodium carbonate is dissolved in 0.28 L of water, what is the concentration of the sodium carbonate in mEq\/L?    160 mEq\/L   "
+  "body": "  If of sodium carbonate is dissolved in of water, what is the concentration of the sodium carbonate in ?        "
 },
 {
   "id": "sec-solutions5-8-7",
@@ -9439,7 +9439,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.5.6",
   "title": "",
-  "body": "  Calculate the concentration of sodium chloride in mEq\/L if 0.15 g is dissolved into 750mL    6.8 mEq\/L   "
+  "body": "  Calculate the concentration of sodium chloride in if is dissolved into         "
 },
 {
   "id": "sec-solutions6",
@@ -9448,7 +9448,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.6",
   "title": "Dilution calculations",
-  "body": " Dilution calculations  It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:     The C's are concentration and the V's are volume. and represent the concentration of the starting solution and the volume of it that was diluted. and represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of and are the same. Likewise, the units on and can be any concentration unit, as long as the units are the same.   Exercises    17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M      28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v      75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL      You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L      You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.     "
+  "body": " Dilution calculations  It is common for solutions to become diluted in science and medicine. Dilution is what happens when more solvent is added to an existing solution. The solute amount remains the same, but the amount of solvent increases, and thus the concentration of the solute in the new solution is lower than it was previously. When dilutions occur, it is helpful to be able to determine what the new concentration of the final solution will be. Likewise, if you are trying to use dilution to prepare a solution with a desired concentration, then you need to know how much of the original solution and solvent you should mix. To aid in these calculations we have the following formula:     The C's are concentration and the V's are volume. and represent the concentration of the starting solution and the volume of it that was diluted. and represent the concentration of the final diluted solution and the volume of the final diluted solution. The units on the volumes can be any volume units, as long as the units of and are the same. Likewise, the units on and can be any concentration unit, as long as the units are the same.   Exercises     of sodium chloride is diluted to a final volume of . What is the concentration of the diluted solution?            of sodium hydroxide is diluted to a final volume of . What is the concentration of the diluted solution?            of aspirin is mixed with of water. What is the new concentration?           You are trying to prepare of  by diluting a solution of . How many liters of  do you need to dilute?           You are trying to prepare of  by diluting a solution of . How many liters of  do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.     of  needs to be mixed with of water.     "
 },
 {
   "id": "sec-solutions6-2",
@@ -9466,7 +9466,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.1",
   "title": "",
-  "body": "  17mL of 2.0M sodium chloride is diluted to a final volume of 350mL. What is the concentration of the diluted solution?    0.097M   "
+  "body": "   of sodium chloride is diluted to a final volume of . What is the concentration of the diluted solution?        "
 },
 {
   "id": "sec-solutions6-5-3",
@@ -9475,7 +9475,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.2",
   "title": "",
-  "body": "  28 mL of 2.0 % m\/v sodium hydroxide is diluted to a final volume of 2.0L. What is the concentration of the diluted solution?    0.028% m\/v   "
+  "body": "   of sodium hydroxide is diluted to a final volume of . What is the concentration of the diluted solution?        "
 },
 {
   "id": "sec-solutions6-5-4",
@@ -9484,7 +9484,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.3",
   "title": "",
-  "body": "  75 mL of 150.0 mg\/mL aspirin is mixed with 155mL of water. What is the new concentration?    49 mg\/mL   "
+  "body": "   of aspirin is mixed with of water. What is the new concentration?        "
 },
 {
   "id": "sec-solutions6-5-5",
@@ -9493,7 +9493,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.4",
   "title": "",
-  "body": "  You are trying to prepare 3.0L of 0.050M NaOH by diluting a 2.0M solution of NaOH. How many liters of 2.0M NaOH do you need to dilute?    0.075 L   "
+  "body": "  You are trying to prepare of  by diluting a solution of . How many liters of  do you need to dilute?        "
 },
 {
   "id": "sec-solutions6-5-6",
@@ -9502,7 +9502,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.6.5",
   "title": "",
-  "body": "  You are trying to prepare 3.0L of 15mM NaOH by diluting a 1.0M solution of NaOH. How many liters of 1.0M NaOH do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.    0.045 L of 1M NaOH needs to be mixed with 2.955 L of water.   "
+  "body": "  You are trying to prepare of  by diluting a solution of . How many liters of  do you need to dilute? How many liters of water will you need to add to that? Don’t worry about significant figures for this problem.     of  needs to be mixed with of water.   "
 },
 {
   "id": "sec-solutions7",
@@ -9511,7 +9511,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.7",
   "title": "Molarity in reactions",
-  "body": " Molarity in reactions  We can do chemical reactions using reactants that are dissolved in solution. We've learned one example of this previously when we learned about precipitation reactions. In our next chapter, we will learn about acid-base reactions which often take place in solution as well. Because of this, it is important to be able to carry out calculations involving these reactions. Solution reactions are particularly important because of titrations, chemical reactions that are carried out to measure the amount (or concentration) of a molecule or ion in a solution. Titrations are very useful in chemistry, allowing chemists to measure the quantities such as the amount of pollutants in drinking water.  Thankfully, carrying out these sorts of calculations proceeds in a similar way as other reaction calculations that we've done previously. The difference is in the start point and end point. Instead of starting off with a mass of reactant, we will start off with a molarity and volume. We can use this information to calculate the number of moles of the reactant using dimensional analysis or the formula below:     Once we know the number of moles of reactant, we can change this to moles of another reactant or moles of product by using a mole-mole conversion factor derived from the balanced chemical equation. From there, the number of moles of that substance can be converted to mass using the molar mass or to molarity using the volume. See the figure and example below.   Sample problem   Problem: If 23.5mL of 0.988 M NaOH is needed to neutralize (fully react with) 7.50 mL of HCl, then what is the molarity of that HCl solution?   HCl(aq) + NaOH(aq) → NaCl(aq) + H2 O(l)  1. We have molarity and volume of one component in a reaction and are being asked for the molarity of the other reactant. The first step is to figure out moles of NaOH. a. Molarity x Liters= moles. Our volume is in mL. We need to convert this to L before using it: 10−3 L 23.5 mL ( ) = 0.0235L 1 mL 0.988 moles × 0.0235L = 0.023218 moles NaOH L 2. We need to convert from moles of NaOH to moles of HCl using a mole-mole conversion factor 1 mole HCl 0.023218 moles NaOH ( ) = 0.023218 moles HCl 1 mole NaOH 3. Molarity=moles\/Liters. We need to first change our volume to L, then use the equation. 10−3 L 7.50 mL ( ) = 0.00750 L 1 mL 0.023218 moles = 3.0957 M → 3.10 M 0.00750 L   Exercises    Consider the reaction below. If 10.0 mL of 0.125 M lead (II) nitrate reacts with an excess of NaCl, how many g of lead (II) chloride would you expect? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    0.348 g      Consider the reaction below. If 4.75 mL of 0.0500 M NaOH is needed to neutralize (completely react) with 20.00 mL of HCl, then what is the molarity of the HCl solution? NaOH(aq) + HCl(aq) → H2 O(l) + NaCl(aq)    0.0119 M      Consider the reaction below. If 27.75 mL of 0.1200 M NaOH is needed to neutralize (completely react) with 20.00 mL of C2 O4 H2, then what is the molarity of the C2 O4 H2 solution? C2 O4 H2 (aq) + 2NaOH(aq) → 2H2 O(l) + Na2 C2 O4 (aq)    0.08325 M      A sample of water is contaminated with lead (II) nitrate. 10.0 L of the water is mixed with an excess of NaCl to precipitate the lead as lead (II) chloride according to the reaction below. 0.0751 g of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of μM? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    27.0 μM      3.5 L of 0.050 M iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?    26 g     "
+  "body": " Molarity in reactions  We can do chemical reactions using reactants that are dissolved in solution. We've learned one example of this previously when we learned about precipitation reactions. In our next chapter, we will learn about acid-base reactions which often take place in solution as well. Because of this, it is important to be able to carry out calculations involving these reactions. Solution reactions are particularly important because of titrations, chemical reactions that are carried out to measure the amount (or concentration) of a molecule or ion in a solution. Titrations are very useful in chemistry, allowing chemists to measure the quantities such as the amount of pollutants in drinking water.  Thankfully, carrying out these sorts of calculations proceeds in a similar way as other reaction calculations that we've done previously. The difference is in the start point and end point. Instead of starting off with a mass of reactant, we will start off with a molarity and volume. We can use this information to calculate the number of moles of the reactant using dimensional analysis or the formula below:     Once we know the number of moles of reactant, we can change this to moles of another reactant or moles of product by using a mole-mole conversion factor derived from the balanced chemical equation. From there, the number of moles of that substance can be converted to mass using the molar mass or to molarity using the volume. See the figure and example below.   Sample problem   Problem: If of  is needed to neutralize (fully react with) of , then what is the molarity of that solution?      1. We have molarity and volume of one component in a reaction and are being asked for the molarity of the other reactant. The first step is to figure out moles of . a. Molarity x Liters= moles. Our volume is in mL. We need to convert this to L before using it:  ( ) =   × =  L 2. We need to convert from moles of to moles of using a mole-mole conversion factor    ( ) =    3. Molarity=moles\/Liters. We need to first change our volume to L, then use the equation.  ( ) =   =     Exercises    Consider the reaction below. If of lead (II) nitrate reacts with an excess of , how many g of lead (II) chloride would you expect?            Consider the reaction below. If of  is needed to neutralize (completely react) with of , then what is the molarity of the solution?            Consider the reaction below. If of  is needed to neutralize (completely react) with of , then what is the molarity of the solution?            A sample of water is contaminated with lead (II) nitrate. of the water is mixed with an excess of to precipitate the lead as lead (II) chloride according to the reaction below. of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of μM?             of iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?          "
 },
 {
   "id": "sec-solutions7-6-2",
@@ -9529,7 +9529,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.7.1",
   "title": "",
-  "body": "  Consider the reaction below. If 10.0 mL of 0.125 M lead (II) nitrate reacts with an excess of NaCl, how many g of lead (II) chloride would you expect? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    0.348 g   "
+  "body": "  Consider the reaction below. If of lead (II) nitrate reacts with an excess of , how many g of lead (II) chloride would you expect?         "
 },
 {
   "id": "sec-solutions7-9-3",
@@ -9538,7 +9538,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.7.2",
   "title": "",
-  "body": "  Consider the reaction below. If 4.75 mL of 0.0500 M NaOH is needed to neutralize (completely react) with 20.00 mL of HCl, then what is the molarity of the HCl solution? NaOH(aq) + HCl(aq) → H2 O(l) + NaCl(aq)    0.0119 M   "
+  "body": "  Consider the reaction below. If of  is needed to neutralize (completely react) with of , then what is the molarity of the solution?         "
 },
 {
   "id": "sec-solutions7-9-4",
@@ -9547,7 +9547,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.7.3",
   "title": "",
-  "body": "  Consider the reaction below. If 27.75 mL of 0.1200 M NaOH is needed to neutralize (completely react) with 20.00 mL of C2 O4 H2, then what is the molarity of the C2 O4 H2 solution? C2 O4 H2 (aq) + 2NaOH(aq) → 2H2 O(l) + Na2 C2 O4 (aq)    0.08325 M   "
+  "body": "  Consider the reaction below. If of  is needed to neutralize (completely react) with of , then what is the molarity of the solution?         "
 },
 {
   "id": "sec-solutions7-9-5",
@@ -9556,7 +9556,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.7.4",
   "title": "",
-  "body": "  A sample of water is contaminated with lead (II) nitrate. 10.0 L of the water is mixed with an excess of NaCl to precipitate the lead as lead (II) chloride according to the reaction below. 0.0751 g of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of μM? Pb(NO3 )2 (aq) + 2NaCl(aq) → PbCl2 (s) + 2NaNO3 (aq)    27.0 μM   "
+  "body": "  A sample of water is contaminated with lead (II) nitrate. of the water is mixed with an excess of to precipitate the lead as lead (II) chloride according to the reaction below. of lead (II) chloride is obtained. What was the concentration of the lead (II) nitrate in the water sample in units of μM?         "
 },
 {
   "id": "sec-solutions7-9-6",
@@ -9565,7 +9565,7 @@ var ptx_lunr_docs = [
   "type": "Exercise",
   "number": "10.7.5",
   "title": "",
-  "body": "  3.5 L of 0.050 M iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?    26 g   "
+  "body": "   of iron (III) chloride reacts with an excess of sodium carbonate. How many grams of precipitate would you expect?        "
 },
 {
   "id": "sec-solutions8",
@@ -9574,106 +9574,106 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "10.8",
   "title": "Osmosis, diffusion, and dialysis",
-  "body": " Osmosis, diffusion, and dialysis  If two solutions (or one solution and a pure solvent) are separated by a semi- permeable membrane, then dialysis and osmosis can occur. What is a semi-permeable membrane? It is a membrane that has very tiny holes in it that of a certain size. This allows very small molecules and ions to travel across the membrane (ex. water, small covalent molecules like glucose, and soluble salts can cross the membrane) while larger molecules and objects can’t (ex. proteins and blood cells cannot cross because they can’t fit through the tiny holes). Diffusion is a term that describes the movement of molecules in a solution. In diffusion, molecules generally move from an area with a high concentration to an area with low concentration. Dialysis is a term that describes the diffusion of solute molecules across a semipermeable membrane from the side with a high concentration to an area with a low concentration. Osmosis describes the movement of water (the solvent) across the semi-permeable membrane, and will be discussed in a little bit.  As stated above, solute will move via diffusion from an area of low concentration to an area of high concentration. This will continue until the concentrations are the same on both sides of the membrane. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the NaCl will move from the side with 1.0M NaCl towards the side with 0.50M NaCl. If both sides have the same volume, then this will continue until the concentration on both sides is the average of the two starting concentrations, 0.75M NaCl (IMPORTANT NOTE: this is only the case if the volumes are the same on both sides of the membrane. In this class, we will not do the more complex calculations where the volumes are different on both sides of the membrane).  Osmosis is similar to dialysis, but it describes the movement of the solvent (water) instead of the solute. Similar to dialysis, osmosis is governed by diffusion and water will move from an area with a high concentration of water to a low concentration of water. Why am I emphasizing that the movement depends on the concentration of water? This is  because concentrations usually focus on the concentration of the solute, rather than the solvent. How are we supposed to figure out the concentration of the water then? We can qualitatively determine the relative concentration by keeping in mind this rule: the concentration of solute and the concentration of solvent are inversely proportional...meaning that if the concentration of solute is high, then the concentration of solvent is low. Why is this? It’s because if there is a lot of solute, then it is taking up space in the solution that would otherwise have been occupied by solvent...thus there is less solvent in the same amount of space.  In osmosis, water will flow from the side with a low solute concentration to the side with a high solute concentration, because that is the same as saying that the water is flowing from the side with a high water concentration to the side with a low water concentration. So if two solutions, one containing 1.0 M NaCl and the other containing 0.50 M NaCl are separated by a semi-permeable membrane, then the water will move from the side with 0.5 M NaCl towards the side with 1.0M NaCl, the opposite direction of the solute movement. The water pressing up against the membrane as it tries to cross applies a force to the membrane called osmotic pressure. In extreme cases, this pressure can be so strong that it causes the semi-permeable membrane to break.  Our body’s cells are surrounded by a semi-permeable cell membrane. Thus dialysis and osmosis are important considerations in medicine. This is particularly true when administering fluids directly into the bloodstream (ex. IV fluids). Doctors and nurses need to make sure that the osmotic pressure of the fluid being administered balances the osmotic pressure inside of the patient’s cells. Solutions where the osmotic pressure is balanced with the pressure inside of a cell are called isotonic solutions. Two common isotonic solutions used in medicine are 0.9% m\/v sodium chloride and 5% w\/v glucose. Solutions that contain too little solute (and thus a higher than normal concentration of water) are called hypotonic solutions. These solutions will cause water to rush into cells, causing them to swell and, in severe cases, to burst. If the concentration of solute is higher than normal, then the solution is a hypertonic solution. If a hypertonic solution is administered, water will move out of blood cells, causing them to shrink and wrinkle in appearance, a phenomenon called crenation.  In medicine, blood dialysis is used when a patient has non-functional kidneys. Our kidneys normally filter toxins from our blood stream and help to maintain ion and water balance. When the kidneys don’t work, then the blood must be filtered artificially. In blood dialysis, the patient’s blood is removed from their body and passed over a semi-permeable membrane. On the other side of the membrane is an isotonic solution that is free from the toxins that are found in blood. The semipermeable membrane prevents large proteins and  blood cells from leaving the blood. The toxins in the blood, however, can cross the membrane and flow from the area with high concentration (the blood) to the area with low concentration (the dialysis fluid on the other side of the membrane), thus eliminating them from the patient’s body.   Exercise 4    Chamber A contains 2L of 3.0 M glucose and Chamber B contains 2L of 1.0 M glucose. These chambers are separated by a semipermeable membrane.     Which direction (A to B or B to A) will glucose flow?    A to B      What is this called?    osmosis      Which direction will water flow?    B to A      What is this called    osmosis      What will the final concentration of glucose be in both chambers?    2.0 M       Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood     3% m\/v glucose    hypotonic      1.5 % m\/v NaCl    hypertonic      0.9 % m\/v NaCl    isotonic      3.0 g of glucose dissolved in 75 mL of water    hypotonic (4% m\/v)       Let’s assume that a patient’s body contains 6.0L of blood and that their blood contains 150 μM of a particular toxin. If their blood is dialyzed against 6.0L of isotonic fluid, then what will the concentration of toxin be after the dialysis?     The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?    38 μM      What if it is repeated a third time?    19 μM      "
+  "body": " Osmosis, diffusion, and dialysis  If two solutions (or one solution and a pure solvent) are separated by a semi- permeable membrane, then dialysis and osmosis can occur. What is a semi-permeable membrane? It is a membrane that has very tiny holes in it that of a certain size. This allows very small molecules and ions to travel across the membrane (ex. water, small covalent molecules like glucose, and soluble salts can cross the membrane) while larger molecules and objects can’t (ex. proteins and blood cells cannot cross because they can’t fit through the tiny holes). Diffusion is a term that describes the movement of molecules in a solution. In diffusion, molecules generally move from an area with a high concentration to an area with low concentration. Dialysis is a term that describes the diffusion of solute molecules across a semipermeable membrane from the side with a high concentration to an area with a low concentration. Osmosis describes the movement of water (the solvent) across the semi-permeable membrane, and will be discussed in a little bit.  As stated above, solute will move via diffusion from an area of low concentration to an area of high concentration. This will continue until the concentrations are the same on both sides of the membrane. So if two solutions, one containing  and the other containing  are separated by a semi-permeable membrane, then the will move from the side with  towards the side with  . If both sides have the same volume, then this will continue until the concentration on both sides is the average of the two starting concentrations,  (IMPORTANT NOTE: this is only the case if the volumes are the same on both sides of the membrane. In this class, we will not do the more complex calculations where the volumes are different on both sides of the membrane).  Osmosis is similar to dialysis, but it describes the movement of the solvent (water) instead of the solute. Similar to dialysis, osmosis is governed by diffusion and water will move from an area with a high concentration of water to a low concentration of water. Why am I emphasizing that the movement depends on the concentration of water? This is because concentrations usually focus on the concentration of the solute, rather than the solvent. How are we supposed to figure out the concentration of the water then? We can qualitatively determine the relative concentration by keeping in mind this rule: the concentration of solute and the concentration of solvent are inversely proportional...meaning that if the concentration of solute is high, then the concentration of solvent is low. Why is this? It’s because if there is a lot of solute, then it is taking up space in the solution that would otherwise have been occupied by solvent...thus there is less solvent in the same amount of space.  In osmosis, water will flow from the side with a low solute concentration to the side with a high solute concentration, because that is the same as saying that the water is flowing from the side with a high water concentration to the side with a low water concentration. So if two solutions, one containing  and the other containing  are separated by a semi-permeable membrane, then the water will move from the side with  towards the side with  , the opposite direction of the solute movement. The water pressing up against the membrane as it tries to cross applies a force to the membrane called osmotic pressure. In extreme cases, this pressure can be so strong that it causes the semi-permeable membrane to break.  Our body’s cells are surrounded by a semi-permeable cell membrane. Thus dialysis and osmosis are important considerations in medicine. This is particularly true when administering fluids directly into the bloodstream (ex. IV fluids). Doctors and nurses need to make sure that the osmotic pressure of the fluid being administered balances the osmotic pressure inside of the patient’s cells. Solutions where the osmotic pressure is balanced with the pressure inside of a cell are called isotonic solutions. Two common isotonic solutions used in medicine are sodium chloride and glucose. Solutions that contain too little solute (and thus a higher than normal concentration of water) are called hypotonic solutions. These solutions will cause water to rush into cells, causing them to swell and, in severe cases, to burst. If the concentration of solute is higher than normal, then the solution is a hypertonic solution. If a hypertonic solution is administered, water will move out of blood cells, causing them to shrink and wrinkle in appearance, a phenomenon called crenation.  In medicine, blood dialysis is used when a patient has non-functional kidneys. Our kidneys normally filter toxins from our blood stream and help to maintain ion and water balance. When the kidneys don’t work, then the blood must be filtered artificially. In blood dialysis, the patient’s blood is removed from their body and passed over a semi-permeable membrane. On the other side of the membrane is an isotonic solution that is free from the toxins that are found in blood. The semipermeable membrane prevents large proteins and blood cells from leaving the blood. The toxins in the blood, however, can cross the membrane and flow from the area with high concentration (the blood) to the area with low concentration (the dialysis fluid on the other side of the membrane), thus eliminating them from the patient’s body.   Exercise 4    Chamber A contains of glucose and Chamber B contains of glucose. These chambers are separated by a semipermeable membrane.     Which direction (A to B or B to A) will glucose flow?    A to B      What is this called?    osmosis      Which direction will water flow?    B to A      What is this called    osmosis      What will the final concentration of glucose be in both chambers?            Classify the following solutions as isotonic, hypertonic, or hypotonic with respect to blood      glucose    hypotonic            hypertonic            isotonic       of glucose dissolved in of water    hypotonic ( )       Let’s assume that a patient’s body contains of blood and that their blood contains of a particular toxin. If their blood is dialyzed against of isotonic fluid, then what will the concentration of toxin be after the dialysis?     The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?           What if it is repeated a third time?           "
 },
 {
-  "id": "sec-solutions8-10-2-2",
+  "id": "sec-solutions8-8-2-2",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-2-2",
+  "url": "sec-solutions8.html#sec-solutions8-8-2-2",
   "type": "Exercise",
   "number": "10.8.1",
   "title": "",
   "body": "  Which direction (A to B or B to A) will glucose flow?    A to B   "
 },
 {
-  "id": "sec-solutions8-10-2-3",
+  "id": "sec-solutions8-8-2-3",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-2-3",
+  "url": "sec-solutions8.html#sec-solutions8-8-2-3",
   "type": "Exercise",
   "number": "10.8.2",
   "title": "",
   "body": "  What is this called?    osmosis   "
 },
 {
-  "id": "sec-solutions8-10-2-4",
+  "id": "sec-solutions8-8-2-4",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-2-4",
+  "url": "sec-solutions8.html#sec-solutions8-8-2-4",
   "type": "Exercise",
   "number": "10.8.3",
   "title": "",
   "body": "  Which direction will water flow?    B to A   "
 },
 {
-  "id": "sec-solutions8-10-2-5",
+  "id": "sec-solutions8-8-2-5",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-2-5",
+  "url": "sec-solutions8.html#sec-solutions8-8-2-5",
   "type": "Exercise",
   "number": "10.8.4",
   "title": "",
   "body": "  What is this called    osmosis   "
 },
 {
-  "id": "sec-solutions8-10-2-6",
+  "id": "sec-solutions8-8-2-6",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-2-6",
+  "url": "sec-solutions8.html#sec-solutions8-8-2-6",
   "type": "Exercise",
   "number": "10.8.5",
   "title": "",
-  "body": "  What will the final concentration of glucose be in both chambers?    2.0 M   "
+  "body": "  What will the final concentration of glucose be in both chambers?        "
 },
 {
-  "id": "sec-solutions8-10-3-2",
+  "id": "sec-solutions8-8-3-2",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-3-2",
+  "url": "sec-solutions8.html#sec-solutions8-8-3-2",
   "type": "Exercise",
   "number": "10.8.6",
   "title": "",
-  "body": "  3% m\/v glucose    hypotonic   "
+  "body": "   glucose    hypotonic   "
 },
 {
-  "id": "sec-solutions8-10-3-3",
+  "id": "sec-solutions8-8-3-3",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-3-3",
+  "url": "sec-solutions8.html#sec-solutions8-8-3-3",
   "type": "Exercise",
   "number": "10.8.7",
   "title": "",
-  "body": "  1.5 % m\/v NaCl    hypertonic   "
+  "body": "        hypertonic   "
 },
 {
-  "id": "sec-solutions8-10-3-4",
+  "id": "sec-solutions8-8-3-4",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-3-4",
+  "url": "sec-solutions8.html#sec-solutions8-8-3-4",
   "type": "Exercise",
   "number": "10.8.8",
   "title": "",
-  "body": "  0.9 % m\/v NaCl    isotonic   "
+  "body": "        isotonic   "
 },
 {
-  "id": "sec-solutions8-10-3-5",
+  "id": "sec-solutions8-8-3-5",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-3-5",
+  "url": "sec-solutions8.html#sec-solutions8-8-3-5",
   "type": "Exercise",
   "number": "10.8.9",
   "title": "",
-  "body": "  3.0 g of glucose dissolved in 75 mL of water    hypotonic (4% m\/v)   "
+  "body": "   of glucose dissolved in of water    hypotonic ( )   "
 },
 {
-  "id": "sec-solutions8-10-4-2",
+  "id": "sec-solutions8-8-4-2",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-4-2",
+  "url": "sec-solutions8.html#sec-solutions8-8-4-2",
   "type": "Exercise",
   "number": "10.8.10",
   "title": "",
-  "body": "  The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?    38 μM   "
+  "body": "  The dialysis is immediately repeated using a new batch of the isotonic fluid. What is the new concentration of toxin in the patient’s blood?        "
 },
 {
-  "id": "sec-solutions8-10-4-3",
+  "id": "sec-solutions8-8-4-3",
   "level": "2",
-  "url": "sec-solutions8.html#sec-solutions8-10-4-3",
+  "url": "sec-solutions8.html#sec-solutions8-8-4-3",
   "type": "Exercise",
   "number": "10.8.11",
   "title": "",
-  "body": "  What if it is repeated a third time?    19 μM   "
+  "body": "  What if it is repeated a third time?        "
 },
 {
   "id": "sec-acidsbases1",
@@ -10276,7 +10276,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.5",
   "title": "Water as an acid and base",
-  "body": " Water as an acid and base  We already learned that acids donate or increase the concentration of in solution. This is a bit of an oversimplification. In water, essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:    is a polyatomic ion called hydronium ion. Chemists will typically use and interchangeably, so just be aware that really means if the acid is in water. Another term to be aware of is that is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron...take away the electron to form and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:  What is being Water Water Example reaction mixed with acts as becomes... water a... Acid (Strong or Base Hydronium ion weak) Strong Base Acid Hydroxide ion   Same as: Weak Base Acid Hydroxide ion   Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:   So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:  Nitrogen containing base Form 1 Form 2 examples           Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:   So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, , which has a value of at . This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. is a unitless value (even though it seems like it should have units of ) but the reason why is beyond the scope of this course.   This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral,   Therefore, becomes   So    Exercise 1    Write the equation for adding the following compounds to water:                (write the reaction for it losing only one proton)          (write the reaction for it losing two protons)                    Determine the concentration of hydronium ion if the concentration of hydroxide is:                                          Look at your answers in #2. What happens to the hydronium concentration as the hydroxide concentration rises?    It decreases      Determine the concentration of hydroxide ion if the concentration of hydronium is:                                          Look at your answers in #2 and #4. What do you notice?    The values are the same for the same starting concentrations      Look at your answers in #4. What happens to the hydroxide concentration as the hydronium concentration rises?    It decreases      At , the value of is . What is the concentration of hydronium ion in neutral water at ?          "
+  "body": " Water as an acid and base  We already learned that acids donate or increase the concentration of in solution. This is a bit of an oversimplification. In water, essentially doesn’t exist, because it very rapidly undergoes a reaction with water that is shown below:    is a polyatomic ion called hydronium ion. Chemists will typically use and interchangeably, so just be aware that really means if the acid is in water. Another term to be aware of is that is sometimes called a “proton”. Why? Well most hydrogen atoms have 1 proton, no neutrons, and 1 electron...take away the electron to form and all you have leftover is 1 proton.  We’ve discussed the definition of an acid and a base and have seen examples of what happens when acids or bases are mixed with water. In this section, we’re going to have a bit more formal treatment of what happens when an acid or base is mixed with water. See the chart below:  What is being Water Water Example reaction mixed with acts as becomes... water a... Acid (Strong or Base Hydronium ion weak) Strong Base Acid Hydroxide ion   Same as: Weak Base Acid Hydroxide ion   Note: when nitrogen containing bases are mixed with water, the product is a salt with hydroxide. The base accepts a proton from water and forms an ionic compound with the leftover hydroxide as shown in the table above and the additional reactions below:   So nitrogen containing bases that are aqueous can be written as salts with hydroxide. However, they are weak bases so the reactant form also remains. Either form is appropriate to write as shown in the table below:  Nitrogen containing base Form 1 Form 2 examples           Since water can act both as an acid and a base, we can write the following reaction where one water is an acid and another is a base. This reaction is continually happening in a sample of liquid water:   So in a sample of water, there is always some hydronium ion and some hydroxide ion. If water is neutral (ie. not acidic or basic), then the concentration of hydroxide and hydronium ions are equal. If water is acidic (for instance, if an acid is added to water), then extra hydronium ion has been produced and the amount of hydronium ion exceeds the amount of hydroxide ion. If the water is basic, (for instance, if a base is added to water), then extra hydroxide ions have been produced and the amount of hydroxide exceeds the amount of hydronium ions. There is an inverse relationship between the amount of hydroxide and hydronium ions in solution. If we multiply their concentrations (measured in molarity), we get a constant, , which has a value of at . This is shown by the equation below. In the equation, the brackets indicate that these are the concentrations of hydronium and hydroxide, measured in molarity. Note: it is crucial that you use the concentrations in molarity and not any other unit for this calculation. is a unitless value (even though it seems like it should have units of ) but the reason why is beyond the scope of this course.   This equation can be used to find the concentration of hydroxide or hydronium ion, if we’re given the concentration of the other one. It can also be used to find the concentration of hydronium and hydroxide ions in a neutral solution as shown below:  Since it’s neutral,   Therefore, becomes   So    Exercises    Write the equation for adding the following compounds to water:                (write the reaction for it losing only one proton)          (write the reaction for it losing two protons)                    Determine the concentration of hydronium ion if the concentration of hydroxide is:                                          Look at your answers in #2. What happens to the hydronium concentration as the hydroxide concentration rises?    It decreases      Determine the concentration of hydroxide ion if the concentration of hydronium is:                                          Look at your answers in #2 and #4. What do you notice?    The values are the same for the same starting concentrations      Look at your answers in #4. What happens to the hydroxide concentration as the hydronium concentration rises?    It decreases      At , the value of is . What is the concentration of hydronium ion in neutral water at ?          "
 },
 {
   "id": "sec-acidsbases5-20-2-2",
