@@ -57,7 +57,7 @@
     <p>
         In order for a molecule to act as a base, the molecule must have a lone
         pair of electrons in order to form a new bond with the <m>H^+</m> that
-        it would accept.
+        it would accept.  <m>H^+</m> doesn't have any electrons of its own, so to form a bond to the rest of the molecule, the two electrons for the bond must be supplied by the base in the form of a lone pair of electrons.
         In addition, the conjugate acid must be stable.
         Nitrogen and oxygen atoms often have lone pairs of electrons and are
         especially good at accepting <m>H^+</m>.
