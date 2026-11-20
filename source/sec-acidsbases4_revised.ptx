@@ -32,18 +32,18 @@
         a base?
         Why is <m>CH_4</m> not an acid while <m>HCl</m> is?
         The truth is that every compound with a hydrogen atom is potentially an
-        acid, but some of them are so weak that we don’t consider them to be an
+        acid, but some of them are so weak that we don't consider them to be an
         acid (<m>CH_4</m> is an example of this).
         The strength of an acid is related to the stability of its conjugate
         base.
         If the conjugate base is very stable, then it is easy for the acid to
         lose an <m>H^+</m> and form its conjugate base.
-        If the conjugate base is an anion that we’ve seen before (monoatomic or
-        polyatomic), then it’s stable.
+        If the conjugate base is an anion that we've seen before (monoatomic or
+        polyatomic), then it's stable.
         In the case of <m>CH_4</m> , its conjugate base would be <m>CH_3^-</m> .
         This is unstable because it would put a negative charge on a carbon
-        atom, something we’ve never seen before (reminder: carbon isn’t very
-        electronegative and thus wouldn’t like to have excess electrons).
+        atom, something we've never seen before (reminder: carbon isn't very
+        electronegative and thus wouldn't like to have excess electrons).
         Negative charges can exist on highly electronegative elements such as
         the halogens and oxygen.
         If a molecule has a positive charge and has a hydrogen atom, it can
@@ -65,8 +65,54 @@
         <m>OH^-</m> is a good base because if it accepts an <m>H^+</m> the conjugate acid is
         water, which is very stable ).
     </p>
+    <table>
+        <title>Rules for recognizing acids and bases</title>
+        <tabular>
+            <row halign="center" bottom="major">
+                <cell>Tips for recognizing an acid</cell>
+                <cell>Tips for recognizing a base</cell>
+
+            </row>
+            <row halign="center">
+                <cell>Acids must have an <m>H^+></m>*</cell>
+<cell>Bases must have a lone pair of electrons</cell>
+                </row>
+                <row halign="center">
+                    <cell>Compounds with a + charge are often acids</cell>
+                    <cell>Compounds with a - charge are often bases</cell>
+
+                </row>
+                <row halign="center">
+                    <cell>The conjugate base must be stable</cell>
+                    <cell>The conjugate acid must be stable</cell>
+                </row>
+        </tabular>
+    </table>
+    <table>
+        <title>Is this conjugate acid (base) stable?</title>
+        <tabular>
+            <row halign="center" bottom="major">
+                <cell>Questions to ask (yes answers indicate stability)</cell>
+            </row>
+            <row halign="center">
+               <cell>Is it something you've seen before?</cell>
+                </row>
+                <row halign="center">
+               <cell>Can you draw a valid Lewis structure of it?</cell>
+                </row>
+                <row halign="center">
+               <cell>Are the negative charges (if any) on an electronegative atom like oxygen, sulfur, or halogen?</cell>
+                </row>
+                <row halign="center">
+               <cell>Are the positive charges (if any) on a nitrogen (or rarely on an oxygen)?</cell>
+                </row>
+        </tabular>
+    </table>
+    <p>
+        *There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.
+    </p>
     <exercises>
-        <title>Exercise 4</title>
+        <title>Exercises</title>
 
         <exercisegroup>
             <introduction>
