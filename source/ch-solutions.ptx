@@ -3,14 +3,14 @@
 <chapter xml:id="ch-solutions" xmlns:xi="http://www.w3.org/2001/XInclude">
     <title>Solutions</title>
 
-    <xi:include href="sec-solutions1.ptx" />
-    <xi:include href="sec-solutions2.ptx" />
-    <xi:include href="sec-solutions3.ptx" />
-    <xi:include href="sec-solutions4.ptx" />
-    <xi:include href="sec-solutions5.ptx" />
-    <xi:include href="sec-solutions6.ptx" />
-    <xi:include href="sec-solutions7.ptx" />
-    <xi:include href="sec-solutions8.ptx" />
+    <xi:include href="sec-solutions1_revised.ptx" />
+    <xi:include href="sec-solutions2_revised.ptx" />
+    <xi:include href="sec-solutions3_revised.ptx" />
+    <xi:include href="sec-solutions4_revised.ptx" />
+    <xi:include href="sec-solutions5_revised.ptx" />
+    <xi:include href="sec-solutions6_revised.ptx" />
+    <xi:include href="sec-solutions7_revised.ptx" />
+    <xi:include href="sec-solutions8_revised.ptx" />
     
 
 </chapter>
