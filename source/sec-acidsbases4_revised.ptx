@@ -7,15 +7,15 @@
     <p>
         The dissociation of an acid or base is a reversible reaction (excepting
         strong acids and bases).
-        If acetic acid functions as an acid, donating its <m>H^+</m> to something else,
-        then acetate results as a product.
-        In the reverse reaction, that acetate ion would accept an <m>H^+</m> once again
-        becoming acetic acid.
+        If acetic acid functions as an acid, donating its <m>H^+</m> to
+        something else, then acetate results as a product.
+        In the reverse reaction, that acetate ion would accept an <m>H^+</m>
+        once again becoming acetic acid.
         Thus acetate would be functioning as a base.
         Every acid produces a base after donating its <m>H^+</m>.
-        Likewise, every base produces an acid after accepting an <m>H^+</m>, because the
-        reverse reaction would have the product donating the <m>H^+</m> that the base
-        form had just received.
+        Likewise, every base produces an acid after accepting an <m>H^+</m>,
+        because the reverse reaction would have the product donating the
+        <m>H^+</m> that the base form had just received.
     </p>
 
     <p>
@@ -23,8 +23,9 @@
         This is called the conjugate base of that acid.
         Together they form a conjugate acid-base pair, two molecules whose only
         difference is the presence or absence of an <m>H^+</m>.
-        Likewise every base will form a conjugate acid after accepting an <m>H^+</m> in
-        a reaction, and they together for a conjugate acid-base pair.
+        Likewise every base will form a conjugate acid after accepting an
+        <m>H^+</m> in a reaction, and they together for a conjugate acid-base
+        pair.
     </p>
 
     <p>
@@ -40,79 +41,98 @@
         lose an <m>H^+</m> and form its conjugate base.
         If the conjugate base is an anion that we've seen before (monoatomic or
         polyatomic), then it's stable.
-        In the case of <m>CH_4</m> , its conjugate base would be <m>CH_3^-</m> .
+        In the case of <m>CH_4</m>, its conjugate base would be <m>CH_3^-</m>.
         This is unstable because it would put a negative charge on a carbon
         atom, something we've never seen before (reminder: carbon isn't very
         electronegative and thus wouldn't like to have excess electrons).
         Negative charges can exist on highly electronegative elements such as
         the halogens and oxygen.
         If a molecule has a positive charge and has a hydrogen atom, it can
-        often act as an acid since losing the <m>H^+</m> can stabilize the molecule by
-        also removing the positive charge (ex.
-        <m>NH_4^+</m> is an acid because losing <m>H^+</m> results in <m>NH_3</m> which is stable)
+        often act as an acid since losing the <m>H^+</m> can stabilize the
+        molecule by also removing the positive charge (ex.
+        <m>NH_4^+</m> is an acid because losing <m>H^+</m> results in
+        <m>NH_3</m> which is stable)
     </p>
 
     <p>
         In order for a molecule to act as a base, the molecule must have a lone
-        pair of electrons in order to form a new bond with the <m>H^+</m> that it would
-        accept.
+        pair of electrons in order to form a new bond with the <m>H^+</m> that
+        it would accept.
         In addition, the conjugate acid must be stable.
         Nitrogen and oxygen atoms often have lone pairs of electrons and are
         especially good at accepting <m>H^+</m>.
         Also, molecules that have a negative charge and lone pairs of electrons
-        are often good bases because if they accept an <m>H^+</m>, the negative charge
-        will get neutralized (ex.
-        <m>OH^-</m> is a good base because if it accepts an <m>H^+</m> the conjugate acid is
-        water, which is very stable ).
+        are often good bases because if they accept an <m>H^+</m>, the negative
+        charge will get neutralized (ex.
+        <m>OH^-</m> is a good base because if it accepts an <m>H^+</m> the
+        conjugate acid is water, which is very stable ).
     </p>
+
     <table>
         <title>Rules for recognizing acids and bases</title>
+
         <tabular>
             <row halign="center" bottom="major">
                 <cell right="major">Tips for recognizing an acid</cell>
                 <cell>Tips for recognizing a base</cell>
-
             </row>
-            <row halign="center">
-                <cell right="major">Acids must have an <m>H^+</m>*</cell>
-<cell>Bases must have a lone pair of electrons</cell>
-                </row>
-                <row halign="center">
-                    <cell right="major">Compounds with a + charge are often acids</cell>
-                    <cell>Compounds with a - charge are often bases</cell>
 
-                </row>
-                <row halign="center" bottom="minor">
-                    <cell right="major">The conjugate base must be stable</cell>
-                    <cell>The conjugate acid must be stable</cell>
-                </row>
-                <row halign="left" bottom="minor">
-               <cell>*There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.?</cell>
-                </row>
+            <row halign="center">
+                <cell right="major">
+                    <tn>There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.?</tn>Acids
+                    must have an <m>H^+</m>
+                </cell>
+                <cell>Bases must have a lone pair of electrons</cell>
+            </row>
+
+            <row halign="center">
+                <cell right="major">
+                    Compounds with a + charge are often acids
+                </cell>
+                <cell>Compounds with a - charge are often bases</cell>
+            </row>
+
+            <row halign="center" bottom="minor">
+                <cell right="major">The conjugate base must be stable</cell>
+                <cell>The conjugate acid must be stable</cell>
+            </row>
         </tabular>
     </table>
+
     <table>
         <title>Is this conjugate acid (base) stable?</title>
+
         <tabular>
             <row halign="center" bottom="major">
-                Questions to ask (yes answers indicate stability)
+                <cell>Questions to ask (yes answers indicate stability)</cell>
             </row>
+
             <row halign="left">
-               <cell>1. Is it something you've seen before?</cell>
-                </row>
-                <row halign="left">
-               <cell>2. Can you draw a valid Lewis structure of it?</cell>
-                </row>
-                <row halign="left">
-               <cell>3. Are the negative charges (if any) on an electronegative atom like oxygen, sulfur, or halogen?</cell>
-                </row>
-                <row halign="left" bottom="minor">
-               <cell>4. Are the positive charges (if any) on a nitrogen (or rarely on an oxygen)?</cell>
-                </row>
-                
+                <cell>1. Is it something you've seen before?</cell>
+            </row>
+
+            <row halign="left">
+                <cell>2. Can you draw a valid Lewis structure of it?</cell>
+            </row>
+
+            <row halign="left">
+                <cell>
+                    3.
+                    Are the negative charges (if any) on an electronegative atom
+                    like oxygen, sulfur, or halogen?
+                </cell>
+            </row>
+
+            <row halign="left" bottom="minor">
+                <cell>
+                    4.
+                    Are the positive charges (if any) on a nitrogen (or rarely
+                    on an oxygen)?
+                </cell>
+            </row>
         </tabular>
     </table>
-  
+
     <exercises>
         <title>Exercises</title>
 
@@ -133,7 +153,7 @@
 
                 <answer>
                     <p>
-                        <m>HCl</m> and <m>Cl^-</m> ; yes
+                        <m>HCl</m> and <m>Cl^-</m>; yes
                     </p>
                 </answer>
             </exercise>
@@ -175,7 +195,7 @@
 
                 <answer>
                     <p>
-                        <m>O^{2-}</m> and <m>OH^-</m> ; yes
+                        <m>O^{2-}</m> and <m>OH^-</m>; yes
                     </p>
                 </answer>
             </exercise>
@@ -189,7 +209,7 @@
 
                 <answer>
                     <p>
-                        <m>H_3O^+</m> and <m>OH^-</m> ; no
+                        <m>H_3O^+</m> and <m>OH^-</m>; no
                     </p>
                 </answer>
             </exercise>
@@ -203,7 +223,7 @@
 
                 <answer>
                     <p>
-                        <m>NH_3</m> and <m>NH_4^+</m> ; yes
+                        <m>NH_3</m> and <m>NH_4^+</m>; yes
                     </p>
                 </answer>
             </exercise>
