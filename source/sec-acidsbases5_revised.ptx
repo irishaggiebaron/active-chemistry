@@ -118,7 +118,7 @@
 		So <m>[H_3O^+] = \sqrt{1} \times 10^{-14} = 1 \times 10^{-7}\,\text{M}</m>
 	</p>
 	<exercises>
-		<title>Exercise 1</title>
+		<title>Exercises</title>
 
 		<exercisegroup>
 			<introduction>
@@ -135,7 +135,7 @@
 				</statement>
 
 				<answer>
-					<me>Ca(OH)_2\,\text{(s)} + 2H_2O\,\text{(l)} \rightarrow Ca(OH)_2\,\text{(aq)} + 2H_2O\,\text{(l)}</me>
+					<me>Ca\textcolor{blue}{(OH)_2}\,\text{(s)} + \textcolor{red}{2H_2O}\,\text{(l)} \rightarrow Ca\textcolor{red}{(OH)_2}\,\text{(aq)} + 2\textcolor{red}{H}\textcolor{blue}{(OH)_2}\,\text{(l)}</me>
 				</answer>
 			</exercise>
 
