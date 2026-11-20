@@ -69,22 +69,25 @@
         <title>Rules for recognizing acids and bases</title>
         <tabular>
             <row halign="center" bottom="major">
-                <cell>Tips for recognizing an acid</cell>
+                <cell right="major">Tips for recognizing an acid</cell>
                 <cell>Tips for recognizing a base</cell>
 
             </row>
             <row halign="center">
-                <cell>Acids must have an <m>H^+</m>*</cell>
+                <cell right="major">Acids must have an <m>H^+</m>*</cell>
 <cell>Bases must have a lone pair of electrons</cell>
                 </row>
                 <row halign="center">
-                    <cell>Compounds with a + charge are often acids</cell>
+                    <cell right="major">Compounds with a + charge are often acids</cell>
                     <cell>Compounds with a - charge are often bases</cell>
 
                 </row>
-                <row halign="center">
-                    <cell>The conjugate base must be stable</cell>
+                <row halign="center" bottom="minor">
+                    <cell right="major">The conjugate base must be stable</cell>
                     <cell>The conjugate acid must be stable</cell>
+                </row>
+                <row halign="left" bottom="minor">
+               <cell>*There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.?</cell>
                 </row>
         </tabular>
     </table>
@@ -103,12 +106,10 @@
                 <row halign="left">
                <cell>3. Are the negative charges (if any) on an electronegative atom like oxygen, sulfur, or halogen?</cell>
                 </row>
-                <row halign="left">
+                <row halign="left" bottom="minor">
                <cell>4. Are the positive charges (if any) on a nitrogen (or rarely on an oxygen)?</cell>
                 </row>
-                <row halign="left">
-               <cell>*There are acids without hydrogen atoms, called Lewis acids.  We will not cover these in this course.?</cell>
-                </row>
+                
         </tabular>
     </table>
   
