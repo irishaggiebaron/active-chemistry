@@ -10429,57 +10429,57 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "11.6",
   "title": "Neutralization reactions for monoprotic acids and bases",
-  "body": " Neutralization reactions for monoprotic acids and bases  The other class of reaction that we've seen before in this chapter is a neutralization reaction. Here we'll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:   Ionic equation:   Net ionic equation:   Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:   Steps to writing a neutralization reaction:     Identify the acid and the base    Strong acids will always be the acid and strong bases will always be the base    In reactions between a weak acid and a weak base, the acid and base will have to be specified      Break the reactants into their ions    Separate strong acids into and the accompanying anion    Separate strong bases into the cation and     Covalent compounds do not separate into ions    Example: is a covalent compound and thus won't break apart into ions.There is no hydroxide it can lose.      If the acid is a polyatomic ion (ie. one of the polyatomic ions with “hydrogen” in the name) then break off the ion    Example: breaks into and if it is acting as an acid      If a polyatomic ion is a base, don't do anything to it yet.      React the acid and the base     and will combine together (if present) to form water    If hydroxide isn't present, transfer the to whatever base is in the reaction      Look at what ions you have left over (and what new ion you may have formed)    If you're being asked for an ionic equation, write these ions in the products    If you're being asked for a net ionic equation, delete any ions that didn't change in the reaction    If you're being asked for the chemical equation, combine the ions together to form ionic compounds       To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid ( ) to react with the base ( ) to form water. This results in ions being left over (the spectator ions). Those ions can then be...     Combined together to form ionic compounds, giving us the chemical equation,    Left alone as separate ions, forming the ionic equation, or    Deleted in both the reactants and products to form the net ionic equation.     Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia ( ), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won't split into ions in the first step. See the example below:  If we react with , after step one, we’d have + + . At this point the acidic ion will react with the basic to form . The product would then contain and the left over . We can then write the equation in the following ways:  Ionic equation:   Net ionic equation (get rid of the chloride spectator ion):   Chemical equation (combine the ions in the products together to make a compound):   What if the base is a polyatomic ion, like hydrogen carbonate. Then, just like ammonia, it will not dissociate (because there is no hydroxide that it can lose). It will instead combine with the hydrogen ion to form a new substance. See the example below:  If we react with , after step one, we’d have + + + . In step 2, the is identified as the acid since it has an ion; therefore the sodium dihydrogen phosphate must be the base. At this point the acidic ion will react with the basic to form . This leaves a left over + . We can then write the equation in the following ways:  Ionic equation:   Net ionic equation (get rid of the spectator ions):   Chemical equation (combine the ions in the products together to make a compound):   As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its . See the example below:  Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide.  1. Start by writing the formulas of the compounds and then breaking them apart into their ions Sodium hydrogen phosphate: and Potassium hydroxide: and 2. The base is the potassium hydroxide, thus the hydrogen phosphate is acting as an acid. It must be further broken apart into and . 3. React the acid and the base. In this case we have and that will combine to form water. This leaves behind , , and . 4. We can now write the ionic equation, net ionic equation,   and chemical equation   (note the strange ionic compound in the product with two different cations...that’s okay!...also their order in the formula doesn’t matter)   Exercise 1    Write an ionic equation, net ionic equation, and chemical equation for the following reactions:     Potassium hydroxide and hydrobromic acid      Nitric acid and sodium hydroxide      Ammonia and hydroiodic acid      Potassium hydroxide and potassium hydrogen carbonate      Nitric acid and sodium hydrogen carbonate      Ammonia and sodium hydrogen carbonate      "
+  "body": " Neutralization reactions for monoprotic acids and bases  The other class of reaction that we've seen before in this chapter is a neutralization reaction. Here we'll cover it in more detail. If the neutralization reaction is between a strong acid and strong base, then the products will be water and a salt as shown in the equations below:  Chemical equation:   Ionic equation:   Net ionic equation:   Any neutralization reaction involving a strong acid reacting with a strong base will have an ionic equation of:    Steps to writing a neutralization reaction     Identify the acid and the base    Strong acids will always be the acid and strong bases will always be the base    In reactions between a weak acid and a weak base, the acid and base will have to be specified      Break the reactants into their ions    Separate strong acids into and the accompanying anion    Separate strong bases into the cation and     Covalent compounds do not separate into ions    Example: is a covalent compound and thus won't break apart into ions.There is no hydroxide it can lose.      If the acid is a polyatomic ion (ie. one of the polyatomic ions with “hydrogen” in the name) then break off the ion    Example: breaks into and if it is acting as an acid      If a polyatomic ion is a base, don't do anything to it yet.      React the acid and the base     and will combine together (if present) to form water    If hydroxide isn't present, transfer the to whatever base is in the reaction      Look at what ions you have left over (and what new ion you may have formed)    If you're being asked for an ionic equation, write these ions in the products    If you're being asked for a net ionic equation, delete any ions that didn't change in the reaction    If you're being asked for the chemical equation, combine the ions together to form ionic compounds        To write a neutralization reaction, like we just did above, we first split acid and base into their ions. Then we allowed the acid ( ) to react with the base ( ) to form water. This results in ions being left over (the spectator ions). Those ions can then be...     Combined together to form ionic compounds, giving us the chemical equation,    Left alone as separate ions, forming the ionic equation, or    Deleted in both the reactants and products to form the net ionic equation.     Neutralization reactions can follow slightly different patterns when the base is NOT hydroxide. For instance, if the base is ammonia ( ), then we need to first recognize that this is a covalent compound, not an ionic compound. Thus it won't split into ions in the first step. See the example below:   Neutralization reaction involving a covalent compound  If we react with , we should first recognize that is a strong acid and therefore the must be the base.  We should then separate the ions, keeping in mind that ammonia is a covalent compound. This gives us: + + .  At this point the acidic ion will react with the basic to form . The product would then contain and the left over .  We can then write the equation in the following ways:  Ionic equation:   Net ionic equation (get rid of the chloride spectator ion):   Chemical equation (combine the ions in the products together to make a compound):    What if the base is a polyatomic ion, like hydrogen carbonate. Then, just like ammonia, it will not dissociate (because there is no hydroxide that it can lose). It will instead combine with the hydrogen ion to form a new substance. See the example below:   Neutralization reaction involving a basic polyatomic ion  Write a neutralization reaction for the reaction between and .  We should first recognize the is a strong acid and thus will be the base. They should then be separated into their ions. The breaks apart into + . The breaks apart into + .  At this point the acidic ion will react with the basic to form . This leaves a left over + .  We can then write the equation in the following ways:  Ionic equation:   Net ionic equation (get rid of the spectator ions):   Chemical equation (combine the ions in the products together to make a compound):    As a final nuance, we can also have cases where polyatomic ions can act as acids. In those cases, the polyatomic ion will have “hydrogen” as a part of its name. This hydrogen will be lost to the base. Therefore, this polyatomic ion must be broken apart by losing its . See the example below:   Neutralization reaction involving an acidic polyatomic ion  Write a chemical equation, ionic equation, and net ionic equation for the reaction between sodium hydrogen phosphate and potassium hydroxide.  We first should recognize that is a strong base, meaning that will be the acid.  We should then break then apart into their ions. Sodium hydrogen phosphate becomes and . Potassium hydroxide becomes and . Since the acid is a polyatomic ion, it must be further broken apart into and .  We should then react the acid and the base. The and that will combine to form water. This leaves behind , , and .  We can now write the ionic equation:     Net ionic equation:    And chemical equation:     (note the strange ionic compound in the product with two different cations...that's okay!...also their order in the formula doesn't matter)    Exercise 1    Write an ionic equation, net ionic equation, and chemical equation for the following reactions:     Potassium hydroxide and hydrobromic acid      Nitric acid and sodium hydroxide      Ammonia and hydroiodic acid      Potassium hydroxide and potassium hydrogen carbonate      Nitric acid and sodium hydrogen carbonate      Ammonia and sodium hydrogen carbonate      "
 },
 {
-  "id": "sec-acidsbases6-36-2-2",
+  "id": "sec-acidsbases6-20-2-2",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-36-2-2",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20-2-2",
   "type": "Exercise",
   "number": "11.6.1",
   "title": "",
   "body": "  Potassium hydroxide and hydrobromic acid   "
 },
 {
-  "id": "sec-acidsbases6-36-2-3",
+  "id": "sec-acidsbases6-20-2-3",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-36-2-3",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20-2-3",
   "type": "Exercise",
   "number": "11.6.2",
   "title": "",
   "body": "  Nitric acid and sodium hydroxide   "
 },
 {
-  "id": "sec-acidsbases6-36-2-4",
+  "id": "sec-acidsbases6-20-2-4",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-36-2-4",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20-2-4",
   "type": "Exercise",
   "number": "11.6.3",
   "title": "",
   "body": "  Ammonia and hydroiodic acid   "
 },
 {
-  "id": "sec-acidsbases6-36-2-5",
+  "id": "sec-acidsbases6-20-2-5",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-36-2-5",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20-2-5",
   "type": "Exercise",
   "number": "11.6.4",
   "title": "",
   "body": "  Potassium hydroxide and potassium hydrogen carbonate   "
 },
 {
-  "id": "sec-acidsbases6-36-2-6",
+  "id": "sec-acidsbases6-20-2-6",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-36-2-6",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20-2-6",
   "type": "Exercise",
   "number": "11.6.5",
   "title": "",
   "body": "  Nitric acid and sodium hydrogen carbonate   "
 },
 {
-  "id": "sec-acidsbases6-36-2-7",
+  "id": "sec-acidsbases6-20-2-7",
   "level": "2",
-  "url": "sec-acidsbases6.html#sec-acidsbases6-36-2-7",
+  "url": "sec-acidsbases6.html#sec-acidsbases6-20-2-7",
   "type": "Exercise",
   "number": "11.6.6",
   "title": "",
