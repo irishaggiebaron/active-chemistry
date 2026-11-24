@@ -46,10 +46,9 @@
 	<me>
 		H^+\,\text{(aq)} + OH^-\,\text{(aq)} \rightarrow H_2O\,\text{(l)}
 	</me>
+<assemblage>
+	<title>Steps to writing a neutralization reaction</title>
 
-	<p>
-		Steps to writing a neutralization reaction:
-	</p>
 
 	<p>
 		<ol>
@@ -170,7 +169,7 @@
 		</ol>
 	
 	</p>
-
+</assemblage>
 	<p>
 		To write a neutralization reaction, like we just did above, we first split
 		acid and base into their ions.
@@ -209,15 +208,18 @@
 		Thus it won't split into ions in the first step.
 		See the example below:
 	</p>
-
+<assemblage>
+	<title>Neutralization reaction involving a covalent compound</title>
+	
 	<p>
-		If we react <m>NH_3\,\text{(aq)}</m> with <m>HCl\,\text{(aq)}</m>, after step
-		one, we’d have <m>NH_3\,\text{(aq)}</m> + <m>H^+\,\text{(aq)}</m> +
-		<m>Cl^-\,\text{(aq)}</m>.
-		At this point the acidic <m>H^+</m> ion will react with the basic <m>NH_3</m>
+		If we react <m>NH_3\,\text{(aq)}</m> with <m>HCl\,\text{(aq)}</m>, we should first recognize that <m>HCl</m> is a strong acid and therefore the <m>NH_3}</m> must be the base.  </p> 
+		<p>We should then separate the ions, keeping in mind that ammonia is a covalent compound.  This gives us: <m>NH_3\,\text{(aq)}</m> + <m>H^+\,\text{(aq)}</m> +
+		<m>Cl^-\,\text{(aq)}</m>.</p>
+<p>		At this point the acidic <m>H^+</m> ion will react with the basic <m>NH_3</m>
 		to form <m>NH_4^+</m>.
 		The product would then contain <m>NH_4^+\,\text{(aq)}</m> and the left over
-		<m>Cl^-\,\text{(aq)}</m>.
+		<m>Cl^-\,\text{(aq)}</m>.</p>
+		<p>
 		We can then write the equation in the following ways:
 	</p>
 
@@ -242,7 +244,7 @@
 	<me>
 		NH_3\,\text{(aq)} + HCl\,\text{(aq)} \rightarrow NH_4Cl\,\text{(aq)}
 	</me>
-
+</assemblage>
 	<p>
 		What if the base is a polyatomic ion, like hydrogen carbonate.
 		Then, just like ammonia, it will not dissociate (because there is no hydroxide
@@ -250,16 +252,21 @@
 		It will instead combine with the hydrogen ion to form a new substance.
 		See the example below:
 	</p>
-
+<assemblage>
+	<title>Neutralization reaction involving a basic polyatomic ion</title>
+	
 	<p>
-		If we react <m>NaHSO_4\,\text{(aq)}</m>with <m>HCl\,\text{(aq)}</m>, after
-		step one, we’d have <m>Na^+\,\text{(aq)}</m> + <m>H_2PO_4^-\,\text{(aq)}</m> +
-		<m>H^+\,\text{(aq)}</m> + <m>Cl^-\,\text{(aq)}</m>.
-		In step 2, the <m>HCl</m> is identified as the acid since it has an <m>H^+</m>
-		ion; therefore the sodium dihydrogen phosphate must be the base.
+		Write a neutralization reaction for the reaction between <m>NaHCO_3\,\text{(aq)}</m> and <m>HCl\,\text{(aq)}</m>.
+		</p>
+		<p>We should first recognize the <m>HCl</m> is a strong acid and thus <m>NaHCO_3</m> will be the base.  They should then be separated into their ions.  The <m>NaHCO_3</m> breaks apart into <m>Na^+</m> + <m>HCO_3^-</m>.  The <m>HCl</m> breaks apart into
+		<m>H^+}</m> + <m>Cl^-}</m>.</p>
+		<p>
 		At this point the acidic <m>H^+</m> ion will react with the basic
-		<m>H_2PO_4^-</m> to form <m>H_3PO_4</m>.
+		<m>HCO_3^-</m> to form <m>H_2CO_3</m>.
 		This leaves a left over <m>Na^+\,\text{(aq)}</m> + <m>Cl^-\,\text{(aq)}</m>.
+		</p>
+		<p>
+			
 		We can then write the equation in the following ways:
 	</p>
 
@@ -267,14 +274,14 @@
 		Ionic equation:
 	</p>
 	<me>
-		Na^+\,\text{(aq)} + H_2PO_4^-\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow H_3PO_4\,\text{(aq)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
+		Na^+\,\text{(aq)} + H_CO_3^-\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
 	</me>
 
 	<p>
 		Net ionic equation (get rid of the spectator ions):
 	</p>
 	<me>
-		H_2PO_4^-\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow H_3PO_4\,\text{(aq)}
+		HCO_3^-\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)}
 	</me>
 
 	<p>
@@ -282,9 +289,9 @@
 		compound):
 	</p>
 	<me>
-		NaH_2PO_4\,\text{(aq)} + HCl\,\text{(aq)} \rightarrow H_3PO_4\,\text{(aq)} + NaCl\,\text{(aq)}
+		NaHCO_3\,\text{(aq)} + HCl\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + NaCl\,\text{(aq)}
 	</me>
-
+</assemblage>
 	<p>
 		As a final nuance, we can also have cases where polyatomic ions can act as
 		acids.
@@ -293,6 +300,8 @@
 		Therefore, this polyatomic ion must be broken apart by losing its <m>H^+</m>.
 		See the example below:
 	</p>
+<assemblage>
+	<title>Neutralization reaction involving an acidic polyatomic ion</title>
 
 	<p>
 		Write a chemical equation, ionic equation, and net ionic equation for the
@@ -300,35 +309,37 @@
 	</p>
 
 	<p>
-		1.
-		Start by writing the formulas of the compounds and then breaking them apart
-		into their ions Sodium hydrogen phosphate: <m>2Na^+\,\text{(aq)}</m> and
-		<m>HPO_4^{2-}\,\text{(aq)}</m> Potassium hydroxide: <m>K^+\,\text{(aq)}</m>
-		and <m>OH^-\,\text{(aq)}</m> 2.
-		The base is the potassium hydroxide, thus the hydrogen phosphate is acting as
-		an acid.
-		It must be further broken apart into <m>H^+</m> and <m>PO_4^{3-}</m>.
-		3.
-		React the acid and the base.
-		In this case we have <m>H^+</m> and <m>OH^-</m> that will combine to form
+		We first should recognize that <m>KOH</m> is a strong base, meaning that <m>Na_2HPO_4</m> will be the acid.
+		</p>
+		<p>We should then break then apart
+		into their ions. Sodium hydrogen phosphate becomes <m>2Na^+\,\text{(aq)}</m> and
+		<m>HPO_4^{2-}\,\text{(aq)}</m>. Potassium hydroxide becomes  <m>K^+\,\text{(aq)}</m>
+		and <m>OH^-\,\text{(aq)}</m>.
+		Since the acid is a polyatomic ion, it must be further broken apart into <m>H^+</m> and <m>PO_4^{3-}</m>.
+		</p>
+<p>We should then react the acid and the base.  The <m>H^+</m> and <m>OH^-</m> that will combine to form
 		water.
 		This leaves behind <m>2Na^+</m>, <m>K^+</m>, and <m>PO_4^{3-}</m>.
-		4.
-		We can now write the ionic equation,
+		</p>
+<p>		We can now write the ionic equation:</p>
+	<p>
+		
 		<m>K^+\,\text{(aq)} + OH^-\,\text{(aq)} + 2Na^+\,\text{(aq)} + H^+\,\text{(aq)} + PO_4^{3-}\,\text{(aq)} \rightarrow H_2O\,\text{(l)} + 2Na^+\,\text{(aq)} + K^+\,\text{(aq)} + PO_4^{3-}\,\text{(aq)}</m>
-		net ionic equation,
-	</p>
+		</p>
+<p>		Net ionic equation:</p>
 
 	<p>
-		<m>OH^-\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow H_2O\,\text{(l)}</m> and
-		chemical equation
-		<m>KOH\,\text{(aq)} + Na_2HPO_4\,\text{(aq)} \rightarrow H_2O\,\text{(l)} + Na_2KPO_4\,\text{(aq)}</m>
+		<m>OH^-\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow H_2O\,\text{(l)}</m></p>
+		<p> And
+		chemical equation: </p>
+<p>		<m>KOH\,\text{(aq)} + Na_2HPO_4\,\text{(aq)} \rightarrow H_2O\,\text{(l)} + Na_2KPO_4\,\text{(aq)}</m>
 	</p>
 
 	<p>
 		(note the strange ionic compound in the product with two different
-		cations...that’s okay!...also their order in the formula doesn’t matter)
+		cations...that's okay!...also their order in the formula doesn't matter)
 	</p>
+	</assemblage>
 
 	<exercises>
 		<title>Exercise 1</title>
