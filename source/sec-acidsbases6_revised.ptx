@@ -277,24 +277,27 @@
 	<p>
 		Ionic equation:
 	</p>
+	<p>
 	<me>
 		Na^+\,\text{(aq)} + H_CO_3^-\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
 	</me>
-
+</p>
 	<p>
 		Net ionic equation (get rid of the spectator ions):
 	</p>
+<p>
+	
 	<me>
 		HCO_3^-\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)}
 	</me>
-
+</p>
 	<p>
 		Chemical equation (combine the ions in the products together to make a
 		compound):
 	</p>
-	<me>
+	<p><me>
 		NaHCO_3\,\text{(aq)} + HCl\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + NaCl\,\text{(aq)}
-	</me>
+	</me></p>
 </assemblage>
 	<p>
 		As a final nuance, we can also have cases where polyatomic ions can act as
@@ -346,7 +349,7 @@
 	</assemblage>
 
 	<exercises>
-		<title>Exercise 1</title>
+		<title>Exercises</title>
 
 		<exercisegroup>
 			<introduction>
