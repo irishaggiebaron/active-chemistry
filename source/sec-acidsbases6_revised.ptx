@@ -20,32 +20,35 @@
 
 	<p>
 		Chemical equation:
-	</p>
-	<me>
+	</p><p>
+	<m>
 		HCl\,\text{(aq)} + NaOH\,\text{(aq)} \rightarrow H_2O\,\text{(l)} + NaCl\,\text{(aq)}
-	</me>
-
+	</m>
+</p>
 	<p>
 		Ionic equation:
-	</p>
-	<me>
+	</p><p>
+	<m>
 		H^+\,\text{(aq)} + Cl^-\,\text{(aq)} + Na^+\,\text{(aq)} + OH^-\,\text{(aq)} \rightarrow H_2O\,\text{(l)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
-	</me>
+	</m></p>
 
 	<p>
 		Net ionic equation:
 	</p>
-	<me>
+	<p>
+	<m>
 		H^+\,\text{(aq)} + OH^-\,\text{(aq)} \rightarrow H_2O\,\text{(l)}
-	</me>
-
+	</m>
+</p>
 	<p>
 		Any neutralization reaction involving a strong acid reacting with a strong
 		base will have an ionic equation of:
 	</p>
-	<me>
+	<p>
+	<m>
 		H^+\,\text{(aq)} + OH^-\,\text{(aq)} \rightarrow H_2O\,\text{(l)}
-	</me>
+	</m>
+	</p>
 <assemblage>
 	<title>Steps to writing a neutralization reaction</title>
 
@@ -227,26 +230,26 @@
 		Ionic equation:
 	</p>
 	<p>
-	<me>
+	<m>
 		NH_3\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow NH_4^+\,\text{(aq)} + Cl^-\,\text{(aq)}
-	</me>
+	</m>
 </p>
 	<p>
 		Net ionic equation (get rid of the chloride spectator ion):
 	</p>
 	<p>
-	<me>
+	<m>
 		NH_3\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow NH_4^+\,\text{(aq)}
-	</me>
+	</m>
 </p>
 	<p>
 		Chemical equation (combine the ions in the products together to make a
 		compound):
 	</p>
 	<p>
-	<me>
+	<m>
 		NH_3\,\text{(aq)} + HCl\,\text{(aq)} \rightarrow NH_4Cl\,\text{(aq)}
-	</me>
+	</m>
 	</p>
 </assemblage>
 	<p>
@@ -278,26 +281,26 @@
 		Ionic equation:
 	</p>
 	<p>
-	<me>
+	<m>
 		Na^+\,\text{(aq)} + HCO_3^-\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
-	</me>
+	</m>
 </p>
 	<p>
 		Net ionic equation (get rid of the spectator ions):
 	</p>
 <p>
 	
-	<me>
+	<m>
 		HCO_3^-\,\text{(aq)} + H^+\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)}
-	</me>
+	</m>
 </p>
 	<p>
 		Chemical equation (combine the ions in the products together to make a
 		compound):
 	</p>
-	<p><me>
+	<p><m>
 		NaHCO_3\,\text{(aq)} + HCl\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + NaCl\,\text{(aq)}
-	</me></p>
+	</m></p>
 </assemblage>
 	<p>
 		As a final nuance, we can also have cases where polyatomic ions can act as
@@ -367,9 +370,9 @@
 				</statement>
 				<answer>
 					<p>
-						Ionic equation: <me>K^+\; \text{(aq)}\; +\; OH^-\; \text{(aq)}\; +\; H^+\; \text{(aq)}\; + Br^-\; \text{(aq)}\; \rightarrow\; H_2O\; \text{(l)}\; +\; K^+\; \text{(aq)}\; +\; Br^-\; \text{(aq)}</me>
-						Net-ionic equation: <me>OH^-\; \text{(aq)}\; +\; H^+\; \text{(aq)}\; \rightarrow\; H_2O\; \text{(l)}</me>
-						Chemical equation: <me>KOH\; \text{(aq)}\; +\; HBr\; \text{(aq)}\; \rightarrow\; H_2O\; /text{(l)}\; +\; KBr\; \text{(aq)}</me>
+						Ionic equation: </p><p><m>K^+\; \text{(aq)}\; +\; OH^-\; \text{(aq)}\; +\; H^+\; \text{(aq)}\; + Br^-\; \text{(aq)}\; \rightarrow\; H_2O\; \text{(l)}\; +\; K^+\; \text{(aq)}\; +\; Br^-\; \text{(aq)}</m></p>
+						<p>Net-ionic equation:</p><p> <m>OH^-\; \text{(aq)}\; +\; H^+\; \text{(aq)}\; \rightarrow\; H_2O\; \text{(l)}</m></p>
+						<p>Chemical equation:</p><p> <m>KOH\; \text{(aq)}\; +\; HBr\; \text{(aq)}\; \rightarrow\; H_2O\; /text{(l)}\; +\; KBr\; \text{(aq)}</m>
 					</p>
 				</answer>
 			</exercise>
