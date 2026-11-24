@@ -279,7 +279,7 @@
 	</p>
 	<p>
 	<me>
-		Na^+\,\text{(aq)} + H_CO_3^-\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
+		Na^+\,\text{(aq)} + HCO_3^-\,\text{(aq)} + H^+\,\text{(aq)} + Cl^-\,\text{(aq)} \rightarrow H_2CO_3\,\text{(aq)} + Na^+\,\text{(aq)} + Cl^-\,\text{(aq)}
 	</me>
 </p>
 	<p>
@@ -367,9 +367,9 @@
 				</statement>
 				<answer>
 					<p>
-						Ionic equation: <me>K^+\; (aq)\; +\; OH^-\; (aq)\; H^+\; (aq)\; + Br^-\; \rightarrow\; H_2O\; (l)\; +\; K^+\; (aq)\; +\; Br^-\; (aq)</me>
-						Net-ionic equation: <me>OH^-\; (aq)\; H^+\; (aq)\; \rightarrow\; H_2O\; (l)</me>
-						Chemical equation: <me>KOH\; (aq)\; +\; HBr\; (aq)\; \rightarrow\; H_2O\; (l)\; +\; KBr\; (aq)</me>
+						Ionic equation: <me>K^+\; \text{(aq)}\; +\; OH^-\; \text{(aq)}\; +\; H^+\; \text{(aq)}\; + Br^-\; \text{(aq)}\; \rightarrow\; H_2O\; \text{(l)}\; +\; K^+\; \text{(aq)}\; +\; Br^-\; \text{(aq)}</me>
+						Net-ionic equation: <me>OH^-\; \text{(aq)}\; +\; H^+\; \text{(aq)}\; \rightarrow\; H_2O\; \text{(l)}</me>
+						Chemical equation: <me>KOH\; \text{(aq)}\; +\; HBr\; \text{(aq)}\; \rightarrow\; H_2O\; /text{(l)}\; +\; KBr\; \text{(aq)}</me>
 					</p>
 				</answer>
 			</exercise>
